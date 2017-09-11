@@ -1,1 +1,1 @@
-# cs
+# Czech OmegaT Localisation
