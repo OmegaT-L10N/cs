@@ -134,6 +134,22 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181023Z" creationid="Josef" creationdate="20180317T181023Z">
+        <seg>„\.“ zastupuje znak tečky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181024Z" creationid="Josef" creationdate="20180317T181024Z">
+        <seg>„\.“ znamená znak „.“ „\s“ znamená jakýkoliv netisknutelný znak (mezera, tabulátor, nová stránka, atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"keep intact all notices".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T175935Z" creationid="Josef" creationdate="20180317T175935Z">
@@ -194,6 +210,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180418Z" creationid="Josef" creationdate="20180317T180418Z">
         <seg>#N představuje číslici od 1 do 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180803Z" creationid="Josef" creationdate="20180317T180803Z">
+        <seg>$</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,6 +1528,22 @@ znak '?'  představuje přesně jeden znak ('run?' najde 'runs' a 'rung', ale ne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180909Z" creationid="Josef" creationdate="20180317T180909Z">
+        <seg>‚*‘ reprezentuje nula nebo více znaků, počítá se od aktuální pozice v daném slově po jeho konec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'?' matches any single character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180910Z" creationid="Josef" creationdate="20180317T180910Z">
+        <seg>‚?‘ reprezentuje jeden znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101847Z" creationid="Josef" creationdate="20180317T101847Z">
@@ -1532,6 +1572,14 @@ znak '?'  představuje přesně jeden znak ('run?' najde 'runs' a 'rung', ale ne
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101910Z" creationid="Josef" creationdate="20180317T101910Z">
         <seg>(více +{0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180657Z" creationid="Josef" creationdate="20180317T180657Z">
+        <seg>(?i)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,11 +1623,27 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180831Z" creationid="Josef" creationdate="20180317T180831Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101932Z" creationid="Josef" creationdate="20180317T101932Z">
         <seg>(Stále bude možno použít OmegaT 3.6 k úpravám tohoto projektu jakožto týmového projektu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180840Z" creationid="Josef" creationdate="20180317T180840Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,10 +2016,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180656Z" creationid="Josef" creationdate="20180317T180656Z">
+        <seg>... znamená:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163801Z" creationid="Josef" creationdate="20180317T163801Z">
         <seg>... ale stejné znaky v okně Editoru jsou zobrazeny správě: koncovka a kódování si neodpovídají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180720Z" creationid="Josef" creationdate="20180317T180720Z">
+        <seg>... znamená:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,10 +2419,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181005Z" creationid="Josef" creationdate="20180317T181005Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; nejprve zpracuje text pomocí segmentace na úrovni struktur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180559Z" creationid="Josef" creationdate="20180317T180559Z">
         <seg>Ve výchozím nastavení má &lt;a0&gt;OmegaT&lt;/a0&gt; k dispozici následující krátký seznam, aby tak bylo jednodušší zpracovávat některé prosté textové soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181001Z" creationid="Josef" creationdate="20180317T181001Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; nabízí dva způsoby segmentace textu: segmentace podle odstavců nebo segmentace na úrovni vět (také zvaná jako „rule-based segmentation“).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,6 +2503,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165943Z" creationid="Josef" creationdate="20180317T165943Z">
         <seg>Uživatelé &lt;a0&gt;OmegaT&lt;/a0&gt; a Google Překladač</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181004Z" creationid="Josef" creationdate="20180317T181004Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; používá následující sled kroků:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2707,6 +2811,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180858Z" creationid="Josef" creationdate="20180317T180858Z">
+        <seg>&lt;e0&gt;Zavřít&lt;/e0&gt;: zavře okno bez jakýchkoliv změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134009Z" creationid="Josef" creationdate="20180317T134009Z">
@@ -2727,6 +2839,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103408Z" creationid="Josef" creationdate="20180317T103408Z">
         <seg>&lt;e0&gt;Slovníky, Glosáře&lt;/e0&gt;, &lt;e1&gt;Strojový překlad&lt;/e1&gt; a &lt;e2&gt;Kontrola pravopisu, kontrola stylu a gramatiky „LanguageTool“:&lt;/e2&gt; OmegaT podporuje široké užití slovníků a glosářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180923Z" creationid="Josef" creationdate="20180317T180923Z">
+        <seg>&lt;e0&gt;Zobrazit: všechny shodující se segmenty: &lt;/e0&gt;pokud je tato možnost označena, všechny segmenty jsou zobrazeny jedna ku jedné, a to i kdyby byly přítomny několikrát v tom samém dokumentu nebo v různých dokumentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180924Z" creationid="Josef" creationdate="20180317T180924Z">
+        <seg>&lt;e0&gt;Zobrazit: názvy souborů: &lt;/e0&gt;pokud j označeno, nad výsledkem se zobrazí název souboru, kde byl daný segment nalezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,10 +3132,42 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180857Z" creationid="Josef" creationdate="20180317T180857Z">
+        <seg>&lt;e0&gt;Nahradit vše&lt;/e0&gt;: provede náhradu všech výskytů (po zobrazení potvrzujícího hlášení, kde se zobrazí počet výskytů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180857Z" creationid="Josef" creationdate="20180317T180857Z">
+        <seg>&lt;e0&gt;Nahradit&lt;/e0&gt;: provede náhradu „jedna ku jedné“ prostřednictvím tlačítek, která se zobrazí v &lt;e1&gt;záhlaví podokna Editoru&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180537Z" creationid="Josef" creationdate="20180317T180537Z">
         <seg>&lt;e0&gt;Ukázkový text:&lt;/e0&gt; v tomto políčku bezprostředně uvidíte ukázku vybraného písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180932Z" creationid="Josef" creationdate="20180317T180932Z">
+        <seg>&lt;e0&gt;Prohledat Soubory: &lt;/e0&gt;prohledává se buď jeden soubor nebo adresář obsahující více souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180924Z" creationid="Josef" creationdate="20180317T180924Z">
+        <seg>&lt;e0&gt;Prohledat Projekt&lt;/e0&gt;: označením &lt;e1&gt;Paměť&lt;/e1&gt; bude do vyhledávání zahrnuta projektová paměť (soubor project_save.tmx).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3052,6 +3212,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180920Z" creationid="Josef" creationdate="20180317T180920Z">
+        <seg>&lt;e0&gt;Shody mezer nbsp&lt;/e0&gt;: když je označena tato možnost, pak mezera vložená do hledacího políčka může odpovídat buď znaku normální mezery nebo znaku nezalomitelné mezery (tj. \u00a).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133957Z" creationid="Josef" creationdate="20180317T133957Z">
@@ -3084,6 +3252,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180922Z" creationid="Josef" creationdate="20180317T180922Z">
+        <seg>&lt;e0&gt;Přeloeno nebo nepřeloženo: &lt;/e0&gt;prohledávají se jak přeložené, tak nepřeložené segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180923Z" creationid="Josef" creationdate="20180317T180923Z">
+        <seg>&lt;e0&gt;Přeloženo: &lt;/e0&gt;prohledává se jen v přeložených segmentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102037Z" creationid="Josef" creationdate="20180317T102037Z">
@@ -3108,6 +3292,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180923Z" creationid="Josef" creationdate="20180317T180923Z">
+        <seg>&lt;e0&gt;Nepřeloženo: &lt;/e0&gt;prohledává se jen v nepřeložených segmentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133701Z" creationid="Josef" creationdate="20180317T133701Z">
@@ -3128,6 +3320,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133943Z" creationid="Josef" creationdate="20180317T133943Z">
         <seg>&lt;e0&gt;Upozornění&lt;/e0&gt; Když změníte nastavení filtrů v době, kdy máte otevřený projekt, pak musíte daný projekt znovu nahrát, aby se žádané změny projevily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181003Z" creationid="Josef" creationdate="20180317T181003Z">
+        <seg>&lt;e0&gt;Upozornění&lt;/e0&gt;: protože po změně možností filtrů bude text segmentován odlišně, je možné, že bude nutné začít překlad zase zcela od začátku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3188,6 +3388,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180920Z" creationid="Josef" creationdate="20180317T180920Z">
+        <seg>&lt;e0&gt;Rozlišovat velikost písmen&lt;/e0&gt;: vyhledávání se týká přesně zadaného řetězce; tj. přihlíží se na velikost písmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133704Z" creationid="Josef" creationdate="20180317T133704Z">
@@ -3208,6 +3416,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133705Z" creationid="Josef" creationdate="20180317T133705Z">
         <seg>&lt;e0&gt;odevzdat / ‚commit‘&lt;/e0&gt;: jakmile je k dispozici nová místní verze materiálu, který je připraven k odeslání, může být odevzdán do úložiště a tím pádem zpřístupněn zbytku týmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180922Z" creationid="Josef" creationdate="20180317T180922Z">
+        <seg>&lt;e0&gt;v komentářích: &lt;/e0&gt;prohledávají se komentáře segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180922Z" creationid="Josef" creationdate="20180317T180922Z">
+        <seg>&lt;e0&gt;V poznámkách&lt;/e0&gt;: prohledávají se poznámky k segmentům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180921Z" creationid="Josef" creationdate="20180317T180921Z">
+        <seg>&lt;e0&gt;Ve zdroji&lt;/e0&gt;: prohledávají se zdrojové segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180921Z" creationid="Josef" creationdate="20180317T180921Z">
+        <seg>&lt;e0&gt;V překladu&lt;/e0&gt;: prohledávají se přeložené segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,6 +5028,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181001Z" creationid="Josef" creationdate="20180317T181001Z">
+        <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Možnosti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Project management shortcuts&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180408Z" creationid="Josef" creationdate="20180317T180408Z">
@@ -4820,10 +5068,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Examples of use&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180833Z" creationid="Josef" creationdate="20180317T180833Z">
+        <seg>&lt;p0&gt;Regulární výrazy&lt;/p0&gt; &lt;s1&gt;Příklady použití&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180630Z" creationid="Josef" creationdate="20180317T180630Z">
         <seg>&lt;p0&gt;Regulární výrazy&lt;/p0&gt; &lt;s1&gt;Segmentace&lt;/s1&gt; &lt;s2&gt;Vyhledávání&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180832Z" creationid="Josef" creationdate="20180317T180832Z">
+        <seg>&lt;p0&gt;Regulární výrazy&lt;/p0&gt; &lt;s1&gt;Nástroje&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5020,6 +5284,86 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Methods and options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180911Z" creationid="Josef" creationdate="20180317T180911Z">
+        <seg>&lt;p0&gt;Vyhledávání&lt;/p0&gt; &lt;s1&gt;Metody a možnosti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Using wild cards&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180908Z" creationid="Josef" creationdate="20180317T180908Z">
+        <seg>&lt;p0&gt;Vyhledávání&lt;/p0&gt; &lt;s1&gt;Použití zástupných znaků&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Creating a new rule&lt;/s1&gt; &lt;s2&gt;Regular expressions&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181015Z" creationid="Josef" creationdate="20180317T181015Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Vytváření nového pravidla&lt;/s1&gt; &lt;s2&gt;Regulární výrazy&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Examples&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181019Z" creationid="Josef" creationdate="20180317T181019Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Příklady&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules priority&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181014Z" creationid="Josef" creationdate="20180317T181014Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Pravidla přednosti&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181008Z" creationid="Josef" creationdate="20180317T181008Z">
+        <seg>&lt;p0&gt;Pravidla segmentace&lt;/p0&gt; &lt;s1&gt;Pravidla&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181010Z" creationid="Josef" creationdate="20180317T181010Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Pravidla&lt;/s1&gt; &lt;t2&gt;Pravidlo zalomení&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181012Z" creationid="Josef" creationdate="20180317T181012Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Pravidla&lt;/s1&gt;&lt;t2&gt;Pravidlo výjimky&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181007Z" creationid="Josef" creationdate="20180317T181007Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Segmentace na úrovni vět&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181004Z" creationid="Josef" creationdate="20180317T181004Z">
+        <seg>&lt;p0&gt;Segmentace&lt;/p0&gt; &lt;s1&gt;Segmentace na úrovni zdroje&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180609Z" creationid="Josef" creationdate="20180317T180609Z">
@@ -5064,6 +5408,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133908Z" creationid="Josef" creationdate="20180317T133908Z">
         <seg>&lt;p0&gt;Klávesové zkratky&lt;/p0&gt; &lt;s1&gt;Vlastnosti projektu - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search - Ctrl+F&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180900Z" creationid="Josef" creationdate="20180317T180900Z">
+        <seg>&lt;p0&gt;Klávesové zkratky&lt;/p0&gt; &lt;s1&gt;Hledat&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180856Z" creationid="Josef" creationdate="20180317T180856Z">
+        <seg>&lt;p0&gt;Klávesové zkratky&lt;/p0&gt; &lt;s1&gt;Najít a nahradit - Ctrl+K&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5508,6 +5868,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180729Z" creationid="Josef" creationdate="20180317T180729Z">
+        <seg>Znak v řecké sadě (jednoduchá &lt;u0&gt;sada&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164047Z" creationid="Josef" creationdate="20180317T164047Z">
@@ -5570,6 +5938,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180732Z" creationid="Josef" creationdate="20180317T180732Z">
+        <seg>Symbol měny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180352Z" creationid="Josef" creationdate="20180317T180352Z">
@@ -5586,10 +5962,42 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180752Z" creationid="Josef" creationdate="20180317T180752Z">
+        <seg>Číslice: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
+        <seg>Pár jednoduchých příkladů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180958Z" creationid="Josef" creationdate="20180317T180958Z">
+        <seg>v souboru nemusí být žádná nalezená shoda, pak bude zobrazen prázdný prostor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163659Z" creationid="Josef" creationdate="20180317T163659Z">
         <seg>V takovém případě se počítá 5 tzv. trestných bodů, pokud odstraněná část neodpovídá jinému segmentu, takže shoda přibližného překladu se neukazuje s hodnotou 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181019Z" creationid="Josef" creationdate="20180317T181019Z">
+        <seg>Dobrým výchozím bodem vždy bude již existující pravidlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,10 +6018,58 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180837Z" creationid="Josef" creationdate="20180317T180837Z">
+        <seg>Malá sbírka užitečných regulárních výrazů se nachází přímo v aplikaci &lt;a0&gt;OmegaT&lt;/a0&gt; (vizte Možnosti &gt; Segmentace).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180754Z" creationid="Josef" creationdate="20180317T180754Z">
+        <seg>Ne-číslice: [^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180757Z" creationid="Josef" creationdate="20180317T180757Z">
+        <seg>Negace bílého znaku (např. ne-mezera): [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word boundary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180806Z" creationid="Josef" creationdate="20180317T180806Z">
+        <seg>Hranice ne-slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180800Z" creationid="Josef" creationdate="20180317T180800Z">
+        <seg>Znak ne-slova: [^\w]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103100Z" creationid="Josef" creationdate="20180317T103100Z">
         <seg>Poznámka je jen komentářem ohledně daného zdrojového textu a překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180833Z" creationid="Josef" creationdate="20180317T180833Z">
+        <seg>Existuje množství interaktivních nástrojů dostupných pro vývoj a testování regulárních výrazů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +6134,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180957Z" creationid="Josef" creationdate="20180317T180957Z">
+        <seg>hledání je omezeno na 1 000 nálezů, tak pokud hledáte nějakou hodně běžnou frázi, editor zobrazí jen těchto 1 000 shodných nálezů a ne všechny položky, které odpovídají kritériím hledání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
 included in conveying the object code work.</seg>
@@ -5726,6 +6190,30 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134059Z" creationid="Josef" creationdate="20180317T134059Z">
         <seg>Příklad překladového projektu je &lt;e0&gt;Example_Project&lt;/e0&gt; vytvořený s výchozími nastaveními bude vytvořen jako nový podadresář s následující strukturou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180756Z" creationid="Josef" creationdate="20180317T180756Z">
+        <seg>Netisknutelný znak (např. mezera): [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180805Z" creationid="Josef" creationdate="20180317T180805Z">
+        <seg>Hranice slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180759Z" creationid="Josef" creationdate="20180317T180759Z">
+        <seg>Znak slova: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,6 +6576,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181018Z" creationid="Josef" creationdate="20180317T181018Z">
+        <seg>Přidejte vzory &lt;e0&gt;Před&lt;/e0&gt; a &lt;e1&gt;Za&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102644Z" creationid="Josef" creationdate="20180317T102644Z">
@@ -6168,6 +6664,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180918Z" creationid="Josef" creationdate="20180317T180918Z">
+        <seg>K nahoře zmíněným metodám můžete přidat následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164104Z" creationid="Josef" creationdate="20180317T164104Z">
@@ -6196,6 +6700,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102050Z" creationid="Josef" creationdate="20180317T102050Z">
         <seg>Afrikánština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
+        <seg>Vzor za</seg>
       </tuv>
     </tu>
     <tu>
@@ -6236,6 +6748,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163653Z" creationid="Josef" creationdate="20180317T163653Z">
         <seg>Po vnoření:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181007Z" creationid="Josef" creationdate="20180317T181007Z">
+        <seg>Po segmentaci zdrojového souboru podle logických jednotek, bude &lt;a0&gt;OmegaT&lt;/a0&gt; dále segmentovat tyto bloky do vět.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6446,6 +6966,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181014Z" creationid="Josef" creationdate="20180317T181014Z">
+        <seg>Všechny sady pravidel segmentace pro odpovídající vzor jazyka jsou použité v daném pořadí priority, takže pravidla pro konkrétní jazyk by měla být vyšší než ta z výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104021Z" creationid="Josef" creationdate="20180317T104021Z">
@@ -6622,6 +7150,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180905Z" creationid="Josef" creationdate="20180317T180905Z">
+        <seg>Nebo vyberte slovo či frázi kdekoliv v podokně Editoru, Přibližné překlady nebo Glosář a stiskněte &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
@@ -6670,6 +7206,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180344Z" creationid="Josef" creationdate="20180317T180344Z">
         <seg>Snažte se najít shodu při psaní velkých a malých písmen zdrojového slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181017Z" creationid="Josef" creationdate="20180317T181017Z">
+        <seg>Ve spodní části horní tabulky se objeví prázdný řádek (abyste jej viděli, budete asi muset srolovat dolů).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +7350,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180913Z" creationid="Josef" creationdate="20180317T180913Z">
+        <seg>Přesné vyhledávání hledá slovní spojení, tj. pokud je zadaných několik slov, budou tato nalezena jen pokud se nacházejí v přesně stejném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180510Z" creationid="Josef" creationdate="20180317T180510Z">
@@ -6890,6 +7442,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180730Z" creationid="Josef" creationdate="20180317T180730Z">
+        <seg>Velké písmeno (jednoduchá &lt;u0&gt;kategorie&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084820Z" creationid="Josef" creationdate="20180317T084820Z">
@@ -6970,6 +7530,38 @@ paragraph of section 11).</seg>
 modify it is void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
 paragraph of section 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180750Z" creationid="Josef" creationdate="20180317T180750Z">
+        <seg>Jakýkoliv znak (kromě znaků ukončujících řádek)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180741Z" creationid="Josef" creationdate="20180317T180741Z">
+        <seg>Jakýkoliv znak mimo a, b, nebo c (negace)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180734Z" creationid="Josef" creationdate="20180317T180734Z">
+        <seg>Jakýkoliv znak mimo nějakého z řecké sady (negace)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180735Z" creationid="Josef" creationdate="20180317T180735Z">
+        <seg>Jakékoliv písmeno mimo velkých (odečítání)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7726,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180951Z" creationid="Josef" creationdate="20180317T180951Z">
+        <seg>Protože &lt;a0&gt;OmegaT&lt;/a0&gt; zpracovává identické segmenty jako jednu entitu, zobrazuje se jen první jedinečný segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -7192,6 +7792,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181009Z" creationid="Josef" creationdate="20180317T181009Z">
+        <seg>Pravidlo pozice kurzoru se skládá ze vzoru &lt;e0&gt;Před&lt;/e0&gt; a &lt;e1&gt;Za&lt;/e1&gt;, pravidla jsou aplikována v předem daném pořadí, aby se tak ověřilo, jestli některý ze vzorů &lt;e2&gt;Před&lt;/e2&gt; je platný pro text vlevo, a stejným způsobem vzor &lt;e3&gt;Za&lt;/e3&gt; pro text vpravo od kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163805Z" creationid="Josef" creationdate="20180317T163805Z">
@@ -7204,6 +7812,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
         <seg>Po dokončení práce na překladu exportuje OmegaT tři překladové paměti zvané &lt;f0&gt;level1&lt;/f0&gt; („úroveň 1“), &lt;f1&gt;level2&lt;/f1&gt; („úroveň 2“) a &lt;f2&gt;omegat&lt;/f2&gt; do projektového adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181003Z" creationid="Josef" creationdate="20180317T181003Z">
+        <seg>Současně se dřívější platné segmenty v překladové paměti změní na nespárované segmenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7624,6 +8240,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
+        <seg>Vzor před</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104021Z" creationid="Josef" creationdate="20180317T104021Z">
@@ -7708,6 +8332,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102026Z" creationid="Josef" creationdate="20180317T102026Z">
         <seg>Oba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181010Z" creationid="Josef" creationdate="20180317T181010Z">
+        <seg>Pravidla zalomení</seg>
       </tuv>
     </tu>
     <tu>
@@ -8109,6 +8741,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181017Z" creationid="Josef" creationdate="20180317T181017Z">
+        <seg>Změňte název sady pravidel a vzor jazyka pro daný jazyk a jeho kód (viz &lt;x1/&gt; seznam jazykových kódů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102449Z" creationid="Josef" creationdate="20180317T102449Z">
@@ -8273,6 +8913,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180338Z" creationid="Josef" creationdate="20180317T180338Z">
         <seg>Zatrhněte možnost &lt;e0&gt;Pouze nepřeložené segmenty&lt;/e0&gt; k dekativaci nástrojů Strojového překladu pro již přeložené segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180924Z" creationid="Josef" creationdate="20180317T180924Z">
+        <seg>Označením možnosti &lt;e2&gt;Překladové paměti&lt;/e2&gt; budou do vyhledávání zahrnuty překladové paměti umístěné v adresáři &lt;f3&gt;tm&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180925Z" creationid="Josef" creationdate="20180317T180925Z">
+        <seg>Když bude označena možnost &lt;e4&gt;Glosáře&lt;/e4&gt;, pak bude vyhledávání probíhat i v glosářích umístěných ve složce &lt;f5&gt;glossary&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8493,6 +9149,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180857Z" creationid="Josef" creationdate="20180317T180857Z">
+        <seg>Zde můžete vybírat z možností &lt;e2&gt;Nahradit další&lt;/e2&gt; nebo &lt;e3&gt;Přeskočit&lt;/e3&gt;&lt;e4&gt;Dokončit&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133729Z" creationid="Josef" creationdate="20180317T133729Z">
@@ -8577,6 +9241,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163703Z" creationid="Josef" creationdate="20180317T163703Z">
         <seg>Klikněte na odkaz pro přejití na segment v Editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180902Z" creationid="Josef" creationdate="20180317T180902Z">
+        <seg>Posledních 10 hledání zobrazíte kliknutím na šipku rozbalovacího menu v okně &lt;e0&gt;Hledat&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +9625,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101931Z" creationid="Josef" creationdate="20180317T101931Z">
         <seg>Připojení je k dispozici, projekt je v režimu týmového projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180948Z" creationid="Josef" creationdate="20180317T180948Z">
+        <seg>Tedy, ačkoliv je OmegaT schopna zpracovat soubory &lt;f1&gt;TMX&lt;/f1&gt;, nezahrne je ale do vyhledávání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9513,6 +10193,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180413Z" creationid="Josef" creationdate="20180317T180413Z">
         <seg>Vytvoří přeložené dokumenty a uloží je do cílového adresáře projektu a vytvoří soubory překladové paměti (soubory tmx level1, level2 a omegat) v hlavním adresáři projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181015Z" creationid="Josef" creationdate="20180317T181015Z">
+        <seg>Vytváření nového pravidla</seg>
       </tuv>
     </tu>
     <tu>
@@ -10221,6 +10909,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181002Z" creationid="Josef" creationdate="20180317T181002Z">
+        <seg>Spolehlivá pravidla segmentace jsou dostupná pro spoustu jazyků, takže pravděpodobně nebudete potřebovat si psát vlastní pravidla segmentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163644Z" creationid="Josef" creationdate="20180317T163644Z">
@@ -10721,6 +11417,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181030Z" creationid="Josef" creationdate="20180317T181030Z">
+        <seg>Nesegmentovat po M. Mr. Mrs. a Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181024Z" creationid="Josef" creationdate="20180317T181024Z">
+        <seg>Nesegmentovat po Mr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102945Z" creationid="Josef" creationdate="20180317T102945Z">
@@ -10901,6 +11613,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163837Z" creationid="Josef" creationdate="20180317T163837Z">
         <seg>Klikněte dvakrát na &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; nebo klikněte na ikonu na Docku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180952Z" creationid="Josef" creationdate="20180317T180952Z">
+        <seg>Dvojklik na segment jej otevře v Editoru pro úpravy (jednoduché kliknutí to udělá taky, ale jen když je zatrhnutá možnost  &lt;e0&gt; Automatická synchronizace s Editorem&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,6 +11834,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181005Z" creationid="Josef" creationdate="20180317T181005Z">
+        <seg>Během tohoto procesu je to jen struktura zdrojového souboru, která je použitá na vytvoření segmentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134103Z" creationid="Josef" creationdate="20180317T134103Z">
@@ -11300,6 +12028,30 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180907Z" creationid="Josef" creationdate="20180317T180907Z">
+        <seg>Upravit &gt; Vytvořit nový záznam Glosáře (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): přidá novou položku do glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180907Z" creationid="Josef" creationdate="20180317T180907Z">
+        <seg>Upravit &gt; Vložit zdroj (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt;): vloží zdrojový text aktuálního segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180907Z" creationid="Josef" creationdate="20180317T180907Z">
+        <seg>Upravit &gt; Přepsat zdrojem (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): nahradí zdrojovým textem aktuálního segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Command</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103348Z" creationid="Josef" creationdate="20180317T103348Z">
@@ -11468,6 +12220,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180830Z" creationid="Josef" creationdate="20180317T180830Z">
+        <seg>Buď  X anebo Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101913Z" creationid="Josef" creationdate="20180317T101913Z">
@@ -11536,6 +12296,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
         <seg>Povoleno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180657Z" creationid="Josef" creationdate="20180317T180657Z">
+        <seg>Umožňuje hledání bez ohledu na velikost písmen (ve výchozím nastavení se rozlišují velká a malá písmena).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,6 +12380,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180849Z" creationid="Josef" creationdate="20180317T180849Z">
+        <seg>Pro angličtinu: stejná kontrola jako nahoře, ale pro souhlásky („a“, ne „an“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180848Z" creationid="Josef" creationdate="20180317T180848Z">
+        <seg>Pro angličtinu: u slov začínajících na samohlásku se užívá neurčitý člen „an“, ne „a“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101900Z" creationid="Josef" creationdate="20180317T101900Z">
@@ -11656,6 +12440,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133737Z" creationid="Josef" creationdate="20180317T133737Z">
         <seg>Vložte URL, kterou poskytl ProjectLocker do políčka &lt;e0&gt;URL úložiště&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180856Z" creationid="Josef" creationdate="20180317T180856Z">
+        <seg>Vložte nové slovo nebo frázi (regulární výrazy nejsou podporovány) do políčka &lt;e0&gt;Nahradit čím&lt;/e0&gt;, pak klikněte na některou z následujících možností:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12068,10 +12860,34 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180858Z" creationid="Josef" creationdate="20180317T180858Z">
+        <seg>Kromě jedné: označte &lt;e0&gt;Nepřeloženo&lt;/e0&gt; k provádění hledání a nahrazování také v dosud nepřeložených segmentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102932Z" creationid="Josef" creationdate="20180317T102932Z">
         <seg>Vyskytla se výjimka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181012Z" creationid="Josef" creationdate="20180317T181012Z">
+        <seg>Pravidlo výjimky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception rule - see the use of ?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181032Z" creationid="Josef" creationdate="20180317T181032Z">
+        <seg>Pravidlo výjimky – viz použití znaku ‚?‘</seg>
       </tuv>
     </tu>
     <tu>
@@ -12460,6 +13276,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180906Z" creationid="Josef" creationdate="20180317T180906Z">
+        <seg>Soubor &gt; Zavřít (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): zavře okno hledání (stejně jako stiskem &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180906Z" creationid="Josef" creationdate="20180317T180906Z">
+        <seg>Soubor &gt; Hledat výběr (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;): zaměří se na vyhledávací políčko a vybere veškerý obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101605Z" creationid="Josef" creationdate="20180317T101605Z">
@@ -12604,6 +13436,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181006Z" creationid="Josef" creationdate="20180317T181006Z">
+        <seg>Soubory s formátováním (dokumenty ODF, HTML, atd.) jsou segmentovány na úrovni tagů bloků (odstavce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134257Z" creationid="Josef" creationdate="20180317T134257Z">
@@ -12632,6 +13472,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102645Z" creationid="Josef" creationdate="20180317T102645Z">
         <seg>Soubor ‚{0}‘ nemohl být načten z ‚{1}‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180955Z" creationid="Josef" creationdate="20180317T180955Z">
+        <seg>Filtrování záznamů v editoru podle hledání</seg>
       </tuv>
     </tu>
     <tu>
@@ -12672,6 +13520,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163830Z" creationid="Josef" creationdate="20180317T163830Z">
         <seg>Nakonec uložte změny &lt;e0&gt;Soubor – Uložit&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180839Z" creationid="Josef" creationdate="20180317T180839Z">
+        <seg>najde následující:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12920,6 +13776,38 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180956Z" creationid="Josef" creationdate="20180317T180956Z">
+        <seg>Pro snazší navigaci ve výsledcích hledání můžete použít hledání v Editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181011Z" creationid="Josef" creationdate="20180317T181011Z">
+        <seg>Například: „&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180819Z" creationid="Josef" creationdate="20180317T180819Z">
+        <seg>Například: &lt;e0&gt;a+&lt;/e0&gt; bude odpovídat aaa v &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180826Z" creationid="Josef" creationdate="20180317T180826Z">
+        <seg>Například: &lt;e0&gt;a+?&lt;/e0&gt; bude odpovídat prvnímu &lt;e1&gt;a&lt;/e1&gt; v &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163839Z" creationid="Josef" creationdate="20180317T163839Z">
@@ -13020,10 +13908,34 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181015Z" creationid="Josef" creationdate="20180317T181015Z">
+        <seg>Tak například, pravidla pro kanadskou francouzštinu (FR-CA) by měla být ve výchozím nastavení výše než pravidla pro francouzštinu (FR.*), a výše než (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181006Z" creationid="Josef" creationdate="20180317T181006Z">
+        <seg>Například mohou být textové soubory segmentovány podle zlomů řádků, prázdných řádků nebo vůbec nemusí být segmentovány na strukturální úrovni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134016Z" creationid="Josef" creationdate="20180317T134016Z">
         <seg>Například vzor &lt;l0&gt;*.xhtml&lt;/l0&gt; se pak bude shodovat s jakýmkoliv souborem s příponou &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180723Z" creationid="Josef" creationdate="20180317T180723Z">
+        <seg>Například toto je znak pro hledání zpětného lomítka</seg>
       </tuv>
     </tu>
     <tu>
@@ -13058,6 +13970,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180148Z" creationid="Josef" creationdate="20180317T180148Z">
         <seg>Například:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180911Z" creationid="Josef" creationdate="20180317T180911Z">
+        <seg>Například hledanému ‚&lt;l0&gt;run?&lt;/l0&gt;‘ by odpovídalo ‚&lt;l1&gt;runs&lt;/l1&gt;‘ a ‚&lt;l2&gt;runn&lt;/l2&gt;‘ ve slově ‚&lt;l3&gt;running&lt;/l3&gt;‘.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13198,6 +14118,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164100Z" creationid="Josef" creationdate="20180317T164100Z">
         <seg>Z toho důvodu jsou oba nahoře popsané příkazy obsaženy v jednom souboru („skript“, taky nazýváno soubor „.bat“ u systému Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181011Z" creationid="Josef" creationdate="20180317T181011Z">
+        <seg>Aby se tak stalo, mělo by tu být pravidlo zalomení pro „?“, po kterém následuje mezera a slovo začínající velkým písmenem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14338,6 +15266,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181011Z" creationid="Josef" creationdate="20180317T181011Z">
+        <seg>I was not sure.“&lt;/e0&gt; by mělo být rozděleno na dva segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101613Z" creationid="Josef" creationdate="20180317T101613Z">
@@ -14582,6 +15518,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180958Z" creationid="Josef" creationdate="20180317T180958Z">
+        <seg>Pokud hledání odstraní duplicity, pak tyto duplicity nebudou zobrazeny v Editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164106Z" creationid="Josef" creationdate="20180317T164106Z">
@@ -14795,6 +15739,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180859Z" creationid="Josef" creationdate="20180317T180859Z">
+        <seg>Pokud se v daném segmentu provede žádná náhrada textu, pak bude cílový segment „vyprázdněn“, tj. zůstane nepřeložený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180225Z" creationid="Josef" creationdate="20180317T180225Z">
@@ -14883,6 +15835,14 @@ licenses to the work the party's predecessor in interest had or could
 give under the previous paragraph, plus a right to possession of the
 Corresponding Source of the work from the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181002Z" creationid="Josef" creationdate="20180317T181002Z">
+        <seg>Pokud je vybráno Segmentace na úrovni vět, pak můžete nastavit pravidla vybráním položky &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Možnosti&lt;/g6&gt; &lt;g8&gt;Segmentace...&lt;/g8&gt; &lt;/m5&gt; v hlavní nabídce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15128,6 +16088,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181009Z" creationid="Josef" creationdate="20180317T181009Z">
+        <seg>Pokud pravidlo lze aplikovat, tak se kurzor buď pohne bez vložení zalomení segmentu (v případě výjimky pravidla) nebo je vytvořeno zalomení segmentu na aktuální pozici kurzoru (v případě aplikování pravidla pro zalomení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180543Z" creationid="Josef" creationdate="20180317T180543Z">
@@ -15358,10 +16326,26 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181004Z" creationid="Josef" creationdate="20180317T181004Z">
+        <seg>Pokud změníte volby segmentace ve chvíli, kdy je otevřený nějaký projekt, budete muset projekt znovu načíst, aby se změny projevily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163806Z" creationid="Josef" creationdate="20180317T163806Z">
         <seg>Pokud zaznačíte odpovídající zaškrtávající políčko, bude upraven soubor OmegaT.l4J.ini, kde bude zadán vybraný jazyk (pro detaily viz další oddíl).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180949Z" creationid="Josef" creationdate="20180317T180949Z">
+        <seg>Po kliknutí na tlačítko &lt;g0&gt;Pokročilé možnosti&lt;/g0&gt; si můžete vybrat dodatečná kritéria (jako autor překladu, datum přeložení, vyloučení nespárovaných segmentů, atd.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15668,6 +16652,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181018Z" creationid="Josef" creationdate="20180317T181018Z">
+        <seg>Pokud vaše sada pravidel platí pro pár jazyk-země, doporučujeme posunout ji nahoru pomocí tlačítka &lt;e2&gt;Přesunout nahoru&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
@@ -15832,6 +16824,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180909Z" creationid="Josef" creationdate="20180317T180909Z">
+        <seg>V přesném vyhledávání, ale i při hledání podle klíčových slov, mohou být použity zástupné vyhledávací znaky ‚*‘ a ‚?‘ .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133816Z" creationid="Josef" creationdate="20180317T133816Z">
@@ -15962,10 +16962,34 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181017Z" creationid="Josef" creationdate="20180317T181017Z">
+        <seg>Pro vytvoření prázdné sady pravidel pro nový jazykový vzor klikněte na &lt;e0&gt;Přidat&lt;/e0&gt; v horní polovině dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181016Z" creationid="Josef" creationdate="20180317T181016Z">
+        <seg>Pro úpravu nebo rozšíření již existující sady pravidel, jednoduše klikněte na danou sadu v horní tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to get credentials for MS Translator, follow these steps:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180058Z" creationid="Josef" creationdate="20180317T180058Z">
         <seg>Pro získání přihlašovacích údajů pro MS Translator postupujte následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181001Z" creationid="Josef" creationdate="20180317T181001Z">
+        <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projekt&lt;/g2&gt; &lt;g4&gt;Vlastnosti...&lt;/g4&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16018,6 +17042,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181013Z" creationid="Josef" creationdate="20180317T181013Z">
+        <seg>Nehledě na tečku v &lt;e0&gt;„Mrs. Dalloway“&lt;/e0&gt; by zde neměl být text rozdělen, tzn. mělo by být založeno pravidlo výjimky pro Mrs (stejně tak Mr a Dr a prof atd.), což je normálně následováno tečkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163829Z" creationid="Josef" creationdate="20180317T163829Z">
@@ -16046,6 +17078,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180626Z" creationid="Josef" creationdate="20180317T180626Z">
         <seg>V dialogovém okně pro vzory výjimek je možno přidávat či odstranit vzory, nebo je měnit vybráním řádku a stiskem klávesy F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180953Z" creationid="Josef" creationdate="20180317T180953Z">
+        <seg>V Okně Hledat můžete používat standardní zkratky  (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) pro přecházení mezi segmenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16172,6 +17212,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164159Z" creationid="Josef" creationdate="20180317T164159Z">
         <seg>V tomto režimu se OmegaT pokusí přeložit soubory z adresáře /source/ za pomoci dostupných překladových pamětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181013Z" creationid="Josef" creationdate="20180317T181013Z">
+        <seg>Vzhledem k flexibilitě, můžete zvážit definování více pravidel pro výjimky pro jazyk ze kterého překládáte, abyste získali smysluplnější a souvislejší segmenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16512,6 +17560,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103103Z" creationid="Josef" creationdate="20180317T103103Z">
         <seg>‚Rychlý start‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
+        <seg>Cíl</seg>
       </tuv>
     </tu>
     <tu>
@@ -17348,6 +18404,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102458Z" creationid="Josef" creationdate="20180317T102458Z">
         <seg>Hledání podle klíčových slov není dostupné pro řetězce znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180916Z" creationid="Josef" creationdate="20180317T180916Z">
+        <seg>Vyhledávání podle klíčových slov je podobné jako hledání „se všemi slovy“ v internetovém vyhledávači typu Google (operátor AND).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18230,6 +19294,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180117Z" creationid="Josef" creationdate="20180317T180117Z">
         <seg>Hlavní nabídka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181016Z" creationid="Josef" creationdate="20180317T181016Z">
+        <seg>Obecně by se u aktivního projektu neměly provádět změny pravidel segmentace, obzvláště po kompletaci prvního konceptu, ale drobné změny, jako je přidání rozpoznané zkratky, mohou být prospěšné. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19238,6 +20310,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181030Z" creationid="Josef" creationdate="20180317T181030Z">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181026Z" creationid="Josef" creationdate="20180317T181026Z">
+        <seg>Mr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101917Z" creationid="Josef" creationdate="20180317T101917Z">
@@ -19290,6 +20378,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103616Z" creationid="Josef" creationdate="20180317T103616Z">
         <seg>Maorština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180957Z" creationid="Josef" creationdate="20180317T180957Z">
+        <seg>Tip:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,6 +20946,22 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180911Z" creationid="Josef" creationdate="20180317T180911Z">
+        <seg>Mějte na paměti, že znaky ‚*‛ a ‚?‛ mají speciální význam v rámci regulárních výrazů, takže pak hledání za použití zástupných znaků, jak to popisujeme zde, bude fungovat jen u voleb Přesné hledání a Hledat podle klíčových slov (vizte níže). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181029Z" creationid="Josef" creationdate="20180317T181029Z">
+        <seg>Všimněte si, že políčko &lt;l0&gt;Vzor za&lt;/l0&gt; je prázdné </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180112Z" creationid="Josef" creationdate="20180317T180112Z">
@@ -20106,6 +21218,30 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163746Z" creationid="Josef" creationdate="20180317T163746Z">
         <seg>Pro tyto účely můžete používat například Notepad++ pod Windows, GEdit na Linuxu nebo nějaký tabulkový procesor: lze použít jakoukoliv aplikaci, která umí pracovat s UTF-8 (nebo UTF-16 LE), a která umí zobrazit netisknutelné znaky (takže vám nebude chybět značka tabulátoru &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180725Z" creationid="Josef" creationdate="20180317T180725Z">
+        <seg>Nic neznamená, ukončuje vymezení započaté pomocí \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180723Z" creationid="Josef" creationdate="20180317T180723Z">
+        <seg>Nic neznamená, vymezuje všechny znaky až po \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180721Z" creationid="Josef" creationdate="20180317T180721Z">
+        <seg>Lomítko samo o sobě neznamená nic, jen uvozuje následující znak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20461,6 +21597,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103339Z" creationid="Josef" creationdate="20180317T103339Z">
         <seg>OmegaT může vygenerovat a uložit hlavní heslo, take jej nemusíte vkládat pokaždé, ale tato možnost je méně bezpečná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180915Z" creationid="Josef" creationdate="20180317T180915Z">
+        <seg>OmegaT zobrazí seznam všech segmentů, ve kterých se všechna tato slova vyskytují.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20837,6 +21981,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181003Z" creationid="Josef" creationdate="20180317T181003Z">
+        <seg>Na druhou stranu tato funkce může být velmi užitečná ve speciálních případech, kdy můžete zvýšit svou produktivitu úpravou segmentačních pravidel u textu, který máte překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180524Z" creationid="Josef" creationdate="20180317T180524Z">
@@ -21113,6 +22265,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180408Z" creationid="Josef" creationdate="20180317T180408Z">
         <seg>Otevřít projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180856Z" creationid="Josef" creationdate="20180317T180856Z">
+        <seg>Pomocí klávesové zkratky &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;otevřete okno Najít a nahradit a vložte slovo nebo výraz, který chcete nahradit do políčka &lt;e3&gt;Hledat&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180901Z" creationid="Josef" creationdate="20180317T180901Z">
+        <seg>Okno Hledat otevřete pomocí zkratky &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, pak zadejte slovo nebo frázi, kterou chcete vyhledat do pole &lt;e3&gt;„Hledat“&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21565,6 +22733,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181002Z" creationid="Josef" creationdate="20180317T181002Z">
+        <seg>Segmentace podle odstavců je výhodná jen v určitých případech, jako jsou velmi kreativní nebo stylové překlady, ve kterých překladatel asi bude chtít změnit pořadí celých vět; nicméně ve většině projektů je upřednostňovanou volbou právě segmentace podle vět, protože tato poskytuje lepší shody s předchozími překlady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103406Z" creationid="Josef" creationdate="20180317T103406Z">
@@ -21713,6 +22889,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101928Z" creationid="Josef" creationdate="20180317T101928Z">
         <seg>Možná je již otevřen v jiném spuštěném okně OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180852Z" creationid="Josef" creationdate="20180317T180852Z">
+        <seg>Tečka následovaná slovem s prvním velkým písmenem – pravděpodobně chybí mezera mezi tečkou a začátkem nové věty?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22175,6 +23359,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180956Z" creationid="Josef" creationdate="20180317T180956Z">
+        <seg>Stiskněte tlačítko &lt;e0&gt;‚Filtr‘&lt;/e0&gt; ve spodní části okna, a tak omezíte počet zobrazených záznamů v okně editoru na daný počet, který se shoduje s aktuálním hledáním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102026Z" creationid="Josef" creationdate="20180317T102026Z">
@@ -22187,6 +23379,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180230Z" creationid="Josef" creationdate="20180317T180230Z">
         <seg>Stisknutí &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; zobrazí poslední již otevřené okno Hledat (místo aby se otevřeno nové).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180950Z" creationid="Josef" creationdate="20180317T180950Z">
+        <seg>Stisknutí tlačítka pro vyhledávání po zadání řetězce do vyhledávacího pole zobrazí všechny segmenty v projektu, které obsahují zadaný řetězec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22939,10 +24139,122 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180801Z" creationid="Josef" creationdate="20180317T180801Z">
+        <seg>Regulární výrazy - Označení hranic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180658Z" creationid="Josef" creationdate="20180317T180658Z">
+        <seg>Regulární výrazy – Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180737Z" creationid="Josef" creationdate="20180317T180737Z">
+        <seg>Regulární výrazy – Třídy znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180725Z" creationid="Josef" creationdate="20180317T180725Z">
+        <seg>Regulární výrazy – Třídy pro bloky a kategorie Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180838Z" creationid="Josef" creationdate="20180317T180838Z">
+        <seg>Regulární výrazy  Příklady regulárních výrazů v překladech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180655Z" creationid="Josef" creationdate="20180317T180655Z">
+        <seg>Regulární výrazy – Označení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180809Z" creationid="Josef" creationdate="20180317T180807Z">
+        <seg>Regulární výrazy – Hladové kvantifikátory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180826Z" creationid="Josef" creationdate="20180317T180826Z">
+        <seg>Regulární výrazy – Logické operátory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180747Z" creationid="Josef" creationdate="20180317T180747Z">
+        <seg>Regulární výrazy – Předdefinované třídy znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180719Z" creationid="Josef" creationdate="20180317T180711Z">
+        <seg>Regulární výrazy – Uvozování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180820Z" creationid="Josef" creationdate="20180317T180820Z">
+        <seg>Regulární výrazy – Líné kvantifikátory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180834Z" creationid="Josef" creationdate="20180317T180834Z">
+        <seg>Nástroj pro testování regulárních výrazů ‚Regex Tester‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180833Z" creationid="Josef" creationdate="20180317T180833Z">
+        <seg>Nástroje regex a příklady použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101918Z" creationid="Josef" creationdate="20180317T101918Z">
         <seg>Zapsat identický překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180839Z" creationid="Josef" creationdate="20180317T180839Z">
+        <seg>Regulární výraz</seg>
       </tuv>
     </tu>
     <tu>
@@ -22967,6 +24279,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102457Z" creationid="Josef" creationdate="20180317T102457Z">
         <seg>Vyhledávání za pomocí regulárních výrazů odpovídá regulárním výrazům jazyka Java, jak je zdokumentováno v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180651Z" creationid="Josef" creationdate="20180317T180651Z">
+        <seg>Regulární výrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180917Z" creationid="Josef" creationdate="20180317T180917Z">
+        <seg>Regulární výrazy představují účinný způsob hledání různých podob daného řetězce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23717,6 +25045,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181014Z" creationid="Josef" creationdate="20180317T181014Z">
+        <seg>Pravidla přednosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101903Z" creationid="Josef" creationdate="20180317T101903Z">
@@ -24217,6 +25553,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180855Z" creationid="Josef" creationdate="20180317T180855Z">
+        <seg>Hledat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102022Z" creationid="Josef" creationdate="20180317T102022Z">
@@ -24241,10 +25585,34 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180855Z" creationid="Josef" creationdate="20180317T180855Z">
+        <seg>Najít a nahradit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101611Z" creationid="Josef" creationdate="20180317T101611Z">
         <seg>Najít a nahradit...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180914Z" creationid="Josef" creationdate="20180317T180914Z">
+        <seg>Hledá segmenty obsahující všechna zadaná klíčová slova v jakémkoliv pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180913Z" creationid="Josef" creationdate="20180317T180913Z">
+        <seg>Vyhledávání segmentů obsahujících zadaný řetězec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24273,10 +25641,42 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180912Z" creationid="Josef" creationdate="20180317T180912Z">
+        <seg>Metody a možnosti vyhledávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180858Z" creationid="Josef" creationdate="20180317T180858Z">
+        <seg>Možnosti vyhledávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180858Z" creationid="Josef" creationdate="20180317T180858Z">
+        <seg>Možnosti vyhledávání jsou podobné těm zobrazeným v &lt;l0&gt;okně Hledat&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search project</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180427Z" creationid="Josef" creationdate="20180317T180427Z">
         <seg>Hledat v projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180950Z" creationid="Josef" creationdate="20180317T180950Z">
+        <seg>Zobrazení výsledků hledání</seg>
       </tuv>
     </tu>
     <tu>
@@ -24293,6 +25693,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180534Z" creationid="Josef" creationdate="20180317T180534Z">
         <seg>Okno Hledat v textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180900Z" creationid="Josef" creationdate="20180317T180900Z">
+        <seg>Vyhledávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180914Z" creationid="Josef" creationdate="20180317T180914Z">
+        <seg>Vyhledávání slovního spojení &lt;l0&gt;open file&lt;/l0&gt; nalezne tedy všechny výskyty řetězce &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, ale ne &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; nebo &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24401,6 +25817,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180836Z" creationid="Josef" creationdate="20180317T180836Z">
+        <seg>Můžete také vyzkoušet trenažer &lt;u0&gt;The Regex Coach&lt;/u0&gt; jako samostatný nástroj pro Windows, Linux, Mac, FreeBSD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133928Z" creationid="Josef" creationdate="20180317T133928Z">
@@ -24437,6 +25861,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134243Z" creationid="Josef" creationdate="20180317T134243Z">
         <seg>Vizte výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180652Z" creationid="Josef" creationdate="20180317T180652Z">
+        <seg>Projděte si dodatečné odkazy a příklady níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24481,6 +25913,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See more in the chapter&lt;l0&gt; Regular Expressions.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180917Z" creationid="Josef" creationdate="20180317T180917Z">
+        <seg>Více najdete v kapitole &lt;l0&gt;Regulární výrazy.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165029Z" creationid="Josef" creationdate="20180317T165019Z">
@@ -24501,6 +25941,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103937Z" creationid="Josef" creationdate="20180317T103937Z">
         <seg>Více podrobností naleznete v licenci GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapter on &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181019Z" creationid="Josef" creationdate="20180317T181019Z">
+        <seg>Viz kapitolu &lt;l2&gt;Regulární výrazy&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24613,6 +26061,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102640Z" creationid="Josef" creationdate="20180317T102640Z">
         <seg>Metoda segmentace: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181008Z" creationid="Josef" creationdate="20180317T181008Z">
+        <seg>Pravidla segmentace</seg>
       </tuv>
     </tu>
     <tu>
@@ -24865,6 +26321,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180915Z" creationid="Josef" creationdate="20180317T180915Z">
+        <seg>Označte Hledat podle klíčových slov, a bude se vyhledávat jakékoliv množství samostatných slov, v jakémkoliv pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101901Z" creationid="Josef" creationdate="20180317T101901Z">
@@ -24897,6 +26361,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180912Z" creationid="Josef" creationdate="20180317T180912Z">
+        <seg>Metodu hledání vyberte pomocí přepínacích tlačítek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180241Z" creationid="Josef" creationdate="20180317T180241Z">
@@ -24917,6 +26389,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101921Z" creationid="Josef" creationdate="20180317T101921Z">
         <seg>Vybrané nástroje: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181007Z" creationid="Josef" creationdate="20180317T181007Z">
+        <seg>Segmentace na úrovni vět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181010Z" creationid="Josef" creationdate="20180317T181010Z">
+        <seg>Rozdělí zdrojový text na segmenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25009,10 +26497,26 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181028Z" creationid="Josef" creationdate="20180317T181028Z">
+        <seg>segmentovat po „。“ (japonská tečka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101918Z" creationid="Josef" creationdate="20180317T101918Z">
         <seg>Použít prázdný překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181021Z" creationid="Josef" creationdate="20180317T181021Z">
+        <seg>Nastavit segment po tečce (‚.‘) a před mezerou, tabulátorem ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25141,6 +26645,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134132Z" creationid="Josef" creationdate="20180317T134132Z">
         <seg>Pokud by se OmegaT chovala chybně, je zapotřebí toto zaznamenat do tohoto souboru nebo důležité části jakéhokoliv hlášení o chybách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180652Z" creationid="Josef" creationdate="20180317T180652Z">
+        <seg>Pokud potřebujete bližší informace, navštivte stránku &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25709,6 +27221,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segmentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181000Z" creationid="Josef" creationdate="20180317T181000Z">
+        <seg>Segmentace zdroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source segments</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101953Z" creationid="Josef" creationdate="20180317T101953Z">
@@ -25801,6 +27321,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180557Z" creationid="Josef" creationdate="20180317T180557Z">
         <seg>Specifikace kódování v prostých textových souborech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181034Z" creationid="Josef" creationdate="20180317T181034Z">
+        <seg>Kontrola pravopisu</seg>
       </tuv>
     </tu>
     <tu>
@@ -26009,6 +27537,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163736Z" creationid="Josef" creationdate="20180317T163736Z">
         <seg>Jednotlivé řetězce mohou být ohraničeny uvozovkami ", což umožňuje použít čárku uvnitř řetězce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181005Z" creationid="Josef" creationdate="20180317T181005Z">
+        <seg>Segmentace na úrovni struktury</seg>
       </tuv>
     </tu>
     <tu>
@@ -27342,6 +28878,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180902Z" creationid="Josef" creationdate="20180317T180902Z">
+        <seg>Okno Hledat v textu má své nabídky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165945Z" creationid="Josef" creationdate="20180317T165945Z">
@@ -27416,6 +28960,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180706Z" creationid="Josef" creationdate="20180317T180706Z">
+        <seg>Znak zvukové signalizace (‚\u0007‘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133920Z" creationid="Josef" creationdate="20180317T133920Z">
@@ -27472,10 +29024,74 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The beginning of a line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180803Z" creationid="Josef" creationdate="20180317T180803Z">
+        <seg>Začátek řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The behaviour, stated here, applies to all the source files and not just to some of the file types, like formatted text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163655Z" creationid="Josef" creationdate="20180317T163655Z">
         <seg>Nastavení, které je tu ukázané, platí pro všechny zdrojové soubory a ne jen pro některé typy souborů, jako je tomu u formátovaného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180704Z" creationid="Josef" creationdate="20180317T180704Z">
+        <seg>Znak návratu vozíku (‚\u000D‘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180710Z" creationid="Josef" creationdate="20180317T180710Z">
+        <seg>Znak s hexadecimální/šestnáctkovou hodnotou 0xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180701Z" creationid="Josef" creationdate="20180317T180701Z">
+        <seg>Znak s hexadecimální/šestnáctkovou hodnotou 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180710Z" creationid="Josef" creationdate="20180317T180710Z">
+        <seg>Znak s oktalovou/osmičkovou hodnotou 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180708Z" creationid="Josef" creationdate="20180317T180708Z">
+        <seg>Znak s oktalovou/osmičkovou hodnotou 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180709Z" creationid="Josef" creationdate="20180317T180709Z">
+        <seg>Znak s oktalovou/osmičkovou hodnotou 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180659Z" creationid="Josef" creationdate="20180317T180659Z">
+        <seg>Znak x, s výjimkou následujících...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27537,6 +29153,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180655Z" creationid="Josef" creationdate="20180317T180655Z">
+        <seg>Pojem ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133923Z" creationid="Josef" creationdate="20180317T133923Z">
@@ -27589,6 +29213,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134127Z" creationid="Josef" creationdate="20180317T134127Z">
         <seg>Obsah podadresáře překladu odpovídá aktuálnímu stavu překladu, stejně jako v překladové paměti překladu, která je uložena aktuálně v &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The control character corresponding to x</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180707Z" creationid="Josef" creationdate="20180317T180707Z">
+        <seg>Řídící znak odpovídající x</seg>
       </tuv>
     </tu>
     <tu>
@@ -27762,6 +29394,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180804Z" creationid="Josef" creationdate="20180317T180804Z">
+        <seg>Konec řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133915Z" creationid="Josef" creationdate="20180317T133915Z">
@@ -27774,6 +29414,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180240Z" creationid="Josef" creationdate="20180317T180240Z">
         <seg>Pokud je k dispozici jen jeden překlad, bude záznam zašeděn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The escape character ('\u001B')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180707Z" creationid="Josef" creationdate="20180317T180707Z">
+        <seg>Znak změny (‚\u001B‘)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27898,6 +29546,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180838Z" creationid="Josef" creationdate="20180317T180838Z">
+        <seg>Následující seznam zahrnuje výrazy, které se mohou hodit při prohledávání překladové paměti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102815Z" creationid="Josef" creationdate="20180317T102815Z">
@@ -27910,6 +29566,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104016Z" creationid="Josef" creationdate="20180317T104016Z">
         <seg>Zařazeny jsou následující skriptovací jazyky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180912Z" creationid="Josef" creationdate="20180317T180912Z">
+        <seg>Dostupné jsou následující metody hledání:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27942,6 +29606,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
         <seg>Následující okno ukazuje příklad a) anglického zdroje b) španělského a c) slovinského překladu prostřednictvím Google Překladač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180705Z" creationid="Josef" creationdate="20180317T180705Z">
+        <seg>Znak posunu o stránku (‚\u000C‘)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28157,6 +29829,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matches will be displayed in bold blue.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180911Z" creationid="Josef" creationdate="20180317T180911Z">
+        <seg>Nalezené položky budou zobrazené tučným modrým písmem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
@@ -28225,6 +29905,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180614Z" creationid="Josef" creationdate="20180317T180614Z">
         <seg>Nová sada pravidel bude uložena spolu s projektem a nebude odporovat obecným pravidlům segmentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180704Z" creationid="Josef" creationdate="20180317T180704Z">
+        <seg>Znak nového řádku (konce řádku) (‚\u000A‘)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28363,6 +30051,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181013Z" creationid="Josef" creationdate="20180317T181013Z">
+        <seg>Předdefinovaná pravidla zalomení by měla být dostatečná pro většinu evropských jazyků a Japonštinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180608Z" creationid="Josef" creationdate="20180317T180608Z">
@@ -28391,6 +30087,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133725Z" creationid="Josef" creationdate="20180317T133725Z">
         <seg>Zde uvedený postup se opírá o svobodný SVN server (s omezením na 2 uživatele), který nabízí  &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181008Z" creationid="Josef" creationdate="20180317T181008Z">
+        <seg>Průběh segmentace lze znázornit následovně: kurzor se pohybuje v textu, vždy po jednom znaku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28471,6 +30175,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163746Z" creationid="Josef" creationdate="20180317T163746Z">
         <seg>Rozeznatelné koncovky jsou &lt;f1&gt;TXT&lt;/f1&gt; a &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180652Z" creationid="Josef" creationdate="20180317T180652Z">
+        <seg>Regulární výrazy (uváděné i zkráceně jako ‚regex‘ – z anglického ‚REGular EXpressions‘) používané při vyhledávání a v segmentačních pravidlech jsou identické s těmi, které podporuje Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28571,6 +30283,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181016Z" creationid="Josef" creationdate="20180317T181016Z">
+        <seg>Pravidla této sady se objeví v dolní půlce okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134014Z" creationid="Josef" creationdate="20180317T134014Z">
@@ -28583,6 +30303,30 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101919Z" creationid="Josef" creationdate="20180317T101919Z">
         <seg>Skript „{0}“ právě běží...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180919Z" creationid="Josef" creationdate="20180317T180919Z">
+        <seg>Řetězec znaků pro vyhledávání – [a-zA-Z]+[öäüqwß] – například jako v příkladě nahoře hledá slova v cílovém segmentu, a to taková, která obsahují zadané zvláštní znaky na německé klávesnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search string will be treated as a regular expression.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180917Z" creationid="Josef" creationdate="20180317T180917Z">
+        <seg>Řetězec znaků pro vyhledávání bude zpracován jako regulární výraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180910Z" creationid="Josef" creationdate="20180317T180910Z">
+        <seg>Vyhledávané položce ‚&lt;l0&gt;run*&lt;/l0&gt;‘ by například odpovídalo ‚&lt;l1&gt;run&lt;/l1&gt;‘, ‚&lt;l2&gt;runs&lt;/l2&gt;‘ a ‚&lt;l3&gt;running&lt;/l3&gt;‘.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28623,6 +30367,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180607Z" creationid="Josef" creationdate="20180317T180607Z">
         <seg>Nastavení segmentace upravuje způsob, jakým &lt;a0&gt;OmegaT&lt;/a0&gt; nakládá se zdrojovými soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180951Z" creationid="Josef" creationdate="20180317T180951Z">
+        <seg>Segmenty jsou zobrazované v takovém pořadí, v jakém se nacházejí v projektu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -28779,6 +30531,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181017Z" creationid="Josef" creationdate="20180317T181017Z">
+        <seg>Syntaxe vzoru jazyka odpovídá syntaxi regulárních výrazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133656Z" creationid="Josef" creationdate="20180317T133656Z">
@@ -28795,6 +30555,14 @@ use, which is precisely where it is most unacceptable.</seg>
         <seg>The systematic
 pattern of such abuse occurs in the area of products for individuals to
 use, which is precisely where it is most unacceptable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180702Z" creationid="Josef" creationdate="20180317T180702Z">
+        <seg>Znak tabulátoru (‚\u0009‘)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28927,6 +30695,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181009Z" creationid="Josef" creationdate="20180317T181009Z">
+        <seg>Tyto dva typy pravidel se chovají následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163732Z" creationid="Josef" creationdate="20180317T163732Z">
@@ -28983,6 +30759,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180901Z" creationid="Josef" creationdate="20180317T180901Z">
+        <seg>Slovo nebo fráze bude v tomto případě zadané do pole &lt;e3&gt;„Hledat“&lt;/e3&gt; automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101928Z" creationid="Josef" creationdate="20180317T101928Z">
@@ -29003,6 +30787,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133826Z" creationid="Josef" creationdate="20180317T133826Z">
         <seg>Webová stránka aplikace&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/u0&gt;obsahuje četné odkazy na různé zdroje pro &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180856Z" creationid="Josef" creationdate="20180317T180856Z">
+        <seg>Pak klikněte na tlačítko &lt;e0&gt;Hledat&lt;/e0&gt; a zobrazí se všechny odpovídající výskyty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29316,6 +31108,22 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180834Z" creationid="Josef" creationdate="20180317T180834Z">
+        <seg>Všechny obecně postupují dle stejného vzoru (vizte níže příklad ve formě pluginu pro Firefox: Regular Expression Tester): regulární výraz (záznam nahoře) zkoumá hledaný text (textové pole uprostřed), ukazuje výsledky v poli pro výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180909Z" creationid="Josef" creationdate="20180317T180909Z">
+        <seg>Mají podobný význam jako zástupné znaky v MS Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134001Z" creationid="Josef" creationdate="20180317T134001Z">
@@ -29402,6 +31210,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181027Z" creationid="Josef" creationdate="20180317T181027Z">
+        <seg>Toto je pravidlo výjimky, takže zaškrtávací políčko pravidla musí zůstat neoznačeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180621Z" creationid="Josef" creationdate="20180317T180621Z">
@@ -29446,6 +31262,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102037Z" creationid="Josef" creationdate="20180317T102037Z">
         <seg>Tato kapitola popisuje vlastnosti projektu, a stejně tak i zdrojový a cílový jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180655Z" creationid="Josef" creationdate="20180317T180655Z">
+        <seg>Tato kapitola se obrací především na pokročilé uživatele, kteří potřebují definovat vlastní varianty pravidel segmentace nebo chtějí získat komplexnější a účinnější nástroj při vyhledávání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29716,6 +31540,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180837Z" creationid="Josef" creationdate="20180317T180837Z">
+        <seg>Je podobný předchozímu příkladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164112Z" creationid="Josef" creationdate="20180317T164112Z">
@@ -29728,6 +31560,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180552Z" creationid="Josef" creationdate="20180317T180552Z">
         <seg>Toto pak není žádný problém pro soubory kódované v Unicode užívající 16-ti bitovou sadu kódování znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180722Z" creationid="Josef" creationdate="20180317T180722Z">
+        <seg>Je vyžadováno, pokud byste chtěli zadání metaznaků !$()*+.&lt;&gt;?[\]^{|} tak, aby odpovídaly samy sobě.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30026,6 +31866,14 @@ your copyrighted material outside their relationship with you.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181015Z" creationid="Josef" creationdate="20180317T181015Z">
+        <seg>Takže v průběhu překladu z kanadské francouzštiny bude váš projekt používat jako první pravidla pro kanadskou francouzštinu (pokud jsou tedy definována), pak se vychází z pravidel pro francouzštinu, a nakonec v pořadí se uplatní pravidla výchozího nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103813Z" creationid="Josef" creationdate="20180317T103813Z">
@@ -30164,6 +32012,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181018Z" creationid="Josef" creationdate="20180317T181018Z">
+        <seg>Pro kontrolu jejich syntaxe a použitelnosti, je vhodné použít nástroje, které vám umožní vidět jejich účinek přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133835Z" creationid="Josef" creationdate="20180317T133835Z">
@@ -30208,6 +32064,22 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163655Z" creationid="Josef" creationdate="20180317T163655Z">
         <seg>Sami si pro lepší přizpůsobení práce s tagy můžete nastavit pravidla v okně &lt;g0&gt;Možnosti &gt; Ověření tagů...&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181012Z" creationid="Josef" creationdate="20180317T181012Z">
+        <seg>Když chcete definovat pravidlo jako pravidlo zalomení, zaškrtněte zaškrtávací políčko Zlom/Výjimka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181013Z" creationid="Josef" creationdate="20180317T181013Z">
+        <seg>Když chcete definovat pravidlo jakožto výjimku, nechte zaškrtávací políčko Zlom/Výjimka prázdné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30380,6 +32252,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180859Z" creationid="Josef" creationdate="20180317T180859Z">
+        <seg>Aby toto bylo proveditelné (i když Hledat a nahradit pracuje jen s pamětí), OmegaT zkopíruje zdrojový segment do cílového segmentu před tím, než bude náhrada textu uskutečněna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133921Z" creationid="Josef" creationdate="20180317T133921Z">
@@ -30428,6 +32308,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
         <seg>Původní nastaven projektu si můžete kdykoliv zobrazit otevřením dialogového okna Vlastnosti projektu, a to stiskem &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180959Z" creationid="Josef" creationdate="20180317T180959Z">
+        <seg>Filtr odstraníte stisknutím tlačítka &lt;e0&gt;‚Odstranit filtr‘&lt;/e0&gt;, nebo opětovným načtením projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30696,6 +32584,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181006Z" creationid="Josef" creationdate="20180317T181006Z">
+        <seg>Atributy přeložitelných objektů v souborech XHTML nebo HTML lze extrahovat jako samostatné segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
@@ -30809,6 +32705,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180951Z" creationid="Josef" creationdate="20180317T180951Z">
+        <seg>Přeložené segmenty se zobrazí s původním textem nahoře a přeloženým textem dole, nepřeložené segmenty se zobrazí jen s původním textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments text</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101954Z" creationid="Josef" creationdate="20180317T101954Z">
@@ -30893,6 +32797,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101928Z" creationid="Josef" creationdate="20180317T101928Z">
         <seg>Adresář překladové paměti {0} neexistuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181001Z" creationid="Josef" creationdate="20180317T181001Z">
+        <seg>Nástroje pro práci s překladovými paměťmi pracují s textovými jednotkami nazývanými segmenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31934,6 +33846,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180916Z" creationid="Josef" creationdate="20180317T180916Z">
+        <seg>Když použijete volbu Hledat podle klíčových slov pro toto slovní spojení &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;, pak budou nalezeny všechny výskyty řetězce &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; stejně jako &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163615Z" creationid="Josef" creationdate="20180317T163615Z">
@@ -31962,6 +33882,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134005Z" creationid="Josef" creationdate="20180317T134005Z">
         <seg>Použitím této možnosti si překladatel může určit, zda cílové soubory mají obsahovat deklaraci kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using wild cards</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180908Z" creationid="Josef" creationdate="20180317T180908Z">
+        <seg>Použití zástupných znaků</seg>
       </tuv>
     </tu>
     <tu>
@@ -32348,6 +34276,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180949Z" creationid="Josef" creationdate="20180317T180949Z">
+        <seg>Když je zaznačena možnost &lt;e1&gt;Nezohledňovat plnou/poloviční šíři znaků&lt;/e1&gt;, pak vyhledávání pro plnou formu znaků (znaky CJK) bude nalézat shodu i na poloviční a naopak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134015Z" creationid="Josef" creationdate="20180317T134015Z">
@@ -32448,6 +34384,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180341Z" creationid="Josef" creationdate="20180317T180341Z">
         <seg>Pokud je k dispozici víc cílových pojmů, pak bude použitý ten první (jak je to ukázáno v podokně Glosář).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180948Z" creationid="Josef" creationdate="20180317T180948Z">
+        <seg>Když procházíte soubory (jako protiklad k překladovým pamětem), bude OmegaT prohledávat jen soubory, které jsou ve zdrojovém formátu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32960,6 +34904,86 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180828Z" creationid="Josef" creationdate="20180317T180828Z">
+        <seg>X následované Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180822Z" creationid="Josef" creationdate="20180317T180822Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180824Z" creationid="Josef" creationdate="20180317T180824Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180813Z" creationid="Josef" creationdate="20180317T180813Z">
+        <seg>X, jednou nebo vůbec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180818Z" creationid="Josef" creationdate="20180317T180818Z">
+        <seg>X, jednou nebo vícekrát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180816Z" creationid="Josef" creationdate="20180317T180816Z">
+        <seg>X, nula nebo vícekrát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180815Z" creationid="Josef" creationdate="20180317T180815Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180817Z" creationid="Josef" creationdate="20180317T180817Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180812Z" creationid="Josef" creationdate="20180317T180812Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180821Z" creationid="Josef" creationdate="20180317T180821Z">
+        <seg>X??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102957Z" creationid="Josef" creationdate="20180317T102957Z">
@@ -33016,10 +35040,34 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180827Z" creationid="Josef" creationdate="20180317T180827Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180832Z" creationid="Josef" creationdate="20180317T180832Z">
+        <seg>XY jako samostatná skupina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Xhosa</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103912Z" creationid="Josef" creationdate="20180317T103912Z">
         <seg>Xhoština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180829Z" creationid="Josef" creationdate="20180317T180829Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -33295,6 +35343,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180904Z" creationid="Josef" creationdate="20180317T180904Z">
+        <seg>Současně je možné mít otevřeno několik oken hledání, ale zavřete je hned, když je už nepotřebujete, aby se tak nezahltila paměť počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133913Z" creationid="Josef" creationdate="20180317T133913Z">
@@ -33323,6 +35379,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134231Z" creationid="Josef" creationdate="20180317T134231Z">
         <seg>Pokud chcete nechat načítat obsah externích odkazů, je dobré si příručku otevřít v internetovém prohlížeči.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180955Z" creationid="Josef" creationdate="20180317T180955Z">
+        <seg>V takovém případě se snadno zorientujete v jejich obsahu, a to tak, že když se podíváte na titulek okna: obsahuje použitý hledaný výraz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33359,6 +35423,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180952Z" creationid="Josef" creationdate="20180317T180952Z">
+        <seg>Potom se můžete vrátit zpět do okna Hledat a přejít na další nalezený segment, například abyste jej mohli zkontrolovat, a pokud nutno přizpůsobit terminologii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103924Z" creationid="Josef" creationdate="20180317T103924Z">
@@ -33379,6 +35451,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163613Z" creationid="Josef" creationdate="20180317T163613Z">
         <seg>Mezi různými způsoby zobrazení můžete přepínat stisknutím &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (jedná se o písmeno O, ne o číslici 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180956Z" creationid="Josef" creationdate="20180317T180956Z">
+        <seg>Můžete využít normální navigaci k přechodu na např. další (nepřeložený) segment, který se shoduje s kritérii vyhledávání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33507,6 +35587,14 @@ keep intact all notices stating that this License and any
 non-permissive terms added in accord with section 7 apply to the code;
 keep intact all notices of the absence of any warranty; and give all
 recipients a copy of this License along with the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180954Z" creationid="Josef" creationdate="20180317T180954Z">
+        <seg>Současně je možno mít otevřeno víc oken hledání. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33776,6 +35864,46 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180842Z" creationid="Josef" creationdate="20180317T180842Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180736Z" creationid="Josef" creationdate="20180317T180736Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180744Z" creationid="Josef" creationdate="20180317T180740Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180746Z" creationid="Josef" creationdate="20180317T180746Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180739Z" creationid="Josef" creationdate="20180317T180739Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103015Z" creationid="Josef" creationdate="20180317T103015Z">
@@ -33800,10 +35928,306 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180721Z" creationid="Josef" creationdate="20180317T180721Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180844Z" creationid="Josef" creationdate="20180317T180844Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180851Z" creationid="Josef" creationdate="20180317T180851Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180709Z" creationid="Josef" creationdate="20180317T180709Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180708Z" creationid="Josef" creationdate="20180317T180708Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180708Z" creationid="Josef" creationdate="20180317T180708Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180805Z" creationid="Josef" creationdate="20180317T180805Z">
+        <seg>\B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180753Z" creationid="Josef" creationdate="20180317T180753Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180724Z" creationid="Josef" creationdate="20180317T180724Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180733Z" creationid="Josef" creationdate="20180317T180733Z">
+        <seg>\p{řecky}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180723Z" creationid="Josef" creationdate="20180317T180723Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180757Z" creationid="Josef" creationdate="20180317T180757Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180759Z" creationid="Josef" creationdate="20180317T180759Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180722Z" creationid="Josef" creationdate="20180317T180722Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180706Z" creationid="Josef" creationdate="20180317T180706Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180804Z" creationid="Josef" creationdate="20180317T180804Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180853Z" creationid="Josef" creationdate="20180317T180853Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180707Z" creationid="Josef" creationdate="20180317T180707Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180750Z" creationid="Josef" creationdate="20180317T180750Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180706Z" creationid="Josef" creationdate="20180317T180706Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180705Z" creationid="Josef" creationdate="20180317T180705Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180703Z" creationid="Josef" creationdate="20180317T180703Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180727Z" creationid="Josef" creationdate="20180317T180727Z">
+        <seg>\p{řecky}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180730Z" creationid="Josef" creationdate="20180317T180730Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180731Z" creationid="Josef" creationdate="20180317T180731Z">
+        <seg>\p{Sc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180704Z" creationid="Josef" creationdate="20180317T180704Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180755Z" creationid="Josef" creationdate="20180317T180755Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180845Z" creationid="Josef" creationdate="20180317T180845Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180847Z" creationid="Josef" creationdate="20180317T180847Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180848Z" creationid="Josef" creationdate="20180317T180848Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180850Z" creationid="Josef" creationdate="20180317T180850Z">
+        <seg>\s{2,}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180702Z" creationid="Josef" creationdate="20180317T180702Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180700Z" creationid="Josef" creationdate="20180317T180700Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180758Z" creationid="Josef" creationdate="20180317T180758Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180710Z" creationid="Josef" creationdate="20180317T180710Z">
+        <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180802Z" creationid="Josef" creationdate="20180317T180802Z">
+        <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a language-independent machine translation engine</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165955Z" creationid="Josef" creationdate="20180317T165955Z">
         <seg>jazykový nástroj pro strojový překlad nezávislý na jazyce </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180746Z" creationid="Josef" creationdate="20180317T180746Z">
+        <seg>a až po z nebo A až po Z, včetně (rozsah)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33828,6 +36252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T175932Z" creationid="Josef" creationdate="20180317T175932Z">
         <seg>a) The work must carry prominent notices stating that you modified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180739Z" creationid="Josef" creationdate="20180317T180739Z">
+        <seg>a, b, nebo c (jednoduchá třída)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34480,6 +36912,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180843Z" creationid="Josef" creationdate="20180317T180843Z">
+        <seg>čárka nebo tečka následovaná mezerou a další čárkou nebo mezerou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104033Z" creationid="Josef" creationdate="20180317T104033Z">
@@ -34716,6 +37156,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101920Z" creationid="Josef" creationdate="20180317T101920Z">
         <seg>hotovo ({0} ms proběhlo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180841Z" creationid="Josef" creationdate="20180317T180841Z">
+        <seg>zdvojený výskyt slova</seg>
       </tuv>
     </tu>
     <tu>
@@ -35080,10 +37528,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180913Z" creationid="Josef" creationdate="20180317T180913Z">
+        <seg>Přesné vyhledávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101923Z" creationid="Josef" creationdate="20180317T101923Z">
         <seg>rozšíření:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180846Z" creationid="Josef" creationdate="20180317T180846Z">
+        <seg>mezery navíc, za nimiž je tečka na konci řádku</seg>
       </tuv>
     </tu>
     <tu>
@@ -35448,6 +37912,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180819Z" creationid="Josef" creationdate="20180317T180819Z">
+        <seg>Hladové kvantifikátory se budou snažit najít tolik shody, jak je to jen možné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>grn</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102325Z" creationid="Josef" creationdate="20180317T102325Z">
@@ -35696,6 +38168,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180653Z" creationid="Josef" creationdate="20180317T180653Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180728Z" creationid="Josef" creationdate="20180317T180728Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133653Z" creationid="Josef" creationdate="20180317T133653Z">
@@ -35764,6 +38252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133700Z" creationid="Josef" creationdate="20180317T133700Z">
         <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180835Z" creationid="Josef" creationdate="20180317T180835Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
@@ -36184,6 +38680,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181032Z" creationid="Josef" creationdate="20180317T181032Z">
+        <seg>v regulárních výrazech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T170058Z" creationid="Josef" creationdate="20180317T170058Z">
@@ -36526,6 +39030,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103526Z" creationid="Josef" creationdate="20180317T103526Z">
         <seg>kaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180914Z" creationid="Josef" creationdate="20180317T180914Z">
+        <seg>Hledat podle klíčových slov</seg>
       </tuv>
     </tu>
     <tu>
@@ -37114,6 +39626,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180851Z" creationid="Josef" creationdate="20180317T180851Z">
+        <seg>víc než jedna mezera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>more than your reasonable cost of physically performing this</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164431Z" creationid="Josef" creationdate="20180317T164431Z">
@@ -37374,6 +39894,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103630Z" creationid="Josef" creationdate="20180317T103630Z">
         <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180825Z" creationid="Josef" creationdate="20180317T180825Z">
+        <seg>Líné kvantifikátory se budou snažit najít co nejmíň shody, jak je to jen možné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38082,6 +40610,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180916Z" creationid="Josef" creationdate="20180317T180916Z">
+        <seg>Regulární výrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>released under this License and any conditions added under section</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T175933Z" creationid="Josef" creationdate="20180317T175933Z">
@@ -38282,6 +40818,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180854Z" creationid="Josef" creationdate="20180317T180854Z">
+        <seg>hledej „is“, ale ne „this“ nebo „isn't“ atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084804Z" creationid="Josef" creationdate="20180317T084804Z">
@@ -38470,6 +41014,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103758Z" creationid="Josef" creationdate="20180317T103758Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181012Z" creationid="Josef" creationdate="20180317T181012Z">
+        <seg>Specifikuje, které části textu by NEMĚLY být rozděleny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39355,6 +41907,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180658Z" creationid="Josef" creationdate="20180317T180658Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>xh</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103913Z" creationid="Josef" creationdate="20180317T103913Z">
@@ -39647,6 +42207,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103250Z" creationid="Josef" creationdate="20180317T103250Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T181028Z" creationid="Josef" creationdate="20180317T181028Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
