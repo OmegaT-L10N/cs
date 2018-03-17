@@ -1,15 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="O aplikaci OmegaT" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084831Z" creationid="Josef" creationdate="20180317T084831Z">
+        <seg>#Soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084808Z" creationid="Josef" creationdate="20180317T084808Z">
+        <seg>Použít tento font pro t&amp;abulková data (projektové soubory, statistiky, atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084854Z" creationid="Josef" creationdate="20180317T084854Z">
+        <seg>&amp;Automatické upřednostnění jednoho překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084742Z" creationid="Josef" creationdate="20180317T084742Z">
+        <seg>&amp;Zpět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084943Z" creationid="Josef" creationdate="20180317T084943Z">
+        <seg>&amp;Záložky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>&amp;Procházet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084734Z" creationid="Josef" creationdate="20180317T084734Z">
+        <seg>&amp;Zrušit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084735Z" creationid="Josef" creationdate="20180317T084735Z">
+        <seg>&amp;Zavřít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>&amp;Komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
+        <seg>&amp;Kompatibilita s OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084937Z" creationid="Josef" creationdate="20180317T084937Z">
+        <seg>Nerozkó&amp;dovávat znaky Unicode (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084919Z" creationid="Josef" creationdate="20180317T084919Z">
+        <seg>Soubor&amp;y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084736Z" creationid="Josef" creationdate="20180317T084736Z">
+        <seg>&amp;Filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084919Z" creationid="Josef" creationdate="20180317T084919Z">
+        <seg>V př&amp;ekladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084943Z" creationid="Josef" creationdate="20180317T084943Z">
+        <seg>Položk&amp;y seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Hledat podle &amp;klíčových slov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084935Z" creationid="Josef" creationdate="20180317T084935Z">
+        <seg>&amp;Zalomení řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Upravit pravidla seg&amp;mentace podle konkrétního projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>Poz&amp;námky</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T064109Z" creationid="Josef" creationdate="20180317T064109Z">
         <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>&amp;Poznámky k prezentaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Přesné vyhl&amp;edávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Odst&amp;ranit nepřeložené řetězce v cílových souborech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084740Z" creationid="Josef" creationdate="20180317T084740Z">
+        <seg>Nah&amp;radit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>Jména &amp;listů tabulkového procesoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Povolit překlad práz&amp;dných zdrojových segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Jazyk zdrojových &amp;souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084854Z" creationid="Josef" creationdate="20180317T084854Z">
+        <seg>Tokenizer zdrojového ja&amp;zyka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084854Z" creationid="Josef" creationdate="20180317T084854Z">
+        <seg>&amp;Tokenizer cílového jazyka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084854Z" creationid="Josef" creationdate="20180317T084854Z">
+        <seg>&amp;Jazyk přeložených souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084926Z" creationid="Josef" creationdate="20180317T084926Z">
+        <seg>(koncový tag)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084926Z" creationid="Josef" creationdate="20180317T084926Z">
+        <seg>(tag komentáře)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084925Z" creationid="Josef" creationdate="20180317T084925Z">
+        <seg>více +{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084935Z" creationid="Josef" creationdate="20180317T084935Z">
+        <seg>---- Lokalizační poznámky ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084756Z" creationid="Josef" creationdate="20180317T084756Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084801Z" creationid="Josef" creationdate="20180317T084801Z">
+        <seg>--/-- (--/--, --)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35,10 +315,908 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084848Z" creationid="Josef" creationdate="20180317T084848Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084846Z" creationid="Josef" creationdate="20180317T084846Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084844Z" creationid="Josef" creationdate="20180317T084844Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084842Z" creationid="Josef" creationdate="20180317T084842Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T064153Z" creationid="Josef" creationdate="20180317T064153Z">
         <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>&lt;html&gt;Externí příkazy pro jednotlivé projekty nejsou aktivní a nebudou prováděny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
+        <seg>Přidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084929Z" creationid="Josef" creationdate="20180317T084929Z">
+        <seg>Výjimka při parsování:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084820Z" creationid="Josef" creationdate="20180317T084820Z">
+        <seg>Analýza řetězce – dokončeno {0} z {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084942Z" creationid="Josef" creationdate="20180317T084942Z">
+        <seg>Soubory Android Resource</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084851Z" creationid="Josef" creationdate="20180317T084851Z">
+        <seg>Pole nesmí být prázdná</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
+        <seg>P&amp;rocházet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084920Z" creationid="Josef" creationdate="20180317T084920Z">
+        <seg>Automatická synchronizace s Editorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Nelze přečíst soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084920Z" creationid="Josef" creationdate="20180317T084920Z">
+        <seg>Chybný regulární výraz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Barman zvolal:&lt;p&gt;Tvoje stránka nenalezena chlapče,&lt;p&gt;kup si další drink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084943Z" creationid="Josef" creationdate="20180317T084943Z">
+        <seg>&amp;Odkazy na záložky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
+        <seg>Prochá&amp;zet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
+        <seg>Procház&amp;et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
+        <seg>Procházet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
+        <seg>Zk&amp;opíruj všechna data do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084938Z" creationid="Josef" creationdate="20180317T084938Z">
+        <seg>Camtasia pro Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084825Z" creationid="Josef" creationdate="20180317T084825Z">
+        <seg>Adresář glosáře je nepřístupný!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084825Z" creationid="Josef" creationdate="20180317T084825Z">
+        <seg>Nelze vytvořit adresář pro přeložené soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
+        <seg>Změněno po:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084830Z" creationid="Josef" creationdate="20180317T084830Z">
+        <seg>Znaky (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084830Z" creationid="Josef" creationdate="20180317T084830Z">
+        <seg>Znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084859Z" creationid="Josef" creationdate="20180317T084859Z">
+        <seg>Vyberte projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084814Z" creationid="Josef" creationdate="20180317T084814Z">
+        <seg>&amp;Zavřít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084741Z" creationid="Josef" creationdate="20180317T084741Z">
+        <seg>Ob&amp;sah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Vytvořit nový projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084859Z" creationid="Josef" creationdate="20180317T084859Z">
+        <seg>Vytvořit nový projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084929Z" creationid="Josef" creationdate="20180317T084929Z">
+        <seg>Vytvořil/a: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Vytváření přeložených dokumentů: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084857Z" creationid="Josef" creationdate="20180317T084857Z">
+        <seg>Adresář se soubory slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084854Z" creationid="Josef" creationdate="20180317T084854Z">
+        <seg>Adresář slovníku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084913Z" creationid="Josef" creationdate="20180317T084913Z">
+        <seg>Zadaný adresář se soubory slovníku neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084806Z" creationid="Josef" creationdate="20180317T084806Z">
+        <seg>Zobrazované písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084919Z" creationid="Josef" creationdate="20180317T084919Z">
+        <seg>Zobrazit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084754Z" creationid="Josef" creationdate="20180317T084754Z">
+        <seg>Opravdu chcete skončit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084820Z" creationid="Josef" creationdate="20180317T084820Z">
+        <seg>Stahování projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084851Z" creationid="Josef" creationdate="20180317T084851Z">
+        <seg>Zap&amp;nout segmentaci na úrovni vět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
+        <seg>Výjimk&amp;y...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Chyba: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084925Z" creationid="Josef" creationdate="20180317T084925Z">
+        <seg>Upravit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084851Z" creationid="Josef" creationdate="20180317T084851Z">
+        <seg>Vlastnosti projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084851Z" creationid="Josef" creationdate="20180317T084851Z">
+        <seg>Upravit vlastnosti projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
+        <seg>Prázdnota duše&lt;p&gt;navždy bolestná temnota&lt;p&gt;vaše stránka nápovědy nebyla nalezena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084903Z" creationid="Josef" creationdate="20180317T084903Z">
+        <seg>V mapování se nachází prázdné URL úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>Povolte je v &lt;b&gt;Volby &gt; Ukládání a výstup...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084811Z" creationid="Josef" creationdate="20180317T084811Z">
+        <seg>Kódování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Objevila se nepřípustná sekvence \u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
+        <seg>Stránka nenalezena&lt;p&gt;Já j sem Modrá obrazovka smrti&lt;p&gt;Nikdo tě neuslyší křičet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084822Z" creationid="Josef" creationdate="20180317T084822Z">
+        <seg>Chyba při vytváření projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>Chyba v souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
+        <seg>Chyba v souboru {0}, řádek {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084933Z" creationid="Josef" creationdate="20180317T084933Z">
+        <seg>Chyba při inicializaci značky ‚{0}‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084828Z" creationid="Josef" creationdate="20180317T084828Z">
+        <seg>Chyba při kontrole externího příkazu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084822Z" creationid="Josef" creationdate="20180317T084822Z">
+        <seg>Chyba při ukládání souboru projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084825Z" creationid="Josef" creationdate="20180317T084825Z">
+        <seg>Chyba při startování externího příkazu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084927Z" creationid="Josef" creationdate="20180317T084927Z">
+        <seg>Binární znak, který je kódován řídícím znakem, obsahuje poškozená data ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084927Z" creationid="Josef" creationdate="20180317T084927Z">
+        <seg>Řídící znak nebyl ukončen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084927Z" creationid="Josef" creationdate="20180317T084927Z">
+        <seg>Decimální znak, který je kódován řídícím znakem, obsahuje poškozená data ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084837Z" creationid="Josef" creationdate="20180317T084837Z">
+        <seg>Přesná shoda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Vyřadit vzor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084825Z" creationid="Josef" creationdate="20180317T084825Z">
+        <seg>Vykonává se externí příkaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084827Z" creationid="Josef" creationdate="20180317T084827Z">
+        <seg>Kód výstupu {0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084826Z" creationid="Josef" creationdate="20180317T084826Z">
+        <seg>Kód výstupu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>Externí příkaz pro dodatečné zpracování (Vypnuto):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>Externí příkaz pro dodatečné zpracování:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
+        <seg>Externí hledání...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084826Z" creationid="Josef" creationdate="20180317T084826Z">
+        <seg>Externí příkaz dokončen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084827Z" creationid="Josef" creationdate="20180317T084827Z">
+        <seg>Provádění externího příkazu selhalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084828Z" creationid="Josef" creationdate="20180317T084828Z">
+        <seg>Provádění externího příkazu bylo přerušeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Předvolby zálohovány do {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Nepodařilo se vytvořit projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084822Z" creationid="Josef" creationdate="20180317T084822Z">
+        <seg>Vyskytla se vážná chyba – projekt bude uložen s příponou zálohy pro obnovení '.recover'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
+        <seg>Závažná chyba během parsování na řádku {0}, sloupci {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084925Z" creationid="Josef" creationdate="20180317T084925Z">
+        <seg>Soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Formát souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084832Z" creationid="Josef" creationdate="20180317T084832Z">
+        <seg>Název souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Umístění souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Soubor {0} neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084850Z" creationid="Josef" creationdate="20180317T084850Z">
+        <seg>Soubor {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084802Z" creationid="Josef" creationdate="20180317T084802Z">
+        <seg>Soubor: přeloženo / počet segmentů (projekt: jedinečné přeložené / jedinečné segmenty, celkový počet segmentů)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084803Z" creationid="Josef" creationdate="20180317T084803Z">
+        <seg>Soubor: jedinečné přeložené % (jedinečné zbývá) / projekt jedinečné přeložené % (jedinečné zbývá), celkový počet segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084810Z" creationid="Josef" creationdate="20180317T084810Z">
+        <seg>Název souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084810Z" creationid="Josef" creationdate="20180317T084810Z">
+        <seg>Filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084813Z" creationid="Josef" creationdate="20180317T084813Z">
+        <seg>Filtr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084939Z" creationid="Josef" creationdate="20180317T084939Z">
+        <seg>Export Flash XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084823Z" creationid="Josef" creationdate="20180317T084823Z">
+        <seg>Adresář {0} byl automaticky vytvořen pro projekt týmového režimu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084807Z" creationid="Josef" creationdate="20180317T084807Z">
+        <seg>Písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084850Z" creationid="Josef" creationdate="20180317T084850Z">
+        <seg>Pro všechny soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Formátovat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084908Z" creationid="Josef" creationdate="20180317T084908Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084920Z" creationid="Josef" creationdate="20180317T084920Z">
+        <seg>Glosář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084857Z" creationid="Josef" creationdate="20180317T084857Z">
+        <seg>Adresář se soubory glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Adresář glosáře:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084913Z" creationid="Josef" creationdate="20180317T084913Z">
+        <seg>Zadaný adresář se soubory slovníku neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084911Z" creationid="Josef" creationdate="20180317T084911Z">
+        <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084938Z" creationid="Josef" creationdate="20180317T084938Z">
+        <seg>Soubory Nápovědy &amp; Příručky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084859Z" creationid="Josef" creationdate="20180317T084859Z">
+        <seg>Zde můžete také uvést vlastní umístění podadresářů projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084942Z" creationid="Josef" creationdate="20180317T084942Z">
+        <seg>Jazykový soubor ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
+        <seg>Identifikátor používaný pro alternativní překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
+        <seg>V komentářích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084917Z" creationid="Josef" creationdate="20180317T084917Z">
+        <seg>V poznámkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Začlenit vzor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084832Z" creationid="Josef" creationdate="20180317T084832Z">
+        <seg>Statistika jednotlivých souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084732Z" creationid="Josef" creationdate="20180317T084732Z">
+        <seg>Zahájem  {0}-{1} týmový projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Neplatný formát souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084903Z" creationid="Josef" creationdate="20180317T084903Z">
+        <seg>Neplatný typ úložiště: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51,10 +1229,354 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Možnosti filtru pro Zdrojové balíčky Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Zdrojové balíčky Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084803Z" creationid="Josef" creationdate="20180317T084803Z">
+        <seg>Přeskočit na poslední upravovaný segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084942Z" creationid="Josef" creationdate="20180317T084942Z">
+        <seg>Textové soubory Klíč=Hodnota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
+        <seg>Jazyk pro variantu překladové jednotky není zadán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Jazyky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084805Z" creationid="Josef" creationdate="20180317T084805Z">
+        <seg>Poslední změnu provedl {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Délka řádku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
+        <seg>Linky (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084823Z" creationid="Josef" creationdate="20180317T084823Z">
+        <seg>Načítání souboru TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084821Z" creationid="Josef" creationdate="20180317T084821Z">
+        <seg>Načítají se glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084933Z" creationid="Josef" creationdate="20180317T084933Z">
+        <seg>Načítá se glosář {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084820Z" creationid="Josef" creationdate="20180317T084820Z">
+        <seg>Načítání projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084823Z" creationid="Josef" creationdate="20180317T084823Z">
+        <seg>Načítání: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Místní soubor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
+        <seg>Statistika shody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084837Z" creationid="Josef" creationdate="20180317T084837Z">
+        <seg>Statistika shody podle souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Maximální délka řádku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
+        <seg>Prohledat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
+        <seg>Smutek a nářky&lt;p&gt;404 už tu s námi není&lt;p&gt;stránka se odebrala do věčných lovišť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084813Z" creationid="Josef" creationdate="20180317T084813Z">
+        <seg>Přesunout do&amp;lů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084812Z" creationid="Josef" creationdate="20180317T084812Z">
+        <seg>Přesunout na p&amp;rvní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084813Z" creationid="Josef" creationdate="20180317T084813Z">
+        <seg>Přesunout na posl&amp;ední</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084813Z" creationid="Josef" creationdate="20180317T084813Z">
+        <seg>Přes&amp;unout nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084849Z" creationid="Josef" creationdate="20180317T084849Z">
+        <seg>Bez shody:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084920Z" creationid="Josef" creationdate="20180317T084920Z">
+        <seg>Hledaná data nenalezena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
+        <seg>Poznámka: Soubory DocBook lez identifikovat nejen podle přípony, ale také musí mít deklaraci DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pro DocBook 4 nebo jmenný prostor (Namespace): xmlns="http://docbook.org/ns/docbook" pro DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
+        <seg>Počet jedinečných segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T083418Z" creationid="Josef" creationdate="20180317T083418Z">
         <seg>O aplikaci OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084900Z" creationid="Josef" creationdate="20180317T084900Z">
+        <seg>Soubory projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Adresář projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Otevřít projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084814Z" creationid="Josef" creationdate="20180317T084814Z">
+        <seg>Otevřít zdrojový soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084815Z" creationid="Josef" creationdate="20180317T084815Z">
+        <seg>Otevřít umístění zdrojového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084816Z" creationid="Josef" creationdate="20180317T084816Z">
+        <seg>Otevřít cílový soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
+        <seg>Otevřít umístění cílového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084814Z" creationid="Josef" creationdate="20180317T084814Z">
+        <seg>Otevřít {0} zdrojové soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084815Z" creationid="Josef" creationdate="20180317T084815Z">
+        <seg>Otevřít {0} umístění zdrojových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084816Z" creationid="Josef" creationdate="20180317T084816Z">
+        <seg>Otevřít {0} cílové soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
+        <seg>Otevřít {0} umístění cílových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084943Z" creationid="Josef" creationdate="20180317T084943Z">
+        <seg>Možnosti filtru OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084852Z" creationid="Josef" creationdate="20180317T084852Z">
+        <seg>Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
+        <seg>Umožňuje nastavit délku řádku v cílovém dokumentu (0 = bez omezení)</seg>
       </tuv>
     </tu>
     <tu>
@@ -75,10 +1597,1086 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084825Z" creationid="Josef" creationdate="20180317T084825Z">
+        <seg>Nespárované segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Možnosti filtru PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084733Z" creationid="Josef" creationdate="20180317T084733Z">
+        <seg>Umístěte zdrojové soubory do adresáře ./source a dodatečný materiál do adresářů ./tm, ./glossary a ./dictionary tak, jak je to vyžadování a pak volbu potvrďte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084822Z" creationid="Josef" creationdate="20180317T084822Z">
+        <seg>V dokumentaci k programu naleznete informace o možnostech obnovení projektu a níže uvedené informace prosím poskytněte výrobci softwaru s popisem, jak k této chybě došlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Vyberte, prosím, jiný adresář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084859Z" creationid="Josef" creationdate="20180317T084859Z">
+        <seg>Prosím vyberte jazyk vašich zdrojových souborů a cílový jazyk, do kterého chcete překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084933Z" creationid="Josef" creationdate="20180317T084933Z">
+        <seg>Jar použito pro pluginy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Operace ukládání předvoleb systému selhala!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084950Z" creationid="Josef" creationdate="20180317T084950Z">
+        <seg>Předchozí a další odstavc&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Problém při načítání souboru projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084810Z" creationid="Josef" creationdate="20180317T084810Z">
+        <seg>Soubory projektu ({0} z {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084809Z" creationid="Josef" creationdate="20180317T084809Z">
+        <seg>Soubory projektu ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084828Z" creationid="Josef" creationdate="20180317T084828Z">
+        <seg>Projekt Statistika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084821Z" creationid="Josef" creationdate="20180317T084821Z">
+        <seg>Načítání projektu přerušeno uživatelem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
+        <seg>Místo pípnutí&lt;p&gt;nebo drsné chybové hlášky&lt;p&gt;čtěte: 'Stránka nenalezena'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084738Z" creationid="Josef" creationdate="20180317T084738Z">
+        <seg>Odstra&amp;nit filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084740Z" creationid="Josef" creationdate="20180317T084740Z">
+        <seg>Nahradit &amp;vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Čtení souboru TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084929Z" creationid="Josef" creationdate="20180317T084929Z">
+        <seg>Obnovitelná chyba během parsování na řádku {0}, sloupci {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084835Z" creationid="Josef" creationdate="20180317T084835Z">
+        <seg>Zbývající znaky (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Zbývající znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084833Z" creationid="Josef" creationdate="20180317T084833Z">
+        <seg>Zbývající segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084833Z" creationid="Josef" creationdate="20180317T084833Z">
+        <seg>Zbývající slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084831Z" creationid="Josef" creationdate="20180317T084831Z">
+        <seg>Zbývající:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Vzdálený sobor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
+        <seg>Vzdálené úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
+        <seg>Odstranit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084855Z" creationid="Josef" creationdate="20180317T084855Z">
+        <seg>Odstranit ta&amp;gy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084837Z" creationid="Josef" creationdate="20180317T084837Z">
+        <seg>Opakování z jiných souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084837Z" creationid="Josef" creationdate="20180317T084837Z">
+        <seg>Opakování v tomto souboru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084837Z" creationid="Josef" creationdate="20180317T084837Z">
+        <seg>Opakování:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084902Z" creationid="Josef" creationdate="20180317T084902Z">
+        <seg>Úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084900Z" creationid="Josef" creationdate="20180317T084900Z">
+        <seg>Mapování úložiště...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
+        <seg>Mapování úložiště...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084903Z" creationid="Josef" creationdate="20180317T084903Z">
+        <seg>Úložiště {0} je již přítomno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084903Z" creationid="Josef" creationdate="20180317T084903Z">
+        <seg>Úložiště {0} není známo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084939Z" creationid="Josef" creationdate="20180317T084939Z">
+        <seg>SVG Image a Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084807Z" creationid="Josef" creationdate="20180317T084807Z">
+        <seg>Ukázkový text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
+        <seg>Hledat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
+        <seg>Vně překladové jednotky objeven segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
+        <seg>Segment byl přeskočen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084811Z" creationid="Josef" creationdate="20180317T084811Z">
+        <seg>Segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084752Z" creationid="Josef" creationdate="20180317T084752Z">
+        <seg>Vybrat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
+        <seg>Ukázat pokročilé m&amp;ožnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084807Z" creationid="Josef" creationdate="20180317T084807Z">
+        <seg>Velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
+        <seg>Některé adresáře projektu byly asi přesunuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Kódování zdrojového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084857Z" creationid="Josef" creationdate="20180317T084857Z">
+        <seg>Adresář se zdrojovými soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Adresář se zdrojovými soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084823Z" creationid="Josef" creationdate="20180317T084823Z">
+        <seg>Načítání zdrojového projektu je hotovo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084912Z" creationid="Josef" creationdate="20180317T084912Z">
+        <seg>Zadaný adresář se zdrojovými soubory neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084929Z" creationid="Josef" creationdate="20180317T084929Z">
+        <seg>Zdrojový jazyk: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Zdrojový segment pro některé překladové jednotky se nepodařilo nalézt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
+        <seg>Upřesněte chování manipulace s tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
+        <seg>Statistika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
+        <seg>Titulky SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084904Z" creationid="Josef" creationdate="20180317T084904Z">
+        <seg>Subverze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Soubor TMX byl vytvořen programem OmegaT 1.4.x nebo dřívější verzí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084926Z" creationid="Josef" creationdate="20180317T084926Z">
+        <seg>Název tagu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084935Z" creationid="Josef" creationdate="20180317T084935Z">
+        <seg>Možnosti filtru textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084919Z" creationid="Josef" creationdate="20180317T084919Z">
+        <seg>Hledat v textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084937Z" creationid="Josef" creationdate="20180317T084937Z">
+        <seg>Filtr zdrojových balíčků java ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Bude se pokračovat v načítání souboru TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
+        <seg>TMX soubor nebude načten
+Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Zdrojový jazyk TMX ({0}) je jiný než zdrojový jazyk v projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084904Z" creationid="Josef" creationdate="20180317T084904Z">
+        <seg>Kód jazyka by měl být ve tvaru xx-YY, xxx-YY, xx_YY nebo xxx_YY, kde xx nebo xxx představuje 
+kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084904Z" creationid="Josef" creationdate="20180317T084904Z">
+        <seg>Zadaný jazyk zdrojových souborů je neplatný!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084906Z" creationid="Josef" creationdate="20180317T084906Z">
+        <seg>Zadaný jazyk pro přeložené soubory je neplatný!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084913Z" creationid="Josef" creationdate="20180317T084913Z">
+        <seg>Zapisovatelný soubor glosáře musí být uvnitř adresáře glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Tři věci jsou jisté:&lt;p&gt;Smrt, daně a nenalezená stránka.&lt;p&gt;Jste obětí jedné z nich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Tyto jednotky byly přeskočeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084807Z" creationid="Josef" creationdate="20180317T084807Z">
+        <seg>Takto bude vypadat zobrazený text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084835Z" creationid="Josef" creationdate="20180317T084835Z">
+        <seg>Znaky celkem (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Znaky celkem (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084832Z" creationid="Josef" creationdate="20180317T084832Z">
+        <seg>Segmenty celkem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084833Z" creationid="Josef" creationdate="20180317T084833Z">
+        <seg>Slova celkem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
+        <seg>Celkový počet segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084829Z" creationid="Josef" creationdate="20180317T084829Z">
+        <seg>Celkem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084943Z" creationid="Josef" creationdate="20180317T084943Z">
+        <seg>Přeložit následující segmenty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
+        <seg>Vzor názvu přeloženého souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084857Z" creationid="Josef" creationdate="20180317T084857Z">
+        <seg>Adresář s přeloženými soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Adresář s přeloženými soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Přeložené dokumenty vytvořeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Přeložené dokumenty vytvořeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084912Z" creationid="Josef" creationdate="20180317T084912Z">
+        <seg>Zadaný adresář pro přeložené soubory neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
+        <seg>Přeložené jedinečné segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084857Z" creationid="Josef" creationdate="20180317T084857Z">
+        <seg>Adresář se soubory překladové paměti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Adresář překladové paměti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084804Z" creationid="Josef" creationdate="20180317T084804Z">
+        <seg>Poslední úpravy překladu {0} dne {1} v {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084913Z" creationid="Josef" creationdate="20180317T084913Z">
+        <seg>Zadaný adresář s překladovou pamětí neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
+        <seg>Před hlavičkou TMX objevena překladová jednotka. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
+        <seg>Mimo překladovou jednotku objevena varianta překladové jednotky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
+        <seg>Typ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
+        <seg>Přeložen&amp;o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
+        <seg>Odkazy URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084824Z" creationid="Josef" creationdate="20180317T084824Z">
+        <seg>Nelze vytvořit nový soubor TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084900Z" creationid="Josef" creationdate="20180317T084900Z">
+        <seg>Projekt nelze převést!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084900Z" creationid="Josef" creationdate="20180317T084900Z">
+        <seg>Nelze stáhnout týmový projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084900Z" creationid="Josef" creationdate="20180317T084900Z">
+        <seg>Nelze přečíst soubor projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084835Z" creationid="Josef" creationdate="20180317T084835Z">
+        <seg>Jedinečné znaky (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Jedinečné znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084835Z" creationid="Josef" creationdate="20180317T084835Z">
+        <seg>Jedinečné zbývající znaky (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Zbývající jedinečné znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084833Z" creationid="Josef" creationdate="20180317T084833Z">
+        <seg>Zbývající jedinečné segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Jedinečná Zbývající slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084831Z" creationid="Josef" creationdate="20180317T084831Z">
+        <seg>Zbývající jedinečné segmenty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084833Z" creationid="Josef" creationdate="20180317T084833Z">
+        <seg>Jedinečné segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084834Z" creationid="Josef" creationdate="20180317T084834Z">
+        <seg>Jedinečná slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084812Z" creationid="Josef" creationdate="20180317T084812Z">
+        <seg>Jedinečné segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084832Z" creationid="Josef" creationdate="20180317T084832Z">
+        <seg>Jedinečné segmenty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
+        <seg>Neopravitelná chyba při parsování TMX souboru 
+{0} na řádku {1}, sloupec {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084928Z" creationid="Josef" creationdate="20180317T084928Z">
+        <seg>Nepodporované kódování souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
+        <seg>Probíhá aktualizace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T083430Z" creationid="Josef" creationdate="20180317T083430Z">
         <seg>Použití: java -jar OmegaT.jar [&lt;možnosti&gt;] [&lt;cesta k projektu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
+        <seg>Varianta byla přeskočena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
+        <seg>Titulky WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084830Z" creationid="Josef" creationdate="20180317T084830Z">
+        <seg>Slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
+        <seg>Zapisovatelný soubor glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084853Z" creationid="Josef" creationdate="20180317T084853Z">
+        <seg>Zapisovatelný soubor glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084913Z" creationid="Josef" creationdate="20180317T084913Z">
+        <seg>Zadaný adresář pro zapisovatelný soubor glosáře neexistuje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
+        <seg>Možnosti filtru XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084812Z" creationid="Josef" creationdate="20180317T084812Z">
+        <seg>Detailnější statistické informace naleznete v souboru: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
+        <seg>Měli byste blíže určit jejich umístění nebo je znovu vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
+        <seg>Titulky YouTube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084933Z" creationid="Josef" creationdate="20180317T084933Z">
+        <seg>Váš aktuální projekt používá větnou segmentaci, ale soubor TMX byl vytvořen pomocí segmentace podle odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084859Z" creationid="Josef" creationdate="20180317T084859Z">
+        <seg>Soubory ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084804Z" creationid="Josef" creationdate="20180317T084804Z">
+        <seg>segment 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084805Z" creationid="Josef" creationdate="20180317T084805Z">
+        <seg>neznámá hodnota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084729Z" creationid="Josef" creationdate="20180317T084729Z">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084802Z" creationid="Josef" creationdate="20180317T084802Z">
+        <seg>{0} ({1} zbývá) / {2} ({3} zbývá), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T084925Z" creationid="Josef" creationdate="20180317T084925Z">
+        <seg>více {0} +{1}</seg>
       </tuv>
     </tu>
     <tu>
