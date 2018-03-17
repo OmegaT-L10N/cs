@@ -16,6 +16,20 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Installation Information" for a User Product means any methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164446Z" creationid="Josef" creationdate="20180317T164446Z">
+        <seg>"Installation Information" for a User Product means any methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Licensees" and
 "recipients" may be individuals or organizations.</seg>
       </tuv>
@@ -4276,6 +4290,20 @@ is widely used among developers working in that language.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "User Product" is either (1) a "consumer product", which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164444Z" creationid="Josef" creationdate="20180317T164444Z">
+        <seg>A "User Product" is either (1) a "consumer product", which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "covered work" means either the unmodified Program or a work based
 on the Program.</seg>
       </tuv>
@@ -4378,6 +4406,20 @@ beyond what the individual works permit.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164445Z" creationid="Josef" creationdate="20180317T164445Z">
+        <seg>A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163657Z" creationid="Josef" creationdate="20180317T163657Z">
@@ -4398,6 +4440,18 @@ beyond what the individual works permit.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>K provedení těchto změn je vyžadován restart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164443Z" creationid="Josef" creationdate="20180317T164443Z">
+        <seg>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,10 +7406,50 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Corresponding Source along with the object code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164437Z" creationid="Josef" creationdate="20180317T164437Z">
+        <seg>Corresponding Source along with the object code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Corresponding Source fixed on a durable physical medium</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164422Z" creationid="Josef" creationdate="20180317T164422Z">
         <seg>Corresponding Source fixed on a durable physical medium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source from a network server at no charge.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164431Z" creationid="Josef" creationdate="20180317T164431Z">
+        <seg>Corresponding Source from a network server at no charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source in the same way through the same place at no</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164435Z" creationid="Josef" creationdate="20180317T164435Z">
+        <seg>Corresponding Source in the same way through the same place at no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source, you remain obligated to ensure that it is</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164441Z" creationid="Josef" creationdate="20180317T164441Z">
+        <seg>Corresponding Source, you remain obligated to ensure that it is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164440Z" creationid="Josef" creationdate="20180317T164440Z">
+        <seg>Corresponding Source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10541,6 +10635,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a particular
+product received by a particular user, "normally used" refers to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164445Z" creationid="Josef" creationdate="20180317T164445Z">
+        <seg>For a particular
+product received by a particular user, "normally used" refers to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103400Z" creationid="Josef" creationdate="20180317T103400Z">
@@ -12116,6 +12226,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the place to</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164437Z" creationid="Josef" creationdate="20180317T164437Z">
+        <seg>If the place to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
@@ -12544,6 +12662,16 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
         <seg>V komentářích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164444Z" creationid="Josef" creationdate="20180317T164444Z">
+        <seg>In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18505,6 +18633,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regardless of what server hosts the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164440Z" creationid="Josef" creationdate="20180317T164440Z">
+        <seg>Regardless of what server hosts the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101918Z" creationid="Josef" creationdate="20180317T101918Z">
@@ -20901,6 +21037,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104354Z" creationid="Josef" creationdate="20180317T104354Z">
         <seg>Zdroj vybraných přibližných překladů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of the work are being offered to the general public at no</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164443Z" creationid="Josef" creationdate="20180317T164443Z">
+        <seg>Source of the work are being offered to the general public at no</seg>
       </tuv>
     </tu>
     <tu>
@@ -23889,6 +24033,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134001Z" creationid="Josef" creationdate="20180317T134001Z">
         <seg>V překladu budou zobrazeny jako samostatné segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164433Z" creationid="Josef" creationdate="20180317T164433Z">
+        <seg>This</seg>
       </tuv>
     </tu>
     <tu>
@@ -27482,6 +27634,14 @@ or can get the source code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You need not require recipients to copy the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164436Z" creationid="Josef" creationdate="20180317T164436Z">
+        <seg>You need not require recipients to copy the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101911Z" creationid="Josef" creationdate="20180317T101911Z">
@@ -27739,6 +27899,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>alternative is allowed only occasionally and noncommercially, and</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164433Z" creationid="Josef" creationdate="20180317T164433Z">
+        <seg>alternative is allowed only occasionally and noncommercially, and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>am</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102120Z" creationid="Josef" creationdate="20180317T102120Z">
@@ -27839,6 +28007,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102131Z" creationid="Josef" creationdate="20180317T102131Z">
         <seg>ava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>available for as long as needed to satisfy these requirements.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164441Z" creationid="Josef" creationdate="20180317T164441Z">
+        <seg>available for as long as needed to satisfy these requirements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28051,6 +28227,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>c) Convey individual copies of the object code with a copy of the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164432Z" creationid="Josef" creationdate="20180317T164432Z">
+        <seg>c) Convey individual copies of the object code with a copy of the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102222Z" creationid="Josef" creationdate="20180317T102222Z">
@@ -28147,6 +28331,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>charge under subsection 6d.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164443Z" creationid="Josef" creationdate="20180317T164443Z">
+        <seg>charge under subsection 6d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>che</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102228Z" creationid="Josef" creationdate="20180317T102228Z">
@@ -28167,6 +28359,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102233Z" creationid="Josef" creationdate="20180317T102233Z">
         <seg>chv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>clear directions next to the object code saying where to find the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164439Z" creationid="Josef" creationdate="20180317T164439Z">
+        <seg>clear directions next to the object code saying where to find the</seg>
       </tuv>
     </tu>
     <tu>
@@ -28199,6 +28399,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134113Z" creationid="Josef" creationdate="20180317T134113Z">
         <seg>Pbsahuje statistiku shody posledního zpracovávaného projektu, je generován přes &lt;g0&gt;Nástroje &gt; Statistika shody&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conveying of source, or (2) access to copy the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164431Z" creationid="Josef" creationdate="20180317T164431Z">
+        <seg>conveying of source, or (2) access to copy the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy the object code is a network server, the Corresponding Source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164438Z" creationid="Josef" creationdate="20180317T164438Z">
+        <seg>copy the object code is a network server, the Corresponding Source</seg>
       </tuv>
     </tu>
     <tu>
@@ -28295,6 +28511,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103906Z" creationid="Josef" creationdate="20180317T103906Z">
         <seg>cym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>d) Convey the object code by offering access from a designated</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164435Z" creationid="Josef" creationdate="20180317T164435Z">
+        <seg>d) Convey the object code by offering access from a designated</seg>
       </tuv>
     </tu>
     <tu>
@@ -28399,6 +28623,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102254Z" creationid="Josef" creationdate="20180317T102254Z">
         <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e) Convey the object code using peer-to-peer transmission, provided</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164442Z" creationid="Josef" creationdate="20180317T164442Z">
+        <seg>e) Convey the object code using peer-to-peer transmission, provided</seg>
       </tuv>
     </tu>
     <tu>
@@ -28903,6 +29135,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102315Z" creationid="Josef" creationdate="20180317T102315Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>further charge.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164436Z" creationid="Josef" creationdate="20180317T164436Z">
+        <seg>further charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30477,6 +30717,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>may be on a different server (operated by you or a third party)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164438Z" creationid="Josef" creationdate="20180317T164438Z">
+        <seg>may be on a different server (operated by you or a third party)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mg</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103611Z" creationid="Josef" creationdate="20180317T103611Z">
@@ -30553,6 +30801,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103622Z" creationid="Josef" creationdate="20180317T103622Z">
         <seg>mon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>more than your reasonable cost of physically performing this</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164431Z" creationid="Josef" creationdate="20180317T164431Z">
+        <seg>more than your reasonable cost of physically performing this</seg>
       </tuv>
     </tu>
     <tu>
@@ -30933,6 +31189,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>only if you received the object code with such an offer, in accord</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164434Z" creationid="Josef" creationdate="20180317T164434Z">
+        <seg>only if you received the object code with such an offer, in accord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102047Z" creationid="Josef" creationdate="20180317T102047Z">
@@ -31201,6 +31465,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103718Z" creationid="Josef" creationdate="20180317T103718Z">
         <seg>pl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>place (gratis or for a charge), and offer equivalent access to the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164435Z" creationid="Josef" creationdate="20180317T164435Z">
+        <seg>place (gratis or for a charge), and offer equivalent access to the</seg>
       </tuv>
     </tu>
     <tu>
@@ -32053,6 +32325,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>that supports equivalent copying facilities, provided you maintain</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164439Z" creationid="Josef" creationdate="20180317T164439Z">
+        <seg>that supports equivalent copying facilities, provided you maintain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the contents of the source folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133740Z" creationid="Josef" creationdate="20180317T133740Z">
@@ -32573,6 +32853,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>with subsection 6b.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164434Z" creationid="Josef" creationdate="20180317T164434Z">
+        <seg>with subsection 6b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>wln</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103905Z" creationid="Josef" creationdate="20180317T103905Z">
@@ -32601,6 +32889,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164418Z" creationid="Josef" creationdate="20180317T164418Z">
         <seg>work need not make them do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>written offer to provide the Corresponding Source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164432Z" creationid="Josef" creationdate="20180317T164432Z">
+        <seg>written offer to provide the Corresponding Source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32649,6 +32945,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103917Z" creationid="Josef" creationdate="20180317T103917Z">
         <seg>yor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you inform other peers where the object code and Corresponding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164442Z" creationid="Josef" creationdate="20180317T164442Z">
+        <seg>you inform other peers where the object code and Corresponding</seg>
       </tuv>
     </tu>
     <tu>
