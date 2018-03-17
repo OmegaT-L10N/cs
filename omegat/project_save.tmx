@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Additional permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175950Z" creationid="Josef" creationdate="20180317T175950Z">
+        <seg>"Additional permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.</seg>
       </tuv>
@@ -26,6 +36,22 @@ a modified version of its Corresponding Source.</seg>
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
 a modified version of its Corresponding Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Knowingly relying" means you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180003Z" creationid="Josef" creationdate="20180317T180003Z">
+        <seg>"Knowingly relying" means you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,6 +122,14 @@ License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164114Z" creationid="Josef" creationdate="20180317T164114Z">
         <seg>Zástupné znaky „ZZ“ reprezentují část paměti zadávanou v megabytech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"keep intact all notices".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175935Z" creationid="Josef" creationdate="20180317T175935Z">
+        <seg>"keep intact all notices".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +4560,16 @@ into a dwelling.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175958Z" creationid="Josef" creationdate="20180317T175958Z">
+        <seg>A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "covered work" means either the unmodified Program or a work based
 on the Program.</seg>
       </tuv>
@@ -4568,6 +4612,24 @@ in or on a volume of a storage or distribution medium, is called an
 "aggregate" if the compilation and its resulting copyright are not
 used to limit the access or legal rights of the compilation's users
 beyond what the individual works permit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175959Z" creationid="Josef" creationdate="20180317T175959Z">
+        <seg>A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4940,6 +5002,20 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175948Z" creationid="Josef" creationdate="20180317T175948Z">
+        <seg>Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102040Z" creationid="Josef" creationdate="20180317T102040Z">
@@ -5112,6 +5188,18 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164209Z" creationid="Josef" creationdate="20180317T164209Z">
         <seg>V takovém případě je nutno zadat dodatečné parametry určující umístění cílových dat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175951Z" creationid="Josef" creationdate="20180317T175951Z">
+        <seg>Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6601,6 +6689,20 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175947Z" creationid="Josef" creationdate="20180317T175947Z">
+        <seg>But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
@@ -7803,6 +7905,22 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164437Z" creationid="Josef" creationdate="20180317T164437Z">
         <seg>Corresponding Source along with the object code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175949Z" creationid="Josef" creationdate="20180317T175949Z">
+        <seg>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,6 +9666,20 @@ PURPOSE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180000Z" creationid="Josef" creationdate="20180317T180000Z">
+        <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each file type is handled differently in OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
@@ -11044,6 +11176,20 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102822Z" creationid="Josef" creationdate="20180317T102822Z">
         <seg>Zá&amp;patí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For
+purposes of this definition, "control" includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180000Z" creationid="Josef" creationdate="20180317T180000Z">
+        <seg>For
+purposes of this definition, "control" includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13172,6 +13318,50 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180002Z" creationid="Josef" creationdate="20180317T180002Z">
+        <seg>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175946Z" creationid="Josef" creationdate="20180317T175946Z">
+        <seg>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -13354,6 +13544,26 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
         <seg>Pokud zdrojové soubory obsahují formátovaný text, např. Microsoft Word, LibreOffice Writer nebo HTML, OmegaT zkonvertuje formátování do tagů, které obklopují překládaný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180003Z" creationid="Josef" creationdate="20180317T180003Z">
+        <seg>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13652,6 +13862,20 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134058Z" creationid="Josef" creationdate="20180317T134058Z">
         <seg>V následujícím příkladě obsahuje adresář &lt;f0&gt;my projects&lt;/f0&gt; tři projekty OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the following three paragraphs, a "patent license" is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180001Z" creationid="Josef" creationdate="20180317T180001Z">
+        <seg>In the following three paragraphs, a "patent license" is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,6 +15446,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102040Z" creationid="Josef" creationdate="20180317T102040Z">
         <seg>Právní poznámky a zásluhy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>License to anyone who comes into possession of a copy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175936Z" creationid="Josef" creationdate="20180317T175936Z">
+        <seg>License to anyone who comes into possession of a copy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>License will therefore apply, along with any applicable section 7</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175936Z" creationid="Josef" creationdate="20180317T175936Z">
+        <seg>License will therefore apply, along with any applicable section 7</seg>
       </tuv>
     </tu>
     <tu>
@@ -23414,6 +23654,16 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The
+work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175959Z" creationid="Josef" creationdate="20180317T175959Z">
+        <seg>The
+work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Corresponding Source" for a work in object code form means all
 the source code needed to generate, install, and (for an executable
 work) run the object code and to modify the work, including scripts to
@@ -24297,6 +24547,20 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175946Z" creationid="Josef" creationdate="20180317T175946Z">
+        <seg>The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163759Z" creationid="Josef" creationdate="20180317T163759Z">
@@ -24623,6 +24887,20 @@ modification follow.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133736Z" creationid="Josef" creationdate="20180317T133736Z">
         <seg>Úložiště je v tento moment prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175947Z" creationid="Josef" creationdate="20180317T175947Z">
+        <seg>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25854,6 +26132,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This requirement modifies the requirement in section 4 to</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175934Z" creationid="Josef" creationdate="20180317T175934Z">
+        <seg>This requirement modifies the requirement in section 4 to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102042Z" creationid="Josef" creationdate="20180317T102042Z">
@@ -25962,6 +26248,18 @@ parties to make or receive copies.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164349Z" creationid="Josef" creationdate="20180317T164349Z">
         <seg>To "convey" a work means any kind of propagation that enables other
 parties to make or receive copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "grant" such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T180001Z" creationid="Josef" creationdate="20180317T180001Z">
+        <seg>To "grant" such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29326,6 +29624,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a) The work must carry prominent notices stating that you modified</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175932Z" creationid="Josef" creationdate="20180317T175932Z">
+        <seg>a) The work must carry prominent notices stating that you modified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>aa</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102112Z" creationid="Josef" creationdate="20180317T102112Z">
@@ -29622,6 +29928,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b) The work must carry prominent notices stating that it is</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175933Z" creationid="Josef" creationdate="20180317T175933Z">
+        <seg>b) The work must carry prominent notices stating that it is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ba</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102152Z" creationid="Josef" creationdate="20180317T102152Z">
@@ -29806,6 +30120,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>c) You must license the entire work, as a whole, under this</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175935Z" creationid="Josef" creationdate="20180317T175935Z">
+        <seg>c) You must license the entire work, as a whole, under this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102222Z" creationid="Josef" creationdate="20180317T102222Z">
@@ -29978,6 +30300,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164431Z" creationid="Josef" creationdate="20180317T164431Z">
         <seg>conveying of source, or (2) access to copy the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy of the Corresponding Source for all the software in the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175941Z" creationid="Josef" creationdate="20180317T175941Z">
+        <seg>copy of the Corresponding Source for all the software in the</seg>
       </tuv>
     </tu>
     <tu>
@@ -32400,6 +32730,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>medium customarily used for software interchange, for a price no</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175942Z" creationid="Josef" creationdate="20180317T175942Z">
+        <seg>medium customarily used for software interchange, for a price no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mg</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103611Z" creationid="Josef" creationdate="20180317T103611Z">
@@ -32468,6 +32806,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103621Z" creationid="Josef" creationdate="20180317T103621Z">
         <seg>mn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>model, to give anyone who possesses the object code either (1) a</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175940Z" creationid="Josef" creationdate="20180317T175940Z">
+        <seg>model, to give anyone who possesses the object code either (1) a</seg>
       </tuv>
     </tu>
     <tu>
@@ -33176,6 +33522,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>product that is covered by this License, on a durable physical</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175941Z" creationid="Josef" creationdate="20180317T175941Z">
+        <seg>product that is covered by this License, on a durable physical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104149Z" creationid="Josef" creationdate="20180317T104149Z">
@@ -33420,6 +33774,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164415Z" creationid="Josef" creationdate="20180317T164415Z">
         <seg>regardless of how they are packaged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>released under this License and any conditions added under section</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175933Z" creationid="Josef" creationdate="20180317T175933Z">
+        <seg>released under this License and any conditions added under section</seg>
       </tuv>
     </tu>
     <tu>
@@ -34645,6 +35007,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164432Z" creationid="Josef" creationdate="20180317T164432Z">
         <seg>written offer to provide the Corresponding Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>written offer, valid for at least three years and valid for as</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175939Z" creationid="Josef" creationdate="20180317T175939Z">
+        <seg>written offer, valid for at least three years and valid for as</seg>
       </tuv>
     </tu>
     <tu>
