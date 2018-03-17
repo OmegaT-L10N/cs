@@ -1535,6 +1535,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-dir=/path/to/config-files/ \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164149Z" creationid="Josef" creationdate="20180317T164149Z">
+        <seg>--config-dir=/cesta/ke/konfiguracnim-souborum/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164151Z" creationid="Josef" creationdate="20180317T164151Z">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1571,6 +1587,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="CS" changeid="Josef" changedate="20180317T101533Z" creationid="Josef" creationdate="20180317T101533Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Zadává jiný než výchozí modus (grafické uživatelské prostředí)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164152Z" creationid="Josef" creationdate="20180317T164152Z">
+        <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,12 +1654,28 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--source-pattern={regexp}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164153Z" creationid="Josef" creationdate="20180317T164153Z">
+        <seg>--source-pattern={regulární výraz}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101543Z" creationid="Josef" creationdate="20180317T101543Z">
         <seg>--tag-validation=[abort|warn]
 		Validace tagů..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164129Z" creationid="Josef" creationdate="20180317T164129Z">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1809,6 +1849,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102038Z" creationid="Josef" creationdate="20180317T102038Z">
         <seg>&lt;/e4&gt; Dotazy mohou být také komplexní, je možno například hledat segmenty obsahující dvě nebo více po sobě jdoucích mezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/l2&gt;Example:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164148Z" creationid="Josef" creationdate="20180317T164148Z">
+        <seg>&lt;/l2&gt;Příklad:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2117,6 +2165,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164137Z" creationid="Josef" creationdate="20180317T164137Z">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164113Z" creationid="Josef" creationdate="20180317T164113Z">
@@ -2145,6 +2201,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164116Z" creationid="Josef" creationdate="20180317T164116Z">
         <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt; &lt;i2/&gt;&lt;/e0&gt; Adresa IP vašeho proxy serveru, pokud váš systém používá proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164158Z" creationid="Josef" creationdate="20180317T164158Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; startuje v režimu příkazového řádku a vykoná tak jednu z následujících služeb automaticky</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,10 +2974,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164156Z" creationid="Josef" creationdate="20180317T164156Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; prozradí &lt;a1&gt;OmegaT&lt;/a1&gt;, ve kterém adresáři jsou uloženy konfigurační soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164158Z" creationid="Josef" creationdate="20180317T164158Z">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;  který konfigurační soubor se má použít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134144Z" creationid="Josef" creationdate="20180317T134144Z">
         <seg>&lt;l0&gt;&lt;Domovská složka uživatele&gt;/.omegat&lt;/l0&gt; (.omegat je adresář, tečka před názvem znamená, že je neviditelný, a zobrazíte jej např. v terminálu napsáním příkazu ls -a nebo odpovídající příkaz.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164155Z" creationid="Josef" creationdate="20180317T164155Z">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;, kde najít projekt, který má být překládán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3542,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Command line mode&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164140Z" creationid="Josef" creationdate="20180317T164140Z">
+        <seg>&lt;p0&gt;Spouštění OmegaT&lt;/p0&gt; &lt;s1&gt;Režim příkazového řádku&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163920Z" creationid="Josef" creationdate="20180317T163920Z">
@@ -3522,6 +3618,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164105Z" creationid="Josef" creationdate="20180317T164105Z">
         <seg>&lt;p0&gt;Spouštění OmegaT&lt;/p0&gt; &lt;s1&gt;Parametry spouštěcího skriptu&lt;/s1&gt; &lt;t2&gt;Jazyk uživatelského rozhraní&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Yandex Translate&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164132Z" creationid="Josef" creationdate="20180317T164130Z">
+        <seg>&lt;p0&gt;Spouštění OmegaT&lt;/p0&gt; &lt;s1&gt;Parametry spouštěcího skriptu&lt;/s1&gt; &lt;t2&gt;Yandex Translate&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4186,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101913Z" creationid="Josef" creationdate="20180317T101913Z">
         <seg>Klíč API Key:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164137Z" creationid="Josef" creationdate="20180317T164137Z">
+        <seg>O API klíče můžete zažádat prostřednictvím žádacího formuláře &lt;u0&gt;API key request form&lt;/u0&gt;, a zobrazit je na stránce ‚Mé klíče / &lt;u1&gt;My Keys&lt;/u1&gt;‘</seg>
       </tuv>
     </tu>
     <tu>
@@ -5048,6 +5160,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164103Z" creationid="Josef" creationdate="20180317T164103Z">
         <seg>Jednotlivé parametry se přidávají za počáteční &lt;e0&gt;„java“&lt;/e0&gt; a před část &lt;e1&gt;„-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar“&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164138Z" creationid="Josef" creationdate="20180317T164138Z">
+        <seg>Parametry lze kombinovat: pro spuštění aplikace &lt;a0&gt;OmegaT&lt;/a0&gt; se všemi výše uvedenými příklady bude příkaz vypadat následovně:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9197,6 +9317,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164155Z" creationid="Josef" creationdate="20180317T164155Z">
+        <seg>Vysvětlení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102041Z" creationid="Josef" creationdate="20180317T102041Z">
@@ -11093,6 +11221,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164156Z" creationid="Josef" creationdate="20180317T164156Z">
+        <seg>Pokud je to tedy zadáno, &lt;a2&gt;OmegaT&lt;/a2&gt; startuje v režimu příkazového řádku a přeloží zadaný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134240Z" creationid="Josef" creationdate="20180317T134240Z">
@@ -11132,6 +11268,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103104Z" creationid="Josef" creationdate="20180317T103104Z">
         <seg>Pokud bude později umožněn přístup do požadovaného umístění, bude toto umístění použito a následkem změny umístění se vrátí všechna nastavení do stavu výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164157Z" creationid="Josef" creationdate="20180317T164157Z">
+        <seg>Když není zadáno, &lt;a2&gt;OmegaT&lt;/a2&gt; se vrátí k výchozím hodnotám (adresář &lt;a3&gt;OmegaT&lt;/a3&gt; v domovské složce  uživatele, nebo když není dostupné, pak adresář, ve kterém se právě pracuje).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11320,6 +11464,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164145Z" creationid="Josef" creationdate="20180317T164145Z">
+        <seg>Když nejde &lt;a0&gt;OmegaT&lt;/a0&gt; spustit běžným způsobem (není dostupné žádné grafické prostředí): zkopírujte do patřičného adresáře soubory nastavení z jiné instalace aplikace &lt;a1&gt;OmegaT&lt;/a1&gt; na jiném počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163806Z" creationid="Josef" creationdate="20180317T163806Z">
@@ -11368,6 +11520,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164143Z" creationid="Josef" creationdate="20180317T164143Z">
+        <seg>Pokud budete chtít změnit nastavení, musíte mít konfigurační soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163557Z" creationid="Josef" creationdate="20180317T163557Z">
@@ -11380,6 +11540,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163707Z" creationid="Josef" creationdate="20180317T163707Z">
         <seg>Pokud potřebujete vidět tagy v aplikaci OmegaT, ale nemusíte zachovat většinou formátování v přeloženém dokumentu, tak se můžete volně rozhodnout, zda tagy do překladu zařadíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164145Z" creationid="Josef" creationdate="20180317T164145Z">
+        <seg>Když &lt;a1&gt;OmegaT&lt;/a1&gt; běží v režimu příkazového řádku, tak bude použito stejné nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11724,6 +11892,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163822Z" creationid="Josef" creationdate="20180317T163822Z">
         <seg>Nicméně v tomto případě:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164159Z" creationid="Josef" creationdate="20180317T164159Z">
+        <seg>V tomto režimu se OmegaT pokusí přeložit soubory z adresáře /source/ za pomoci dostupných překladových pamětí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13489,6 +13665,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164136Z" creationid="Josef" creationdate="20180317T164136Z">
+        <seg>Ujistěte se, že máte svůj účet zdarma na Yandex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163833Z" creationid="Josef" creationdate="20180317T163833Z">
@@ -14773,6 +14957,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note double - character</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164157Z" creationid="Josef" creationdate="20180317T164157Z">
+        <seg>Všimněte si dvojitého znaku pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all parameters start with a double - character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164154Z" creationid="Josef" creationdate="20180317T164154Z">
+        <seg>Všimněte si, že všechny parametry začínají dvojitým znakem pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133834Z" creationid="Josef" creationdate="20180317T133834Z">
@@ -15233,6 +15433,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134035Z" creationid="Josef" creationdate="20180317T134035Z">
         <seg>OmegaT najde kódování zdrojového souboru za užití jeho deklarace kódování, tedy pokud je nějaká deklarace k dispozici (soubory HTML, soubory založené na XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164141Z" creationid="Josef" creationdate="20180317T164141Z">
+        <seg>OmegaT v režimu příkazového řádku</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,6 +16810,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164142Z" creationid="Josef" creationdate="20180317T164142Z">
+        <seg>Co budeme potřebovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102938Z" creationid="Josef" creationdate="20180317T102938Z">
@@ -17953,6 +18169,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102011Z" creationid="Josef" creationdate="20180317T102011Z">
         <seg>Pravidla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164144Z" creationid="Josef" creationdate="20180317T164144Z">
+        <seg>Spusťte aplikaci &lt;a0&gt;OmegaT&lt;/a0&gt; běžným způsobem (přes grafické uživatelské prostředí / GUI) a zvolte vhodné nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19857,6 +20081,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting in console mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164147Z" creationid="Josef" creationdate="20180317T164147Z">
+        <seg>Spouštění aplikace v režimu příkazového řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
@@ -21538,6 +21770,22 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164146Z" creationid="Josef" creationdate="20180317T164146Z">
+        <seg>Umístění není důležité, protože se tento údaj může zadat v příkazovém řádku při startu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164143Z" creationid="Josef" creationdate="20180317T164143Z">
+        <seg>Umístění není důležité, protože se tento údaj stejně musí zadat v příkazovém řádku při startu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163739Z" creationid="Josef" creationdate="20180317T163739Z">
@@ -21574,6 +21822,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134103Z" creationid="Josef" creationdate="20180317T134103Z">
         <seg>Soubor &lt;f1&gt;project_save.tmx&lt;/f1&gt; představuje pracovní překladovou paměť projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164148Z" creationid="Josef" creationdate="20180317T164148Z">
+        <seg>Nejdůležitější z nich je &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, a volitelně &lt;l2&gt;--config-dir=&lt;config-dir&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21714,10 +21970,26 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164141Z" creationid="Josef" creationdate="20180317T164141Z">
+        <seg>Důvod proč využívat příkazový řádek (konzoli) je použití aplikace OmegaT jako překladatelský nástroj ve skriptovacím prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163746Z" creationid="Josef" creationdate="20180317T163746Z">
         <seg>Rozeznatelné koncovky jsou &lt;f1&gt;TXT&lt;/f1&gt; a &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164146Z" creationid="Josef" creationdate="20180317T164146Z">
+        <seg>Důležité soubory jsou &lt;l2&gt;filters.conf&lt;/l2&gt; a &lt;l3&gt;segmentation.conf&lt;/l3&gt; a můžete je najít v adresáři home daného uživatele (např. &lt;l4&gt;C:\Dokumenty a nastavení\%Uživatel%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; ve Windows, &lt;l6&gt;%uzivatel%/.omegat/&lt;/l6&gt; v Linuxu)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22361,6 +22633,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101851Z" creationid="Josef" creationdate="20180317T101851Z">
         <seg>Toto hlášení MUSÍ být provedeno v swing thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164144Z" creationid="Josef" creationdate="20180317T164144Z">
+        <seg>Toho lze dosáhnout dvěma způsoby:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23015,10 +23295,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164143Z" creationid="Josef" creationdate="20180317T164143Z">
+        <seg>Aby šlo spustit &lt;a0&gt;OmegaT&lt;/a0&gt; v režimu příkazového řádku, je nutné, aby existoval platný &lt;a1&gt;OmegaT&lt;/a1&gt; projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133941Z" creationid="Josef" creationdate="20180317T133941Z">
         <seg>V nabídce &lt;g0&gt;Možnosti &gt; Filtry souborů...&lt;/g0&gt; naleznete informace o tom, které formáty umí OmegaT zpracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164148Z" creationid="Josef" creationdate="20180317T164148Z">
+        <seg>Pro spuštění aplikace &lt;a0&gt;OmegaT&lt;/a0&gt; v režimu příkazového řádku musíte při startu nastavit pár parametrů navíc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24703,6 +24999,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164142Z" creationid="Josef" creationdate="20180317T164142Z">
+        <seg>Když aplikaci spustíte v příkazovém řádku, nenahraje se žádné grafické prostředí (je možné pracovat v jakémkoliv typu příkazovém řádku) a daný projekt je přeložen automaticky dle zadaných parametrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163626Z" creationid="Josef" creationdate="20180317T163626Z">
@@ -25567,6 +25871,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101600Z" creationid="Josef" creationdate="20180317T101600Z">
         <seg>Váš projekt neobsahuje žádné soubory v podporovaném formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164136Z" creationid="Josef" creationdate="20180317T164136Z">
+        <seg>Budete jej potřebovat pro získání a používání překladového klíče Yandex Translate API key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27187,6 +27499,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164134Z" creationid="Josef" creationdate="20180317T164134Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164135Z" creationid="Josef" creationdate="20180317T164135Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://code.google.com/p/tortoisegit/</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133700Z" creationid="Josef" creationdate="20180317T133700Z">
@@ -27749,6 +28077,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164139Z" creationid="Josef" creationdate="20180317T164139Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164110Z" creationid="Josef" creationdate="20180317T164110Z">
@@ -27769,6 +28105,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164057Z" creationid="Josef" creationdate="20180317T164057Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164149Z" creationid="Josef" creationdate="20180317T164149Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /cesta/k/projektu \</seg>
       </tuv>
     </tu>
     <tu>
