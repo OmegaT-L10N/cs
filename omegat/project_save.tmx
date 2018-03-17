@@ -1339,6 +1339,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163525Z" creationid="Josef" creationdate="20180317T163525Z">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102943Z" creationid="Josef" creationdate="20180317T102943Z">
@@ -1779,6 +1787,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134053Z" creationid="Josef" creationdate="20180317T134053Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; pracuje se třemi typy souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
+        <seg>S programem &lt;a0&gt;OmegaT&lt;/a0&gt; můžete překládat soubory mnoha formátů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,6 +2648,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
+        <seg>&lt;p0&gt;Formáty souborů&lt;/p0&gt; &lt;s1&gt;Neformátované&lt;/s1&gt; &lt;s2&gt;Zdrojové soubory&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;formatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163518Z" creationid="Josef" creationdate="20180317T163518Z">
+        <seg>&lt;p0&gt;Formáty souborů&lt;/p0&gt; &lt;s1&gt;formátované&lt;/s1&gt; &lt;s2&gt;Zdrojové soubory&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103938Z" creationid="Josef" creationdate="20180317T103938Z">
@@ -2888,10 +2920,50 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163505Z" creationid="Josef" creationdate="20180317T163505Z">
+        <seg>&lt;p0&gt;Zdrojové soubory&lt;/p0&gt; &lt;s1&gt;Formáty souborů&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134014Z" creationid="Josef" creationdate="20180317T134014Z">
         <seg>&lt;p0&gt;Zdrojové soubory&lt;/p0&gt; &lt;s1&gt;Typ souboru a vzor názvu souboru&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163518Z" creationid="Josef" creationdate="20180317T163518Z">
+        <seg>&lt;p0&gt;Zdrojové soubory&lt;/p0&gt; &lt;s1&gt;Soubory s formátovaným textem&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163555Z" creationid="Josef" creationdate="20180317T163555Z">
+        <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;soubory PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163516Z" creationid="Josef" creationdate="20180317T163516Z">
+        <seg>Zdrojové soubory&lt;p0&gt;&lt;/p0&gt; &lt;s1&gt;PO jako dvoujazyčné soubory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
+        <seg>&lt;p0&gt;Zdrojové soubory&lt;/p0&gt; &lt;s1&gt;Prosté textové soubory&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2912,10 +2984,42 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163505Z" creationid="Josef" creationdate="20180317T163505Z">
+        <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;Formáty souborů&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Filenames&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134036Z" creationid="Josef" creationdate="20180317T134036Z">
         <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;Názvy souborů&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt; &lt;s2&gt;Tagged text&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163518Z" creationid="Josef" creationdate="20180317T163518Z">
+        <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;Soubory s formátovaným textem&lt;/s1&gt; &lt;s2&gt;Text obsahující tagy&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163555Z" creationid="Josef" creationdate="20180317T163555Z">
+        <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;textové soubory PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
+        <seg>&lt;p0&gt;Cílové soubory&lt;/p0&gt; &lt;s1&gt;Prosté textové soubory&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3092,6 +3196,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102026Z" creationid="Josef" creationdate="20180317T102026Z">
         <seg>Pouze ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163513Z" creationid="Josef" creationdate="20180317T163513Z">
+        <seg>Text ASCII (.txt, atd.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3950,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android resource (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163529Z" creationid="Josef" creationdate="20180317T163529Z">
+        <seg>Zdrojové soubory pro Android (.*xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104038Z" creationid="Josef" creationdate="20180317T104038Z">
@@ -3980,6 +4100,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102034Z" creationid="Josef" creationdate="20180317T102034Z">
         <seg>Současně může pro srovnání využívat paměti z předchozích překladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163521Z" creationid="Josef" creationdate="20180317T163521Z">
+        <seg>V době psaní tohoto textu podporuje OmegaT následující formáty pro formátovaný text:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,6 +4676,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084938Z" creationid="Josef" creationdate="20180317T084938Z">
         <seg>Camtasia pro Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163541Z" creationid="Josef" creationdate="20180317T163538Z">
+        <seg>Camtasia pro soubory Windows (*.camproj)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6094,6 +6230,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163508Z" creationid="Josef" creationdate="20180317T163508Z">
+        <seg>V současnosti podporuje &lt;a1&gt;OmegaT&lt;/a1&gt; následující formáty prostého textu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102426Z" creationid="Josef" creationdate="20180317T102426Z">
@@ -6170,6 +6314,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102826Z" creationid="Josef" creationdate="20180317T102826Z">
         <seg>D&amp;iagramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163514Z" creationid="Josef" creationdate="20180317T163514Z">
+        <seg>Soubory DTD (*.DTD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,6 +6814,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163527Z" creationid="Josef" creationdate="20180317T163527Z">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103102Z" creationid="Josef" creationdate="20180317T103102Z">
@@ -6690,6 +6850,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102807Z" creationid="Josef" creationdate="20180317T102807Z">
         <seg>DokuWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163514Z" creationid="Josef" creationdate="20180317T163514Z">
+        <seg>Soubory DokuWiky (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6943,6 +7111,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each file type is handled differently in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
+        <seg>OmegaT zachází s každým typem souboru jinak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102032Z" creationid="Josef" creationdate="20180317T102032Z">
@@ -7163,6 +7339,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
         <seg>Povoleno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163508Z" creationid="Josef" creationdate="20180317T163508Z">
+        <seg>Kódovaný text (*.UTF8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8055,6 +8239,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163505Z" creationid="Josef" creationdate="20180317T163505Z">
+        <seg>Formáty souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134033Z" creationid="Josef" creationdate="20180317T134033Z">
@@ -8211,6 +8403,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084939Z" creationid="Josef" creationdate="20180317T084939Z">
         <seg>Export Flash XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flash XML export (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163536Z" creationid="Josef" creationdate="20180317T163536Z">
+        <seg>Flash XML export (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8443,6 +8643,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
         <seg>Formátovat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatted text files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163518Z" creationid="Josef" creationdate="20180317T163518Z">
+        <seg>Soubory s formátovaným textem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatted text files contain information such as font type, size, color etc. as well as text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
+        <seg>Soubory s formátovaným textem obsahují informace jako je typ písma, velikost, barva atd. stejně jako text samotný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8863,6 +9079,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163526Z" creationid="Josef" creationdate="20180317T163526Z">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102942Z" creationid="Josef" creationdate="20180317T102942Z">
@@ -8955,6 +9179,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084938Z" creationid="Josef" creationdate="20180317T084938Z">
         <seg>Soubory Nápovědy &amp; Příručky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163533Z" creationid="Josef" creationdate="20180317T163533Z">
+        <seg>Soubory Nápovědy (*.xml) a Příručky (*.hmxp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,6 +9399,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163510Z" creationid="Josef" creationdate="20180317T163510Z">
+        <seg>Soubory INI (klíč=hodnota) (*.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102636Z" creationid="Josef" creationdate="20180317T102636Z">
@@ -9211,6 +9451,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103504Z" creationid="Josef" creationdate="20180317T103504Z">
         <seg>Islandština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163535Z" creationid="Josef" creationdate="20180317T163535Z">
+        <seg>Iceni Infix (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9275,6 +9523,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101939Z" creationid="Josef" creationdate="20180317T101939Z">
         <seg>Pokud je volba vybrána, delší pojmy se v seznamu zobrazí na začátku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
+        <seg>Pokud pro určitý zdrojový segment není k dispozici žádný překlad v překladové paměti projektu (project_save.tmx), bude jako výchozí překlad uložen v souboru project_save.tmx aktuální překlad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,6 +9746,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163557Z" creationid="Josef" creationdate="20180317T163557Z">
+        <seg>Pokud potřebujte reprodukovat formátování textu (a nebo také jiné objekty jako kresby) ve svém překladu, tak se nabízejí tři způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104101Z" creationid="Josef" creationdate="20180317T104101Z">
@@ -9562,6 +9826,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163601Z" creationid="Josef" creationdate="20180317T163601Z">
+        <seg>Importujte zdrojové soubory do &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, uložte je jako soubor s koncovkou ODG, přeložte, vyexportujte do PDF dle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101605Z" creationid="Josef" creationdate="20180317T101605Z">
@@ -9626,10 +9898,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
+        <seg>Nicméně v případě, že stejný zdrojový segment již existujes jiným překladem, bude nový překlad uložen jakožto alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
         <seg>V komentářích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
+        <seg>Ve většině překladatelských zakázek bývá důležité, aby v přeloženém dokumentu bylo zachováno formátování originálu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10355,6 +10643,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163544Z" creationid="Josef" creationdate="20180317T163544Z">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163508Z" creationid="Josef" creationdate="20180317T163508Z">
+        <seg>Zdrojové balíčky Java (*.properties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
@@ -10639,6 +10943,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102420Z" creationid="Josef" creationdate="20180317T102420Z">
         <seg>Pr&amp;otokol...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163532Z" creationid="Josef" creationdate="20180317T163532Z">
+        <seg>LaTex (*.tex, *.latex)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11243,6 +11555,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Magento CE Locale CSV files (*.csv)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163515Z" creationid="Josef" creationdate="20180317T163515Z">
+        <seg>Soubory Magento CE Locale CSV (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134248Z" creationid="Josef" creationdate="20180317T134248Z">
@@ -11671,6 +11991,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133907Z" creationid="Josef" creationdate="20180317T133907Z">
         <seg>Slovník Merriam Webster – použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163524Z" creationid="Josef" creationdate="20180317T163524Z">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12655,6 +12983,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163521Z" creationid="Josef" creationdate="20180317T163521Z">
+        <seg>ODF - Formát OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101916Z" creationid="Josef" creationdate="20180317T101916Z">
@@ -12731,6 +13067,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104011Z" creationid="Josef" creationdate="20180317T104011Z">
         <seg>OmegaT-Scripting umožňuje spouštět skripty v rámci OmegaT napsané v různých skriptovacích jazycích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
+        <seg>OmegaT vám to umožní označením znaků či slov, které mají speciální formátování pomocí jednoduchých a přehledných tagů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13419,10 +13763,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163555Z" creationid="Josef" creationdate="20180317T163555Z">
+        <seg>Jiné typy souborů obsahujících prostý text mohou být zpracovány programem OmegaT pomocí asociování své koncovky k podporovanému typu souboru, za předpokladu, že budou správně segmentovány podle odpovídajících segmentačních pravidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133702Z" creationid="Josef" creationdate="20180317T133702Z">
         <seg>Jiné operační systémy (Linux, OS X) nabízejí podobné balíčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163516Z" creationid="Josef" creationdate="20180317T163516Z">
+        <seg>Jiné typy souborů obsahujících prostý text můžou být zpracovány programem &lt;a0&gt;OmegaT&lt;/a0&gt; pomocí asociování své koncovky k podporovanému typu souboru (například soubory .pod mohou být asociovány k filtru ASCII) a jejich předzpracováním se specifickými segmentačními pravidly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13803,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163556Z" creationid="Josef" creationdate="20180317T163556Z">
+        <seg>Soubory PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163556Z" creationid="Josef" creationdate="20180317T163556Z">
+        <seg>Soubory PDF představují zvláštní případ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
@@ -13455,6 +13831,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133952Z" creationid="Josef" creationdate="20180317T133952Z">
         <seg>Soubory PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163509Z" creationid="Josef" creationdate="20180317T163509Z">
+        <seg>Soubory PO (.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files&lt;i0/&gt; can contain both the source and the target text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
+        <seg>Soubory PO&lt;i0/&gt; mohou obsahovat jak text zdroje, tak i jeho překlad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13633,6 +14025,22 @@ everything.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084733Z" creationid="Josef" creationdate="20180317T084733Z">
         <seg>Umístěte zdrojové soubory do adresáře ./source a dodatečný materiál do adresářů ./tm, ./glossary a ./dictionary tak, jak je to vyžadování a pak volbu potvrďte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
+        <seg>Prosté textové soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text files contain text only, so their translation is as simple as typing the translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
+        <seg>Prosté textové soubory obsahují pouze text, takže jejich překlad je jednoduchý; prostě přímo píšete text překladu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14381,6 +14789,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163530Z" creationid="Josef" creationdate="20180317T163530Z">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quechua</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103723Z" creationid="Josef" creationdate="20180317T103723Z">
@@ -14417,6 +14833,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102755Z" creationid="Josef" creationdate="20180317T102755Z">
         <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163552Z" creationid="Josef" creationdate="20180317T163546Z">
+        <seg>RELAX NG schema pro XML (*.rng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14991,6 +15415,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163529Z" creationid="Josef" creationdate="20180317T163529Z">
+        <seg>Soubory ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102007Z" creationid="Josef" creationdate="20180317T102007Z">
@@ -15439,6 +15871,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163544Z" creationid="Josef" creationdate="20180317T163544Z">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
@@ -15665,6 +16105,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163600Z" creationid="Josef" creationdate="20180317T163600Z">
+        <seg>Viz &lt;u0&gt;Jak na to - překlad souborů PDF za použití Iceni Infix a OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134041Z" creationid="Josef" creationdate="20180317T134041Z">
@@ -15733,6 +16181,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103937Z" creationid="Josef" creationdate="20180317T103937Z">
         <seg>Více podrobností naleznete v licenci GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
+        <seg>Takže když se na to podíváme z této stránky, jedná se o prosté textové soubory &lt;e1&gt;plus&lt;/e1&gt; překladové paměti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16361,6 +16817,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
+        <seg>Zjednodušení formátování původního textu ve velké míře přispívá ke snížení počtu tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103736Z" creationid="Josef" creationdate="20180317T103736Z">
@@ -16769,6 +17233,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specific behavior can be set up in the file filters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163521Z" creationid="Josef" creationdate="20180317T163521Z">
+        <seg>Specifický přístup lze nastavit ve filtrech souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102031Z" creationid="Josef" creationdate="20180317T102031Z">
@@ -16955,6 +17427,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip title files (*.srt)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163515Z" creationid="Josef" creationdate="20180317T163515Z">
+        <seg>Soubory titulků SubRip (*.srt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subfolder dictionary</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134100Z" creationid="Josef" creationdate="20180317T134100Z">
@@ -17007,6 +17487,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084904Z" creationid="Josef" creationdate="20180317T084904Z">
         <seg>Subverze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such file formats are designed to hold formatting information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
+        <seg>Takovéto formáty souborů jsou navrženy k tomu, aby přenesly informaci o formátovaní textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
+        <seg>Takové soubory neobsahují žádné informace k formátování „neviditelných znaků“, kterých se využívá k zarovnání textu, identifikaci odstavců nebo vkládání konce stránek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18130,6 +18626,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
+        <seg>Informace o formátování mohou být buď jednoduché, jako „toto je tučné písmo„“, nebo složité, jako např. tabulkové údaje s různými velikostmi písma, barvami, umístěním atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104039Z" creationid="Josef" creationdate="20180317T104039Z">
@@ -18588,10 +19092,26 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are basically two types of file formats, plain text and formatted text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
+        <seg>V podstatě existují dva základní typy formátů, formát prostého textu a formátovaného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>Online je dostupné množství pluginů pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
+        <seg>Existuje několik metod jak blíže určit kódování souboru, takže při otevření souboru v programu &lt;a0&gt;OmegaT&lt;/a0&gt; nebude obsah souboru zobrazen chybně. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18669,10 +19189,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are commonly created in word processors or HTML editors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
+        <seg>Běžně jsou vytvářeny pomocí textových procesorů nebo editorů HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133915Z" creationid="Josef" creationdate="20180317T133915Z">
         <seg>V Editoru jsou zobrazeny s označením &lt;EMPTY&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
+        <seg>Takové znaky nemohou obsahovat, čili neumí vyjádřit informace k textu týkající se barvy, písma a podobných vlastností textu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,6 +19225,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133655Z" creationid="Josef" creationdate="20180317T133655Z">
         <seg>Členové mohou sdílet společné materiály, jako např. překladovou paměť projektu a příslušné glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163556Z" creationid="Josef" creationdate="20180317T163556Z">
+        <seg>Obsahují informaci k formátování textu, ale taková informace nemůže být znovu použita aplikací &lt;a0&gt;OmegaT&lt;/a0&gt; při tvoření cílových souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19003,6 +19547,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103255Z" creationid="Josef" creationdate="20180317T103255Z">
         <seg>Toto zruší všechny změny, které byly dosud provedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163557Z" creationid="Josef" creationdate="20180317T163557Z">
+        <seg>Tudíž jsou soubory PDF zpracovávány jako soubory prostého textu a výstup představují soubory s neformátovaným prostým textem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19652,6 +20204,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163534Z" creationid="Josef" creationdate="20180317T163534Z">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 l10nmgr</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102756Z" creationid="Josef" creationdate="20180317T102756Z">
@@ -20175,6 +20735,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163558Z" creationid="Josef" creationdate="20180317T163558Z">
+        <seg>Použijte výchozí filtr v &lt;a0&gt;OmegaT&lt;/a0&gt; (vstup PDF), přeložte, vytvořte cílový soubor (bude to soubor s prostým textem) a přidejte důležité formátování a položky ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104452Z" creationid="Josef" creationdate="20180317T104452Z">
@@ -20227,6 +20795,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102414Z" creationid="Josef" creationdate="20180317T102414Z">
         <seg>Ve zdrojovém textu zobr&amp;azovat pojmy odděleně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163600Z" creationid="Josef" creationdate="20180317T163600Z">
+        <seg>Použití filtru Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -20475,6 +21051,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102802Z" creationid="Josef" creationdate="20180317T102802Z">
         <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163543Z" creationid="Josef" creationdate="20180317T163543Z">
+        <seg>Visio (*.vxd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20737,6 +21321,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
+        <seg>Kde je to možné, tam se využívá sjednocení tagů pro písmo, velikost písma, barvy, atd., což jsou vlastnosti použité v dokumentu, a zjednoduší se tak práce na překladu a sníží se možný počet chyb tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Which version do you want to keep?</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102000Z" creationid="Josef" creationdate="20180317T102000Z">
@@ -20773,6 +21365,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102757Z" creationid="Josef" creationdate="20180317T102757Z">
         <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163535Z" creationid="Josef" creationdate="20180317T163535Z">
+        <seg>WiX Localization (*.wxl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20855,6 +21455,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102801Z" creationid="Josef" creationdate="20180317T102801Z">
         <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163537Z" creationid="Josef" creationdate="20180317T163537Z">
+        <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20959,6 +21567,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102751Z" creationid="Josef" creationdate="20180317T102751Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163528Z" creationid="Josef" creationdate="20180317T163528Z">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) – typy source=target (zdroj=cíl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23073,6 +23689,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133721Z" creationid="Josef" creationdate="20180317T133721Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T163559Z" creationid="Josef" creationdate="20180317T163559Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
     </tu>
     <tu>
