@@ -1462,6 +1462,20 @@ znak '?'  představuje přesně jeden znak ('run?' najde 'runs' a 'rung', ale ne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164519Z" creationid="Josef" creationdate="20180317T164519Z">
+        <seg>(Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -1888,6 +1902,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164539Z" creationid="Josef" creationdate="20180317T164539Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164543Z" creationid="Josef" creationdate="20180317T164543Z">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -1963,10 +1993,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164532Z" creationid="Josef" creationdate="20180317T164532Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084844Z" creationid="Josef" creationdate="20180317T084844Z">
         <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164536Z" creationid="Josef" creationdate="20180317T164536Z">
+        <seg>9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4616,6 +4662,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Acceptance Not Required for Having Copies.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164536Z" creationid="Josef" creationdate="20180317T164536Z">
+        <seg>Acceptance Not Required for Having Copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102419Z" creationid="Josef" creationdate="20180317T102419Z">
@@ -4880,6 +4934,18 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164531Z" creationid="Josef" creationdate="20180317T164531Z">
+        <seg>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134047Z" creationid="Josef" creationdate="20180317T134047Z">
@@ -5120,6 +5186,16 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other non-permissive additional terms are considered "further
+restrictions" within the meaning of section 10.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164529Z" creationid="Josef" creationdate="20180317T164529Z">
+        <seg>All other non-permissive additional terms are considered "further
+restrictions" within the meaning of section 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102025Z" creationid="Josef" creationdate="20180317T102025Z">
@@ -5272,6 +5348,18 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102052Z" creationid="Josef" creationdate="20180317T102052Z">
         <seg>Amharština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164541Z" creationid="Josef" creationdate="20180317T164541Z">
+        <seg>An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,6 +5572,18 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164537Z" creationid="Josef" creationdate="20180317T164537Z">
+        <seg>Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And you must show them these terms so they
 know their rights.</seg>
       </tuv>
@@ -5514,6 +5614,20 @@ know their rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
         <seg>Další dodatečný parametr příkazového řádku režimu příkazového řádku: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; Když přidáte tento parametr, pak bude ověření tagů provedeno před překladem/alignováním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164533Z" creationid="Josef" creationdate="20180317T164533Z">
+        <seg>Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5868,6 +5982,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101942Z" creationid="Josef" creationdate="20180317T101942Z">
         <seg>Soubor automatického textu (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic Licensing of Downstream Recipients.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164540Z" creationid="Josef" creationdate="20180317T164540Z">
+        <seg>Automatic Licensing of Downstream Recipients.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9163,6 +9285,18 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164540Z" creationid="Josef" creationdate="20180317T164540Z">
+        <seg>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102032Z" creationid="Josef" creationdate="20180317T102032Z">
@@ -10799,6 +10933,24 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164543Z" creationid="Josef" creationdate="20180317T164543Z">
+        <seg>For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163842Z" creationid="Josef" creationdate="20180317T163842Z">
@@ -11769,6 +11921,36 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164538Z" creationid="Josef" creationdate="20180317T164538Z">
+        <seg>However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164534Z" creationid="Josef" creationdate="20180317T164534Z">
+        <seg>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
@@ -12011,10 +12193,40 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164530Z" creationid="Josef" creationdate="20180317T164530Z">
+        <seg>If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164106Z" creationid="Josef" creationdate="20180317T164106Z">
         <seg>Pokud je uživatelské prostředí v tomto jazyce k dispozici, tak ho &lt;a3&gt;OmegaT&lt;/a3&gt; použije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164518Z" creationid="Josef" creationdate="20180317T164518Z">
+        <seg>If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12362,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164541Z" creationid="Josef" creationdate="20180317T164541Z">
+        <seg>If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103408Z" creationid="Josef" creationdate="20180317T103408Z">
@@ -12166,6 +12398,20 @@ of the GPL, as needed to protect the freedom of users.</seg>
         <seg>If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Program as you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164530Z" creationid="Josef" creationdate="20180317T164530Z">
+        <seg>If the Program as you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12318,6 +12564,20 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133916Z" creationid="Josef" creationdate="20180317T133916Z">
         <seg>Když přidáte předponu (například [přibližně]), můžete tyto překlady později jednoduše najít a zkontrolovat jejich správnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164531Z" creationid="Josef" creationdate="20180317T164531Z">
+        <seg>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12518,6 +12778,18 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163823Z" creationid="Josef" creationdate="20180317T163823Z">
         <seg>Jestliže je stávající instalace OmegaT verze „Windows s JRE“, nová verze musí být také verzí „Windows s JRE“. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164535Z" creationid="Josef" creationdate="20180317T164535Z">
+        <seg>If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,6 +15603,24 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164534Z" creationid="Josef" creationdate="20180317T164534Z">
+        <seg>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103122Z" creationid="Josef" creationdate="20180317T103122Z">
@@ -16159,6 +16449,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notices displayed by works containing it; or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164522Z" creationid="Josef" creationdate="20180317T164522Z">
+        <seg>Notices displayed by works containing it; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101957Z" creationid="Josef" creationdate="20180317T101957Z">
@@ -16227,6 +16525,18 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103100Z" creationid="Josef" creationdate="20180317T103100Z">
         <seg>Upozorni mě, když jsou pro segment dostupné poznámky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164520Z" creationid="Josef" creationdate="20180317T164520Z">
+        <seg>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17487,6 +17797,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101912Z" creationid="Josef" creationdate="20180317T101912Z">
         <seg>Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Patents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164544Z" creationid="Josef" creationdate="20180317T164544Z">
+        <seg>Patents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22107,6 +22425,26 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164535Z" creationid="Josef" creationdate="20180317T164535Z">
+        <seg>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Termination.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164532Z" creationid="Josef" creationdate="20180317T164532Z">
+        <seg>Termination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terminology</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101956Z" creationid="Josef" creationdate="20180317T101956Z">
@@ -23908,6 +24246,16 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164539Z" creationid="Josef" creationdate="20180317T164539Z">
+        <seg>Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
@@ -23945,6 +24293,16 @@ you modify it: responsibilities to respect the freedom of others.</seg>
         <seg>Therefore, you have
 certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These actions infringe copyright if you do
+not accept this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164538Z" creationid="Josef" creationdate="20180317T164538Z">
+        <seg>These actions infringe copyright if you do
+not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26787,6 +27145,18 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164519Z" creationid="Josef" creationdate="20180317T164519Z">
+        <seg>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you convey a covered work, you waive any legal power to forbid
 circumvention of technological measures to the extent such circumvention
 is effected by exercising rights under this License with respect to
@@ -27225,6 +27595,26 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are not required to accept this License in order to receive or
+run a copy of the Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164537Z" creationid="Josef" creationdate="20180317T164537Z">
+        <seg>You are not required to accept this License in order to receive or
+run a copy of the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are not responsible
+for enforcing compliance by third parties with this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164541Z" creationid="Josef" creationdate="20180317T164541Z">
+        <seg>You are not responsible
+for enforcing compliance by third parties with this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101943Z" creationid="Josef" creationdate="20180317T101943Z">
@@ -27616,6 +28006,26 @@ in force.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164542Z" creationid="Josef" creationdate="20180317T164542Z">
+        <seg>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not propagate or modify a covered work except as expressly
+provided under this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164533Z" creationid="Josef" creationdate="20180317T164533Z">
+        <seg>You may not propagate or modify a covered work except as expressly
+provided under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101557Z" creationid="Josef" creationdate="20180317T101557Z">
@@ -27827,6 +28237,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a) Disclaiming warranty or limiting liability differently from the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164520Z" creationid="Josef" creationdate="20180317T164520Z">
+        <seg>a) Disclaiming warranty or limiting liability differently from the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>aa</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102112Z" creationid="Josef" creationdate="20180317T102112Z">
@@ -27955,6 +28373,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>any liability that these contractual assumptions directly impose on</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164528Z" creationid="Josef" creationdate="20180317T164528Z">
+        <seg>any liability that these contractual assumptions directly impose on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ar</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102122Z" creationid="Josef" creationdate="20180317T102122Z">
@@ -28007,6 +28433,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102637Z" creationid="Josef" creationdate="20180317T102637Z">
         <seg>atributy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>author attributions in that material or in the Appropriate Legal</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164522Z" creationid="Josef" creationdate="20180317T164522Z">
+        <seg>author attributions in that material or in the Appropriate Legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>authors of the material; or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164525Z" creationid="Josef" creationdate="20180317T164525Z">
+        <seg>authors of the material; or</seg>
       </tuv>
     </tu>
     <tu>
@@ -28079,6 +28521,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164422Z" creationid="Josef" creationdate="20180317T164422Z">
         <seg>b) Convey the object code in, or embodied in, a physical product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) Requiring preservation of specified reasonable legal notices or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164521Z" creationid="Josef" creationdate="20180317T164521Z">
+        <seg>b) Requiring preservation of specified reasonable legal notices or</seg>
       </tuv>
     </tu>
     <tu>
@@ -28247,6 +28697,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164432Z" creationid="Josef" creationdate="20180317T164432Z">
         <seg>c) Convey individual copies of the object code with a copy of the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) Prohibiting misrepresentation of the origin of that material, or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164523Z" creationid="Josef" creationdate="20180317T164523Z">
+        <seg>c) Prohibiting misrepresentation of the origin of that material, or</seg>
       </tuv>
     </tu>
     <tu>
@@ -28547,6 +29005,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>d) Limiting the use for publicity purposes of names of licensors or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164524Z" creationid="Josef" creationdate="20180317T164524Z">
+        <seg>d) Limiting the use for publicity purposes of names of licensors or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>da</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102247Z" creationid="Josef" creationdate="20180317T102247Z">
@@ -28647,6 +29113,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164442Z" creationid="Josef" creationdate="20180317T164442Z">
         <seg>e) Convey the object code using peer-to-peer transmission, provided</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e) Declining to grant rights under trademark law for use of some</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164525Z" creationid="Josef" creationdate="20180317T164525Z">
+        <seg>e) Declining to grant rights under trademark law for use of some</seg>
       </tuv>
     </tu>
     <tu>
@@ -28975,6 +29449,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101923Z" creationid="Josef" creationdate="20180317T101923Z">
         <seg>rozšíření:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>f) Requiring indemnification of licensors and authors of that</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164526Z" creationid="Josef" creationdate="20180317T164526Z">
+        <seg>f) Requiring indemnification of licensors and authors of that</seg>
       </tuv>
     </tu>
     <tu>
@@ -30085,6 +30567,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>it) with contractual assumptions of liability to the recipient, for</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164527Z" creationid="Josef" creationdate="20180317T164527Z">
+        <seg>it) with contractual assumptions of liability to the recipient, for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>it, and giving a relevant date.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164406Z" creationid="Josef" creationdate="20180317T164406Z">
@@ -30729,6 +31219,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103619Z" creationid="Josef" creationdate="20180317T103619Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>material by anyone who conveys the material (or modified versions of</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164527Z" creationid="Josef" creationdate="20180317T164527Z">
+        <seg>material by anyone who conveys the material (or modified versions of</seg>
       </tuv>
     </tu>
     <tu>
@@ -31749,6 +32247,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>reasonable ways as different from the original version; or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164524Z" creationid="Josef" creationdate="20180317T164524Z">
+        <seg>reasonable ways as different from the original version; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>regardless of how they are packaged.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164415Z" creationid="Josef" creationdate="20180317T164415Z">
@@ -31785,6 +32291,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103422Z" creationid="Josef" creationdate="20180317T103422Z">
         <seg>odstranit znaky až na začátek právě zpracovávaného slova (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>requiring that modified versions of such material be marked in</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164523Z" creationid="Josef" creationdate="20180317T164523Z">
+        <seg>requiring that modified versions of such material be marked in</seg>
       </tuv>
     </tu>
     <tu>
@@ -32293,6 +32807,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>terms of sections 15 and 16 of this License; or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164521Z" creationid="Josef" creationdate="20180317T164521Z">
+        <seg>terms of sections 15 and 16 of this License; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>test\.html</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164217Z" creationid="Josef" creationdate="20180317T164217Z">
@@ -32377,6 +32899,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133740Z" creationid="Josef" creationdate="20180317T133740Z">
         <seg>překladová paměť - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>those licensors and authors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164528Z" creationid="Josef" creationdate="20180317T164528Z">
+        <seg>those licensors and authors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32497,6 +33027,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103825Z" creationid="Josef" creationdate="20180317T103825Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trade names, trademarks, or service marks; or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164526Z" creationid="Josef" creationdate="20180317T164526Z">
+        <seg>trade names, trademarks, or service marks; or</seg>
       </tuv>
     </tu>
     <tu>
