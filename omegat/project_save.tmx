@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164346Z" creationid="Josef" creationdate="20180317T164346Z">
+        <seg>"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Licensees" and
+"recipients" may be individuals or organizations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164347Z" creationid="Josef" creationdate="20180317T164347Z">
+        <seg>"Licensees" and
+"recipients" may be individuals or organizations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Object code" means any non-source
+form of a work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164352Z" creationid="Josef" creationdate="20180317T164352Z">
+        <seg>"Object code" means any non-source
+form of a work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163634Z" creationid="Josef" creationdate="20180317T163634Z">
         <seg>„Skupiny tagů“ reprezentují v tomto kontextu ucelené tagy (jako například &lt;i0&gt; a &lt;/i0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"The Program" refers to any copyrightable work licensed under this
+License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164346Z" creationid="Josef" creationdate="20180317T164346Z">
+        <seg>"The Program" refers to any copyrightable work licensed under this
+License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164345Z" creationid="Josef" creationdate="20180317T164345Z">
+        <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +122,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084831Z" creationid="Josef" creationdate="20180317T084831Z">
         <seg>#Soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>$ ant jar release</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164235Z" creationid="Josef" creationdate="20180317T164235Z">
+        <seg>$ ant jar release</seg>
       </tuv>
     </tu>
     <tu>
@@ -1535,6 +1591,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir={location of translated files}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164212Z" creationid="Josef" creationdate="20180317T164209Z">
+        <seg>--alignDir={umistění přeložených souborů}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-dir=/path/to/config-files/ \</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164149Z" creationid="Josef" creationdate="20180317T164149Z">
@@ -1605,6 +1669,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="CS" changeid="Josef" changedate="20180317T101539Z" creationid="Josef" creationdate="20180317T101539Z">
         <seg>--no-team
 		Deaktivovat funkci projektu týmové spolupráce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--output-tag-validation-={regexp}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164221Z" creationid="Josef" creationdate="20180317T164221Z">
+        <seg>--output-tag-validation-={regulární výraz}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1778,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164216Z" creationid="Josef" creationdate="20180317T164216Z">
+        <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163801Z" creationid="Josef" creationdate="20180317T163801Z">
@@ -1738,6 +1818,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164344Z" creationid="Josef" creationdate="20180317T164344Z">
+        <seg>0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101945Z" creationid="Josef" creationdate="20180317T101945Z">
@@ -1762,6 +1850,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164351Z" creationid="Josef" creationdate="20180317T164351Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -1769,6 +1865,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101558Z" creationid="Josef" creationdate="20180317T101558Z">
         <seg>2) Zvyšte velikost paměti dostupné pro OmegaT: zadáním „java -Xmx&lt;velikost-v-MB&gt;M -jar OmegaT.jar“ v příkazovém řádku nebo ve spouštěcím skriptu aplikace OmegaT; Současné nastavení představuje {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164356Z" creationid="Josef" creationdate="20180317T164356Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164400Z" creationid="Josef" creationdate="20180317T164400Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164403Z" creationid="Josef" creationdate="20180317T164403Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164404Z" creationid="Josef" creationdate="20180317T164404Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2862,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164213Z" creationid="Josef" creationdate="20180317T164213Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; musí obsahovat překlad v cílovém jazyce projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103309Z" creationid="Josef" creationdate="20180317T103309Z">
@@ -2786,6 +2922,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103331Z" creationid="Josef" creationdate="20180317T103320Z">
         <seg>&lt;html&gt;Termín: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosáře:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;http://fsf.org/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164330Z" creationid="Josef" creationdate="20180317T164330Z">
+        <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3130,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164158Z" creationid="Josef" creationdate="20180317T164158Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;  který konfigurační soubor se má použít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164227Z" creationid="Josef" creationdate="20180317T164227Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; umožňuje, pod Windows, otevřít stejný projekt v několika oknech OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164226Z" creationid="Josef" creationdate="20180317T164226Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; - ovlivní nastavení projektu v rámci týmové spolupráce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164224Z" creationid="Josef" creationdate="20180317T164224Z">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; NazevSouboruProVystup&lt;/p1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3494,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164237Z" creationid="Josef" creationdate="20180317T164237Z">
+        <seg>&lt;p0&gt;Nabídka Projekt&lt;/p0&gt; &lt;s1&gt;Nový...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133910Z" creationid="Josef" creationdate="20180317T133910Z">
@@ -3486,6 +3662,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164237Z" creationid="Josef" creationdate="20180317T164237Z">
+        <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Vytvořit / otevřít nový&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102049Z" creationid="Josef" creationdate="20180317T102049Z">
@@ -3530,6 +3714,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163625Z" creationid="Josef" creationdate="20180317T163625Z">
         <seg>&lt;p0&gt;Jazyky se zápisem zprava doleva&lt;/p0&gt; &lt;s1&gt;Cílové soubory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Building OmegaT from source&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164232Z" creationid="Josef" creationdate="20180317T164232Z">
+        <seg>&lt;p0&gt;Spouštění OmegaT&lt;/p0&gt; &lt;s1&gt;Sestavení OmegaT ze zdrojového kódu&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4174,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164237Z" creationid="Josef" creationdate="20180317T164237Z">
+        <seg>&lt;r0&gt;Poznámka:&lt;/r0&gt; Na počítačích Apple Mac používejte klávesu &lt;k1&gt;Command&lt;/k1&gt; místo &lt;k2&gt;Ctrl&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104040Z" creationid="Josef" creationdate="20180317T104040Z">
@@ -4018,6 +4218,46 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163738Z" creationid="Josef" creationdate="20180317T163738Z">
         <seg>&lt;u0&gt;Sbírka terminologických slovníčků Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; nabízí ke stažení terminologii v téměř stech jazycích a slouží jako základ IT glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A
+"Major Component", in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164354Z" creationid="Josef" creationdate="20180317T164354Z">
+        <seg>A
+"Major Component", in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164353Z" creationid="Josef" creationdate="20180317T164353Z">
+        <seg>A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "covered work" means either the unmodified Program or a work based
+on the Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164348Z" creationid="Josef" creationdate="20180317T164348Z">
+        <seg>A "covered work" means either the unmodified Program or a work based
+on the Program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,6 +4354,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>K provedení těchto změn je vyžadován restart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
+        <seg>Věta zdroje může vypadat takto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4758,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164209Z" creationid="Josef" creationdate="20180317T164209Z">
+        <seg>V takovém případě je nutno zadat dodatečné parametry určující umístění cílových dat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134047Z" creationid="Josef" creationdate="20180317T134047Z">
@@ -4594,6 +4850,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164042Z" creationid="Josef" creationdate="20180317T164042Z">
         <seg>Po první instalaci můžete samozřejmě soubor &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; spouštět i v režimu offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
+        <seg>Jakmile je zdrojový soubor nahrán do podokna &lt;g3&gt;Editoru&lt;/g3&gt;, můžete dialogové okno &lt;g4&gt;Soubory projektu&lt;/g4&gt; zavřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164239Z" creationid="Josef" creationdate="20180317T164239Z">
+        <seg>Po zadání jména projektu se otevře dialogové okno Vytvořit nový projekt.&lt;g0&gt;&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164305Z" creationid="Josef" creationdate="20180317T164305Z">
+        <seg>Po přeložení celého segmentu stiskem &lt;k0&gt;Ctrl+U&lt;/k0&gt; přejdete na další nepřeložený segment (nebo stiskem &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;přejděte na další přeložený segment segment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164221Z" creationid="Josef" creationdate="20180317T164221Z">
+        <seg>Opět si povšimněte zpětného lomítka, které musí být také maskováno jiným zpětným lomítkem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4694,6 +4982,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164217Z" creationid="Josef" creationdate="20180317T164217Z">
+        <seg>Přeloženy budou všechny soubory HTML – povšimněte si, že tečka v běžném výrazu *.html se musí maskovat (\.) jak je tomu určeno pravidly regulárních výrazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101949Z" creationid="Josef" creationdate="20180317T101949Z">
@@ -4714,6 +5010,18 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102025Z" creationid="Josef" creationdate="20180317T102025Z">
         <seg>Všechny předvolby chráněné hlavním heslem budou smazány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164357Z" creationid="Josef" creationdate="20180317T164357Z">
+        <seg>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,6 +5320,32 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet.&lt;/l0&gt; In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164229Z" creationid="Josef" creationdate="20180317T164229Z">
+        <seg>Dodatečný parametr příkazového řádku režimu příkazového řádku: &lt;l0&gt;--quiet.&lt;/l0&gt; V „quiet“ („tichém“) režimu se na obrazovce zobrazuje méně informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164350Z" creationid="Josef" creationdate="20180317T164350Z">
+        <seg>An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101959Z" creationid="Josef" creationdate="20180317T101959Z">
@@ -5036,6 +5370,16 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And you must show them these terms so they
+know their rights.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164338Z" creationid="Josef" creationdate="20180317T164338Z">
+        <seg>And you must show them these terms so they
+know their rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084942Z" creationid="Josef" creationdate="20180317T084942Z">
@@ -5048,6 +5392,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163529Z" creationid="Josef" creationdate="20180317T163529Z">
         <seg>Zdrojové soubory pro Android (.*xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
+        <seg>Další dodatečný parametr příkazového řádku režimu příkazového řádku: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; Když přidáte tento parametr, pak bude ověření tagů provedeno před překladem/alignováním.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5598,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
+        <seg>Po dokončení práce na překladu exportuje OmegaT tři překladové paměti zvané &lt;f0&gt;level1&lt;/f0&gt; („úroveň 1“), &lt;f1&gt;level2&lt;/f1&gt; („úroveň 2“) a &lt;f2&gt;omegat&lt;/f2&gt; do projektového adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time, it can use memories files from previous translations for reference.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102034Z" creationid="Josef" creationdate="20180317T102034Z">
@@ -5258,6 +5618,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163521Z" creationid="Josef" creationdate="20180317T163521Z">
         <seg>V době psaní tohoto textu podporuje OmegaT následující formáty pro formátovaný text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164302Z" creationid="Josef" creationdate="20180317T164300Z">
+        <seg>V horní části dialogového okna vyberte jazyk vašich zdrojových souborů a jazyk překladu a pro pokračování klikněte na &lt;g1&gt;OK&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,6 +5950,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Basic Permissions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164356Z" creationid="Josef" creationdate="20180317T164356Z">
+        <seg>Basic Permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basque</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102153Z" creationid="Josef" creationdate="20180317T102153Z">
@@ -5734,6 +6110,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164232Z" creationid="Josef" creationdate="20180317T164232Z">
+        <seg>Sestavení &lt;a0&gt;OmegaT&lt;/a0&gt; ze zdrojového kódu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102218Z" creationid="Josef" creationdate="20180317T102218Z">
@@ -5746,6 +6130,20 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102219Z" creationid="Josef" creationdate="20180317T102219Z">
         <seg>Barmština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164333Z" creationid="Josef" creationdate="20180317T164333Z">
+        <seg>By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +6184,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134034Z" creationid="Josef" creationdate="20180317T134034Z">
         <seg>Při výchozím nastavení je kódování přeloženého souboru stejné jako kódování souboru výchozího.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164227Z" creationid="Josef" creationdate="20180317T164227Z">
+        <seg>Ve výchozím nastavení, pod Windows, je &lt;l1&gt;omegat.project&lt;/l1&gt; zablokováno a zobrazuje se chybové hlášení pokud se pokoušíte otevřít již otevřený projekt v jiném okně OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6700,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
+        <seg>Klikněte na &lt;g1&gt;Kopírovat soubory do zdrojového adresáře...&lt;/g1&gt; a zde si vyberte zdrojové soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133942Z" creationid="Josef" creationdate="20180317T133942Z">
@@ -6778,6 +7192,32 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conveying Modified Source Versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164405Z" creationid="Josef" creationdate="20180317T164405Z">
+        <seg>Conveying Modified Source Versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conveying Verbatim Copies.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164403Z" creationid="Josef" creationdate="20180317T164403Z">
+        <seg>Conveying Verbatim Copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conveying under any other circumstances is permitted solely under
+the conditions stated below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164359Z" creationid="Josef" creationdate="20180317T164359Z">
+        <seg>Conveying under any other circumstances is permitted solely under
+the conditions stated below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101604Z" creationid="Josef" creationdate="20180317T101604Z">
@@ -6816,6 +7256,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103935Z" creationid="Josef" creationdate="20180317T103935Z">
         <seg>Autorská práva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright (C) 2007 Free Software Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164329Z" creationid="Josef" creationdate="20180317T164329Z">
+        <seg>Copyright (C) 2007 Free Software Foundation, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7644,6 +8092,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Definitions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164345Z" creationid="Josef" creationdate="20180317T164345Z">
+        <seg>Definitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102046Z" creationid="Josef" creationdate="20180317T102046Z">
@@ -7712,6 +8168,18 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103153Z" creationid="Josef" creationdate="20180317T103153Z">
         <seg>Detekce ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164338Z" creationid="Josef" creationdate="20180317T164338Z">
+        <seg>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8421,6 +8889,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164243Z" creationid="Josef" creationdate="20180317T164243Z">
+        <seg>Během překládání používejte nabídky &lt;g4&gt;Upravit&lt;/g4&gt; a &lt;g5&gt;Přejít&lt;/g5&gt;, kde najdete různé užitečné funkce...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102251Z" creationid="Josef" creationdate="20180317T102251Z">
@@ -8489,6 +8965,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163520Z" creationid="Josef" creationdate="20180317T163520Z">
         <seg>OmegaT zachází s každým typem souboru jinak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each licensee is addressed as "you".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164346Z" creationid="Josef" creationdate="20180317T164346Z">
+        <seg>Each licensee is addressed as "you".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9197,6 +9681,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164330Z" creationid="Josef" creationdate="20180317T164330Z">
+        <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ewe</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102301Z" creationid="Josef" creationdate="20180317T102301Z">
@@ -9565,6 +10057,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164246Z" creationid="Josef" creationdate="20180317T164246Z">
+        <seg>Ještě pár věcí, na které je dobré dbát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fijian</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102308Z" creationid="Josef" creationdate="20180317T102308Z">
@@ -9797,6 +10297,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, every program is threatened constantly by software patents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164342Z" creationid="Josef" creationdate="20180317T164342Z">
+        <seg>Finally, every program is threatened constantly by software patents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163830Z" creationid="Josef" creationdate="20180317T163830Z">
@@ -9957,6 +10465,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164251Z" creationid="Josef" creationdate="20180317T164251Z">
+        <seg>Podrobnější úvodní poznámky najdete na webu OmegaT &lt;u0&gt;OmegaT pro začátečníky&lt;/u0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103400Z" creationid="Josef" creationdate="20180317T103400Z">
@@ -9981,6 +10497,20 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164339Z" creationid="Josef" creationdate="20180317T164339Z">
+        <seg>For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163839Z" creationid="Josef" creationdate="20180317T163839Z">
@@ -9997,6 +10527,24 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164355Z" creationid="Josef" creationdate="20180317T164355Z">
+        <seg>For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134033Z" creationid="Josef" creationdate="20180317T134033Z">
@@ -10009,6 +10557,18 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134017Z" creationid="Josef" creationdate="20180317T134017Z">
         <seg>Například ve výchozím nastavení se použije filtr XHTML pro zpracování souborů s příponou .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164337Z" creationid="Josef" creationdate="20180317T164337Z">
+        <seg>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,6 +10621,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164213Z" creationid="Josef" creationdate="20180317T164213Z">
+        <seg>Např. pokud se jedná o projekt EN-&gt;FR, adresář alignDir musí obsahovat balíček ‚bundle‛ končící na _fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133940Z" creationid="Josef" creationdate="20180317T133940Z">
@@ -10089,6 +10657,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103938Z" creationid="Josef" creationdate="20180317T103938Z">
         <seg>Pro aplikaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164339Z" creationid="Josef" creationdate="20180317T164339Z">
+        <seg>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10333,6 +10911,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU GENERAL PUBLIC LICENSE</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164309Z" creationid="Josef" creationdate="20180317T164309Z">
+        <seg>Licence GNU General Public License [Právně závazné je původní – anglické – znění. Z tohoto důvodu tu licence není přeložena, českou verzi si prosím v případě zájmu najděte na webu.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102316Z" creationid="Josef" creationdate="20180317T102316Z">
@@ -10345,6 +10931,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
         <seg>Všeobecné informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
+        <seg>Generování přeloženého souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10837,6 +11431,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164216Z" creationid="Josef" creationdate="20180317T164216Z">
+        <seg>Tady je pár typických příkladů jak vymezit výběr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102334Z" creationid="Josef" creationdate="20180317T102334Z">
@@ -10969,6 +11571,28 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133852Z" creationid="Josef" creationdate="20180317T133852Z">
         <seg>Jak stáhnout a nainstalovat slovníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
+        <seg>Pokud ale uděláte chybu při zapisování formátovacích tagů, může se stát, že přeložený soubor nepůjde otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164354Z" creationid="Josef" creationdate="20180317T164354Z">
+        <seg>However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11133,6 +11757,34 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164351Z" creationid="Josef" creationdate="20180317T164351Z">
+        <seg>If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164225Z" creationid="Josef" creationdate="20180317T164225Z">
+        <seg>Pokud je zvolena možnost ‚&lt;l0&gt;abort&lt;/l0&gt;‛ (‚přerušit‛), ověřování tagů bude zastaveno při prvním neplatným segmentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164226Z" creationid="Josef" creationdate="20180317T164226Z">
+        <seg>Když je ale zadáno ‚&lt;l1&gt;warn&lt;/l1&gt;‛ (‚varovat‛), ověřování tagů zpracuje všechny segmenty a až nakonec vypíše do zadaného souboru upozornění na segmenty, které obsahují neplatné tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102943Z" creationid="Josef" creationdate="20180317T102943Z">
@@ -11153,6 +11805,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102952Z" creationid="Josef" creationdate="20180317T102952Z">
         <seg>Pokud má soubor HHC nebo HHK deklaraci kódování, bude tato použita bez ohledu na jakoukoliv hodnotu, kterou nastavíte v tomto dialogovém okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164246Z" creationid="Josef" creationdate="20180317T164246Z">
+        <seg>Když se stane, že se soubor nenahraje do podokna Editoru, pak to může znamenat, že zdrojový soubor je ve formátu, který OmegaT nepodporuje.&lt;g0&gt;&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11304,6 +11964,18 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164342Z" creationid="Josef" creationdate="20180317T164342Z">
+        <seg>If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134016Z" creationid="Josef" creationdate="20180317T134016Z">
@@ -11364,6 +12036,38 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163626Z" creationid="Josef" creationdate="20180317T163626Z">
         <seg>Pokud byl výchozí dokument typu LTR, směr zobrazování cílového dokumentu se musí změnit ručně na RLT v konkrétní aplikaci, která umí takovéto dokumenty otevírat a zpracovávat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164215Z" creationid="Josef" creationdate="20180317T164215Z">
+        <seg>Pokud tento parametr není blíže určen, budou zpracovány všechny soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
+        <seg>Pokud je aktivní hodnota &lt;l1&gt;abort&lt;/l1&gt; (‚přerušit‛), pak se v případě chyby tagu zobrazí daná chyba a program bude ukončen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the value is &lt;l2&gt;warn&lt;/l2&gt; then the errors are printed but OmegaT continues.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164231Z" creationid="Josef" creationdate="20180317T164231Z">
+        <seg>Pokud je aktivní hodnota &lt;l2&gt;warn&lt;/l2&gt; (‚varovat‛), pak bude chyba vypsaná a OmegaT pokračuje v běhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164219Z" creationid="Josef" creationdate="20180317T164219Z">
+        <seg>Pokud jsou v jiných adresářich jsou jiné soubory s názvem test.html, pak tyto budou ignorovány. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,6 +12140,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134240Z" creationid="Josef" creationdate="20180317T134240Z">
         <seg>Pokud máte zájem o úpravy nebo distribuci programu &lt;a1&gt;OmegaT&lt;/a1&gt;, dobře si pročtěte tento dokument a ujistěte se, že rozumíte všem možným důsledkům dříve, než cokoliv učiníte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164241Z" creationid="Josef" creationdate="20180317T164241Z">
+        <seg>Pokud máte zájem poznat další nastavení tohoto dialogového okna, můžete se k němu vrátit kdykoliv stisknutím &lt;k0&gt;Ctrl+E.&lt;/k0&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -11528,6 +12240,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164252Z" creationid="Josef" creationdate="20180317T164252Z">
+        <seg>Pokud potřebujete pomoc s jakýmkoliv aspektem OmegaT, nebojte se přidat k &lt;u1&gt;Uživatelské skupině OmegaT&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163557Z" creationid="Josef" creationdate="20180317T163557Z">
@@ -11540,6 +12260,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163707Z" creationid="Josef" creationdate="20180317T163707Z">
         <seg>Pokud potřebujete vidět tagy v aplikaci OmegaT, ale nemusíte zachovat většinou formátování v přeloženém dokumentu, tak se můžete volně rozhodnout, zda tagy do překladu zařadíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
+        <seg>Když umístíte soubory překladové paměti do podadresáře &lt;f6&gt;/tm/&lt;/f6&gt; uvnitř vašeho projektového adresáře, OmegaT je automaticky bude prohledávat, aby našla podobné segmenty, též zvané „Přibližné překlady“</seg>
       </tuv>
     </tu>
     <tu>
@@ -11588,6 +12316,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163823Z" creationid="Josef" creationdate="20180317T163823Z">
         <seg>Jestliže je stávající instalace OmegaT verze „Windows s JRE“, nová verze musí být také verzí „Windows s JRE“. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
+        <seg>Pokud zdrojové soubory obsahují formátovaný text, např. Microsoft Word, LibreOffice Writer nebo HTML, OmegaT zkonvertuje formátování do tagů, které obklopují překládaný text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11840,6 +12576,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164238Z" creationid="Josef" creationdate="20180317T164238Z">
+        <seg>V nabídce &lt;g0&gt;Projekt&lt;/g0&gt; vyberte položku&lt;m1&gt; &lt;g2&gt; Nový...&lt;/g2&gt; &lt;/m1&gt; a zadejte název vašeho projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104013Z" creationid="Josef" creationdate="20180317T104013Z">
@@ -11892,6 +12636,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163822Z" creationid="Josef" creationdate="20180317T163822Z">
         <seg>Nicméně v tomto případě:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164207Z" creationid="Josef" creationdate="20180317T164207Z">
+        <seg>V tomto režimu, vezme OmegaT soubory Java properties, které nalezne v adresáři &lt;l0&gt;/source/&lt;/l0&gt; a alignuje je s obsahy nalezenými na zadaném umístění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12404,6 +13156,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104020Z" creationid="Josef" creationdate="20180317T104020Z">
         <seg>Je to multiplatformní jazyk, podporuje objektově orientované, imperativní a funkční programovací styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
+        <seg>Často je užitečné hledat slova a fráze ve zdrojovém textu a v překladu, proto stiskněte &lt;k0&gt;Ctrl+F&lt;/k0&gt; a zobrazí se dialogové okno &lt;g1&gt;Hledat v textu&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,6 +14049,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164236Z" creationid="Josef" creationdate="20180317T164236Z">
+        <seg>Naučte se používat aplikaci OmegaT za 5 minut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave the segment empty</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133914Z" creationid="Josef" creationdate="20180317T133914Z">
@@ -14105,6 +14873,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164350Z" creationid="Josef" creationdate="20180317T164350Z">
+        <seg>Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101944Z" creationid="Josef" creationdate="20180317T101944Z">
@@ -14689,6 +15467,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
+        <seg>V dalším kroku se otevře dialogové okno &lt;g0&gt;Soubory projektu&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102016Z" creationid="Josef" creationdate="20180317T102016Z">
@@ -14709,6 +15495,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101931Z" creationid="Josef" creationdate="20180317T101931Z">
         <seg>Není dostupné připojení, projekt je v režimu offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164402Z" creationid="Josef" creationdate="20180317T164402Z">
+        <seg>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15061,6 +15863,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that you will need the ant program (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) to build your own version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164232Z" creationid="Josef" creationdate="20180317T164232Z">
+        <seg>Mějte na paměti, že pro sestavení vlastní verzi OmegaT budete potřebovat program ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103005Z" creationid="Josef" creationdate="20180317T103005Z">
@@ -15281,6 +16091,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163735Z" creationid="Josef" creationdate="20180317T163735Z">
         <seg>Kódování se zajisté musí shodovat s oběma obsaženými jazyky, proto je doporučováno použít Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
+        <seg>Často jsou ve zdrojových (a též v cílových) souborech také tagy, které nemají nic společného s formátováním, ale přitom jsou také důležité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15649,10 +16467,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164243Z" creationid="Josef" creationdate="20180317T164243Z">
+        <seg>OmegaT při překládání aktivuje v daném časovém úseku vždy jen jeden segment pro zpracování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133755Z" creationid="Josef" creationdate="20180317T133755Z">
         <seg>OmegaT pozná, že se jedná o týmový projekt a vše automaticky synchronizuje, ve výchozím nastavení se tak děje každé tři minuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
+        <seg>OmegaT pak zkopíruje vybraný soubor do podadresáře &lt;f2&gt;/source/&lt;/f2&gt; ve vašem nově vytvořeném projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15677,6 +16511,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102643Z" creationid="Josef" creationdate="20180317T102643Z">
         <seg>OmegaT se pokusí znovu segmentovat soubor TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
+        <seg>Ale OmegaT zobrazí tuto větu tímto způsobem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15809,6 +16651,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164246Z" creationid="Josef" creationdate="20180317T164246Z">
+        <seg>Jakmile jste se ujistili, že v překladu nejsou žádné chyby tagů, stiskněte &lt;k0&gt;Ctrl+D&lt;/k0&gt;, a tím se vygeneruje cílový soubor, který bude vytvořen v podadresáři &lt;f1&gt; /target/&lt;/f1&gt; vašeho projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163658Z" creationid="Josef" creationdate="20180317T163658Z">
@@ -15869,6 +16719,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133918Z" creationid="Josef" creationdate="20180317T133918Z">
         <seg>V potaz tedy přichází celá čísla a čísla s desetinnými místy (za použití tečky jako značky desetiny, např. 5.4, ale ne 5,4 nebo 54E-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164218Z" creationid="Josef" creationdate="20180317T164218Z">
+        <seg>Přeložen bude jen soubor test.html, který se nachází na hlavní úrovni zdrojového adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html in the folder dir-10 will be processed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164220Z" creationid="Josef" creationdate="20180317T164220Z">
+        <seg>Zpracovávat se bude pouze soubor test.html v adresáři dir-10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16197,6 +17063,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163516Z" creationid="Josef" creationdate="20180317T163516Z">
         <seg>Jiné typy souborů obsahujících prostý text můžou být zpracovány programem &lt;a0&gt;OmegaT&lt;/a0&gt; pomocí asociování své koncovky k podporovanému typu souboru (například soubory .pod mohou být asociovány k filtru ASCII) a jejich předzpracováním se specifickými segmentačními pravidly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164335Z" creationid="Josef" creationdate="20180317T164335Z">
+        <seg>Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16610,6 +17492,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please make sure that a build.xml file is present in that folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164233Z" creationid="Josef" creationdate="20180317T164233Z">
+        <seg>Prosím, ujistěte se, že v tomto adresáři je soubor build.xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101938Z" creationid="Josef" creationdate="20180317T101938Z">
@@ -16766,6 +17656,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102824Z" creationid="Josef" creationdate="20180317T102824Z">
         <seg>MS Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164331Z" creationid="Josef" creationdate="20180317T164331Z">
+        <seg>Preamble</seg>
       </tuv>
     </tu>
     <tu>
@@ -17235,10 +18133,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164349Z" creationid="Josef" creationdate="20180317T164349Z">
+        <seg>Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104135Z" creationid="Josef" creationdate="20180317T104135Z">
         <seg>Vlastnosti...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164401Z" creationid="Josef" creationdate="20180317T164401Z">
+        <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17327,6 +18245,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103723Z" creationid="Josef" creationdate="20180317T103723Z">
         <seg>Kečuánština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quiet option</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164228Z" creationid="Josef" creationdate="20180317T164228Z">
+        <seg>Možnost Quiet (‚Tichý chod‛)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17599,6 +18525,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163706Z" creationid="Josef" creationdate="20180317T163706Z">
         <seg>Pamatujte, že pokud vás tagy ruší a formátování není v daném překladu extrémně důležité, tak odstranění tagů může být nejjednodušší cesta ven z problémů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164238Z" creationid="Josef" creationdate="20180317T164238Z">
+        <seg>Při vytváření projektu nezapomeňte kam jste ho uložili, protože později se k němu budete potřebovat vracet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18703,6 +19637,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164246Z" creationid="Josef" creationdate="20180317T164246Z">
+        <seg>Podívejte se na &lt;l1&gt;Filtry souborů&lt;/l1&gt;, najdete zde seznam formátů souborů, které umí OmegaT zpracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163600Z" creationid="Josef" creationdate="20180317T163600Z">
@@ -19263,6 +20205,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164237Z" creationid="Josef" creationdate="20180317T164237Z">
+        <seg>Nastavení nového projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101924Z" creationid="Josef" creationdate="20180317T101924Z">
@@ -19607,6 +20557,18 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164340Z" creationid="Josef" creationdate="20180317T164340Z">
+        <seg>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133905Z" creationid="Josef" creationdate="20180317T133905Z">
@@ -19707,6 +20669,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101947Z" creationid="Josef" creationdate="20180317T101947Z">
         <seg>Zdroj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164352Z" creationid="Josef" creationdate="20180317T164352Z">
+        <seg>Source Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20089,6 +21059,20 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164343Z" creationid="Josef" creationdate="20180317T164343Z">
+        <seg>States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
@@ -20189,6 +21173,16 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134126Z" creationid="Josef" creationdate="20180317T134126Z">
         <seg>Podadresář překladu (target)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sublicensing is not allowed; section 10
+makes it unnecessary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164400Z" creationid="Josef" creationdate="20180317T164400Z">
+        <seg>Sublicensing is not allowed; section 10
+makes it unnecessary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20409,6 +21403,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164344Z" creationid="Josef" creationdate="20180317T164344Z">
+        <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103019Z" creationid="Josef" creationdate="20180317T103019Z">
@@ -20613,6 +21615,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101926Z" creationid="Josef" creationdate="20180317T101926Z">
         <seg>Ověření tagů se nezdařilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag validation option</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
+        <seg>Možnosti Ověření tagů</seg>
       </tuv>
     </tu>
     <tu>
@@ -21004,6 +22014,20 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Corresponding Source" for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164354Z" creationid="Josef" creationdate="20180317T164354Z">
+        <seg>The "Corresponding Source" for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103425Z" creationid="Josef" creationdate="20180317T103425Z">
@@ -21012,10 +22036,38 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "System Libraries" of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164353Z" creationid="Josef" creationdate="20180317T164353Z">
+        <seg>The "System Libraries" of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163820Z" creationid="Josef" creationdate="20180317T163820Z">
         <seg>„Stará“ verze OmegaT bude přepsána, ale její nastavení zůstanou zachována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "source code" for a work means the preferred form of the work
+for making modifications to it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164352Z" creationid="Josef" creationdate="20180317T164352Z">
+        <seg>The "source code" for a work means the preferred form of the work
+for making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21040,6 +22092,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134103Z" creationid="Josef" creationdate="20180317T134103Z">
         <seg>Podadresář &lt;e0&gt;omegat&lt;/e0&gt; obsahuje minimálně jeden nebo více dalších souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
+        <seg>Paměti &lt;f3&gt;level1&lt;/f3&gt; a &lt;f4&gt;level2&lt;/f4&gt; je možno sdílet s jinými překladatelskými programy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,6 +22144,28 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Corresponding Source for a work in source code form is that
+same work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164355Z" creationid="Josef" creationdate="20180317T164355Z">
+        <seg>The Corresponding Source for a work in source code form is that
+same work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164355Z" creationid="Josef" creationdate="20180317T164355Z">
+        <seg>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134038Z" creationid="Josef" creationdate="20180317T134038Z">
@@ -21096,6 +22178,16 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134239Z" creationid="Josef" creationdate="20180317T134239Z">
         <seg>Licence GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164332Z" creationid="Josef" creationdate="20180317T164332Z">
+        <seg>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21770,6 +22862,16 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164332Z" creationid="Josef" creationdate="20180317T164332Z">
+        <seg>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164146Z" creationid="Josef" creationdate="20180317T164146Z">
@@ -21814,6 +22916,22 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134253Z" creationid="Josef" creationdate="20180317T134253Z">
         <seg>Hlavní aplikace OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
+        <seg>Paměť nazvaná &lt;f5&gt;omegat&lt;/f5&gt; se dá použít jen s OmegaT, a to v jakémkoliv budoucím projektu, který si vytvoříte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164229Z" creationid="Josef" creationdate="20180317T164229Z">
+        <seg>Hlášení, která byste obvykle nalezli ve stavové liště se nebudou zobrazovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21866,6 +22984,18 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164357Z" creationid="Josef" creationdate="20180317T164357Z">
+        <seg>The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102021Z" creationid="Josef" creationdate="20180317T102021Z">
@@ -21910,6 +23040,16 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104047Z" creationid="Josef" creationdate="20180317T104047Z">
         <seg>Možné události (reakce kláves) jsou uvedeny v následující dokumentaci Java 1.6 od Oracle: &lt;u0&gt;Popis klávesových událostí Java 1.6&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The precise terms and conditions for copying, distribution and
+modification follow.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164344Z" creationid="Josef" creationdate="20180317T164344Z">
+        <seg>The precise terms and conditions for copying, distribution and
+modification follow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21998,6 +23138,32 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133736Z" creationid="Josef" creationdate="20180317T133736Z">
         <seg>Úložiště je v tento moment prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164208Z" creationid="Josef" creationdate="20180317T164208Z">
+        <seg>Výsledná tmx je uložena v adresáři &lt;f1&gt;omegat&lt;/f1&gt; s názvem &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting tmx is stored in the &lt;l1&gt;omegat&lt;/l1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164214Z" creationid="Josef" creationdate="20180317T164214Z">
+        <seg>Výsledná paměť tmx je uložena v adresáři &lt;l1&gt;omegat &lt;/l1&gt; s názvem &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164348Z" creationid="Josef" creationdate="20180317T164348Z">
+        <seg>The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22210,6 +23376,18 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164341Z" creationid="Josef" creationdate="20180317T164341Z">
+        <seg>The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163702Z" creationid="Josef" creationdate="20180317T163702Z">
@@ -22222,6 +23400,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163632Z" creationid="Josef" creationdate="20180317T163632Z">
         <seg>Tagy se skládají z jednoho až tří písmen a čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
+        <seg>Tagy jsou v OmegaT zašedlé, takže je jednoduché je odlišit od textu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22386,6 +23572,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then, on the command line, type:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164234Z" creationid="Josef" creationdate="20180317T164234Z">
+        <seg>Pak napište do příkazového řádku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are a number of restrictions:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133917Z" creationid="Josef" creationdate="20180317T133917Z">
@@ -22474,11 +23668,43 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
+        <seg>Proto použijte &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; před generováním přeložených souborů, proběhne tak ověření tagů, zda jsou správně zapsány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103103Z" creationid="Josef" creationdate="20180317T103103Z">
         <seg>Proto nešlo spolehlivě určit umístění konfiguračního adresáře aplikace OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164341Z" creationid="Josef" creationdate="20180317T164341Z">
+        <seg>Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164336Z" creationid="Josef" creationdate="20180317T164336Z">
+        <seg>Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22535,6 +23761,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163507Z" creationid="Josef" creationdate="20180317T163507Z">
         <seg>Takové znaky nemohou obsahovat, čili neumí vyjádřit informace k textu týkající se barvy, písma a podobných vlastností textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164245Z" creationid="Josef" creationdate="20180317T164245Z">
+        <seg>Jsou chráněny proti zápisu, takže nelze měnit jejich obsah, ale je možno je smazat, ručně je vkládat nebo měnit jejich pozici v cílové větě. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22609,6 +23843,26 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163804Z" creationid="Josef" creationdate="20180317T163804Z">
         <seg>Toto JRE nebude kolidovat s jinými implementacemi Java, které již mohou být nainstalovány ve vašem systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164358Z" creationid="Josef" creationdate="20180317T164358Z">
+        <seg>This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This License explicitly affirms your unlimited
+permission to run the unmodified Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164357Z" creationid="Josef" creationdate="20180317T164357Z">
+        <seg>This License explicitly affirms your unlimited
+permission to run the unmodified Program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22845,6 +24099,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164340Z" creationid="Josef" creationdate="20180317T164340Z">
+        <seg>This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is how it works:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134035Z" creationid="Josef" creationdate="20180317T134035Z">
@@ -22941,6 +24205,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164225Z" creationid="Josef" creationdate="20180317T164225Z">
+        <seg>Tato možnost dovoluje zpracovat ověření tagů po dávkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133914Z" creationid="Josef" creationdate="20180317T133914Z">
@@ -23021,6 +24293,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of &lt;a0&gt;OmegaT&lt;/a0&gt; in the ./dist/ folder, where you will find all the files necessary to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164236Z" creationid="Josef" creationdate="20180317T164236Z">
+        <seg>Tímto vytvoříte kompletní distribuci programu &lt;a0&gt;OmegaT&lt;/a0&gt; v adresáři ./dist/, ve kterém naleznete všechny soubory potřebné k provozu &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163826Z" creationid="Josef" creationdate="20180317T163826Z">
@@ -23033,6 +24313,20 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103255Z" creationid="Josef" creationdate="20180317T103255Z">
         <seg>Toto zruší všechny změny, které byly dosud provedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164359Z" creationid="Josef" creationdate="20180317T164359Z">
+        <seg>Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23065,6 +24359,42 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103812Z" creationid="Josef" creationdate="20180317T103812Z">
         <seg>Tigriňňa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164349Z" creationid="Josef" creationdate="20180317T164349Z">
+        <seg>To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164347Z" creationid="Josef" creationdate="20180317T164347Z">
+        <seg>To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164349Z" creationid="Josef" creationdate="20180317T164349Z">
+        <seg>To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23295,10 +24625,46 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164343Z" creationid="Josef" creationdate="20180317T164343Z">
+        <seg>To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164336Z" creationid="Josef" creationdate="20180317T164336Z">
+        <seg>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
+        <seg>Původní nastaven projektu si můžete kdykoliv zobrazit otevřením dialogového okna Vlastnosti projektu, a to stiskem &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164143Z" creationid="Josef" creationdate="20180317T164143Z">
         <seg>Aby šlo spustit &lt;a0&gt;OmegaT&lt;/a0&gt; v režimu příkazového řádku, je nutné, aby existoval platný &lt;a1&gt;OmegaT&lt;/a1&gt; projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
+        <seg>Seznam souborů v projektu uvidíte v dialogovém okně &lt;g1&gt;Soubory projektu&lt;/g1&gt;, které otevřete stiskem &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23323,6 +24689,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164037Z" creationid="Josef" creationdate="20180317T164037Z">
         <seg>Pro první spuštění aplikace OmegaT prostřednictvím Java Web Start si zadejte a načtěte ve vašem prohlížeči následující URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164240Z" creationid="Josef" creationdate="20180317T164240Z">
+        <seg>Prvním krokem při používání OmegaT je vytvoření projektu, který bude obsahovat všechny vaše soubory, jako např. zdrojové soubory, překladové paměti, glosáře a nakonec také váš překlad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,6 +24873,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104501Z" creationid="Josef" creationdate="20180317T104501Z">
         <seg>TransTips / Povolit TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
+        <seg>Překlad souboru</seg>
       </tuv>
     </tu>
     <tu>
@@ -24186,6 +25568,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164233Z" creationid="Josef" creationdate="20180317T164233Z">
+        <seg>Rozbalte soubor &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; a vložte adresář OmegaT_3.n.n_Source nebo vložte adresář &lt;e2&gt;./omegat/&lt;/e2&gt; získání protokolu SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163826Z" creationid="Josef" creationdate="20180317T163826Z">
@@ -24333,6 +25723,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164229Z" creationid="Josef" creationdate="20180317T164229Z">
+        <seg>Příklad použití: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164231Z" creationid="Josef" creationdate="20180317T164231Z">
+        <seg>Příklad použití: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T083430Z" creationid="Josef" creationdate="20180317T083430Z">
@@ -24457,6 +25863,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103020Z" creationid="Josef" creationdate="20180317T103020Z">
         <seg>Použít přizpůsobené šablony pro &amp;informace o úpravách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164226Z" creationid="Josef" creationdate="20180317T164226Z">
+        <seg>Použijete jej tehdy, když OmegaT nemá synchronizovat obsah projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24669,6 +26083,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164243Z" creationid="Josef" creationdate="20180317T164243Z">
+        <seg>Ověřujte tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101927Z" creationid="Josef" creationdate="20180317T101927Z">
@@ -24705,6 +26127,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103854Z" creationid="Josef" creationdate="20180317T103854Z">
         <seg>Luvendština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version 3, 29 June 2007</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164328Z" creationid="Josef" creationdate="20180317T164311Z">
+        <seg>Verze 3, 29. června 2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -24887,6 +26317,18 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164334Z" creationid="Josef" creationdate="20180317T164334Z">
+        <seg>We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084941Z" creationid="Josef" creationdate="20180317T084941Z">
@@ -24991,6 +26433,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164215Z" creationid="Josef" creationdate="20180317T164215Z">
+        <seg>Při použití tohoto režimu, tato možnost blíže určí, které soubory mají být automaticky zpracovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133912Z" creationid="Josef" creationdate="20180317T133912Z">
@@ -25055,6 +26505,16 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164335Z" creationid="Josef" creationdate="20180317T164335Z">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163619Z" creationid="Josef" creationdate="20180317T163619Z">
@@ -25067,6 +26527,26 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103358Z" creationid="Josef" creationdate="20180317T103358Z">
         <seg>Jakmile budete chtít zobrazit hotový přeložený text, můžete exportovat přeložené soubory, otevřít je v odpovídající aplikaci a zobrazit překlad ve výsledném formátu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164402Z" creationid="Josef" creationdate="20180317T164402Z">
+        <seg>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25099,6 +26579,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133945Z" creationid="Josef" creationdate="20180317T133945Z">
         <seg>Když se rozhodnete používat filtr znovu, stačí příslušné políčko opět zaškrtnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164243Z" creationid="Josef" creationdate="20180317T164243Z">
+        <seg>Po přeložení celého segmentu stiskem &lt;k0&gt;Ctrl+U&lt;/k0&gt; přejdete na další nepřeložený segment (nebo stiskem &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;přejděte na další přeložený segment segment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25213,6 +26701,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163802Z" creationid="Josef" creationdate="20180317T163802Z">
         <seg>Uživatelé Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164228Z" creationid="Josef" creationdate="20180317T164228Z">
+        <seg>S touto možností se tedy zablokování neprojeví.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25505,6 +27001,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
+        <seg>Můžete si vytvořit glosář, a to stiskem &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, nebo zkopírováním existujících glosářů do podadresáře &lt;f1&gt;/glossary/&lt;/f1&gt; ve vašem projektovém adresáři a OmegaT v nich bude automaticky hledat slovíčka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104015Z" creationid="Josef" creationdate="20180317T104015Z">
@@ -25553,6 +27057,16 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can apply it to
+your programs, too.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164334Z" creationid="Josef" creationdate="20180317T164334Z">
+        <seg>You can apply it to
+your programs, too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134017Z" creationid="Josef" creationdate="20180317T134017Z">
@@ -25565,6 +27079,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104037Z" creationid="Josef" creationdate="20180317T104037Z">
         <seg>Můžete změnit již přiřazené klávesové zkratky a přidat nové zkratky tak, že přidáte soubor definic klávesových zkratek do svého adresáře OmegaT (&lt;l0&gt;Umístění souborů uživatele&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164247Z" creationid="Josef" creationdate="20180317T164247Z">
+        <seg>Pro každou zakázku můžete vytvořit nový projekt a také je možné přidat hned několik zdrojových souborů do jednoho projektu současně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25754,6 +27276,76 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164404Z" creationid="Josef" creationdate="20180317T164404Z">
+        <seg>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164405Z" creationid="Josef" creationdate="20180317T164405Z">
+        <seg>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164359Z" creationid="Josef" creationdate="20180317T164359Z">
+        <seg>You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164404Z" creationid="Josef" creationdate="20180317T164404Z">
+        <seg>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164358Z" creationid="Josef" creationdate="20180317T164358Z">
+        <seg>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101557Z" creationid="Josef" creationdate="20180317T101557Z">
@@ -25774,6 +27366,16 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102425Z" creationid="Josef" creationdate="20180317T102425Z">
         <seg>Musíte vložit číslo mezi 1 a {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must make sure that they, too, receive
+or can get the source code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164337Z" creationid="Josef" creationdate="20180317T164337Z">
+        <seg>You must make sure that they, too, receive
+or can get the source code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26599,6 +28201,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102321Z" creationid="Josef" creationdate="20180317T102321Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164220Z" creationid="Josef" creationdate="20180317T164220Z">
+        <seg>dir-10\\test\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27691,6 +29301,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164257Z" creationid="Josef" creationdate="20180317T164257Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164256Z" creationid="Josef" creationdate="20180317T164256Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163559Z" creationid="Josef" creationdate="20180317T163559Z">
@@ -28041,6 +29667,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103506Z" creationid="Josef" creationdate="20180317T103506Z">
         <seg>it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it, and giving a relevant date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164406Z" creationid="Josef" creationdate="20180317T164406Z">
+        <seg>it, and giving a relevant date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29065,6 +30699,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103700Z" creationid="Josef" creationdate="20180317T103700Z">
         <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of this license document, but changing it is not allowed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164331Z" creationid="Josef" creationdate="20180317T164331Z">
+        <seg>of this license document, but changing it is not allowed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30177,6 +31819,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103808Z" creationid="Josef" creationdate="20180317T103808Z">
         <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164217Z" creationid="Josef" creationdate="20180317T164217Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
