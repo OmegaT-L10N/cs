@@ -9458,6 +9458,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184634Z" creationid="Josef" creationdate="20180317T184634Z">
+        <seg>Chyby, návrhy na funkce a problémy v dokumentaci se projednávají v tzv. tracking systému umístěném na Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164232Z" creationid="Josef" creationdate="20180317T164232Z">
@@ -21896,8 +21904,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T182452Z" creationid="Josef" creationdate="20180317T182417Z">
-        <seg>Emailové konference / mailing list</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184724Z" creationid="Josef" creationdate="20180317T182417Z">
+        <seg>Emailové diskuzní skupiny / mailing list</seg>
       </tuv>
     </tu>
     <tu>
@@ -24512,8 +24520,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T182447Z" creationid="Josef" creationdate="20180317T182447Z">
-        <seg>Projekt OmegaT spravuje také následující emailové konference, které jsou hostovány na Sourceforge:</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184733Z" creationid="Josef" creationdate="20180317T182447Z">
+        <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26285,6 +26293,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102422Z" creationid="Josef" creationdate="20180317T102422Z">
         <seg>Prosím opravte chyby tagů před opětovným použitím volby Vytvořit přeložené dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184710Z" creationid="Josef" creationdate="20180317T184710Z">
+        <seg>Prosím nepoužívejte tento systém před tím, než by se daná věc prodiskutovala na uživatelské skupině nebo v emailové diskuzní skupině.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37578,6 +37594,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084829Z" creationid="Josef" creationdate="20180317T084829Z">
         <seg>Celkem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184604Z" creationid="Josef" creationdate="20180317T184604Z">
+        <seg>Tracking systém</seg>
       </tuv>
     </tu>
     <tu>
