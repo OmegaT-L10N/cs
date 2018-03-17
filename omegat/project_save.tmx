@@ -7188,6 +7188,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182125Z" creationid="Josef" creationdate="20180317T182125Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181612Z" creationid="Josef" creationdate="20180317T181612Z">
@@ -7758,6 +7766,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102051Z" creationid="Josef" creationdate="20180317T102051Z">
         <seg>Albánština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182119Z" creationid="Josef" creationdate="20180317T182119Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12401,6 +12417,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182152Z" creationid="Josef" creationdate="20180317T182152Z">
+        <seg>Vývojáři</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.</seg>
@@ -12529,6 +12553,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181217Z" creationid="Josef" creationdate="20180317T181217Z">
         <seg>Podokno Slovník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182114Z" creationid="Josef" creationdate="20180317T182114Z">
+        <seg>Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
@@ -13017,6 +13049,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103102Z" creationid="Josef" creationdate="20180317T103102Z">
         <seg>Připojit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182135Z" creationid="Josef" creationdate="20180317T182135Z">
+        <seg>Správce dokumentace</seg>
       </tuv>
     </tu>
     <tu>
@@ -19837,6 +19877,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182124Z" creationid="Josef" creationdate="20180317T182124Z">
+        <seg>Správce integrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
@@ -20898,6 +20946,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182149Z" creationid="Josef" creationdate="20180317T182149Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103540Z" creationid="Josef" creationdate="20180317T103540Z">
@@ -21316,6 +21372,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182119Z" creationid="Josef" creationdate="20180317T182119Z">
+        <seg>Vedoucí vývojář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181637Z" creationid="Josef" creationdate="20180317T181637Z">
@@ -21586,6 +21650,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181642Z" creationid="Josef" creationdate="20180317T181642Z">
         <seg>Místní pracovní kopie byly smazány: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182148Z" creationid="Josef" creationdate="20180317T182148Z">
+        <seg>Správce loklaizace a vlastník uživatelské skupiny</seg>
       </tuv>
     </tu>
     <tu>
@@ -22002,6 +22074,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103618Z" creationid="Josef" creationdate="20180317T103618Z">
         <seg>Maráthština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182130Z" creationid="Josef" creationdate="20180317T182130Z">
+        <seg>Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -26942,6 +27022,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182113Z" creationid="Josef" creationdate="20180317T182113Z">
+        <seg>Správa projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project members connect with it via their VCS client.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133703Z" creationid="Josef" creationdate="20180317T133703Z">
@@ -30332,6 +30420,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163707Z" creationid="Josef" creationdate="20180317T163707Z">
         <seg>Vzhledem k tomu, že tagy jsou obsaženy v samotném textu, je možné použít Pravidla segmentace k vytvoření segmentů s méně tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182250Z" creationid="Josef" creationdate="20180317T182250Z">
+        <seg>Od začátku projektu do projektu přispěly desítky pomocníků, je jich příliš mnoho na to, aby tu byli všichni jmenováni, ale i tak jim  patří velký dík.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34271,6 +34367,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164041Z" creationid="Josef" creationdate="20180317T164041Z">
         <seg>Práva, která udělíte této verzi (která lze nazývat jako „neomezený přístup k počítači“) jsou identická s právy, která jste přidělili místní verzi, tato práva povolí přístup na pevný disk počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182207Z" creationid="Josef" creationdate="20180317T182207Z">
+        <seg>Účel projektu je popsán &lt;a0&gt;zde&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38783,6 +38887,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182250Z" creationid="Josef" creationdate="20180317T182250Z">
+        <seg>na Yahoo!.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User interface language</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164104Z" creationid="Josef" creationdate="20180317T164104Z">
@@ -39170,6 +39282,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182135Z" creationid="Josef" creationdate="20180317T182135Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vincent Bidaux (documentation manager)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181608Z" creationid="Josef" creationdate="20180317T181608Z">
@@ -39341,6 +39461,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181748Z" creationid="Josef" creationdate="20180317T181748Z">
         <seg>Návrh stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182130Z" creationid="Josef" creationdate="20180317T182130Z">
+        <seg>Správce webové prezentace</seg>
       </tuv>
     </tu>
     <tu>
