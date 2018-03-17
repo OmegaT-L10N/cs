@@ -12,6 +12,14 @@
         <seg>&amp;OK</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T064153Z" creationid="Josef" creationdate="20180317T064153Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
