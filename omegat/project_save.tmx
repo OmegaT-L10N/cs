@@ -100,6 +100,14 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># MyMemory email</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170001Z" creationid="Josef" creationdate="20180317T170001Z">
+        <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -1510,6 +1518,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164853Z" creationid="Josef" creationdate="20180317T164853Z">
+        <seg>(dle aktualního stavu) další novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084926Z" creationid="Josef" creationdate="20180317T084926Z">
@@ -1792,6 +1808,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164129Z" creationid="Josef" creationdate="20180317T164129Z">
         <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170027Z" creationid="Josef" creationdate="20180317T170027Z">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,6 +2257,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; users and Google Translate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165943Z" creationid="Josef" creationdate="20180317T165943Z">
+        <seg>Uživatelé &lt;a0&gt;OmegaT&lt;/a0&gt; a Google Překladač</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134053Z" creationid="Josef" creationdate="20180317T134053Z">
@@ -2621,6 +2653,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163846Z" creationid="Josef" creationdate="20180317T163846Z">
         <seg>&lt;e0&gt;Nevím:&lt;/e0&gt; otevřete terminál a napište „java -version“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165940Z" creationid="Josef" creationdate="20180317T165940Z">
+        <seg>&lt;e0&gt;Důležité upozornění:&lt;/e0&gt; Služba Google Překladač API V2 vyžaduje platební informace k vašemu účtu již před započetím používání služby (pro více informací viz &lt;u1&gt;Placení a podmínky použití služby&lt;/u1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3322,6 +3362,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165429Z" creationid="Josef" creationdate="20180317T164717Z">
+        <seg>&lt;jeden řádek se jménem programu a krátkým popisem toho, co dělá&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163827Z" creationid="Josef" creationdate="20180317T163827Z">
@@ -3582,6 +3630,46 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133756Z" creationid="Josef" creationdate="20180317T133756Z">
         <seg>&lt;p0&gt;Tokenizer&lt;/p0&gt; &lt;s1&gt;Lucene&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165950Z" creationid="Josef" creationdate="20180317T165950Z">
+        <seg>&lt;p0&gt;Strojový překlad&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Belazar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165949Z" creationid="Josef" creationdate="20180317T165949Z">
+        <seg>&lt;p0&gt;Strojový překlad&lt;/p0&gt; &lt;s1&gt;Belazar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165937Z" creationid="Josef" creationdate="20180317T165937Z">
+        <seg>&lt;p0&gt;Strojový překlad&lt;/p0&gt; &lt;s1&gt;Google Překladač&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165933Z" creationid="Josef" creationdate="20180317T165933Z">
+        <seg>&lt;p0&gt;Strojový překlad&lt;/p0&gt; &lt;s1&gt;Úvod&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165957Z" creationid="Josef" creationdate="20180317T165957Z">
+        <seg>&lt;p0&gt;Strojový překlad&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4114,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165946Z" creationid="Josef" creationdate="20180317T165946Z">
+        <seg>&lt;p0&gt;Klávesové zkratky&lt;/p0&gt; &lt;s1&gt;Strojový překlad - Ctrl+M&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133908Z" creationid="Josef" creationdate="20180317T133908Z">
@@ -4314,6 +4410,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165804Z" creationid="Josef" creationdate="20180317T165804Z">
+        <seg>&lt;program&gt; Copyright (C) &lt;rok&gt; &lt;jméno autora&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164237Z" creationid="Josef" creationdate="20180317T164237Z">
@@ -4342,6 +4446,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102813Z" creationid="Josef" creationdate="20180317T102813Z">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165953Z" creationid="Josef" creationdate="20180317T165953Z">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; je svobodná/open source platforma pro strojový překlad, původně měla za cíl zabývat se příbuznými jazykovými páry, jako CA, ES, GA, PT, OC a FR ale v nedávné době rozšířila svůj zájem i na více odlišné jazykové páry (jako angličtina-katalánština).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Belazar&lt;/u0&gt; is a Machine language translation tool for the Russian-Belarusian language pair.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165950Z" creationid="Josef" creationdate="20180317T165950Z">
+        <seg>&lt;u0&gt;Belazar&lt;/u0&gt; je nástroj pro strojový překlad pouze pro jazykový pár ruština-běloruština.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5486,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also add information on how to contact you by electronic and paper mail.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165216Z" creationid="Josef" creationdate="20180317T165216Z">
+        <seg>Také přidejte informaci o tom jak vás kontaktovat elektronicky nebo klasickou poštou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163735Z" creationid="Josef" creationdate="20180317T163735Z">
@@ -5726,6 +5854,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165956Z" creationid="Josef" creationdate="20180317T165956Z">
+        <seg>Apertium používá nástroj pro strojový překlad s povrchním přenosem dat, to znamená že zpracovává vstupní text po fázích, jako na montážní lince: odstraní formát, provede morfologickou analýzu, rozlišení slovních druhů, přenos formy, lexikální přenos, morfologická tvorba a obnovení formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
@@ -5856,6 +5992,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165935Z" creationid="Josef" creationdate="20180317T165935Z">
+        <seg>Jako protiklad k překladovým pamětem vytvořeným uživatelem (jako v případě &lt;a0&gt;OmegaT&lt;/a0&gt;) stojí nástroje strojového překladu (Machine translation / MT), které představují lingvistické nástroje založené na vnitřních pravidlech a slouží k vytváření překladu zdrojových segmentů bez potřeby překladové paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163622Z" creationid="Josef" creationdate="20180317T163622Z">
@@ -5908,6 +6052,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102034Z" creationid="Josef" creationdate="20180317T102034Z">
         <seg>Současně může pro srovnání využívat paměti z předchozích překladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing the list includes more than 50 languages, from Albanian to Yiddish, including of course all the major languages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165938Z" creationid="Josef" creationdate="20180317T165938Z">
+        <seg>V době psaní tohoto textu je v seznamu zastoupeno více než 50 jazyků od afrikánštiny až po vietnamštinu, včetně všech hlavních jazyků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,6 +6592,15 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But first, please read
+&lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165932Z" creationid="Josef" creationdate="20180317T165932Z">
+        <seg>Ale nejprve prosím čtěte &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
@@ -6466,6 +6627,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164114Z" creationid="Josef" creationdate="20180317T164114Z">
         <seg>Výchozí nastavení je přiřazeno 512 MB, takže asi bude nevýhodné nastavovat menší hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165957Z" creationid="Josef" creationdate="20180317T165957Z">
+        <seg>Ve výchozím nastaení umožňuje MyMemory maximálně 100 dotazů za den.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6506,6 +6675,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163649Z" creationid="Josef" creationdate="20180317T163649Z">
         <seg>Vymazáním skupiny tagů odstraníte příslušné formátování z přeloženého souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165958Z" creationid="Josef" creationdate="20180317T165958Z">
+        <seg>Při zadání emailové adresy je možno použít 1000 dotazů za den, místo původních 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +7051,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133750Z" creationid="Josef" creationdate="20180317T133750Z">
         <seg>Zkontrolujte obsah adresáře a potvrďte, že místní kopie úložiště a odpovídající soubory a adresáře odpovídají nejnovější serverové verzi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the web site for the latest list of implemented language pairs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165954Z" creationid="Josef" creationdate="20180317T165954Z">
+        <seg>Na webové stránce projektu se můžete podívat na kompletní seznam implementovaných jazykových párů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7763,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164329Z" creationid="Josef" creationdate="20180317T164329Z">
         <seg>Copyright (C) 2007 Free Software Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165432Z" creationid="Josef" creationdate="20180317T164640Z">
+        <seg>Copyright (C) &lt;rok&gt; &lt;jméno autora&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -11099,6 +11292,16 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165915Z" creationid="Josef" creationdate="20180317T165915Z">
+        <seg>For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163838Z" creationid="Josef" creationdate="20180317T163838Z">
@@ -11381,6 +11584,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165041Z" creationid="Josef" creationdate="20180317T165041Z">
+        <seg>licenci GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102316Z" creationid="Josef" creationdate="20180317T102316Z">
@@ -11645,10 +11856,34 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165937Z" creationid="Josef" creationdate="20180317T165937Z">
+        <seg>Google Překladač</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate - example</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165945Z" creationid="Josef" creationdate="20180317T165945Z">
+        <seg>Google Překladač – příklad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate V2</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164118Z" creationid="Josef" creationdate="20180317T164118Z">
         <seg>Google Překladač V2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate is a payable service offered by Google, for translating sentences, web sites and complete texts between an ever-growing number of languages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165937Z" creationid="Josef" creationdate="20180317T165937Z">
+        <seg>Google Překladač je placená služba nabízená firmou Google, slouží k překladu služeb, webových stránek a kompletních textů mezi stále narůstajícím počtem jazyků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,8 +12258,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>How to Apply These Terms to Your New Programs</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T164616Z" creationid="Josef" creationdate="20180317T164616Z">
-        <seg>How to Apply These Terms to Your New Programs</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165454Z" creationid="Josef" creationdate="20180317T164616Z">
+        <seg>Jak uplatnit tato ustanovení na vaše nové programy</seg>
       </tuv>
     </tu>
     <tu>
@@ -12518,6 +12753,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165120Z" creationid="Josef" creationdate="20180317T165120Z">
+        <seg>Pokud ne, navštěvite adresu &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133953Z" creationid="Josef" creationdate="20180317T133953Z">
@@ -12730,6 +12973,15 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165752Z" creationid="Josef" creationdate="20180317T165420Z">
+        <seg>Pokud je program interaktivní, zařiďte, aby se při startu v interaktivním módu vypsalo hlášení podobné tomuto: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164230Z" creationid="Josef" creationdate="20180317T164230Z">
@@ -12778,10 +13030,28 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165917Z" creationid="Josef" creationdate="20180317T165917Z">
+        <seg>If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133917Z" creationid="Josef" creationdate="20180317T133917Z">
         <seg>Když je tato možnost zaškrtnuta, tak při vložení přibližného překladu, buď ručně nebo automaticky, se OmegaT pokusí převést čísla v daném přibližném překladu, a to tak, že se místo dostupného čísla použije číslo ze zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
+        <seg>Pokud se ale rozhodnou pro použití, tak ani rozhodnutí uživatele přijmout překlad, ani konečný překlad nebude společnosti Google dostupný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,10 +13172,36 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165515Z" creationid="Josef" creationdate="20180317T165515Z">
+        <seg>Pokud vyvinete nový program a chcete, aby byl veřejnosti co nejvíce k užitku, nejlépe toho dosáhnete tím, že jej prohlásíte za svobodný software, který může kdokoliv šířit a měnit za podmínek zde uvedených. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165948Z" creationid="Josef" creationdate="20180317T165948Z">
+        <seg>Pokud nechcete, aby &lt;a0&gt;OmegaT&lt;/a0&gt; posílala vaše zdrojové segmenty k překladu firmě Google, zrušte v nabídce Možnosti zaškrtnutí u položky Google Překladač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163757Z" creationid="Josef" creationdate="20180317T163757Z">
         <seg>Když exportujete data použitím možnosti „Tab-delimited export“, budete muset smazat prvních 5 sloupců (Seq.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165947Z" creationid="Josef" creationdate="20180317T165947Z">
+        <seg>Pokud se vám návrh zdá být přijatelný, stiskněte &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; a vložíte tak tento návrh do cílové části otevřeného segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,6 +13322,18 @@ not convey it at all.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163823Z" creationid="Josef" creationdate="20180317T163823Z">
         <seg>Jestliže je stávající instalace OmegaT verze „Windows s JRE“, nová verze musí být také verzí „Windows s JRE“. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165917Z" creationid="Josef" creationdate="20180317T165917Z">
+        <seg>If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13316,10 +13624,26 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Slovenian version both words have been translated as nouns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165946Z" creationid="Josef" creationdate="20180317T165946Z">
+        <seg>Ve slovinské verzi byla tato slova přeložena jako podstatná jména.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104013Z" creationid="Josef" creationdate="20180317T104013Z">
         <seg>V uvedeném příkladě jsou dva skripty (pozice 1 a 2) již přiřazeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above segment, for instance, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; would replace the Spanish version with the Slovenian suggestion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165947Z" creationid="Josef" creationdate="20180317T165947Z">
+        <seg>Jako příklad se podívejme na segment nahoře, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; by nahradilo španělskou verzi návrhem ve slovinštině.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,6 +14236,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is actually quite probable that the Spanish translation is based at least partially on the actual translation of the book.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165946Z" creationid="Josef" creationdate="20180317T165946Z">
+        <seg>Je prakticky docela pravděpodobné, že španělský překlad se zakládá přinejmenším z části na skutečném překladu knihy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164248Z" creationid="Josef" creationdate="20180317T164248Z">
@@ -13936,10 +14268,37 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165956Z" creationid="Josef" creationdate="20180317T165956Z">
+        <seg>Apertium je možné použít k sestavení systémů strojového překladu pro různé jazykové páry; za tímto účelem používá Apertium jednoduché standardní formátování založené na XML ke kódování potřebných lingvistických dat (buď ručně nebo konverzí existujících dat), která jsou kompilována za použití poskytnutých nástrojů na vysokorychlostní formáty používané tímto nástrojem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is pretty much certain that while the quality may be insufficient in some cases, it will definitely get better with time and not worse.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165943Z" creationid="Josef" creationdate="20180317T165943Z">
+        <seg>Je docela jisté, že zatímco kvalita může být v některých případech nevyhovující, tak postupem času se bude situace jen zlepšovat, nikoliv naopak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
         <seg>Balíček je poskytován jako komprimovaný soubor (archív typu zip nebo tar), který musíte rozbalit do adresáře, který jste si zvolili pro instalaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is safest
+to attach them to the start of each source file to most effectively
+state the exclusion of warranty; and each file should have at least
+the "copyright" line and a pointer to where the full notice is found.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165702Z" creationid="Josef" creationdate="20180317T165702Z">
+        <seg>Je nejjistější připojit je na začátek každého zdrojového souboru, a zajistit tak nejefektivnější vyloučení záruk; a každý soubor by měl mít přinejmenším řádek obsahující "copyright" a poukázat na to, kde se dá nalézt kompletní poznámka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15123,6 +15482,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165017Z" creationid="Josef" creationdate="20180317T165017Z">
+        <seg>PRODEJNOSTI nebo VHODNOSTI NA URČITÝ ÚČEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X Users</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163834Z" creationid="Josef" creationdate="20180317T163834Z">
@@ -15175,6 +15542,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103100Z" creationid="Josef" creationdate="20180317T103100Z">
         <seg>Možnosti strojového překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine translation services have been achieving good and steadfastly improving results in research evaluations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165935Z" creationid="Josef" creationdate="20180317T165935Z">
+        <seg>Služby strojového překladu dosahují ve výzkumném hodnocení dobrých a neustále se zlepšujících výsledků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16055,6 +16430,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory your@email-address.com</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170007Z" creationid="Josef" creationdate="20180317T170007Z">
+        <seg>MyMemory vase@emailova-adresa.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103616Z" creationid="Josef" creationdate="20180317T103616Z">
@@ -16555,6 +16938,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note &lt;e0&gt;interesar&lt;/e0&gt; and&lt;e1&gt; navegar&lt;/e1&gt; in Spanish, are correctly translated as the verbs interest and sail respectively.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165945Z" creationid="Josef" creationdate="20180317T165945Z">
+        <seg>Všimněte si, že slova &lt;e0&gt;interesar&lt;/e0&gt; a &lt;e1&gt;navegar&lt;/e1&gt; byla ve španělštině správně přeložena jako slovesa interest  a sail. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note double - character</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164157Z" creationid="Josef" creationdate="20180317T164157Z">
@@ -16611,6 +17002,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that nothing but your source segment is sent to the MT service.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165948Z" creationid="Josef" creationdate="20180317T165948Z">
+        <seg>Službě strojového překladu se posílá jen zdrojový segment a nic víc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133726Z" creationid="Josef" creationdate="20180317T133726Z">
@@ -16647,6 +17046,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133730Z" creationid="Josef" creationdate="20180317T133730Z">
         <seg>Členové týmu musí být nejprve registrováni, a to před tím, než je budete moci přidat do projektu (Poznámka: ve verzi programu ProjectLocker, která je zdarma, máte možnost zadat pouze dva uživatele na projekt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165936Z" creationid="Josef" creationdate="20180317T165936Z">
+        <seg>Nezapomeňte, že všechny jsou založeny na webu: pro jejich provoz budete muset být online.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16933,6 +17340,15 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163735Z" creationid="Josef" creationdate="20180317T163735Z">
         <seg>Kódování se zajisté musí shodovat s oběma obsaženými jazyky, proto je doporučováno použít Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, your program's commands
+might be different; for a GUI interface, you would use an "about box".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165912Z" creationid="Josef" creationdate="20180317T165912Z">
+        <seg>Samozřejmě, odpovídající příkazy nemusí být právě tyto, v grafickém uživatelském prostředí (GUI) to může být např. část “O nás” nebo "O programu".</seg>
       </tuv>
     </tu>
     <tu>
@@ -17481,6 +17897,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133752Z" creationid="Josef" creationdate="20180317T133752Z">
         <seg>Pokud je týmový projekt nastaven, jediné co členové týmu potřebují k přístupu do týmového projektu je &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have activated the service, a suggestion for the translation will appear in the Machine Translate pane every time a new source segment is opened.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165947Z" creationid="Josef" creationdate="20180317T165947Z">
+        <seg>Jakmile bude služba aktivní, zobrazí se návrh překladu v podokně Strojový překlad pokaždé, když otevřete nový zdrojový segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20585,6 +21009,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Installing and Running&lt;/l2&gt;, section Launch command arguments, for details on how to add this key to the OmegaT environment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165942Z" creationid="Josef" creationdate="20180317T165942Z">
+        <seg>Viz kapitolu &lt;l2&gt;Instalace a použití&lt;/l2&gt;, sekce Parametry spouštěcího příkazu, zde najdete bližší popis jak přidat tento klíč do prostředí OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165029Z" creationid="Josef" creationdate="20180317T165019Z">
+        <seg>Pro více detailů viz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104009Z" creationid="Josef" creationdate="20180317T104009Z">
@@ -21957,6 +22397,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistical learning techniques, based on source and target texts, are used to build a translation model.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165935Z" creationid="Josef" creationdate="20180317T165935Z">
+        <seg>K sestavení překladového modelu slouží techniky, kdy se nástroj učí na základě statistik, při tom se vychází ze zdrojových textů a jejich překladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084836Z" creationid="Josef" creationdate="20180317T084836Z">
@@ -23016,6 +23464,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; user is not forced to use Google Translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
+        <seg>Uživatelé &lt;a0&gt;OmegaT&lt;/a0&gt; nemusí Google Překladač využívat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164107Z" creationid="Josef" creationdate="20180317T164107Z">
@@ -23128,6 +23584,16 @@ the GNU General Public License from time to time.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GNU General Public License does not permit incorporating your program
+into proprietary programs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165916Z" creationid="Josef" creationdate="20180317T165916Z">
+        <seg>The GNU General Public License does not permit incorporating your program
+into proprietary programs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GNU General Public License is a free, copyleft license for
 software and other kinds of works.</seg>
       </tuv>
@@ -23206,6 +23672,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104012Z" creationid="Josef" creationdate="20180317T104012Z">
         <seg>V podokně Skriptování můžete nahrát již existující skript do textového pole a spustit jej v právě otevřeném projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Spanish translation is better than the Slovenian.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165945Z" creationid="Josef" creationdate="20180317T165945Z">
+        <seg>Španělský překlad je lepší než slovinský.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23450,6 +23924,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>K provedení těchto změn je nutno aktuální projekt načíst znovu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165938Z" creationid="Josef" creationdate="20180317T165938Z">
+        <seg>V době psaní tohoto textu vychází současná verze této služby ze způsobu použití, účtuje se cena 20 USD za milion znaků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23702,6 +24184,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following window shows an example of a) the English source b) Spanish and c) Slovenian Google Translate translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
+        <seg>Následující okno ukazuje příklad a) anglického zdroje b) španělského a c) slovinského překladu prostřednictvím Google Překladač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
@@ -23770,6 +24260,15 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
         <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165901Z" creationid="Josef" creationdate="20180317T165901Z">
+        <seg>Hypotetické povely ’show w’ a ’show c’ by měly zobrazit příslušné pasáže Obecné veřejné licence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23914,6 +24413,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The online version of Google Translate allows the user to correct the suggestion and send the corrected segment in.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165948Z" creationid="Josef" creationdate="20180317T165948Z">
+        <seg>Online verze Google Překladače umožňuje uživatelům opravit návrh překladu a odeslat opravený segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102039Z" creationid="Josef" creationdate="20180317T102039Z">
@@ -23970,6 +24477,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164041Z" creationid="Josef" creationdate="20180317T164041Z">
         <seg>Práva, která udělíte této verzi (která lze nazývat jako „neomezený přístup k počítači“) jsou identická s právy, která jste přidělili místní verzi, tato práva povolí přístup na pevný disk počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The platform provides</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165954Z" creationid="Josef" creationdate="20180317T165954Z">
+        <seg>Platforma poskytuje </seg>
       </tuv>
     </tu>
     <tu>
@@ -24060,6 +24575,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164141Z" creationid="Josef" creationdate="20180317T164141Z">
         <seg>Důvod proč využívat příkazový řádek (konzoli) je použití aplikace OmegaT jako překladatelský nástroj ve skriptovacím prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The quality of the Google Translate translation depends on one side on the reservoir of target-language texts and the availability of their bilingual versions, on the other hand on the quality of the models built.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165942Z" creationid="Josef" creationdate="20180317T165942Z">
+        <seg>Kvalita překladu s Google Překladačem závisí na jednu stranu na množství přeložených textů a dostupnosti jejich dvoujazyčných verzí, na druhou stranu to závisí na kvalitě vystavěných modelů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24550,6 +25073,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are at least 3 ways to specify your address:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165958Z" creationid="Josef" creationdate="20180317T165958Z">
+        <seg>Existují minimálně 3 způsoby, jak specifikovat adresu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically two types of file formats, plain text and formatted text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
@@ -24969,6 +25500,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature, however, is not implemented in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165948Z" creationid="Josef" creationdate="20180317T165948Z">
+        <seg>Nicméně tato funkce není v OmegaT zahrnuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134244Z" creationid="Josef" creationdate="20180317T134244Z">
@@ -25093,6 +25632,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133803Z" creationid="Josef" creationdate="20180317T133803Z">
         <seg>Toto je obzvláště užitečné u jazyků, které používají předpony a přípony pro odvozování nových slov z kořene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is free software, and you are welcome to redistribute it</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165838Z" creationid="Josef" creationdate="20180317T165838Z">
+        <seg>Jde o svobodný software a jeho šíření</seg>
       </tuv>
     </tu>
     <tu>
@@ -25235,10 +25782,34 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165812Z" creationid="Josef" creationdate="20180317T165812Z">
+        <seg>Tento program je ABSOLUTNĚ BEZ ZÁRUKY; podrobnosti se dozvíte zadáním ’show w’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164906Z" creationid="Josef" creationdate="20180317T164906Z">
+        <seg>Tento program je šířen s nadějí, že bude užitečný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102930Z" creationid="Josef" creationdate="20180317T102930Z">
         <seg>Tento program je šířený v naději, že bude užitečný, ale BEZ JAKÉKOLIV ZÁRUKY; dokonce bez implicitní záruky PRODEJNOSTI nebo VHODNOSTI NA KONKRÉTNÍ ÚČEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software: you can redistribute it and/or modify</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164805Z" creationid="Josef" creationdate="20180317T164805Z">
+        <seg>Tento program je svobodným software: můžete jej dál šířit anebo upravovat</seg>
       </tuv>
     </tu>
     <tu>
@@ -25405,6 +25976,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165936Z" creationid="Josef" creationdate="20180317T165936Z">
+        <seg>Různé dostupné služby Strojového překladu aktivujete přes hlavní nabídku &lt;g0&gt;Možnosti &gt; Strojový překlad&lt;/g0&gt; a aktivujete vybranou službu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134126Z" creationid="Josef" creationdate="20180317T134126Z">
@@ -25511,6 +26090,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165538Z" creationid="Josef" creationdate="20180317T165538Z">
+        <seg>Aby se tak stalo, připojte následující poznámky k programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163646Z" creationid="Josef" creationdate="20180317T163646Z">
@@ -25539,6 +26126,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133841Z" creationid="Josef" creationdate="20180317T133841Z">
         <seg>Pokud se chcete zapojit do vývoje &lt;a3&gt;OmegaT&lt;/a3&gt;, můžete se připojit k vývojářské skupině, přes web nebo zasláním emailu na &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; s předmětem „subscribe“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165941Z" creationid="Josef" creationdate="20180317T165941Z">
+        <seg>Jakožto platný uživatel služeb Google se prokážete soukromým klíčem, který vám Google zašle po té, co se do služby registrujete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27463,6 +28058,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170026Z" creationid="Josef" creationdate="20180317T170008Z">
+        <seg>Při spouštění OmegaT z příkazového řádku, specifikujte v příkazu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163626Z" creationid="Josef" creationdate="20180317T163626Z">
@@ -28504,6 +29107,24 @@ or can get the source code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165914Z" creationid="Josef" creationdate="20180317T165914Z">
+        <seg>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should have received a copy of the GNU General Public License</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165103Z" creationid="Josef" creationdate="20180317T165103Z">
+        <seg>Měli byste dostat kopii licence GNU General Public License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084858Z" creationid="Josef" creationdate="20180317T084858Z">
@@ -28649,6 +29270,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a language-independent machine translation engine</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165955Z" creationid="Josef" creationdate="20180317T165955Z">
+        <seg>jazykový nástroj pro strojový překlad nezávislý na jazyce </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a) Convey the object code in, or embodied in, a physical product</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164421Z" creationid="Josef" creationdate="20180317T164421Z">
@@ -28749,6 +29378,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102453Z" creationid="Josef" creationdate="20180317T102453Z">
         <seg>všechny shodující se segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>along with this program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165110Z" creationid="Josef" creationdate="20180317T165110Z">
+        <seg>současně s tímto programem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29109,6 +29746,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102219Z" creationid="Josef" creationdate="20180317T102219Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>but WITHOUT ANY WARRANTY; without even the implied warranty of</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164942Z" creationid="Josef" creationdate="20180317T164942Z">
+        <seg>ale BEZ JAKÉKOLIV ZÁRUKY; dokonce bez jakéhokoliv náznaku záruky</seg>
       </tuv>
     </tu>
     <tu>
@@ -30425,6 +31070,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165951Z" creationid="Josef" creationdate="20180317T165951Z">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://code.google.com/p/tortoisegit/</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133700Z" creationid="Josef" creationdate="20180317T133700Z">
@@ -30461,6 +31114,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133653Z" creationid="Josef" creationdate="20180317T133653Z">
         <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170059Z" creationid="Josef" creationdate="20180317T170059Z">
+        <seg>http://mymemory.translated.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -30509,6 +31170,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133700Z" creationid="Josef" creationdate="20180317T133700Z">
         <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.apertium.org/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165953Z" creationid="Josef" creationdate="20180317T165953Z">
+        <seg>http://www.apertium.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -30597,6 +31266,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133721Z" creationid="Josef" creationdate="20180317T133721Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165940Z" creationid="Josef" creationdate="20180317T165940Z">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
       </tuv>
     </tu>
     <tu>
@@ -30889,6 +31566,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170058Z" creationid="Josef" creationdate="20180317T170058Z">
+        <seg>ve spouštěči Kaptain (pouze v Linuxu), zadejte adresu do odpovídajícího pole v záložece "Online služby".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165959Z" creationid="Josef" creationdate="20180317T165959Z">
+        <seg>v souboru OmegaT.l4J.ini (pouze Windows), změňte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ina</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103449Z" creationid="Josef" creationdate="20180317T103449Z">
@@ -30983,6 +31676,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103506Z" creationid="Josef" creationdate="20180317T103506Z">
         <seg>it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it under the terms of the GNU General Public License as published by</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164829Z" creationid="Josef" creationdate="20180317T164829Z">
+        <seg>za dodržení podmínek licence GNU General Public License tak, jak byla zveřejněna</seg>
       </tuv>
     </tu>
     <tu>
@@ -31479,6 +32180,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103551Z" creationid="Josef" creationdate="20180317T103551Z">
         <seg>lin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linguistic data for a growing number of language pairs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165955Z" creationid="Josef" creationdate="20180317T165955Z">
+        <seg>jazyková data pro rostoucí počet jazykových párů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33291,6 +34000,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the Free Software Foundation, either version 3 of the License, or</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164844Z" creationid="Josef" creationdate="20180317T164844Z">
+        <seg>nadací Free Software Foundation, buď ve verzi licence č. 3 nebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the contents of the source folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133740Z" creationid="Josef" creationdate="20180317T133740Z">
@@ -33387,10 +34104,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T170006Z" creationid="Josef" creationdate="20180317T170006Z">
+        <seg>na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ton</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103824Z" creationid="Josef" creationdate="20180317T103824Z">
         <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165955Z" creationid="Josef" creationdate="20180317T165955Z">
+        <seg>a spravuje tak jazyková data potřebná k sestavení systému strojového překladu pro daný jazykový pár a </seg>
       </tuv>
     </tu>
     <tu>
@@ -33583,6 +34316,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103849Z" creationid="Josef" creationdate="20180317T103849Z">
         <seg>ukr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>under certain conditions; type `show c' for details.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T165851Z" creationid="Josef" creationdate="20180317T165851Z">
+        <seg>je za určitých podmínek vítáno; podrobnosti získáte zadáním ’show c’.
+</seg>
       </tuv>
     </tu>
     <tu>
