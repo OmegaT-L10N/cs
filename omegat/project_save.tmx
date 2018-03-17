@@ -24414,6 +24414,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184441Z" creationid="Josef" creationdate="20180317T184441Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmTdev</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182454Z" creationid="Josef" creationdate="20180317T182454Z">
@@ -32893,6 +32901,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184350Z" creationid="Josef" creationdate="20180317T184350Z">
+        <seg>Seznam vývojářů OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181758Z" creationid="Josef" creationdate="20180317T181758Z">
@@ -36442,6 +36458,22 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134242Z" creationid="Josef" creationdate="20180317T134242Z">
         <seg>Tato licence zastřešuje dokumentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184440Z" creationid="Josef" creationdate="20180317T184440Z">
+        <seg>Tento seznam slouží pro více technické diskuze o vlastnostech a vývoji aplikace, zaměřuje se na vývojáře OmegaT a jiné zájemce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184457Z" creationid="Josef" creationdate="20180317T184457Z">
+        <seg>Emailová diskuzní skupina pro překladatele OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
