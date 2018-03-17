@@ -1744,6 +1744,14 @@ ale své jméno nevidíte v těchto záznamech, klidně nás kontaktujte.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190909Z" creationid="Josef" creationdate="20180317T190909Z">
+        <seg>(rusky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -7080,6 +7088,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133803Z" creationid="Josef" creationdate="20180317T133803Z">
         <seg>Algoritmus pro nalezení kořene redukuje slova jako „fishing“, „fished“, „fish“ a „fisher“ na kořen slova „fish“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190857Z" creationid="Josef" creationdate="20180317T190857Z">
+        <seg>Návod krok za krokem jak použít nástroje získávání textu (Text Extraction) a spojení textu (Text Merging) z Rainbow pro přípravu a další zpracování souborů pro překlad za použití OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14928,6 +14944,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190427Z" creationid="Josef" creationdate="20180317T190427Z">
+        <seg>Externí dokumentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101925Z" creationid="Josef" creationdate="20180317T101925Z">
@@ -17155,6 +17179,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133852Z" creationid="Josef" creationdate="20180317T133852Z">
         <seg>Jak stáhnout a nainstalovat slovníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190549Z" creationid="Josef" creationdate="20180317T190549Z">
+        <seg>Jak překládat Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190609Z" creationid="Josef" creationdate="20180317T190609Z">
+        <seg>Jak překládat soubory Wordpress XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -19797,6 +19837,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190525Z" creationid="Josef" creationdate="20180317T190525Z">
+        <seg>Informace pro pokročilé uživatele o postupech a vlastnostech OmegaT, které lze nalézt na dalších stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084732Z" creationid="Josef" creationdate="20180317T084732Z">
@@ -20121,6 +20169,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182124Z" creationid="Josef" creationdate="20180317T182124Z">
         <seg>Správce integrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190421Z" creationid="Josef" creationdate="20180317T190421Z">
+        <seg>Týká se obvzláště uživatelů, kteří jsou v Linuxu noví.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27178,6 +27234,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190016Z" creationid="Josef" creationdate="20180317T190016Z">
         <seg>Postup nastavení překladače Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190558Z" creationid="Josef" creationdate="20180317T190558Z">
+        <seg>Postup pro použití OmegaT pro lokalizaci Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190639Z" creationid="Josef" creationdate="20180317T190639Z">
+        <seg>Postup jak použít OmegaT k překladu souborů XLIFF vyexporotovaných z Wordpressu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190545Z" creationid="Josef" creationdate="20180317T190545Z">
+        <seg>Postup k použití OmegaT pro lokalizaci NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38175,10 +38255,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190531Z" creationid="Josef" creationdate="20180317T190531Z">
+        <seg>Překládání NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101926Z" creationid="Josef" creationdate="20180317T101926Z">
         <seg>Překládaný projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190652Z" creationid="Josef" creationdate="20180317T190652Z">
+        <seg>Překlad za pomocí Rainbow a OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39526,6 +39622,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185957Z" creationid="Josef" creationdate="20180317T185957Z">
         <seg>Používání OmegaT ve spojení s překladačem Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190403Z" creationid="Josef" creationdate="20180317T190403Z">
+        <seg>Použití OmegaT na Linuxu</seg>
       </tuv>
     </tu>
     <tu>
