@@ -16430,6 +16430,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory offers also the possibility to manage &lt;e0&gt;private TMs&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175758Z" creationid="Josef" creationdate="20180317T175758Z">
+        <seg>MyMemory tedy nabízí možnost spravovat &lt;e0&gt;soukromé paměti TM&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175647Z" creationid="Josef" creationdate="20180317T175647Z">
+        <seg>MyMemory nabízí také &lt;e0&gt;Lidský překlad&lt;/e0&gt; s původem od profesních překladatelů, LSP, zákazníků a vícejazyčných webů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MyMemory your@email-address.com</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T170007Z" creationid="Josef" creationdate="20180317T170007Z">
@@ -25049,6 +25065,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you must put this TMX file in the /tm/ or /tm/auto/ folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175739Z" creationid="Josef" creationdate="20180317T175739Z">
+        <seg>Pak je nutno umístit tento soubor TMX do adresáře /tm/ nebo /tm/auto ve svém projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163828Z" creationid="Josef" creationdate="20180317T163828Z">
@@ -26126,6 +26150,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133841Z" creationid="Josef" creationdate="20180317T133841Z">
         <seg>Pokud se chcete zapojit do vývoje &lt;a3&gt;OmegaT&lt;/a3&gt;, můžete se připojit k vývojářské skupině, přes web nebo zasláním emailu na &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; s předmětem „subscribe“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get these translations, you must upload your source file &lt;u1&gt;on their site&lt;/u1&gt; that generates a TMX file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T175719Z" creationid="Josef" creationdate="20180317T175719Z">
+        <seg>Abyste se dostali k těmto překladům, musíte nahrát zdrojový soubor &lt;u1&gt;na jejich stránku&lt;/u1&gt;, která vygeneruje soubor TMX.</seg>
       </tuv>
     </tu>
     <tu>
