@@ -7618,10 +7618,34 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190202Z" creationid="Josef" creationdate="20180317T190202Z">
+        <seg>Přidá rozlišování ohýbanůch tvarů slov v glosáři OmegaT a přibližné shody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184807Z" creationid="Josef" creationdate="20180317T184807Z">
         <seg>Administrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190352Z" creationid="Josef" creationdate="20180317T190352Z">
+        <seg>Administrativní a technický postup pro lokalizaci OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190110Z" creationid="Josef" creationdate="20180317T190110Z">
+        <seg>Návod Jak na to pokročilé vlastnosti</seg>
       </tuv>
     </tu>
     <tu>
@@ -10919,6 +10943,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190301Z" creationid="Josef" creationdate="20180317T190301Z">
+        <seg>Kompilace OmegaT ze zdroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102949Z" creationid="Josef" creationdate="20180317T102949Z">
@@ -11669,6 +11701,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181055Z" creationid="Josef" creationdate="20180317T181055Z">
         <seg>Vytvořit klíč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190319Z" creationid="Josef" creationdate="20180317T190319Z">
+        <seg>Vytvoření nového filtru souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -12457,6 +12497,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185701Z" creationid="Josef" creationdate="20180317T185701Z">
+        <seg>Popisuje kompatibilitu OmegaT s  Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185631Z" creationid="Josef" creationdate="20180317T185631Z">
@@ -12469,6 +12517,38 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185545Z" creationid="Josef" creationdate="20180317T185545Z">
         <seg>Popisuje kompatibilitu OmegaT s vybranými jinými softwarovými produkty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185944Z" creationid="Josef" creationdate="20180317T185912Z">
+        <seg>Popisuje vlastnosti OmegaT přenášení a shody jedna-s-více.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185845Z" creationid="Josef" creationdate="20180317T185845Z">
+        <seg>Popisuje vlastnost OmegaT kontroly pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185827Z" creationid="Josef" creationdate="20180317T185827Z">
+        <seg>Popisuje jak použít OmegaT ve spojení s Iceni Infix tak, by šlo překladádat soubory formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185804Z" creationid="Josef" creationdate="20180317T185723Z">
+        <seg>Popisuje jak použít OmegaT ve spojení s formátem dvoujazyčných souborů RTF Tradosu ("nečištěné" / "uncleaned" soubory).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14696,6 +14776,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190312Z" creationid="Josef" creationdate="20180317T190312Z">
+        <seg>Vysvětluje jak zkompilovat OmegaT ze zdrojového kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190337Z" creationid="Josef" creationdate="20180317T190337Z">
+        <seg>Vysvětluje jak vytvořit filtr pro nový formát souborů, aby je bylo možno překládat s OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explanation:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164155Z" creationid="Josef" creationdate="20180317T164155Z">
@@ -14956,6 +15052,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
         <seg>Závažná chyba během parsování na řádku {0}, sloupci {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185832Z" creationid="Josef" creationdate="20180317T185832Z">
+        <seg>Rysy Jak na to</seg>
       </tuv>
     </tu>
     <tu>
@@ -17299,6 +17403,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103504Z" creationid="Josef" creationdate="20180317T103504Z">
         <seg>Islandština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185807Z" creationid="Josef" creationdate="20180317T185807Z">
+        <seg>Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -21806,6 +21918,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190341Z" creationid="Josef" creationdate="20180317T190341Z">
+        <seg>Lokalizace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102453Z" creationid="Josef" creationdate="20180317T102453Z">
@@ -21906,6 +22026,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165017Z" creationid="Josef" creationdate="20180317T165017Z">
         <seg>PRODEJNOSTI nebo VHODNOSTI NA URČITÝ ÚČEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190005Z" creationid="Josef" creationdate="20180317T190005Z">
+        <seg>Překladač MS Translator</seg>
       </tuv>
     </tu>
     <tu>
@@ -25054,10 +25182,26 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190210Z" creationid="Josef" creationdate="20180317T190210Z">
+        <seg>Funkce OmegaT pro export textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181133Z" creationid="Josef" creationdate="20180317T181133Z">
         <seg>OmegaT tak vezme segmenty ‚TUV‘ odpovídající kódu jazyka zdrojového a cílového jazyka v projektu a použije je jako segmenty zdroje a překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190116Z" creationid="Josef" creationdate="20180317T190116Z">
+        <seg>Plugin tokenizeru OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -25884,6 +26028,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102003Z" creationid="Josef" creationdate="20180317T102003Z">
         <seg>Ostatní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other HowTos</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190250Z" creationid="Josef" creationdate="20180317T190250Z">
+        <seg>Další návody Jak na to</seg>
       </tuv>
     </tu>
     <tu>
@@ -26892,6 +27044,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190018Z" creationid="Josef" creationdate="20180317T190018Z">
+        <seg>Přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101948Z" creationid="Josef" creationdate="20180317T101948Z">
@@ -27010,6 +27170,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133907Z" creationid="Josef" creationdate="20180317T133907Z">
         <seg>Problémy se slovníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190016Z" creationid="Josef" creationdate="20180317T190016Z">
+        <seg>Postup nastavení překladače Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27330,6 +27498,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133731Z" creationid="Josef" creationdate="20180317T133731Z">
         <seg>Projekty můžete spravovat dle vlastního vývojářského stylu a potřeb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185916Z" creationid="Josef" creationdate="20180317T185858Z">
+        <seg>Přenášení a shody jedna-s-více</seg>
       </tuv>
     </tu>
     <tu>
@@ -30384,6 +30560,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190030Z" creationid="Josef" creationdate="20180317T190030Z">
+        <seg>Nastavení funkce přehledu pro použití s OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181223Z" creationid="Josef" creationdate="20180317T181223Z">
@@ -31336,6 +31520,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181044Z" creationid="Josef" creationdate="20180317T181044Z">
         <seg>Nastavení kontroly pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185833Z" creationid="Josef" creationdate="20180317T185833Z">
+        <seg>Kontrola pravopisu</seg>
       </tuv>
     </tu>
     <tu>
@@ -38449,6 +38641,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185727Z" creationid="Josef" creationdate="20180317T185710Z">
+        <seg>Uncleaned / Nečištěné RTF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133753Z" creationid="Josef" creationdate="20180317T133753Z">
@@ -39322,6 +39522,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185957Z" creationid="Josef" creationdate="20180317T185957Z">
+        <seg>Používání OmegaT ve spojení s překladačem Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181200Z" creationid="Josef" creationdate="20180317T181200Z">
@@ -39366,6 +39574,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181046Z" creationid="Josef" creationdate="20180317T181046Z">
         <seg>Použití slovníků kontroly pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T190229Z" creationid="Josef" creationdate="20180317T190229Z">
+        <seg>Použití funkce OmegaT pro export textu (skriptovací rozhraní).</seg>
       </tuv>
     </tu>
     <tu>
