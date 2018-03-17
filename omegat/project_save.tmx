@@ -21894,6 +21894,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182452Z" creationid="Josef" creationdate="20180317T182417Z">
+        <seg>Emailové konference / mailing list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180117Z" creationid="Josef" creationdate="20180317T180117Z">
@@ -24406,6 +24414,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182454Z" creationid="Josef" creationdate="20180317T182454Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T083418Z" creationid="Josef" creationdate="20180317T083418Z">
@@ -24482,6 +24498,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180540Z" creationid="Josef" creationdate="20180317T180540Z">
         <seg>Do stejného adresáře zálohuje OmegaT překladovou paměť project_save.tmx.YEARMMDDHHNN.bak, a to při každém otevření nebo znovunačtení projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182447Z" creationid="Josef" creationdate="20180317T182447Z">
+        <seg>Projekt OmegaT spravuje také následující emailové konference, které jsou hostovány na Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24578,6 +24602,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181150Z" creationid="Josef" creationdate="20180317T181150Z">
         <seg>OmegaT používá velmi přísné procedury při načítání souborů překladových pamětí (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182340Z" creationid="Josef" creationdate="20180317T182340Z">
+        <seg>OmegaT má velmi aktivní, nápomocnou a vícejazyčnou uživatelskou skupinu, odkaz &lt;a0&gt;zde&lt;/a0&gt;; velmi doporučujeme uživatelům se připojit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35285,6 +35317,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181246Z" creationid="Josef" creationdate="20180317T181246Z">
         <seg>Horní část je v jazyce zdroje, tučným písmem a na zeleném pozadí, spodní část je pole editace, které je ukončené značkou: &lt;i0/&gt;značka je &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt;, kde nnnn představuje číslo segmentu v daném projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T182407Z" creationid="Josef" creationdate="20180317T182407Z">
+        <seg>Tato uživatelská skupina slouží i jako hlavní místo pro setkání uživatelů s projektovým týmem</seg>
       </tuv>
     </tu>
     <tu>
