@@ -34,6 +34,14 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185516Z" creationid="Josef" creationdate="20180317T185516Z">
+        <seg>Dokument "Jak na to" na této stránce, obsahují informace k určitým postupům a vlastnostem OmegaT pro pokročilé uživatele, a nejsou obsaženy v příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -9529,6 +9537,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185419Z" creationid="Josef" creationdate="20180317T185419Z">
+        <seg>Autor Sheila Gomes (brazilská portugalšnina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185322Z" creationid="Josef" creationdate="20180317T185322Z">
@@ -10891,6 +10907,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102010Z" creationid="Josef" creationdate="20180317T102010Z">
         <seg>Režim srovnání:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185524Z" creationid="Josef" creationdate="20180317T185524Z">
+        <seg>Kompatibilita návodů Jak na to</seg>
       </tuv>
     </tu>
     <tu>
@@ -12433,6 +12457,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185631Z" creationid="Josef" creationdate="20180317T185631Z">
+        <seg>Popisuje kompatibilitu OmegaT se soubory Microsoft Office 2007, zejména Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185545Z" creationid="Josef" creationdate="20180317T185545Z">
+        <seg>Popisuje kompatibilitu OmegaT s vybranými jinými softwarovými produkty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101949Z" creationid="Josef" creationdate="20180317T101949Z">
@@ -13482,6 +13522,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102253Z" creationid="Josef" creationdate="20180317T102253Z">
         <seg>Bhútánština / Dzongkha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185644Z" creationid="Josef" creationdate="20180317T185644Z">
+        <seg>Kompatibilta s Déjà Vu</seg>
       </tuv>
     </tu>
     <tu>
@@ -16603,6 +16651,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102951Z" creationid="Josef" creationdate="20180317T102951Z">
         <seg>Soubor HHC je příliš velký!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185427Z" creationid="Josef" creationdate="20180317T185427Z">
+        <seg>Návody Jak na to</seg>
       </tuv>
     </tu>
     <tu>
@@ -24650,6 +24706,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103339Z" creationid="Josef" creationdate="20180317T103339Z">
         <seg>OmegaT může vygenerovat a uložit hlavní heslo, take jej nemusíte vkládat pokaždé, ale tato možnost je méně bezpečná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185531Z" creationid="Josef" creationdate="20180317T185531Z">
+        <seg>Kompatibilita OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40333,6 +40397,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185557Z" creationid="Josef" creationdate="20180317T185557Z">
+        <seg>Včetně odkazů na detailnější návody Jak na to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164228Z" creationid="Josef" creationdate="20180317T164228Z">
@@ -43032,6 +43104,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134241Z" creationid="Josef" creationdate="20180317T134241Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185607Z" creationid="Josef" creationdate="20180317T185607Z">
+        <seg>Kompatibilita s formátem docx</seg>
       </tuv>
     </tu>
     <tu>
