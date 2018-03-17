@@ -1947,6 +1947,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164500Z" creationid="Josef" creationdate="20180317T164500Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084846Z" creationid="Josef" creationdate="20180317T084846Z">
@@ -4852,6 +4860,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163827Z" creationid="Josef" creationdate="20180317T163827Z">
         <seg>Přidání &lt;a0&gt;OmegaT&lt;/a0&gt; do vašeho menu (KDE) či panelu (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional Terms.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164458Z" creationid="Josef" creationdate="20180317T164458Z">
+        <seg>Additional Terms.</seg>
       </tuv>
     </tu>
     <tu>
