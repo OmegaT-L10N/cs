@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102748Z" creationid="Josef" creationdate="20180317T102748Z">
+        <seg>&amp;Prázdných řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101951Z" creationid="Josef" creationdate="20180317T101951Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102418Z" creationid="Josef" creationdate="20180317T102418Z">
         <seg>Povolit doplnění histori&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102821Z" creationid="Josef" creationdate="20180317T102821Z">
+        <seg>Kon&amp;cové poznámky</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102820Z" creationid="Josef" creationdate="20180317T102820Z">
+        <seg>Poznámk&amp;y pod čarou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102816Z" creationid="Josef" creationdate="20180317T102816Z">
+        <seg>Stiskn&amp;i zkratku na „f“ pro tagy &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102409Z" creationid="Josef" creationdate="20180317T102409Z">
@@ -434,6 +466,14 @@
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102415Z" creationid="Josef" creationdate="20180317T102415Z">
         <seg>&amp;Ignorovat shody s velmi rozlišnou velikostí písmen (např. FOO vs. foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102816Z" creationid="Josef" creationdate="20180317T102816Z">
+        <seg>Ignoruj atributy type a ctype, když se vytváří zkratka tagu &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102836Z" creationid="Josef" creationdate="20180317T102836Z">
+        <seg>&amp;Licence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084935Z" creationid="Josef" creationdate="20180317T084935Z">
@@ -570,6 +618,14 @@
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101907Z" creationid="Josef" creationdate="20180317T101907Z">
         <seg>Infor&amp;mace k úpravám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102749Z" creationid="Josef" creationdate="20180317T102749Z">
+        <seg>&amp;Nikdy</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +706,14 @@
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084944Z" creationid="Josef" creationdate="20180317T084944Z">
         <seg>&amp;Poznámky k prezentaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102831Z" creationid="Josef" creationdate="20180317T102831Z">
+        <seg>Zachovat mezery &amp;pro všechny tagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,6 +1629,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102814Z" creationid="Josef" creationdate="20180317T102814Z">
+        <seg>&lt;trans-unit&gt; dostupný atribut &amp;resname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102813Z" creationid="Josef" creationdate="20180317T102813Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
@@ -1581,10 +1661,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102831Z" creationid="Josef" creationdate="20180317T102831Z">
+        <seg>Slučovat ta&amp;gy do skupin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102417Z" creationid="Josef" creationdate="20180317T102417Z">
         <seg>A&amp;utomatické doplnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102844Z" creationid="Josef" creationdate="20180317T102844Z">
+        <seg>ANTLR (Licence ANTLR 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,6 +1721,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101927Z" creationid="Josef" creationdate="20180317T101927Z">
         <seg>Přerušeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102833Z" creationid="Josef" creationdate="20180317T102833Z">
+        <seg>O aplikaci OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2163,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102853Z" creationid="Josef" creationdate="20180317T102853Z">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
@@ -2483,6 +2595,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102826Z" creationid="Josef" creationdate="20180317T102826Z">
+        <seg>G&amp;rafy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101943Z" creationid="Josef" creationdate="20180317T101943Z">
@@ -2837,6 +2957,24 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102820Z" creationid="Josef" creationdate="20180317T102820Z">
+        <seg>Ko&amp;mentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102840Z" creationid="Josef" creationdate="20180317T102840Z">
+        <seg>Do kódu přispěli: 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101959Z" creationid="Josef" creationdate="20180317T101959Z">
@@ -2933,6 +3071,14 @@ The TMX file will not be loaded.</seg>
         <seg>Příkazy:
 	-h, --help
 		Ukázat informace k použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102823Z" creationid="Josef" creationdate="20180317T102823Z">
+        <seg>Kome&amp;ntáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -3161,6 +3307,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101604Z" creationid="Josef" creationdate="20180317T101604Z">
         <seg>Kopírovat soubory do zdrojového adresáře...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102834Z" creationid="Josef" creationdate="20180317T102834Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk a další</seg>
       </tuv>
     </tu>
     <tu>
@@ -3509,6 +3663,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102826Z" creationid="Josef" creationdate="20180317T102826Z">
+        <seg>D&amp;iagramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102246Z" creationid="Josef" creationdate="20180317T102246Z">
@@ -3653,10 +3815,26 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102840Z" creationid="Josef" creationdate="20180317T102840Z">
+        <seg>Projektovým managerem OmegaT je Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102041Z" creationid="Josef" creationdate="20180317T102041Z">
         <seg>Didier Brielov: bez Didierovy trpělivé a trvalé pomoci bych si neporadil se složitostmi DocBook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102846Z" creationid="Josef" creationdate="20180317T102846Z">
+        <seg>Diff (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3805,6 +3983,30 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102822Z" creationid="Josef" creationdate="20180317T102822Z">
+        <seg>Vlastnosti dok&amp;umentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102805Z" creationid="Josef" creationdate="20180317T102805Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102807Z" creationid="Josef" creationdate="20180317T102807Z">
+        <seg>DokuWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Domains</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101949Z" creationid="Josef" creationdate="20180317T101949Z">
@@ -3885,6 +4087,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102827Z" creationid="Josef" creationdate="20180317T102827Z">
+        <seg>Kresb&amp;y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101959Z" creationid="Josef" creationdate="20180317T101959Z">
@@ -3913,6 +4123,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101937Z" creationid="Josef" creationdate="20180317T101937Z">
         <seg>Duplikát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102822Z" creationid="Josef" creationdate="20180317T102822Z">
+        <seg>Dupli&amp;kuj záložní text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4485,6 +4703,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102823Z" creationid="Josef" creationdate="20180317T102823Z">
+        <seg>MS Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102640Z" creationid="Josef" creationdate="20180317T102640Z">
@@ -4545,6 +4771,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102041Z" creationid="Josef" creationdate="20180317T102041Z">
         <seg>Explicitní dík těmto spolupracovníkům:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102826Z" creationid="Josef" creationdate="20180317T102826Z">
+        <seg>Externí lin&amp;ky</seg>
       </tuv>
     </tu>
     <tu>
@@ -4917,6 +5151,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102822Z" creationid="Josef" creationdate="20180317T102822Z">
+        <seg>Zá&amp;patí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084850Z" creationid="Josef" creationdate="20180317T084850Z">
@@ -5101,6 +5343,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102825Z" creationid="Josef" creationdate="20180317T102825Z">
+        <seg>Obecně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084920Z" creationid="Josef" creationdate="20180317T084920Z">
@@ -5237,6 +5487,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102842Z" creationid="Josef" creationdate="20180317T102842Z">
+        <seg>HTMLParser 1.6 od autorů Somik Raha, Derrick Oswald a další (LGPL Licence)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084911Z" creationid="Josef" creationdate="20180317T084911Z">
@@ -5265,6 +5523,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102330Z" creationid="Josef" creationdate="20180317T102330Z">
         <seg>Hauština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102821Z" creationid="Josef" creationdate="20180317T102821Z">
+        <seg>Záhl&amp;aví</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5792,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102816Z" creationid="Josef" creationdate="20180317T102816Z">
+        <seg>Ignoruj atributy type a ctype, když se vytváří zkratky tagů &lt;&amp;bpt&gt; a &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102018Z" creationid="Josef" creationdate="20180317T102018Z">
@@ -5610,6 +5884,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084832Z" creationid="Josef" creationdate="20180317T084832Z">
         <seg>Statistika jednotlivých souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102758Z" creationid="Josef" creationdate="20180317T102758Z">
+        <seg>Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -5862,10 +6144,34 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102844Z" creationid="Josef" creationdate="20180317T102844Z">
+        <seg>JGit (Licence Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102845Z" creationid="Josef" creationdate="20180317T102845Z">
+        <seg>JSch (Licence JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102644Z" creationid="Josef" creationdate="20180317T102644Z">
         <seg>Jar použito pro pluginy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102753Z" creationid="Josef" creationdate="20180317T102753Z">
+        <seg>Java Properties XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -5882,6 +6188,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084936Z" creationid="Josef" creationdate="20180317T084936Z">
         <seg>Zdrojové balíčky Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102842Z" creationid="Josef" creationdate="20180317T102842Z">
+        <seg>Jmyspell (Licence LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,6 +6332,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
         <seg>Jazyk pro variantu překladové jednotky není zadán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102851Z" creationid="Josef" creationdate="20180317T102851Z">
+        <seg>LanguageTool (licence LGPL a ostatní)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6616,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102849Z" creationid="Josef" creationdate="20180317T102849Z">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102414Z" creationid="Josef" creationdate="20180317T102414Z">
@@ -6306,6 +6636,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>Strojový překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102808Z" creationid="Josef" creationdate="20180317T102808Z">
+        <seg>Magento CE Locale CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -6550,6 +6888,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102817Z" creationid="Josef" creationdate="20180317T102817Z">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101913Z" creationid="Josef" creationdate="20180317T101913Z">
@@ -6614,6 +6960,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102730Z" creationid="Josef" creationdate="20180317T102730Z">
+        <seg>Jednojazyčně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102425Z" creationid="Josef" creationdate="20180317T102425Z">
@@ -6674,6 +7028,30 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102007Z" creationid="Josef" creationdate="20180317T102007Z">
         <seg>Přesunout nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102741Z" creationid="Josef" creationdate="20180317T102741Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102736Z" creationid="Josef" creationdate="20180317T102736Z">
+        <seg>Možnosti filtrů Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102744Z" creationid="Josef" creationdate="20180317T102744Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,6 +7292,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102819Z" creationid="Josef" creationdate="20180317T102819Z">
+        <seg>&amp;Text typu Neviditelné pokyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102026Z" creationid="Josef" creationdate="20180317T102026Z">
@@ -7098,6 +7484,22 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102839Z" creationid="Josef" creationdate="20180317T102839Z">
+        <seg>OmegaT je volný, open source multiplatformový nástroj na překlad podporovaný počítačem (Computer Assisted Translation) s vyhledáváním přibližných překladů, překladovou pamětí, vyhledáváním klíčových slov, používá vaše vlastní glosáře a využívá překlady pro aktualizované projekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102839Z" creationid="Josef" creationdate="20180317T102839Z">
+        <seg>Autorem původního projektu OmegaT je Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101557Z" creationid="Josef" creationdate="20180317T101557Z">
@@ -7110,6 +7512,32 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102035Z" creationid="Josef" creationdate="20180317T102035Z">
         <seg>OmegaT používá glosáře, které obsahují překlady jednotlivých slov nebo malých frází: čili druh zjednodušeného dvoujazyčného slovníku pro specifické pole působnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102841Z" creationid="Josef" creationdate="20180317T102841Z">
+        <seg>OmegaT používá následující knihovny:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102833Z" creationid="Josef" creationdate="20180317T102833Z">
+        <seg>Verze OmegaT {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102833Z" creationid="Josef" creationdate="20180317T102833Z">
+        <seg>Verze OmegaT {0}, aktualizace {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,6 +7622,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102819Z" creationid="Josef" creationdate="20180317T102819Z">
+        <seg>Možnosti filtru Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084814Z" creationid="Josef" creationdate="20180317T084814Z">
@@ -7222,6 +7658,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084817Z" creationid="Josef" creationdate="20180317T084817Z">
         <seg>Otevřít {0} umístění cílových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102809Z" creationid="Josef" creationdate="20180317T102809Z">
+        <seg>OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -7290,6 +7734,30 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102829Z" creationid="Josef" creationdate="20180317T102829Z">
+        <seg>Další Možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102841Z" creationid="Josef" creationdate="20180317T102841Z">
+        <seg>Další přispění jsou detailněji vypsána v souboru readme.txt (příp. readme_cs.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102734Z" creationid="Josef" creationdate="20180317T102734Z">
+        <seg>Vstup PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
@@ -7310,6 +7778,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102638Z" creationid="Josef" creationdate="20180317T102638Z">
         <seg>Při čtení souboru předvoleb se vyskytla chyba zpracování!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102734Z" creationid="Josef" creationdate="20180317T102734Z">
+        <seg>Soubory PDF chráněné heslem nejsou podporovány: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7566,6 +8042,14 @@ a zkuste akci zopakovat.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102406Z" creationid="Josef" creationdate="20180317T102406Z">
         <seg>Formátování Pop Directional (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102824Z" creationid="Josef" creationdate="20180317T102824Z">
+        <seg>MS Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,6 +8374,14 @@ a zkuste akci zopakovat.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102746Z" creationid="Josef" creationdate="20180317T102746Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101554Z" creationid="Josef" creationdate="20180317T101554Z">
@@ -7902,6 +8394,14 @@ a zkuste akci zopakovat.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101612Z" creationid="Josef" creationdate="20180317T101612Z">
         <seg>Nahradit přibližným překladem n&amp;ebo výběrem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102755Z" creationid="Josef" creationdate="20180317T102755Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -8316,6 +8816,14 @@ a zkuste akci zopakovat.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102752Z" creationid="Josef" creationdate="20180317T102752Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102007Z" creationid="Josef" creationdate="20180317T102007Z">
@@ -8460,6 +8968,14 @@ a zkuste akci zopakovat.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102824Z" creationid="Josef" creationdate="20180317T102824Z">
+        <seg>Komentář &amp;snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102449Z" creationid="Josef" creationdate="20180317T102449Z">
@@ -8472,6 +8988,14 @@ a zkuste akci zopakovat.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101905Z" creationid="Josef" creationdate="20180317T101905Z">
         <seg>Přepnout veliko&amp;st písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102844Z" creationid="Josef" creationdate="20180317T102844Z">
+        <seg>SQLJet (Licence GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,6 +9020,14 @@ a zkuste akci zopakovat.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101928Z" creationid="Josef" creationdate="20180317T101928Z">
         <seg>Provádění ‚{0}‘ SVN začíná</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102843Z" creationid="Josef" creationdate="20180317T102843Z">
+        <seg>SVNKit (Licence TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8588,12 +9120,28 @@ a zkuste akci zopakovat.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102754Z" creationid="Josef" creationdate="20180317T102754Z">
+        <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102455Z" creationid="Josef" creationdate="20180317T102455Z">
         <seg>Rozsah:
 Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavit, aby byly prohledávány jakékoliv soubory uložené v specifické adresářové struktuře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102802Z" creationid="Josef" creationdate="20180317T102802Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +9282,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102841Z" creationid="Josef" creationdate="20180317T102841Z">
+        <seg>Viz /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102048Z" creationid="Josef" creationdate="20180317T102048Z">
@@ -8818,6 +9374,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084931Z" creationid="Josef" creationdate="20180317T084931Z">
         <seg>Segment byl přeskočen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102748Z" creationid="Josef" creationdate="20180317T102748Z">
+        <seg>Segmentovat zdrojový text na odstavce podle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9014,6 +9578,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102843Z" creationid="Josef" creationdate="20180317T102843Z">
+        <seg>Sequence Library (Licence Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101944Z" creationid="Josef" creationdate="20180317T101944Z">
@@ -9186,6 +9758,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102022Z" creationid="Josef" creationdate="20180317T102022Z">
         <seg>Přeskočit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102825Z" creationid="Josef" creationdate="20180317T102825Z">
+        <seg>Ša&amp;blony snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102825Z" creationid="Josef" creationdate="20180317T102825Z">
+        <seg>Rozložení sním&amp;ků</seg>
       </tuv>
     </tu>
     <tu>
@@ -9454,10 +10042,26 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102732Z" creationid="Josef" creationdate="20180317T102732Z">
+        <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102009Z" creationid="Josef" creationdate="20180317T102009Z">
         <seg>Začátek detailního zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102831Z" creationid="Josef" creationdate="20180317T102831Z">
+        <seg>Začít Nový &amp;odstavec při značce Word Soft Return</seg>
       </tuv>
     </tu>
     <tu>
@@ -9864,6 +10468,22 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102742Z" creationid="Josef" creationdate="20180317T102742Z">
+        <seg>Filtr Mozilla DTD ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102733Z" creationid="Josef" creationdate="20180317T102733Z">
+        <seg>Filtr PO souborů ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084932Z" creationid="Josef" creationdate="20180317T084932Z">
@@ -9910,6 +10530,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102006Z" creationid="Josef" creationdate="20180317T102006Z">
         <seg>Soubor "{0}" není podporován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102815Z" creationid="Josef" creationdate="20180317T102815Z">
+        <seg>Následující možnosti se vztahují pouze na filtr řady 3.x</seg>
       </tuv>
     </tu>
     <tu>
@@ -10555,6 +11183,22 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102756Z" creationid="Josef" creationdate="20180317T102756Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102756Z" creationid="Josef" creationdate="20180317T102756Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084918Z" creationid="Josef" creationdate="20180317T084918Z">
@@ -11006,6 +11650,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102842Z" creationid="Josef" creationdate="20180317T102842Z">
+        <seg>VLDocking Framework (Licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101927Z" creationid="Josef" creationdate="20180317T101927Z">
@@ -11050,6 +11702,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102009Z" creationid="Josef" creationdate="20180317T102009Z">
         <seg>Zobrazit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102802Z" creationid="Josef" creationdate="20180317T102802Z">
+        <seg>Visio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11112,6 +11772,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102815Z" creationid="Josef" creationdate="20180317T102815Z">
+        <seg>Pokud není dostupný žádný, bude jako posledn možnost použito ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102526Z" creationid="Josef" creationdate="20180317T102526Z">
@@ -11144,6 +11812,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102757Z" creationid="Josef" creationdate="20180317T102757Z">
+        <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -11170,10 +11846,42 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102735Z" creationid="Josef" creationdate="20180317T102735Z">
+        <seg>Zdroje Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102015Z" creationid="Josef" creationdate="20180317T102015Z">
         <seg>MS Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102829Z" creationid="Josef" creationdate="20180317T102829Z">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102801Z" creationid="Josef" creationdate="20180317T102801Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102802Z" creationid="Josef" creationdate="20180317T102802Z">
+        <seg>Wordpress</seg>
       </tuv>
     </tu>
     <tu>
@@ -11242,10 +11950,26 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102751Z" creationid="Josef" creationdate="20180317T102751Z">
+        <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XLIFF Filter Options</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
         <seg>Možnosti filtru XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102803Z" creationid="Josef" creationdate="20180317T102803Z">
+        <seg>XML Spreadsheet 2003</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,6 +13041,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102845Z" creationid="Josef" creationdate="20180317T102845Z">
+        <seg>jsch-agent-proxy (licence jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ka</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102318Z" creationid="Josef" creationdate="20180317T102318Z">
@@ -12537,6 +13269,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102119Z" creationid="Josef" creationdate="20180317T102119Z">
         <seg>sqi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T102847Z" creationid="Josef" creationdate="20180317T102847Z">
+        <seg>trilead-ssh2 (Licence Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
