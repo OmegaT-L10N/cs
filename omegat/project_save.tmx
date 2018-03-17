@@ -8196,6 +8196,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185100Z" creationid="Josef" creationdate="20180317T185100Z">
+        <seg>Stručný úvodní průvodce vás provede hlavními postupy a funkcemi OmegaT a je zobrazen ve výchozím nastavení přímo v  uživatelském rozhraní OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180344Z" creationid="Josef" creationdate="20180317T180344Z">
@@ -9517,6 +9525,30 @@ been installed in ROM).</seg>
 if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
 been installed in ROM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185322Z" creationid="Josef" creationdate="20180317T185322Z">
+        <seg>Autor Susan Welsh (Formát Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185337Z" creationid="Josef" creationdate="20180317T185337Z">
+        <seg>Autor Susan Welsh (Formát PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185356Z" creationid="Josef" creationdate="20180317T185356Z">
+        <seg>Autor Vladimir Zhdanov (ruština).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16607,6 +16639,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185219Z" creationid="Josef" creationdate="20180317T185219Z">
+        <seg>Uživatelská příručka online v HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103004Z" creationid="Josef" creationdate="20180317T103004Z">
@@ -20169,6 +20209,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103924Z" creationid="Josef" creationdate="20180317T103924Z">
         <seg>Umí tedy detekovat některé gramatické chyby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185146Z" creationid="Josef" creationdate="20180317T185146Z">
+        <seg>Naleznete ji v adresáři "docs" v programovém adresáři vaší instalace OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24650,6 +24698,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181150Z" creationid="Josef" creationdate="20180317T181150Z">
         <seg>OmegaT používá velmi přísné procedury při načítání souborů překladových pamětí (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185311Z" creationid="Josef" creationdate="20180317T185311Z">
+        <seg>Návod OmegaT pro začátečníky</seg>
       </tuv>
     </tu>
     <tu>
@@ -32901,6 +32957,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185229Z" creationid="Josef" creationdate="20180317T185229Z">
+        <seg>Uživatelská příručka v HTML pro standardní verzi OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084937Z" creationid="Josef" creationdate="20180317T084937Z">
@@ -33861,6 +33925,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133657Z" creationid="Josef" creationdate="20180317T133657Z">
         <seg>V následující části budou alespoň krátce vysvětleny pojmy, které se vyskytují v dalším níže uvedeném textu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185248Z" creationid="Josef" creationdate="20180317T185248Z">
+        <seg>Následující návody jsou online a i k dispozici ke stažení:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35421,6 +35493,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181213Z" creationid="Josef" creationdate="20180317T181213Z">
         <seg>Uživatelské rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185208Z" creationid="Josef" creationdate="20180317T185208Z">
+        <seg>Uživatelská příručka pro OmegaT ve formátu PDF ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38023,6 +38103,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185231Z" creationid="Josef" creationdate="20180317T185231Z">
+        <seg>Návody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103832Z" creationid="Josef" creationdate="20180317T103832Z">
@@ -39067,6 +39155,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181620Z" creationid="Josef" creationdate="20180317T181620Z">
         <seg>Jazyk uživatelského rozhraní pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185150Z" creationid="Josef" creationdate="20180317T185150Z">
+        <seg>Uživatelská příručka online</seg>
       </tuv>
     </tu>
     <tu>
@@ -40741,6 +40837,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181406Z" creationid="Josef" creationdate="20180317T181406Z">
         <seg>Můžete také přidat zdrojové soubory z internetových stránek, napsaných v MediaWiki, kliknutím na tlačítko &lt;g4&gt;„Import z Mediawiki“&lt;/g4&gt; a zadáním odpovídající URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185127Z" creationid="Josef" creationdate="20180317T185127Z">
+        <seg>Samozřejmě si můžete nechat zobrazit uživatelskou příručku dodávanou s OmegaT i bez samotného spuštění OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48235,6 +48339,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104033Z" creationid="Josef" creationdate="20180317T104033Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T185347Z" creationid="Josef" creationdate="20180317T185347Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
