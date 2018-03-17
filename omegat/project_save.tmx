@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134246Z" creationid="Josef" creationdate="20180317T134246Z">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084831Z" creationid="Josef" creationdate="20180317T084831Z">
@@ -1578,6 +1588,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134230Z" creationid="Josef" creationdate="20180317T134230Z">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134232Z" creationid="Josef" creationdate="20180317T134232Z">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134233Z" creationid="Josef" creationdate="20180317T134233Z">
+        <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101945Z" creationid="Josef" creationdate="20180317T101945Z">
@@ -1689,6 +1723,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101938Z" creationid="Josef" creationdate="20180317T101938Z">
         <seg>&lt;Žádné návrhy&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;User Home&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134223Z" creationid="Josef" creationdate="20180317T134223Z">
+        <seg>&lt;Home uživatele&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;User Home&gt;/Library/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134222Z" creationid="Josef" creationdate="20180317T134222Z">
+        <seg>&lt;Home uživatele&gt;/Library/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2512,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134144Z" creationid="Josef" creationdate="20180317T134144Z">
+        <seg>&lt;l0&gt;&lt;Domovská složka uživatele&gt;/.omegat&lt;/l0&gt; (.omegat je adresář, tečka před názvem znamená, že je neviditelný, a zobrazíte jej např. v terminálu napsáním příkazu ls -a nebo odpovídající příkaz.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101923Z" creationid="Josef" creationdate="20180317T101923Z">
@@ -2718,6 +2776,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Application files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134224Z" creationid="Josef" creationdate="20180317T134224Z">
+        <seg>&lt;p0&gt;Soubory projektu&lt;/p0&gt; &lt;s1&gt;1Soubory aplikace&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134059Z" creationid="Josef" creationdate="20180317T134059Z">
@@ -2902,6 +2968,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134250Z" creationid="Josef" creationdate="20180317T134250Z">
+        <seg>Dávkový soubor, který se používá pro spouštění programu &lt;a0&gt;OmegaT&lt;/a0&gt; z příkazového řádku pod Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133943Z" creationid="Josef" creationdate="20180317T133943Z">
@@ -2926,6 +3000,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A relatively detailed list of modifications between this version and the preceding versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134238Z" creationid="Josef" creationdate="20180317T134238Z">
+        <seg>Poměrně detailní seznam modifikací mezi touto verzí a verzemi předchozími.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
@@ -2946,6 +3028,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133803Z" creationid="Josef" creationdate="20180317T133803Z">
         <seg>Algoritmus pro nalezení kořene redukuje slova jako „fishing“, „fished“, „fish“ a „fisher“ na kořen slova „fish“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A text file containing two lines:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134245Z" creationid="Josef" creationdate="20180317T134245Z">
+        <seg>Textový soubor, který obsahuje dva řádky:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3528,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the user manual files can be found in this folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134229Z" creationid="Josef" creationdate="20180317T134229Z">
+        <seg>Zde najdete veškeré soubory uživatelské příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103016Z" creationid="Josef" creationdate="20180317T103016Z">
@@ -3530,6 +3628,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133714Z" creationid="Josef" creationdate="20180317T133714Z">
         <seg>Jinak, abyste zabránili tomuto problému, můžete nastavit soukromý SVN server, například pokud již máte Apache server, který obsahuje dotyčný software (např. VisualSVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
+        <seg>Alternativy obsahují linuxový balíček .tar, instalátor pro Windows – s nebo bez běhového prostředí Java, instalátor pro Mac OS X, a balíček se zdrojovým kódem pro vývojáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3760,6 +3866,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
         <seg>Vzhled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Application files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134224Z" creationid="Josef" creationdate="20180317T134224Z">
+        <seg>Soubory aplikace</seg>
       </tuv>
     </tu>
     <tu>
@@ -5206,6 +5320,22 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
         <seg>Mód překladu pomocí příkazového řádku:
 	--source-pattern=&lt;pattern&gt;
 		Seznam výjimek (whitelist) regulárních výrazů ve zdrojovém souboru, které mají být zpracovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134234Z" creationid="Josef" creationdate="20180317T134234Z">
+        <seg>Obsahuje soubory Java, které jsou nezbytné pro běh &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134228Z" creationid="Josef" creationdate="20180317T134228Z">
+        <seg>Obsahuje</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,6 +8087,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File/ subfolder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134227Z" creationid="Josef" creationdate="20180317T134227Z">
+        <seg>Soubor / podadresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084802Z" creationid="Josef" creationdate="20180317T084802Z">
@@ -7985,6 +8123,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102940Z" creationid="Josef" creationdate="20180317T102940Z">
         <seg>Proměnné názvu souboru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files to translate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134257Z" creationid="Josef" creationdate="20180317T134257Z">
+        <seg>Soubory, které lze překládat za pomoci OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8677,6 +8823,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groups.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134236Z" creationid="Josef" creationdate="20180317T134236Z">
+        <seg>Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102324Z" creationid="Josef" creationdate="20180317T102324Z">
@@ -8817,6 +8971,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084819Z" creationid="Josef" creationdate="20180317T084819Z">
         <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here a platform-independent package in a standard Java form is considered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134225Z" creationid="Josef" creationdate="20180317T134225Z">
+        <seg>Je tu například balíček, který není závislý na dané platformě, v jeho standardní Java formě.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9053,6 +9215,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Icons and logo graphics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134232Z" creationid="Josef" creationdate="20180317T134232Z">
+        <seg>Zde jsou obsaženy ikony a logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
@@ -9121,6 +9291,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134055Z" creationid="Josef" creationdate="20180317T134055Z">
         <seg>Pokud jsou z nějakého důvodu takovéto soubory ztraceny, jednoduše si stáhněte anebo přeinstalujte program OmegaT, a tím budou všechny tyto soubory obnoveny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134240Z" creationid="Josef" creationdate="20180317T134240Z">
+        <seg>Jestli máte nějaké pochybnosti, tak se neváhejte zeptat členů projektu přímo, buď jim zašlete email ze stránky SourceForge, nebo pošlete veřejný email do uživatelské skupiny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9260,6 +9438,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134112Z" creationid="Josef" creationdate="20180317T134112Z">
         <seg>Pokud jste již nasbírali slova, která má kontrola pravopisu ignorovat nebo akceptovat, stačí, abyste tyto oba soubory nakopírovali do podadresáře &lt;f0&gt;omegat&lt;/f0&gt; ve vašem aktuálním projektu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134240Z" creationid="Josef" creationdate="20180317T134240Z">
+        <seg>Pokud máte zájem o úpravy nebo distribuci programu &lt;a1&gt;OmegaT&lt;/a1&gt;, dobře si pročtěte tento dokument a ujistěte se, že rozumíte všem možným důsledkům dříve, než cokoliv učiníte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,6 +10098,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains just the following line:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134250Z" creationid="Josef" creationdate="20180317T134250Z">
+        <seg>Obsahuje pouze následující řádek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103400Z" creationid="Josef" creationdate="20180317T103400Z">
@@ -9924,6 +10118,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103925Z" creationid="Josef" creationdate="20180317T103925Z">
         <seg>Neobsahuje kontrolu pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It has been translated into a number of languages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134245Z" creationid="Josef" creationdate="20180317T134245Z">
+        <seg>Je přeložen do mnoha jazyků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134244Z" creationid="Josef" creationdate="20180317T134244Z">
+        <seg>Obsahuje obecné informace o programu OmegaT, kde naleznete více informací, jak přispět atd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9948,6 +10158,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133816Z" creationid="Josef" creationdate="20180317T133816Z">
         <seg>Je možné vybrat jiný tokenizer (jazyk tokenizeru) nebo jinou verzi tokenizeru (chování tokenizeru) v okně Vlastnosti projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
+        <seg>Balíček je poskytován jako komprimovaný soubor (archív typu zip nebo tar), který musíte rozbalit do adresáře, který jste si zvolili pro instalaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,6 +10391,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102842Z" creationid="Josef" creationdate="20180317T102842Z">
         <seg>Jmyspell (Licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134236Z" creationid="Josef" creationdate="20180317T134236Z">
+        <seg>Není nutné být členem v těchto skupinách, ale členové mají přístup k dodatečným službám a možnostem, jako např. soubory, dotazníky a možnost zúčastnit se diskuzí k tématu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10769,6 +10995,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux and OS X users may find this file useful.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134247Z" creationid="Josef" creationdate="20180317T134247Z">
+        <seg>Uživatelům systémů Linux a Mac OS X se tyto soubory mohou hodit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134144Z" creationid="Josef" creationdate="20180317T134144Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101946Z" creationid="Josef" creationdate="20180317T101946Z">
@@ -10953,6 +11195,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MAC OS X</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134145Z" creationid="Josef" creationdate="20180317T134145Z">
+        <seg>MAC OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102414Z" creationid="Josef" creationdate="20180317T102414Z">
@@ -10989,6 +11239,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102808Z" creationid="Josef" creationdate="20180317T102808Z">
         <seg>Magento CE Locale CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134248Z" creationid="Josef" creationdate="20180317T134248Z">
+        <seg>Po té, co se ujistíte, že jste v příkazovém řádku v adresáři OmegaT, povolte souboru oprávnění na čtení a zápis (chmod +x OmegaT).&lt;l0&gt;&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12591,6 +12849,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134225Z" creationid="Josef" creationdate="20180317T134225Z">
+        <seg>OmegaT je dodávána jako balíček, který si lze stáhnout ze serveru SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102839Z" creationid="Josef" creationdate="20180317T102839Z">
@@ -12769,6 +13035,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134249Z" creationid="Josef" creationdate="20180317T134249Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134252Z" creationid="Josef" creationdate="20180317T134252Z">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104043Z" creationid="Josef" creationdate="20180317T104043Z">
@@ -12797,6 +13079,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133722Z" creationid="Josef" creationdate="20180317T133722Z">
         <seg>Jakmile je SVN server dostupný, správci projektu musí lokálně instalovat SVN klienta, aby mohli spravovat obsah projektu na svých počítačích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134227Z" creationid="Josef" creationdate="20180317T134227Z">
+        <seg>Rozbalený archiv vytvoří adresář, který obsahuje následující obsah:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15415,6 +15705,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See above.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134243Z" creationid="Josef" creationdate="20180317T134243Z">
+        <seg>Vizte výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101535Z" creationid="Josef" creationdate="20180317T101535Z">
@@ -17404,6 +17702,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134239Z" creationid="Josef" creationdate="20180317T134239Z">
+        <seg>Licence GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084937Z" creationid="Josef" creationdate="20180317T084937Z">
@@ -17736,6 +18042,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134227Z" creationid="Josef" creationdate="20180317T134227Z">
+        <seg>Soubor se zpravidla dá rozbalit dvojklikem na stažený balíček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133922Z" creationid="Josef" creationdate="20180317T133922Z">
@@ -17824,6 +18138,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The group archives are public and can be viewed without subscription to the group.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134237Z" creationid="Josef" creationdate="20180317T134237Z">
+        <seg>Archivy skupiny jsou veřejné a i bez členství ve skupině si je můžete nechat zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
@@ -17838,6 +18160,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="CS" changeid="Josef" changedate="20180317T084904Z" creationid="Josef" creationdate="20180317T084904Z">
         <seg>Kód jazyka by měl být ve tvaru xx-YY, xxx-YY, xx_YY nebo xxx_YY, kde xx nebo xxx představuje 
 kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main OmegaT application.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134253Z" creationid="Josef" creationdate="20180317T134253Z">
+        <seg>Hlavní aplikace OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17902,6 +18232,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102021Z" creationid="Josef" creationdate="20180317T102021Z">
         <seg>Hesla se neshodují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
+        <seg>Balíček, který není závislý na dané platformě, se dá použít na různých platformách s funkčním běhovým prostředím Java 1.6, včetně platforem, pro které je dostupný specifický balíček.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18469,6 +18807,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134244Z" creationid="Josef" creationdate="20180317T134244Z">
+        <seg>Tento soubor je velmi důležitý a určitě byste si jej měli přečíst před spuštěním OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134130Z" creationid="Josef" creationdate="20180317T134130Z">
@@ -18517,6 +18863,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134235Z" creationid="Josef" creationdate="20180317T134235Z">
+        <seg>Toto je běžný html soubor, který vás po otevření v internetovém prohlížeči přesměruje na uživatelskou skupinu OmegaT, která je nabízena v rámci služby Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133803Z" creationid="Josef" creationdate="20180317T133803Z">
@@ -18553,6 +18907,22 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133913Z" creationid="Josef" creationdate="20180317T133913Z">
         <seg>Toto se hodí u textů, které obsahují spousty obchodních značek nebo vlastních jmen, které musí zůstat nezměněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134239Z" creationid="Josef" creationdate="20180317T134239Z">
+        <seg>Tato licence vám povoluje provádět určité věci s programem &lt;a0&gt;OmegaT&lt;/a0&gt;, včetně jeho úprav a distribuce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This license covers the documentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134242Z" creationid="Josef" creationdate="20180317T134242Z">
+        <seg>Tato licence zastřešuje dokumentaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18755,6 +19125,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133853Z" creationid="Josef" creationdate="20180317T133853Z">
         <seg>Chcete-li nainstalovat potřebné soubory formátu StarDict, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134255Z" creationid="Josef" creationdate="20180317T134255Z">
+        <seg>Pro spuštění OmegaT musíte buď spustit tento soubor z příkazového řádku, nebo z vašeho správce souborů, obvykle dvojklikem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20673,6 +21051,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134224Z" creationid="Josef" creationdate="20180317T134224Z">
+        <seg>Do tohoto adresáře můžete vstoupit přímo záznamem v nabídce &lt;m0&gt; &lt;g1&gt;Možnosti&lt;/g1&gt; &lt;g2&gt;Otevřít adresář nastavení&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104015Z" creationid="Josef" creationdate="20180317T104015Z">
@@ -20758,6 +21144,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133913Z" creationid="Josef" creationdate="20180317T133913Z">
         <seg>Je možno nechat do pole editace automaticky vložit zdrojový text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can open them in an Internet browser to obtain access to external links.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134231Z" creationid="Josef" creationdate="20180317T134231Z">
+        <seg>Pokud chcete nechat načítat obsah externích odkazů, je dobré si příručku otevřít v internetovém prohlížeči.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20902,6 +21296,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103337Z" creationid="Josef" creationdate="20180317T103337Z">
         <seg>Budete vyzváni k vložení tohoto hesla při každém spuštění OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134248Z" creationid="Josef" creationdate="20180317T134248Z">
+        <seg>Posléze bude možné startovat OmegaT spouštěním tohoto souboru z příkazového řádku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21443,6 +21845,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134237Z" creationid="Josef" creationdate="20180317T134237Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>che</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102228Z" creationid="Josef" creationdate="20180317T102228Z">
@@ -21623,6 +22033,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102249Z" creationid="Josef" creationdate="20180317T102249Z">
         <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134241Z" creationid="Josef" creationdate="20180317T134241Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23021,6 +23439,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134251Z" creationid="Josef" creationdate="20180317T134251Z">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134234Z" creationid="Josef" creationdate="20180317T134234Z">
+        <seg>join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>jpn</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103516Z" creationid="Josef" creationdate="20180317T103516Z">
@@ -23377,6 +23811,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103549Z" creationid="Josef" creationdate="20180317T103549Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134238Z" creationid="Josef" creationdate="20180317T134238Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -24497,6 +24939,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103724Z" creationid="Josef" creationdate="20180317T103724Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T134243Z" creationid="Josef" creationdate="20180317T134243Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
