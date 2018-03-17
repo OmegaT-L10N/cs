@@ -2054,6 +2054,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104550Z" creationid="Josef" creationdate="20180317T104550Z">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Týmové projekty&lt;/s1&gt; &lt;s2&gt;Týmové projekty&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103922Z" creationid="Josef" creationdate="20180317T103922Z">
@@ -2230,10 +2238,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104537Z" creationid="Josef" creationdate="20180317T104537Z">
+        <seg>O aplikaci...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102419Z" creationid="Josef" creationdate="20180317T102419Z">
         <seg>Zpřístupn&amp;it adresář nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104531Z" creationid="Josef" creationdate="20180317T104531Z">
+        <seg>Zpřístupnit adresář nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,6 +3018,38 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102417Z" creationid="Josef" creationdate="20180317T102417Z">
         <seg>Automatické doplnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104504Z" creationid="Josef" creationdate="20180317T104504Z">
+        <seg>Automatické doplnění/Automatický text...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104506Z" creationid="Josef" creationdate="20180317T104506Z">
+        <seg>Automatické doplnění/Tabulka znaků...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104503Z" creationid="Josef" creationdate="20180317T104503Z">
+        <seg>Automatické doplnění/Glosář...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104502Z" creationid="Josef" creationdate="20180317T104502Z">
+        <seg>Automatické doplňování/Automaticky ukázat relevantní návrhy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4900,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104508Z" creationid="Josef" creationdate="20180317T104508Z">
+        <seg>Přizpůsobit barvy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101943Z" creationid="Josef" creationdate="20180317T101943Z">
@@ -5693,6 +5757,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104514Z" creationid="Josef" creationdate="20180317T104514Z">
+        <seg>Nastavení editace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101732Z" creationid="Josef" creationdate="20180317T101732Z">
@@ -6389,6 +6461,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104522Z" creationid="Josef" creationdate="20180317T104522Z">
+        <seg>Externí soubory TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084826Z" creationid="Josef" creationdate="20180317T084826Z">
@@ -6425,6 +6505,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101937Z" creationid="Josef" creationdate="20180317T101937Z">
         <seg>Vnější</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104535Z" creationid="Josef" creationdate="20180317T104535Z">
+        <seg>F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -6753,6 +6841,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084807Z" creationid="Josef" creationdate="20180317T084807Z">
         <seg>Písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104507Z" creationid="Josef" creationdate="20180317T104507Z">
+        <seg>Písmo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7109,6 +7205,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104459Z" creationid="Josef" creationdate="20180317T104459Z">
+        <seg>Glosář/Použít algoritmus pro nalezení kořene pro záznamy glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102424Z" creationid="Josef" creationdate="20180317T102424Z">
@@ -7305,6 +7409,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084938Z" creationid="Josef" creationdate="20180317T084938Z">
         <seg>Soubory Nápovědy &amp; Příručky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104532Z" creationid="Josef" creationdate="20180317T104532Z">
+        <seg>Nabídka ‚Nápověda‛</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,6 +8945,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104539Z" creationid="Josef" creationdate="20180317T104539Z">
+        <seg>Poslední změny...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103414Z" creationid="Josef" creationdate="20180317T103414Z">
@@ -9053,6 +9173,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102453Z" creationid="Josef" creationdate="20180317T102453Z">
         <seg>Umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104541Z" creationid="Josef" creationdate="20180317T104541Z">
+        <seg>Protokol...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11827,6 +11955,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104527Z" creationid="Josef" creationdate="20180317T104527Z">
+        <seg>Proxy přihlášení ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101917Z" creationid="Josef" creationdate="20180317T101917Z">
@@ -12485,6 +12621,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104528Z" creationid="Josef" creationdate="20180317T104528Z">
+        <seg>Obnovit Hlavní okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101919Z" creationid="Josef" creationdate="20180317T101919Z">
@@ -12825,6 +12969,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101936Z" creationid="Josef" creationdate="20180317T101936Z">
         <seg>Možnosti uložení a výstupu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104525Z" creationid="Josef" creationdate="20180317T104525Z">
+        <seg>Uložení a výstup...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13195,6 +13347,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103009Z" creationid="Josef" creationdate="20180317T103009Z">
         <seg>Pravidla segmentace se použijí v následujícím pořadí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104512Z" creationid="Josef" creationdate="20180317T104512Z">
+        <seg>Segmentace...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14015,6 +14175,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104513Z" creationid="Josef" creationdate="20180317T104513Z">
+        <seg>Kontrola pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101956Z" creationid="Josef" creationdate="20180317T101956Z">
@@ -14441,6 +14609,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104517Z" creationid="Josef" creationdate="20180317T104517Z">
+        <seg>Zpracování tagů...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084926Z" creationid="Josef" creationdate="20180317T084926Z">
@@ -14613,6 +14789,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103152Z" creationid="Josef" creationdate="20180317T103152Z">
         <seg>Týmová synchronizace: Čeká na vás, až dokončíte tento segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104520Z" creationid="Josef" creationdate="20180317T104520Z">
+        <seg>Tým...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15607,6 +15791,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104501Z" creationid="Josef" creationdate="20180317T104501Z">
+        <seg>TransTips / Povolit TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102947Z" creationid="Josef" creationdate="20180317T102947Z">
@@ -16461,6 +16653,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104535Z" creationid="Josef" creationdate="20180317T104535Z">
+        <seg>Uživatelská příručka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101934Z" creationid="Josef" creationdate="20180317T101934Z">
@@ -16593,6 +16793,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102935Z" creationid="Josef" creationdate="20180317T102935Z">
         <seg>Zobrazit nebo editovat filtry souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104524Z" creationid="Josef" creationdate="20180317T104524Z">
+        <seg>Zobrazit...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18619,6 +18827,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104538Z" creationid="Josef" creationdate="20180317T104538Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104537Z" creationid="Josef" creationdate="20180317T104537Z">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104540Z" creationid="Josef" creationdate="20180317T104540Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104541Z" creationid="Josef" creationdate="20180317T104541Z">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>her</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102335Z" creationid="Josef" creationdate="20180317T102335Z">
@@ -19913,6 +20153,166 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103422Z" creationid="Josef" creationdate="20180317T103422Z">
         <seg>otevřít předchozí segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104531Z" creationid="Josef" creationdate="20180317T104531Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104505Z" creationid="Josef" creationdate="20180317T104505Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104506Z" creationid="Josef" creationdate="20180317T104506Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104504Z" creationid="Josef" creationdate="20180317T104504Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104503Z" creationid="Josef" creationdate="20180317T104503Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104510Z" creationid="Josef" creationdate="20180317T104510Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104523Z" creationid="Josef" creationdate="20180317T104523Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104507Z" creationid="Josef" creationdate="20180317T104507Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104500Z" creationid="Josef" creationdate="20180317T104500Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104530Z" creationid="Josef" creationdate="20180317T104530Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104526Z" creationid="Josef" creationdate="20180317T104526Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104512Z" creationid="Josef" creationdate="20180317T104512Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104511Z" creationid="Josef" creationdate="20180317T104511Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104515Z" creationid="Josef" creationdate="20180317T104515Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104519Z" creationid="Josef" creationdate="20180317T104519Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104521Z" creationid="Josef" creationdate="20180317T104521Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104501Z" creationid="Josef" creationdate="20180317T104501Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104524Z" creationid="Josef" creationdate="20180317T104524Z">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104528Z" creationid="Josef" creationdate="20180317T104528Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T104518Z" creationid="Josef" creationdate="20180317T104518Z">
+        <seg>optionsWorkflowMenuItem</seg>
       </tuv>
     </tu>
     <tu>
