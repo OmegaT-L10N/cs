@@ -1918,6 +1918,54 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>12.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164559Z" creationid="Josef" creationdate="20180317T164559Z">
+        <seg>12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>13.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164602Z" creationid="Josef" creationdate="20180317T164602Z">
+        <seg>13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>14.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164604Z" creationid="Josef" creationdate="20180317T164604Z">
+        <seg>14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164609Z" creationid="Josef" creationdate="20180317T164609Z">
+        <seg>15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>16.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164612Z" creationid="Josef" creationdate="20180317T164612Z">
+        <seg>16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>17.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164614Z" creationid="Josef" creationdate="20180317T164614Z">
+        <seg>17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -4456,6 +4504,20 @@ beyond what the individual works permit.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103407Z" creationid="Josef" creationdate="20180317T103407Z">
         <seg>Celá řada pravidel je dodávána přímo s programem a uživatelé si mohou definovat dodatečně svá pravidla, jak je to popsáno v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A patent license is "discriminatory" if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164556Z" creationid="Josef" creationdate="20180317T164556Z">
+        <seg>A patent license is "discriminatory" if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8612,6 +8674,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164610Z" creationid="Josef" creationdate="20180317T164610Z">
+        <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101939Z" creationid="Josef" creationdate="20180317T101939Z">
@@ -9245,6 +9315,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164616Z" creationid="Josef" creationdate="20180317T164616Z">
+        <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101920Z" creationid="Josef" creationdate="20180317T101920Z">
@@ -9257,6 +9335,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084914Z" creationid="Josef" creationdate="20180317T084914Z">
         <seg>Chyba: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164611Z" creationid="Josef" creationdate="20180317T164611Z">
+        <seg>EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9293,6 +9387,14 @@ propagate that work, subject to this License.</seg>
         <seg>Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each version is given a distinguishing version number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164607Z" creationid="Josef" creationdate="20180317T164607Z">
+        <seg>Each version is given a distinguishing version number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,6 +10991,20 @@ subprograms and other parts of the work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164601Z" creationid="Josef" creationdate="20180317T164601Z">
+        <seg>For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you distribute copies of such a program, whether
 gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.</seg>
@@ -11905,6 +12021,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to Apply These Terms to Your New Programs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164616Z" creationid="Josef" creationdate="20180317T164616Z">
+        <seg>How to Apply These Terms to Your New Programs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163743Z" creationid="Josef" creationdate="20180317T163743Z">
@@ -11981,6 +12105,18 @@ which are not part of the work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164609Z" creationid="Josef" creationdate="20180317T164609Z">
+        <seg>However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164045Z" creationid="Josef" creationdate="20180317T164045Z">
@@ -12041,6 +12177,30 @@ which are not part of the work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084942Z" creationid="Josef" creationdate="20180317T084942Z">
         <seg>Jazykový soubor ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164613Z" creationid="Josef" creationdate="20180317T164613Z">
+        <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12263,6 +12423,18 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164600Z" creationid="Josef" creationdate="20180317T164600Z">
+        <seg>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
@@ -12402,6 +12574,24 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the
+Program specifies that a certain numbered version of the GNU General
+Public License "or any later version" applies to it, you have the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164607Z" creationid="Josef" creationdate="20180317T164607Z">
+        <seg>If the
+Program specifies that a certain numbered version of the GNU General
+Public License "or any later version" applies to it, you have the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Program as you
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
@@ -12416,10 +12606,54 @@ restriction, you may remove that term.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164608Z" creationid="Josef" creationdate="20180317T164608Z">
+        <seg>If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164608Z" creationid="Josef" creationdate="20180317T164608Z">
+        <seg>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134016Z" creationid="Josef" creationdate="20180317T134016Z">
         <seg>Pokud je nalezen vhodný filtr, soubor postupuje k dalšímu zpracování programem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164615Z" creationid="Josef" creationdate="20180317T164615Z">
+        <seg>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12642,6 +12876,20 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164145Z" creationid="Josef" creationdate="20180317T164145Z">
         <seg>Když nejde &lt;a0&gt;OmegaT&lt;/a0&gt; spustit běžným způsobem (není dostupné žádné grafické prostředí): zkopírujte do patřičného adresáře soubory nastavení z jiné instalace aplikace &lt;a1&gt;OmegaT&lt;/a1&gt; na jiném počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164601Z" creationid="Josef" creationdate="20180317T164601Z">
+        <seg>If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13412,6 +13660,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103453Z" creationid="Josef" creationdate="20180317T103453Z">
         <seg>Interlingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interpretation of Sections 15 and 16.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164615Z" creationid="Josef" creationdate="20180317T164615Z">
+        <seg>Interpretation of Sections 15 and 16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14505,6 +14761,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later license versions may give you additional or different
+permissions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164608Z" creationid="Josef" creationdate="20180317T164608Z">
+        <seg>Later license versions may give you additional or different
+permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163806Z" creationid="Josef" creationdate="20180317T163806Z">
@@ -14605,6 +14871,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103548Z" creationid="Josef" creationdate="20180317T103548Z">
         <seg>Limburština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Limitation of Liability.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164613Z" creationid="Josef" creationdate="20180317T164613Z">
+        <seg>Limitation of Liability.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16005,6 +16279,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Surrender of Others' Freedom.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164559Z" creationid="Josef" creationdate="20180317T164559Z">
+        <seg>No Surrender of Others' Freedom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101931Z" creationid="Josef" creationdate="20180317T101931Z">
@@ -16441,6 +16723,18 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164558Z" creationid="Josef" creationdate="20180317T164558Z">
+        <seg>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163746Z" creationid="Josef" creationdate="20180317T163746Z">
@@ -16537,6 +16831,20 @@ that material) supplement the terms of this License with terms:</seg>
         <seg>Notwithstanding any other provision of this License, for material you
 add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164603Z" creationid="Josef" creationdate="20180317T164603Z">
+        <seg>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19553,6 +19861,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Revised Versions of this License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164605Z" creationid="Josef" creationdate="20180317T164605Z">
+        <seg>Revised Versions of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right to left languages</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163612Z" creationid="Josef" creationdate="20180317T163612Z">
@@ -19725,6 +20041,16 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101905Z" creationid="Josef" creationdate="20180317T101905Z">
         <seg>Přepnout veliko&amp;st písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164612Z" creationid="Josef" creationdate="20180317T164612Z">
+        <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21801,6 +22127,18 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164606Z" creationid="Josef" creationdate="20180317T164606Z">
+        <seg>Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102029Z" creationid="Josef" creationdate="20180317T102029Z">
@@ -21965,6 +22303,26 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164344Z" creationid="Josef" creationdate="20180317T164344Z">
         <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164611Z" creationid="Josef" creationdate="20180317T164611Z">
+        <seg>THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164610Z" creationid="Josef" creationdate="20180317T164610Z">
+        <seg>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22748,6 +23106,16 @@ Source.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134038Z" creationid="Josef" creationdate="20180317T134038Z">
         <seg>Dialogové okno Upravit vzor nabízí následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164605Z" creationid="Josef" creationdate="20180317T164605Z">
+        <seg>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24002,6 +24370,22 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103415Z" creationid="Josef" creationdate="20180317T103415Z">
         <seg>Pojem „Přesunout se do segmentu“ znamená, že kurzor se přesune na začátek segmentu, pokud se nachází před segmentem, a na konec segmentu, pokud se nachází za segmentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164604Z" creationid="Josef" creationdate="20180317T164604Z">
+        <seg>The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26521,6 +26905,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use with the GNU Affero General Public License.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164603Z" creationid="Josef" creationdate="20180317T164603Z">
+        <seg>Use with the GNU Affero General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133826Z" creationid="Josef" creationdate="20180317T133826Z">
@@ -28002,6 +28394,34 @@ in force.</seg>
         <seg>You may make, run and propagate covered works that you do not
 convey, without conditions so long as your license otherwise remains
 in force.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164557Z" creationid="Josef" creationdate="20180317T164557Z">
+        <seg>You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
     </tu>
     <tu>
