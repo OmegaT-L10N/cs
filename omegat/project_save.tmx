@@ -7610,6 +7610,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184807Z" creationid="Josef" creationdate="20180317T184807Z">
+        <seg>Administrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164104Z" creationid="Josef" creationdate="20180317T164104Z">
@@ -13069,6 +13077,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184805Z" creationid="Josef" creationdate="20180317T184805Z">
+        <seg>Systém na sledování dokumentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133919Z" creationid="Josef" creationdate="20180317T133919Z">
@@ -14860,6 +14876,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084930Z" creationid="Josef" creationdate="20180317T084930Z">
         <seg>Závažná chyba během parsování na řádku {0}, sloupci {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184800Z" creationid="Josef" creationdate="20180317T184800Z">
+        <seg>Systém na sledování požadavků na nové funkce</seg>
       </tuv>
     </tu>
     <tu>
@@ -20065,6 +20089,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102016Z" creationid="Josef" creationdate="20180317T102016Z">
         <seg>Problémy pro {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184751Z" creationid="Josef" creationdate="20180317T184751Z">
+        <seg>Systém na sledování chyb v programu</seg>
       </tuv>
     </tu>
     <tu>
@@ -26276,6 +26308,22 @@ to determine the source of the error and try again.</seg>
         <seg>Abyste zjistili zdroj chyby, projděte si, prosím, log 
 ({1})
 a zkuste akci zopakovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184842Z" creationid="Josef" creationdate="20180317T184842Z">
+        <seg>Prosím kontaktujte &lt;a0&gt;Správce projektu OmegaT&lt;/a0&gt; pokud máte jakékoliv dotazy k věcem, které nebyly nahoře zmíněny.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184906Z" creationid="Josef" creationdate="20180317T184906Z">
+        <seg>Prosím kontaktujte  &lt;a2&gt;správce webu&lt;/a2&gt; v případě jakýchkoliv dotazů a připomínek ohledně webové stránky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39003,6 +39051,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181620Z" creationid="Josef" creationdate="20180317T181620Z">
         <seg>Jazyk uživatelského rozhraní pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T184907Z" creationid="Josef" creationdate="20180317T184907Z">
+        <seg>Uživatelská příručka...</seg>
       </tuv>
     </tu>
     <tu>
