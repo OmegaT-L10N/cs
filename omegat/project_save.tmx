@@ -14,10 +14,103 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083623Z" creationid="Josef" creationdate="20180317T083623Z">
+        <seg>--remote-project
+		Stáhnout soubor omegat.project z adresy zadané jako &lt;cesta k projektu&gt; a nahrát zadaný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083447Z" creationid="Josef" creationdate="20180317T083447Z">
+        <seg>-h, --help
+		Ukázat informace k použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T064153Z" creationid="Josef" creationdate="20180317T064153Z">
         <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083440Z" creationid="Josef" creationdate="20180317T083440Z">
+        <seg>Pro detaily zadejte `team -h`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083418Z" creationid="Josef" creationdate="20180317T083418Z">
+        <seg>O aplikaci OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083437Z" creationid="Josef" creationdate="20180317T083437Z">
+        <seg>Možnosti:
+	Nic: Spustit GUI (grafické prostředí)
+	Pouze cesta k projektu: Spustit GUI a nahrát zadaný projekt
+	tým
+		Nástroj pro týmový projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083430Z" creationid="Josef" creationdate="20180317T083430Z">
+        <seg>Použití: java -jar OmegaT.jar [&lt;možnosti&gt;] [&lt;cesta k projektu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083425Z" creationid="Josef" creationdate="20180317T083425Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083426Z" creationid="Josef" creationdate="20180317T083426Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083423Z" creationid="Josef" creationdate="20180317T083423Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T083420Z" creationid="Josef" creationdate="20180317T083420Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
