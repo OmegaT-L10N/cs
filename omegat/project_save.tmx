@@ -1506,6 +1506,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(including a physical distribution medium), accompanied by a</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164423Z" creationid="Josef" creationdate="20180317T164423Z">
+        <seg>(including a physical distribution medium), accompanied by a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(including a physical distribution medium), accompanied by the</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164421Z" creationid="Josef" creationdate="20180317T164421Z">
+        <seg>(including a physical distribution medium), accompanied by the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102047Z" creationid="Josef" creationdate="20180317T102047Z">
@@ -1905,6 +1921,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084848Z" creationid="Josef" creationdate="20180317T084848Z">
         <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164420Z" creationid="Josef" creationdate="20180317T164420Z">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4302,26 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+"aggregate" if the compilation and its resulting copyright are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164419Z" creationid="Josef" creationdate="20180317T164419Z">
+        <seg>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+"aggregate" if the compilation and its resulting copyright are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133943Z" creationid="Josef" creationdate="20180317T133943Z">
@@ -5464,6 +5508,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102018Z" creationid="Josef" creationdate="20180317T102018Z">
         <seg>Aplikovat opr&amp;avu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164417Z" creationid="Josef" creationdate="20180317T164417Z">
+        <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
     </tu>
     <tu>
@@ -7200,6 +7252,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conveying Non-Source Forms.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164420Z" creationid="Josef" creationdate="20180317T164420Z">
+        <seg>Conveying Non-Source Forms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conveying Verbatim Copies.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164403Z" creationid="Josef" creationdate="20180317T164403Z">
@@ -7288,6 +7348,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163704Z" creationid="Josef" creationdate="20180317T163704Z">
         <seg>Pokud je to nutné, opravte chybu (ve výše uvedeném případe je to chybějící pár &lt;i2&gt;&lt;/i2&gt;) a stiskněte &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; pro návrat k oknu ověření tagů a tak můžete opravit případné další chyby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source fixed on a durable physical medium</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164422Z" creationid="Josef" creationdate="20180317T164422Z">
+        <seg>Corresponding Source fixed on a durable physical medium</seg>
       </tuv>
     </tu>
     <tu>
@@ -12668,6 +12736,18 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103020Z" creationid="Josef" creationdate="20180317T103020Z">
         <seg>Označením nejedinečných segmentů zahrno&amp;ut první nejedinečný segment. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164419Z" creationid="Josef" creationdate="20180317T164419Z">
+        <seg>Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23867,6 +23947,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This License gives no</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164416Z" creationid="Josef" creationdate="20180317T164416Z">
+        <seg>This License gives no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101935Z" creationid="Josef" creationdate="20180317T101935Z">
@@ -27286,6 +27374,20 @@ and you may offer support or warranty protection for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164420Z" creationid="Josef" creationdate="20180317T164420Z">
+        <seg>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:</seg>
@@ -27541,6 +27643,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a) Convey the object code in, or embodied in, a physical product</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164421Z" creationid="Josef" creationdate="20180317T164421Z">
+        <seg>a) Convey the object code in, or embodied in, a physical product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>aa</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102112Z" creationid="Josef" creationdate="20180317T102112Z">
@@ -27569,6 +27679,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102111Z" creationid="Josef" creationdate="20180317T102103Z">
         <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>additional terms, to the whole of the work, and all its parts,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164415Z" creationid="Josef" creationdate="20180317T164415Z">
+        <seg>additional terms, to the whole of the work, and all its parts,</seg>
       </tuv>
     </tu>
     <tu>
@@ -27761,6 +27879,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102147Z" creationid="Josef" creationdate="20180317T102147Z">
         <seg>aze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) Convey the object code in, or embodied in, a physical product</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164422Z" creationid="Josef" creationdate="20180317T164422Z">
+        <seg>b) Convey the object code in, or embodied in, a physical product</seg>
       </tuv>
     </tu>
     <tu>
@@ -28133,6 +28259,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>customarily used for software interchange.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164422Z" creationid="Josef" creationdate="20180317T164422Z">
+        <seg>customarily used for software interchange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cv</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102233Z" creationid="Josef" creationdate="20180317T102233Z">
@@ -28161,6 +28295,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103906Z" creationid="Josef" creationdate="20180317T103906Z">
         <seg>cym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>d) If the work has interactive user interfaces, each must display</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164417Z" creationid="Josef" creationdate="20180317T164417Z">
+        <seg>d) If the work has interactive user interfaces, each must display</seg>
       </tuv>
     </tu>
     <tu>
@@ -29623,6 +29765,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164418Z" creationid="Josef" creationdate="20180317T164418Z">
+        <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>invalidate such permission if you have separately received it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164416Z" creationid="Josef" creationdate="20180317T164416Z">
+        <seg>invalidate such permission if you have separately received it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>io</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103502Z" creationid="Josef" creationdate="20180317T103502Z">
@@ -30195,6 +30353,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134131Z" creationid="Josef" creationdate="20180317T134131Z">
         <seg>logs/OmegaT.log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>long as you offer spare parts or customer support for that product</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164424Z" creationid="Josef" creationdate="20180317T164424Z">
+        <seg>long as you offer spare parts or customer support for that product</seg>
       </tuv>
     </tu>
     <tu>
@@ -31015,6 +31181,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>permission to license the work in any other way, but it does not</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164416Z" creationid="Josef" creationdate="20180317T164416Z">
+        <seg>permission to license the work in any other way, but it does not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pi</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103715Z" creationid="Josef" creationdate="20180317T103715Z">
@@ -31283,6 +31457,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134243Z" creationid="Josef" creationdate="20180317T134243Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>regardless of how they are packaged.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164415Z" creationid="Josef" creationdate="20180317T164415Z">
+        <seg>regardless of how they are packaged.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32411,6 +32593,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103910Z" creationid="Josef" creationdate="20180317T103910Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>work need not make them do so.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180317T164418Z" creationid="Josef" creationdate="20180317T164418Z">
+        <seg>work need not make them do so.</seg>
       </tuv>
     </tu>
     <tu>
