@@ -1793,6 +1793,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151421Z" creationid="Josef" creationdate="20180318T151421Z">
+        <seg>(Protože toto je nyní standardní formát, je v MS Office 207 popsán jako Word, Excel nebo Powerpoint.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181605Z" creationid="Josef" creationdate="20180317T181605Z">
@@ -1805,6 +1813,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181402Z" creationid="Josef" creationdate="20180317T181402Z">
         <seg>(Definice pro „jedinečné“ vychází z rozlišování velikosti písmen: „Run“ a „run“ jsou brány jako dva záznamy.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151455Z" creationid="Josef" creationdate="20180318T151455Z">
+        <seg>(Ještě jednodušší práce s tagy v rámci dokumentů .docx je možná, ale už to bude stát ztrátu kontroly nad formátováním.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7914,6 +7930,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151248Z" creationid="Josef" creationdate="20180318T151248Z">
+        <seg>Po dokončení překladu a vytvoření přeloženého dokumentu zkopírujte sloupec s překladem z překládaného souboru zpět do &lt;i0&gt;cílového&lt;/i0&gt; sloupce výchozího souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133743Z" creationid="Josef" creationdate="20180317T133743Z">
@@ -9066,6 +9090,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151415Z" creationid="Josef" creationdate="20180318T151415Z">
+        <seg>Podle toho, jak zákazníci/autoři aktualizují Microsoft Office/Word na novější verze, tak překladatelé mohou očekávat stále častější dodávání zakázek v novém formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163756Z" creationid="Josef" creationdate="20180317T163756Z">
@@ -9110,6 +9142,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144640Z" creationid="Josef" creationdate="20180318T144640Z">
         <seg>Jak již napovídá jeho název, tento skript automaticky odstraní tagy z (cílového) segmentu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151454Z" creationid="Josef" creationdate="20180318T151454Z">
+        <seg>Od verze 2.1.8 jsou tyto vícenásobné tagy již ve výchozím stavu seskupeny (kondenzovány) do jednoho tagu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9418,6 +9458,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151501Z" creationid="Josef" creationdate="20180318T151501Z">
+        <seg>Automatické dělení slov na konci řádku také přidává nepotřebné tagy, takže tuto funkci vypněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133940Z" creationid="Josef" creationdate="20180317T133940Z">
@@ -9650,6 +9698,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151545Z" creationid="Josef" creationdate="20180318T151545Z">
+        <seg>Buďte ale opatrní při výběru písma, které musí pak obsahovat obě potřebné sady pro asijské a „běžné“ znaky, např. MS Mincho, ale bez přípony názvu stylu „[text body]“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151231Z" creationid="Josef" creationdate="20180318T151231Z">
+        <seg>Dbejte na zachování těchto tagů ve stejné podobě tak, jako byste pracovali s vlastními tagy OmegaT (nicméně funkce OmegaT, která se týká tagů, např. Ověření tagů, není v tomto případě dostupná).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180606Z" creationid="Josef" creationdate="20180317T180606Z">
@@ -9662,6 +9726,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181020Z" creationid="Josef" creationdate="20180317T181020Z">
         <seg>Vzor před</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151604Z" creationid="Josef" creationdate="20180318T151604Z">
+        <seg>Ještě dříve, než budete provádět níže uvedené instrukce k odstranění nadbytečného kódu, zkuste nejprve provést změny nastavení Wordu, nebo Word možná také vloží nadbytečný kód při novém otevření souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11359,10 +11431,26 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compile the code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151304Z" creationid="Josef" creationdate="20180318T151304Z">
+        <seg>Kompilace kódu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190301Z" creationid="Josef" creationdate="20180317T190301Z">
         <seg>Kompilace OmegaT ze zdroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151255Z" creationid="Josef" creationdate="20180318T151255Z">
+        <seg>Kompilování OmegaT má své opodstatnění pro vývojáře, kteří chtějí dělat vlastní úpravy v kódu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11605,6 +11693,22 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert the file back to RTF format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151249Z" creationid="Josef" creationdate="20180318T151249Z">
+        <seg>Převeďte soubor zpět do formátu RTF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting to MS Office 2007 format</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151418Z" creationid="Josef" creationdate="20180318T151418Z">
+        <seg>Převod na formát MS Office 2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conveying Modified Source Versions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164405Z" creationid="Josef" creationdate="20180317T164405Z">
@@ -11789,6 +11893,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151219Z" creationid="Josef" creationdate="20180318T151219Z">
         <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151407Z" creationid="Josef" creationdate="20180318T151402Z">
+        <seg>Copyright Marc Prior 2011-2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -16409,6 +16521,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151456Z" creationid="Josef" creationdate="20180318T151456Z">
+        <seg>Například, bez funkce „seskupení tagů“, kde u slova, které je ve zdrojovém textu tučně a kurzívou, si překladatel může vybrat že jej převede jen jako tučné nebo jen kurzívu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you may
 not impose a license fee, royalty, or other charge for exercise of
 rights granted under this License, and you may not initiate litigation
@@ -16631,6 +16751,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the sake of convenience, they will be referred to below as "MS Office 2007 file formats".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151411Z" creationid="Josef" creationdate="20180318T151411Z">
+        <seg>Pro přehlednost, když se bude na tyto formáty odkazovat níže, bude užito označení „souborové formáty MS Office 2007“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144610Z" creationid="Josef" creationdate="20180318T144610Z">
@@ -16675,6 +16803,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151016Z" creationid="Josef" creationdate="20180318T151016Z">
         <seg>Pro Uživatele Microsoft Office, kteří (ještě) nemají verzi 2007, převod mezi Office Open XML a Microsoft Office 97-2003 se dá provést použitím konvertoru jako plugin od Microsoftu dostupného &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151452Z" creationid="Josef" creationdate="20180318T151452Z">
+        <seg>Pro uživatele, kteří nemají MS Office 2007 nebo 2010 a nechtějí si tento balík kupovat, poskytuje Microsoft &lt;a0&gt;doplněk kompatibility&lt;/a0&gt; pro starší verze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16787,6 +16923,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101955Z" creationid="Josef" creationdate="20180317T101955Z">
         <seg>Z paměti ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151411Z" creationid="Josef" creationdate="20180318T151411Z">
+        <seg>OmegaT od verze 1.7.1 a novější, již umí pracovat s formáty Microsoft Office 2007 přímo, bez konverze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17839,6 +17983,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to remove unwanted formatting code from .docx files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151459Z" creationid="Josef" creationdate="20180318T151459Z">
+        <seg>Jak odstranit nechtěné části kódu formátování ze souborů .docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to translate Magento</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190549Z" creationid="Josef" creationdate="20180317T190549Z">
@@ -18430,6 +18582,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151500Z" creationid="Josef" creationdate="20180318T151500Z">
+        <seg>Jestli je každé jednotlivé slovo v OmegaT zobrazeno uvnitř tagů, je možné, že program Word se pokusil o kontrolu pravopisu bez přístupu k vhodnému slovníku pro kontrolu pravopisu a proto označil každé slovo za špatně napsané.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163517Z" creationid="Josef" creationdate="20180317T163517Z">
@@ -18815,6 +18975,14 @@ to choose that version for the Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151140Z" creationid="Josef" creationdate="20180318T151140Z">
         <seg>Pokud by úpravy korektora měly být zahrnuty v úložišti překladové paměti, kterou si chce zákazník ponechat, musí být tyto změny provedeny &lt;i0&gt;před&lt;/i0&gt; tím, než jsou vytvořeny finální dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151310Z" creationid="Josef" creationdate="20180318T151310Z">
+        <seg>Pokud se kompilace zdaří, uvidíte hlášení „BUILD SUCCESSFUL“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19756,6 +19924,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151311Z" creationid="Josef" creationdate="20180318T151311Z">
+        <seg>Pokud se kompilace zdařila, tak je zkompilovaná aplikace OmegaT umístěna v:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163823Z" creationid="Josef" creationdate="20180317T163823Z">
@@ -19800,6 +19976,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
         <seg>Pokud zdrojové soubory obsahují formátovaný text, např. Microsoft Word, LibreOffice Writer nebo HTML, OmegaT zkonvertuje formátování do tagů, které obklopují překládaný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151601Z" creationid="Josef" creationdate="20180318T151544Z">
+        <seg>Pokud váš text obsahuje jak asijské, tak  „normální“ (např. znaky latinky) znaky, stiskněte Ctrl+A, tím vyberete celý text, a pak vyberte pro celý text jedno písmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19957,6 +20141,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163828Z" creationid="Josef" creationdate="20180317T163828Z">
         <seg>V KMenuEditor vyberte &lt;e3&gt;Soubor -&gt; Nová položka.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151453Z" creationid="Josef" creationdate="20180318T151453Z">
+        <seg>Ve verzích OmegaT starších než 2.1.8 se každá změna formátování v dokumentu MS Office 2007 projeví jako dlouhé řetězce vícenásobných tagů, které ve výsledku téměř znemožnili použití tohoto formátu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,6 +20399,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102420Z" creationid="Josef" creationdate="20180317T102420Z">
         <seg>Změny se projeví až po té, co OmegaT zavře a znovu načte projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for this procedure to be used, the Déjà Vu user must prepare the source text file and supply it to the translator in the Déjà Vu "External View" format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151251Z" creationid="Josef" creationdate="20180318T151251Z">
+        <seg>Aby tento postup šlo použít, musí uživatel Déjà Vu připravit zdrojový textový soubor a poskytnout jej překladateli pracujícímu s formátem Déjà Vu „External View“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20793,6 +20993,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181138Z" creationid="Josef" creationdate="20180317T181138Z">
         <seg>Na začátku, tzn. když je projekt vytvořen, hlavní překladová paměť projektu, čili soubor &lt;f0&gt;project_save.tmx&lt;/f0&gt;, je prázdná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151236Z" creationid="Josef" creationdate="20180318T151236Z">
+        <seg>Tagy obsažené uvnitř segmentů mají podobu postupných čísel uvnitř složených závorek, např. {1}, {2}, atd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21652,6 +21860,22 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103011Z" creationid="Josef" creationdate="20180317T103011Z">
         <seg>Tento údaj poslouží jako značka vašeho překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151502Z" creationid="Josef" creationdate="20180318T151502Z">
+        <seg>Může se stát, že to bude nutno nastavit u každého dokumentu, pak je postup v MS Word 2007 následující: Klikněte na kartu Rozložení stránky, ve skupině Vzhled stránky klikněte na Dělení slov; vyberte možnost Žádné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may be necessary to enter the full path, e.g.:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151310Z" creationid="Josef" creationdate="20180318T151310Z">
+        <seg>Je možné, že bude nutno vložit celou cestu, např.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22946,6 +23170,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151019Z" creationid="Josef" creationdate="20180318T151019Z">
         <seg>Uživatelé Linuxu mohou použít tuto verzi samostatného &lt;a0&gt;konverzního nástroje&lt;/a0&gt; pro převod přímo mezi Office Open XML a OpenDocument Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151452Z" creationid="Josef" creationdate="20180318T151452Z">
+        <seg>Uživatelé linuxu: jak MS Office 2007, tak doplněk kompatibility Microsoft poběží přes &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24280,6 +24512,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151251Z" creationid="Josef" creationdate="20180318T151251Z">
+        <seg>Více informací o formátu a postupu pro jeho vytvoření, jak pro uživatele Déjà Vu, tak uživatele jiných CAT nástrojů, naleznete na &lt;a0&gt;příslušné stránce Atrilu&lt;/a0&gt;, nápomocný je tu i &lt;a1&gt;blog Kevina Lossnera&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134016Z" creationid="Josef" creationdate="20180317T134016Z">
@@ -24350,6 +24590,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133941Z" creationid="Josef" creationdate="20180317T133941Z">
         <seg>Většině uživatelů bude postačovat výchozí nastavení filtrů souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151457Z" creationid="Josef" creationdate="20180318T151457Z">
+        <seg>Většina uživatelů bude pravděpodobně téhož názoru, že zjednodušení práce na překladu má větší váhu než si ji ztěžovat složitým formátováním.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25331,6 +25579,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180605Z" creationid="Josef" creationdate="20180317T180605Z">
         <seg>Nezapomeňte, že změny v nastavení projektu mohou mít následky, obzvláště, když je projekt již otevřen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151603Z" creationid="Josef" creationdate="20180318T151603Z">
+        <seg>Dokonce i po změnách nastavení Wordu, takže již nevkládá „nadbytečný“ kód, například automatické dělení slov, tak podobné části kódu se mohou v souboru stále vyskytovat a nelze je odstranit změnou nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26412,6 +26668,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied ready-compiled for a number of platforms, including a cross-platform version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151254Z" creationid="Josef" creationdate="20180318T151254Z">
+        <seg>OmegaT je dodávána jako připravený balíček pro celou řadu platforem, včetně multiplatformní verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184936Z" creationid="Josef" creationdate="20180317T184936Z">
@@ -26530,6 +26794,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181540Z" creationid="Josef" creationdate="20180317T181540Z">
         <seg>OmegaT požaduje k instalaci na váš systém prostředí Java Runtime Environment (JRE) ve verzi 1.8 a novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151458Z" creationid="Josef" creationdate="20180318T151458Z">
+        <seg>Kromě OmegaT se s podobným problémem potýkají i jiné CAT nástroje, které pracují s formátem .docx a řešení situace jsou podobná nebo stejná.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26984,6 +27256,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One solution is to switch off automatic spelling checking in Word.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151501Z" creationid="Josef" creationdate="20180318T151501Z">
+        <seg>Možné řešení je vypnout automatickou kontrolu pravopisu ve Wordu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134033Z" creationid="Josef" creationdate="20180317T134033Z">
@@ -27132,6 +27412,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144617Z" creationid="Josef" creationdate="20180318T144617Z">
         <seg>Otevřete okno s příkazovým řádkem (DOS prompt, terminál, konsole)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a command-line window (console, DOS window).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151305Z" creationid="Josef" creationdate="20180318T151305Z">
+        <seg>Otevřete si okno s příkazovým řádkem (konsole, okno DOS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28309,6 +28597,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151124Z" creationid="Josef" creationdate="20180318T151124Z">
         <seg>Pár bodů ohledně proprietárních souborů překladových pamětí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151453Z" creationid="Josef" creationdate="20180318T151453Z">
+        <seg>Na co je třeba dbát, když používáte formáty .docx, .xlsx a .pptx v OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29734,6 +30030,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084901Z" creationid="Josef" creationdate="20180317T084901Z">
         <seg>Vzdálené úložiště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removal of these codes is described below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151604Z" creationid="Josef" creationdate="20180318T151604Z">
+        <seg>Odstranění těchto částí kódu je popsáno níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32480,6 +32784,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151458Z" creationid="Josef" creationdate="20180318T151458Z">
+        <seg>Protože takové tagy jsou během překladu na obtíž, má jistě cenu zkusit odstranit tyto nadbytečné tagy před začátkem překladu pomocí OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144558Z" creationid="Josef" creationdate="20180318T144558Z">
@@ -33416,6 +33728,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133829Z" creationid="Josef" creationdate="20180317T133829Z">
         <seg>kroky, které je zapotřebí zopakovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still in your command-line window, change to this folder, e.g. with:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151311Z" creationid="Josef" creationdate="20180318T151311Z">
+        <seg>Na stejném místě přes příkazovou řádku změňte tento adresář, např. přes příkaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -34745,6 +35065,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151457Z" creationid="Josef" creationdate="20180318T151457Z">
+        <seg>Formát .docx je náchylný k produkování „nadbytečného“ formátovacího kódu, což má za následek množství nechtěných a nepotřebných tagů, které se pak zobrazjí v okně Editoru v OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181108Z" creationid="Josef" creationdate="20180317T181108Z">
@@ -35323,6 +35651,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133654Z" creationid="Josef" creationdate="20180317T133654Z">
         <seg>Výhody systémů na správu verzí pro tým překladatelů se dají shrnout následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The advantages of using the .docx format in conjunction with OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151414Z" creationid="Josef" creationdate="20180318T151414Z">
+        <seg>Výhody používání formátu .docx ve spojení s OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -36193,6 +36529,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formats are also used in MS Office 2010.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151410Z" creationid="Josef" creationdate="20180318T151410Z">
+        <seg>Tyto formáty jsou také použity v MS Office 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163519Z" creationid="Josef" creationdate="20180317T163519Z">
@@ -36691,6 +37035,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101958Z" creationid="Josef" creationdate="20180317T101958Z">
         <seg>Nová barva byla uložena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151416Z" creationid="Josef" creationdate="20180318T151416Z">
+        <seg>Nový formát může také posloužit jako praktický způsob zpracování starších formátů .doc, .xls a .ppt, protože tyto lze převádět na své protějšky ve verzi MS Office 2007, překládat s OmegaT a v případě potřeby uložit opět v původním formátu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38278,6 +38630,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151410Z" creationid="Josef" creationdate="20180318T151410Z">
+        <seg>Tyto soubory jsou formálně známy jako „Office Open XML“ a používají tyto koncovky (dle pořadí jmenovaných programů) .docx, .xlsx a .pptx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151153Z" creationid="Josef" creationdate="20180318T151153Z">
@@ -38470,6 +38830,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party tools</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151610Z" creationid="Josef" creationdate="20180318T151610Z">
+        <seg>Nástroje třetích stran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164433Z" creationid="Josef" creationdate="20180317T164433Z">
@@ -38512,10 +38880,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151254Z" creationid="Josef" creationdate="20180318T151254Z">
+        <seg>Tento návod popisuje jak kompilovat OmegaT ze zdrojového kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151220Z" creationid="Josef" creationdate="20180318T151220Z">
         <seg>Tento návod ukáže jak na použití OmegaT ve spojení s CAT nástrojem Déjà Vu, jehož autorem je společnost Atril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151447Z" creationid="Josef" creationdate="20180318T151447Z">
+        <seg>Tento návod poskytuje tipy k překladu Word 2007 a novější verze (Office Open XML, .docx) v OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39302,6 +39686,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151418Z" creationid="Josef" creationdate="20180318T151418Z">
+        <seg>Tento postup představuje alternativu pro překladatele, kteří k tomuto účelu nechtějí používat OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165812Z" creationid="Josef" creationdate="20180317T165812Z">
@@ -39402,6 +39794,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134126Z" creationid="Josef" creationdate="20180317T134126Z">
         <seg>Ze začátku je tento podadresář prázdný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This tag apparently cannot be removed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151547Z" creationid="Josef" creationdate="20180318T151547Z">
+        <seg>Tento tag zjevně nelze odstranit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40478,6 +40878,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate this file in OmegaT in the usual way.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151235Z" creationid="Josef" creationdate="20180318T151232Z">
+        <seg>Přeložte tento soubor běžným způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102646Z" creationid="Josef" creationdate="20180317T102646Z">
@@ -41257,6 +41665,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151415Z" creationid="Josef" creationdate="20180318T151415Z">
+        <seg>Oproti starším formátům .doc, .xls a .ppt, je možno tyto soubory zpracovat v OmegaT přímo, bez ztráty formátování jakožto důsledek konverze do a z jiných formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164233Z" creationid="Josef" creationdate="20180317T164233Z">
@@ -41561,6 +41977,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181357Z" creationid="Josef" creationdate="20180317T181357Z">
         <seg>Dialogové okno otevřete stiskem &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; a přes klávesu &lt;k2&gt;Esc&lt;/k2&gt; jej zavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151502Z" creationid="Josef" creationdate="20180318T151502Z">
+        <seg>Použijte funkci Najít a nahradit k nalezení dvojitých mezer (nahraďte je jednoduchými mezerami).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41936,6 +42360,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users do not therefore need to compile OmegaT themselves.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151255Z" creationid="Josef" creationdate="20180318T151255Z">
+        <seg>Uživatelé proto sami nepotřebují kompilovat OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T150100Z" creationid="Josef" creationdate="20180318T150100Z">
@@ -41964,6 +42396,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145609Z" creationid="Josef" creationdate="20180318T145609Z">
         <seg>Uživatelé, kteří mají již nějakou zkušenost s OmegaT často upřednostňují Nejnovější verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151454Z" creationid="Josef" creationdate="20180318T151454Z">
+        <seg>Uživatelé, kteří mají zájem překládat soubory MS Office 2007 by tudíž měli aktualizovat OmegaT na verzi 2.1.8 nebo novější.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43205,6 +43645,30 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151456Z" creationid="Josef" creationdate="20180318T151456Z">
+        <seg>Když je aktivní funkce „seskupení tagů“ tak taková situace nemůže nastat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151409Z" creationid="Josef" creationdate="20180318T151409Z">
+        <seg>S příchodem Microsoft Office 2007, mají programy Microsoft Word, Excel a PowerPoint nový výchozí souborové formáty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the appearance of OmegaT Version 2.1.8, the handling of this file format in OmegaT also became much more user-friendly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151413Z" creationid="Josef" creationdate="20180318T151413Z">
+        <seg>Po vydání OmegaT verze 2.1.8 je práce s těmito souborovými formáty v rámci OmegaT je pro uživatele ještě přehlednější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180308Z" creationid="Josef" creationdate="20180317T180308Z">
@@ -43289,6 +43753,22 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102015Z" creationid="Josef" creationdate="20180317T102015Z">
         <seg>MS Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151545Z" creationid="Josef" creationdate="20180318T151545Z">
+        <seg>Word 2007 vkládá tag na místě zalomení stránky, dokonce i když se jedná o automatické zalomení stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 marks any words not in its spelling dictionary with tags, so even a couple of words which it considers to be mis-spelt will result in a plethora of tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151500Z" creationid="Josef" creationdate="20180318T151500Z">
+        <seg>Word 2007 značkuje jakékoliv slovo, které není ve slovníku kontroly pravopisu, pomocí tagů, takže i pár slov, která se zdají být chybně napsány nakonec skončí v nepřeberném množství tagů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43874,6 +44354,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180602Z" creationid="Josef" creationdate="20180317T180602Z">
         <seg>Můžete si to ověřit sami tak, že označíte položku &lt;e0&gt;Filtry souborů&lt;/e0&gt; v nabídce &lt;e1&gt;Možnosti&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151419Z" creationid="Josef" creationdate="20180318T151419Z">
+        <seg>Můžete převádět soubory MS Office 1997/2000/2003/XP na formát MS Office 2007 tak, že je otevřete v MS Office 2007 a uložíte je do nového formátu přes volbu „Uložit jako“.</seg>
       </tuv>
     </tu>
     <tu>
