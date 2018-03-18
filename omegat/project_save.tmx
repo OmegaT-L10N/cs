@@ -18883,6 +18883,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152245Z" creationid="Josef" creationdate="20180318T152245Z">
+        <seg>Pokud již máte na svém systému Javu instalovánu (což se dá předpokládat) a chcete použít stávající instalaci Javy na systémové úrovni ve spojení s OmegaT, nejprve zkontrolujte, jestli je tato kombinace vhodná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
@@ -19187,6 +19195,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102020Z" creationid="Josef" creationdate="20180317T102020Z">
         <seg>Pokud je kontrola problémů pomalá, zkuste vypnout některé volitelné kontroly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152333Z" creationid="Josef" creationdate="20180318T152333Z">
+        <seg>Když ne, stále máte možnost instalovat lokální verzi Javy nebo jinou verzi Javy na systémové úrovni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19966,6 +19982,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether your Java version is suitable, you can:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152332Z" creationid="Josef" creationdate="20180318T152332Z">
+        <seg>Jestli si nejste jistí, zda je vaše verze Javy vhodná, pak můžete:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152115Z" creationid="Josef" creationdate="20180318T152115Z">
@@ -20151,6 +20175,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180624Z" creationid="Josef" creationdate="20180317T180624Z">
         <seg>a pokud vložíte názvy adresářů, které dosud neexistují, &lt;a0&gt;OmegaT&lt;/a0&gt; je pro vás vytvoří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152336Z" creationid="Josef" creationdate="20180318T152336Z">
+        <seg>Pokud zjistíte, že verze Javy, která je instalována na systémové úrovni, není kompatibilní s OmegaT a chcete ji nahradit tuto verzi Javy verzí Javy od Oracle, nejprve zkontrolujte, zda je dostupný balíček Oracle pro vaši linuxovou distribuci (SUSE, Ubuntu, atd.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21781,6 +21813,22 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152334Z" creationid="Josef" creationdate="20180318T152334Z">
+        <seg>Instalujte druhou, ne-výchozí verzi Javy na systémové úrovni, spusťte OmegaT přímo za použití této verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the OmegaT version with Java included.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152334Z" creationid="Josef" creationdate="20180318T152334Z">
+        <seg>Instalujte verzi OmegaT, která obsahuje prostředí Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144955Z" creationid="Josef" creationdate="20180318T144955Z">
@@ -22285,6 +22333,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is particularly aimed at users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152241Z" creationid="Josef" creationdate="20180318T152241Z">
+        <seg>Tento text je zaměřen na uživatele, kteří jsou nováčci v Linuxu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181233Z" creationid="Josef" creationdate="20180317T181233Z">
@@ -22718,6 +22774,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102644Z" creationid="Josef" creationdate="20180317T102644Z">
         <seg>Jar použito pro pluginy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152243Z" creationid="Josef" creationdate="20180318T152243Z">
+        <seg>Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -27126,6 +27190,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152244Z" creationid="Josef" creationdate="20180318T152244Z">
+        <seg>OmegaT neběží uspokojivě pod všemi verzemi Javy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102024Z" creationid="Josef" creationdate="20180317T102024Z">
@@ -27676,6 +27748,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133817Z" creationid="Josef" creationdate="20180317T133817Z">
         <seg>OmegaT se nespustí, pokud v adresáři /plugin budou nějaké tokenizery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152332Z" creationid="Josef" creationdate="20180318T152332Z">
+        <seg>OmegaT teď poběží i na implementaci Javy OpenJDK, která je dodávána v některých linuxových distribucích, ale některé funkce (jako celá sada voleb příkazového řádku) nemusí být dostupná; je možné, že bude obsaženo odlišné písmo; některé drobné závady byly již nahlášeny, jako např. zobrazení oken nebo funkce segmentace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28436,6 +28516,14 @@ installed on your system.</seg>
 	Pouze cesta k projektu: Spustit GUI a nahrát zadaný projekt
 	tým
 		Nástroj pro týmový projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152330Z" creationid="Josef" creationdate="20180318T152330Z">
+        <seg>Verze Javy od Oracle (dříve od Sun): zkontrolujte systémové požadavky v dokumentaci OmegaT (readme.txt / ctime.txt), zde naleznete přesně která verze Oracle Javy je zapotřebí (tj. zda je vaše verze Javy dostatečně aktuální).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33596,6 +33684,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181414Z" creationid="Josef" creationdate="20180317T181414Z">
         <seg>Zjednodušení formátování původního textu před započetím práce na překladu může značně přispět ke snížení počtu tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152333Z" creationid="Josef" creationdate="20180318T152333Z">
+        <seg>Jednoduše instalujte verzi OmegaT bez Javy a zkuste, jestli bude fungovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38789,6 +38885,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The system will output details of the Java version already installed at system level.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152248Z" creationid="Josef" creationdate="20180318T152248Z">
+        <seg>Systém zobrazí podrobnosti o verzi Javy, která je na systémové úrovni již instalována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The systematic
 pattern of such abuse occurs in the area of products for individuals to
 use, which is precisely where it is most unacceptable.</seg>
@@ -39754,6 +39858,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134001Z" creationid="Josef" creationdate="20180317T134001Z">
         <seg>V překladu budou zobrazeny jako samostatné segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152331Z" creationid="Josef" creationdate="20180318T152331Z">
+        <seg>Verze Javy třetích stran: do poměrně nedávné doby OmegaT šlo spustit jen pod vlastní verzí Javy od Oracle/Sun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41258,6 +41370,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180106Z" creationid="Josef" creationdate="20180317T180106Z">
         <seg>To provoedete upravením spouštěče OmegaT nebo navštivte kapitolu &lt;l1&gt;Instalace a provoz&lt;/l1&gt;, kde se dozvíte, jak spouštět OmegaT z příkazového řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152245Z" creationid="Josef" creationdate="20180318T152245Z">
+        <seg>To učiníte tak, že otevřete terminál (také známý jako konzola nebo příkazový řádek; běžné programy jsou v prostředí KDE ‚konsole‘ a v prostředí GNOME ‚gnome-terminal‘) a napište:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49426,6 +49546,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181210Z" creationid="Josef" creationdate="20180317T181210Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;nazevsouboru&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152247Z" creationid="Josef" creationdate="20180318T152247Z">
+        <seg>java -version</seg>
       </tuv>
     </tu>
     <tu>
