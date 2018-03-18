@@ -6742,6 +6742,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145827Z" creationid="Josef" creationdate="20180318T145827Z">
+        <seg>Uživatelé Linuxu: většina linuxových distribucí je doplněna prostředím Java Runtime Environment, ale některé implementace open-source  nespolupracují v plné míře s aplikací OmegaT (i když to nemusí být zcela zjevné na první pohled).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145826Z" creationid="Josef" creationdate="20180318T145826Z">
+        <seg>Uživatelé Mac OS X: ve výchozím nastavení systému je JRE již instalováno, proto není k dispozici verze s JRE pro Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145010Z" creationid="Josef" creationdate="20180318T145010Z">
@@ -9018,6 +9034,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145437Z" creationid="Josef" creationdate="20180318T145437Z">
+        <seg>Jak už napovídá název, „Nejnovější“ verze OmegaT je přeci jen aktuálnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144640Z" creationid="Josef" creationdate="20180318T144640Z">
@@ -9526,6 +9550,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084818Z" creationid="Josef" creationdate="20180317T084818Z">
         <seg>Barman zvolal:&lt;p&gt;Tvoje stránka nenalezena chlapče,&lt;p&gt;kup si další drink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145456Z" creationid="Josef" creationdate="20180318T145456Z">
+        <seg>Na základě vašich voleb doporučujeme použít:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12897,6 +12929,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145550Z" creationid="Josef" creationdate="20180318T145550Z">
+        <seg>Detailní instrukce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101945Z" creationid="Josef" creationdate="20180317T101945Z">
@@ -12909,6 +12949,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103153Z" creationid="Josef" creationdate="20180317T103153Z">
         <seg>Detekce ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145619Z" creationid="Josef" creationdate="20180318T145619Z">
+        <seg>Vývojová vzere</seg>
       </tuv>
     </tu>
     <tu>
@@ -13565,6 +13613,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145608Z" creationid="Josef" creationdate="20180318T145608Z">
+        <seg>Dokumentace, obzvláště nových vlastností, je pak méně ucelená než je tomu u stabilních verzí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133919Z" creationid="Josef" creationdate="20180317T133919Z">
@@ -13681,6 +13737,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181625Z" creationid="Josef" creationdate="20180317T181625Z">
         <seg>Zdvojený výskyt slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145501Z" creationid="Josef" creationdate="20180318T145501Z">
+        <seg>Stažení</seg>
       </tuv>
     </tu>
     <tu>
@@ -15648,6 +15712,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145525Z" creationid="Josef" creationdate="20180318T145525Z">
+        <seg>Soubory ve formátu Microsoft Office 2007 XML je možné překládat v OmegaT přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145526Z" creationid="Josef" creationdate="20180318T145526Z">
+        <seg>Soubory ze staršího formátu MS Wordu, Excelu a PowerPointu lze překládat až po konverzi na ekvivalentní aktuální formáty Microsoft Office, nebo podobně na formát Office Open XML, což lze provést pomocí OpenOffice.org nebo LibreOffice (tento formát je také svobodný).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134257Z" creationid="Josef" creationdate="20180317T134257Z">
@@ -16313,6 +16393,14 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165915Z" creationid="Josef" creationdate="20180317T165915Z">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see
 &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145748Z" creationid="Josef" creationdate="20180318T145748Z">
+        <seg>Pro většinu uživatelů již nejsou atraktivní.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17671,10 +17759,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145749Z" creationid="Josef" creationdate="20180318T145749Z">
+        <seg>Nicméně, někteří uživatelé musí čelit omezením (dané jejich operačním systémem či verzí Javy), které mohou mít za následek upřednostnění starší verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164045Z" creationid="Josef" creationdate="20180317T164045Z">
         <seg>Nicméně alternativa příkazového řádku umožňuje uživateli ovládat a upravovat chování programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145438Z" creationid="Josef" creationdate="20180318T145438Z">
+        <seg>Nicméně, uživatelská příručka již aktuální být nemusí (a proto může být zavádějící), je možné, že v této verzi se budou vyskytovat nějaké menší chyby)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18202,6 +18306,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134240Z" creationid="Josef" creationdate="20180317T134240Z">
         <seg>Jestli máte nějaké pochybnosti, tak se neváhejte zeptat členů projektu přímo, buď jim zašlete email ze stránky SourceForge, nebo pošlete veřejný email do uživatelské skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145404Z" creationid="Josef" creationdate="20180318T145404Z">
+        <seg>Pokud si nejste jistí s výběrem verze, berte tuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18832,6 +18944,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145521Z" creationid="Josef" creationdate="20180318T145521Z">
+        <seg>Pokud tato verze není dostupná, můžete zkusit &lt;a0&gt;stáhnout nepodepsanou verzi&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
@@ -18886,6 +19006,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145752Z" creationid="Josef" creationdate="20180318T145752Z">
+        <seg>Pokud si jste jistí a víte, že je už na Vašem počítači nainstalované vhodné JRE, prosím stáhněte si verzi bez JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144950Z" creationid="Josef" creationdate="20180318T144950Z">
@@ -18918,6 +19046,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145828Z" creationid="Josef" creationdate="20180318T145828Z">
+        <seg>Pokud jste poměrně noví v Linuxu, doporučujeme vám vybrat si verzi OmegaT, kde je JRE obsaženo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are serious about learning tcl/tk, "Practical Programming in Tcl and Tk" by Brent Welch, ISBN: 0-13-038560-3 is strongly recommended.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144659Z" creationid="Josef" creationdate="20180318T144659Z">
@@ -18934,6 +19070,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145435Z" creationid="Josef" creationdate="20180318T145435Z">
+        <seg>Pokud si nejste jisti, jestli je vhodné prostředí Java Runtime Environment již instalováno na vašem systému na systémové úrovni, můžete vybrat možnost bez JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180514Z" creationid="Josef" creationdate="20180317T180514Z">
@@ -18946,6 +19090,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145121Z" creationid="Josef" creationdate="20180318T145121Z">
         <seg>Pokud si nejste jistí, zda je na vašem systému již instalována vhodná verze JRE, pak si můžete stáhnout a instalovat verzi OmegaT s JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145826Z" creationid="Josef" creationdate="20180318T145826Z">
+        <seg>Pokud si nejste jisti, zda máte či nemáte odpovídající verzi JRE, vyberte si verzi s JRE (tj. výchozí verze)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19147,6 +19299,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145529Z" creationid="Josef" creationdate="20180318T145529Z">
+        <seg>Pokud máte přirozenou nevůli ke čtení pokynů, a Váš přístup k novému software je kliknout na každé tlačítko, které vidíte dokud se neobjeví něco podobající se požadovanému efektu, potom pro Vás aplikace OmegaT pravděpodobně není vhodná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133938Z" creationid="Josef" creationdate="20180317T133938Z">
@@ -19208,6 +19368,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180142Z" creationid="Josef" creationdate="20180317T180142Z">
         <seg>Pokud jste projekt dosud neuložili, budete požádáni ukončení programu ručně potvrdit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145824Z" creationid="Josef" creationdate="20180318T145824Z">
+        <seg>Nicméně, když instalujete verzi OmegaT i když je JRE na vašem počítači již instalováno, tak bude JRE pro OmegaT instalováno odděleně a nebude se stávajícím prostředím kolidovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19883,6 +20051,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145750Z" creationid="Josef" creationdate="20180318T145750Z">
+        <seg>Ke spuštění vyžaduje OmegaT ve vašem systému nainstalované prostředí Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181001Z" creationid="Josef" creationdate="20180317T181001Z">
@@ -20165,6 +20341,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181146Z" creationid="Josef" creationdate="20180317T181146Z">
         <seg>V tomto případě je užitečný tento postup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145813Z" creationid="Josef" creationdate="20180318T145813Z">
+        <seg>V tomto případě nevybírejte Výchozí verzi; vyberte jinou verzi (např. Standardní nebo Nejnovější), pak si vyberte verzi „Bez Javy“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21136,10 +21320,26 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145436Z" creationid="Josef" creationdate="20180318T145436Z">
+        <seg>Toto je doporučená verze pro začátečníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181245Z" creationid="Josef" creationdate="20180317T181245Z">
         <seg>Je to ten segment, který je v zobrazení rozdělen na dvě části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145825Z" creationid="Josef" creationdate="20180318T145825Z">
+        <seg>Proto je vždy jistější instalovat verzi OmegaT i s JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21249,6 +21449,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145544Z" creationid="Josef" creationdate="20180318T145544Z">
+        <seg>Nicméně zde budou chybět některé funkce „Nejnovější“ verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
@@ -21310,6 +21518,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181105Z" creationid="Josef" creationdate="20180317T181105Z">
         <seg>Jeho obsah bude vždy řazen abecedně podle zdrojových segmentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145543Z" creationid="Josef" creationdate="20180318T145543Z">
+        <seg>Její dokumentace, minimálně ta anglická, je zpravidla co nejaktuálnější.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22092,6 +22308,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145437Z" creationid="Josef" creationdate="20180318T145437Z">
+        <seg>Nejnovější</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145606Z" creationid="Josef" creationdate="20180318T145602Z">
+        <seg>Nejnovější verze - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103543Z" creationid="Josef" creationdate="20180317T103543Z">
@@ -22240,6 +22472,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102043Z" creationid="Josef" creationdate="20180317T102043Z">
         <seg>Vlevo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145716Z" creationid="Josef" creationdate="20180318T145716Z">
+        <seg>Zastaralé verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145748Z" creationid="Josef" creationdate="20180318T145748Z">
+        <seg>Zastaralé verze jsou starší verze, které byly již nahrazeny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22634,6 +22882,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163843Z" creationid="Josef" creationdate="20180317T163843Z">
         <seg>Uživatelé Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145859Z" creationid="Josef" creationdate="20180318T145859Z">
+        <seg>Mac OS X má funkcionalitu zvanou Gatekeeper, která zvyšuje bezpečnost při stížení spouštění nepodepsaných programů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23640,6 +23896,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145828Z" creationid="Josef" creationdate="20180318T145828Z">
+        <seg>Více zkušení uživatelé Linuxu možná budou preferovat instalaci Oracle (dříve Sun) JRE do svého systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181352Z" creationid="Josef" creationdate="20180317T181352Z">
@@ -24091,6 +24355,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145438Z" creationid="Josef" creationdate="20180318T145438Z">
+        <seg>Nicméně „Nejnovější“ verze OmegaT jsou zpravidla velmi stabilní a jsou doporučeny pro všechny uživatele, kteří mají již nějakou zkušenost s OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104108Z" creationid="Josef" creationdate="20180317T104108Z">
@@ -24239,6 +24511,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164242Z" creationid="Josef" creationdate="20180317T164242Z">
         <seg>V dalším kroku se otevře dialogové okno &lt;g0&gt;Soubory projektu&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145711Z" creationid="Josef" creationdate="20180318T145711Z">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -25518,10 +25798,26 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145949Z" creationid="Josef" creationdate="20180318T145949Z">
+        <seg>OmegaT pro Mac OS X je k dispozici v obou verzích, jak podepsaná, tak nepodepsaná; mají identické funkce, ale podepsaná verze je přednostně rozpoznána systémem jakožto vydaná známým vývojářem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182340Z" creationid="Josef" creationdate="20180317T182340Z">
         <seg>OmegaT má velmi aktivní, nápomocnou a vícejazyčnou uživatelskou skupinu, odkaz &lt;a0&gt;zde&lt;/a0&gt;; velmi doporučujeme uživatelům se připojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145525Z" creationid="Josef" creationdate="20180318T145525Z">
+        <seg>Program OmegaT byl úspěšně instalován na systémech Windows (všechny verze od 98), Macintosh OS X a Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25638,6 +25934,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134035Z" creationid="Josef" creationdate="20180317T134035Z">
         <seg>OmegaT má instrukci, že se má použít povinné kódování pro vybrané formáty souborů (Java properties atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145528Z" creationid="Josef" creationdate="20180318T145528Z">
+        <seg>Aplikaci OmegaT není vůbec těžké nainstalovat nebo používat, ale vyžaduje to vůli číst a řídit se pokyny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25932,6 +26236,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133755Z" creationid="Josef" creationdate="20180317T133755Z">
         <seg>OmegaT pozná, že se jedná o týmový projekt a vše automaticky synchronizuje, ve výchozím nastavení se tak děje každé tři minuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145523Z" creationid="Josef" creationdate="20180318T145523Z">
+        <seg>OmegaT je možno spustit pod jakýmkoliv systémem, na kterém je nainstalované nebo je možné nainstalovat prostředí JRE (Java Runtime Environment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27218,6 +27530,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145545Z" creationid="Josef" creationdate="20180318T145545Z">
+        <seg>Platformy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144722Z" creationid="Josef" creationdate="20180318T144722Z">
@@ -27525,6 +27845,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102824Z" creationid="Josef" creationdate="20180317T102824Z">
         <seg>MS Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145705Z" creationid="Josef" creationdate="20180318T145705Z">
+        <seg>Před-sestavené binární soubor jsou dostupné jako tzv. noční sestavení (Nightly Builds)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29376,6 +29704,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181618Z" creationid="Josef" creationdate="20180317T181618Z">
         <seg>Požadavky a návrhy na zlepšení (anglicky), na stránce SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145522Z" creationid="Josef" creationdate="20180318T145522Z">
+        <seg>Požadavky</seg>
       </tuv>
     </tu>
     <tu>
@@ -31528,6 +31864,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145834Z" creationid="Josef" creationdate="20180318T145834Z">
+        <seg>Podepsané/Nepodepsané</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133731Z" creationid="Josef" creationdate="20180317T133731Z">
@@ -32340,6 +32684,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145542Z" creationid="Josef" creationdate="20180318T145542Z">
+        <seg>Standardní Verze - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -32830,6 +33182,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101934Z" creationid="Josef" creationdate="20180317T101934Z">
         <seg>Chyba synchronizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145523Z" creationid="Josef" creationdate="20180318T145523Z">
+        <seg>Systémové požadavky</seg>
       </tuv>
     </tu>
     <tu>
@@ -33671,6 +34031,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145643Z" creationid="Josef" creationdate="20180318T145643Z">
+        <seg>Verze „/trunk“ tvoří jistý předvoj, je to „alfa“ verze, ještě ve vývoji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Cmd" key either has a "command" label or an apple symbol on Apple keyboards.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180119Z" creationid="Josef" creationdate="20180317T180119Z">
@@ -33697,6 +34065,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103425Z" creationid="Josef" creationdate="20180317T103425Z">
         <seg>Klávesa „Shift“ sama o sobě nevyvolá žádné speciální reakce pohybu kurzoru: když je stisknuta klávesa „Shift“, všechny klávesy pohybují kurzorem obvyklým způsobem, kromě případu kombinace kláves &lt;l0&gt;Shift+Enter&lt;/l0&gt;, pomocí které se do textu vloží zalomení řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145436Z" creationid="Josef" creationdate="20180318T145436Z">
+        <seg>„Standardní“ verze OmegaT obsahuje kompletní uživatelskou příručku (minimálně anglicky) a zpravidla byla již nějaký čas testována, aby se vychytaly chyby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34013,6 +34389,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145524Z" creationid="Josef" creationdate="20180318T145524Z">
+        <seg>Prostředí JRE se v současnosti dodává přímo s aplikací OmegaT a není zapotřebí si jej obstarávat zvlášť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084937Z" creationid="Josef" creationdate="20180317T084937Z">
@@ -34041,6 +34425,22 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103926Z" creationid="Josef" creationdate="20180317T103926Z">
         <seg>Plugin LanguageTool je v OmegaT již obsažen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145607Z" creationid="Josef" creationdate="20180318T145607Z">
+        <seg>Nejnovější verze představuje aktuálnější vydání než Standardní verze a ta obsahuje nové funkce, které ve Standardní verzi již nejsou zahrnuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145608Z" creationid="Josef" creationdate="20180318T145608Z">
+        <seg>Nejnovější verze je zpravidla již dostatečně stabilní a použitelná, ale i tak může obsahovat nějaké chyby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34153,6 +34553,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165945Z" creationid="Josef" creationdate="20180317T165945Z">
         <seg>Španělský překlad je lepší než slovinský.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145543Z" creationid="Josef" creationdate="20180318T145543Z">
+        <seg>Standardní verze je obvykle již nějakou dobu používána a je tedy vyzkoušena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34753,6 +35161,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145753Z" creationid="Josef" creationdate="20180318T145753Z">
+        <seg>Stahování proběhne rychleji a instalace tak bude vyžadovat méně místa na vašem pevném disku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163734Z" creationid="Josef" creationdate="20180317T163734Z">
@@ -35158,6 +35574,14 @@ parts of the General Public License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163630Z" creationid="Josef" creationdate="20180317T163630Z">
         <seg>Formátovací informace, které jsou „in-line“, tzn. přímo v řádku, budou u podporovaných formátů (konkrétně jde v době psaní tohoto textu o DocBook, HTML, XHTML, Open Document Format (ODF a Office Open XML (MS Office 2007 a novější) v aplikaci OmegaT zobrazeny jako tagy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145431Z" creationid="Josef" creationdate="20180318T145431Z">
+        <seg>Obsažená verze JRE je verze 64-bitová</seg>
       </tuv>
     </tu>
     <tu>
@@ -38654,6 +39078,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145527Z" creationid="Josef" creationdate="20180318T145527Z">
+        <seg>OpenOffice.org nebo LibreOffice můžete stahovat přes link na tlačítku vlevo „Software třetích stran“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181407Z" creationid="Josef" creationdate="20180317T181407Z">
@@ -39347,6 +39779,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101925Z" creationid="Josef" creationdate="20180317T101925Z">
         <seg>Komentář překladatele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145707Z" creationid="Josef" creationdate="20180318T145707Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -40471,6 +40911,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145527Z" creationid="Josef" creationdate="20180318T145527Z">
+        <seg>Požadavky na uživatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User settings files</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134128Z" creationid="Josef" creationdate="20180317T134128Z">
@@ -40524,6 +40972,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163845Z" creationid="Josef" creationdate="20180317T163845Z">
         <seg>Aby bylo možno &lt;a1&gt;OmegaT&lt;/a1&gt; používat u jiných platforem (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 atd.) musí uživatelé na svém systému mít a provozovat kompatibilní prostředí Java JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145609Z" creationid="Josef" creationdate="20180318T145609Z">
+        <seg>Uživatelé, kteří mají již nějakou zkušenost s OmegaT často upřednostňují Nejnovější verzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41725,6 +42181,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145413Z" creationid="Josef" creationdate="20180318T145413Z">
+        <seg>S 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180348Z" creationid="Josef" creationdate="20180317T180348Z">
@@ -41781,6 +42245,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145749Z" creationid="Josef" creationdate="20180318T145749Z">
+        <seg>S / Bez JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133732Z" creationid="Josef" creationdate="20180317T133732Z">
@@ -41793,6 +42265,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163634Z" creationid="Josef" creationdate="20180317T163634Z">
         <seg>Uvnitř segmentu pak první skupina (párový nebo samostatný tag) obdrží číslo 0, druhá číslo 1 atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145434Z" creationid="Josef" creationdate="20180318T145434Z">
+        <seg>Bez JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -42598,6 +43078,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104014Z" creationid="Josef" creationdate="20180317T104014Z">
         <seg>Stejně tak můžete spouštět vybraná makra z hlavního menu, a to použitím jejich záznamů v nabídce &lt;g0&gt;Nástroje &lt;/g0&gt; nebo aktivováním zkratky &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (kde # odpovídá 1 až 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145747Z" creationid="Josef" creationdate="20180318T145747Z">
+        <seg>Stále můžete najít &lt;a0&gt;starší, nahrazené verze&lt;/a0&gt; aplikace OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48470,6 +48958,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145459Z" creationid="Josef" creationdate="20180318T145459Z">
+        <seg>nějaká verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sot</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103756Z" creationid="Josef" creationdate="20180317T103756Z">
@@ -49723,6 +50219,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104025Z" creationid="Josef" creationdate="20180317T104025Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145600Z" creationid="Josef" creationdate="20180318T145557Z">
+        <seg>{% else %} &lt;a0&gt;Stáhnout&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T145556Z" creationid="Josef" creationdate="20180318T145553Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Stáhnout&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
