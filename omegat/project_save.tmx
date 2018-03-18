@@ -2442,6 +2442,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152535Z" creationid="Josef" creationdate="20180318T152535Z">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>0.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164344Z" creationid="Josef" creationdate="20180317T164344Z">
@@ -9240,6 +9248,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance of fonts in OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152556Z" creationid="Josef" creationdate="20180318T152556Z">
+        <seg>Vzhled písma v OmegaT pod Linuxem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134224Z" creationid="Josef" creationdate="20180317T134224Z">
@@ -9374,6 +9390,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103104Z" creationid="Josef" creationdate="20180317T103104Z">
         <seg>V důsledku toho budou všechna nastavení ve stavu výchozího nastavení, a následně se můžete setkat s nečekaným, ale správným chováním programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152538Z" creationid="Josef" creationdate="20180318T152538Z">
+        <seg>Jak již bylo zmíněno, s OmegaT je poskytován spouštěcí skript bash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152508Z" creationid="Josef" creationdate="20180318T152508Z">
+        <seg>Jakožto open-source aplikace, byla OmegaT začleněna do repozitářů různých distribucí Linuxu, takže je možno ji instalovat i touto cestou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,6 +9614,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163521Z" creationid="Josef" creationdate="20180317T163521Z">
         <seg>V době psaní tohoto textu podporuje OmegaT následující formáty pro formátovaný text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152510Z" creationid="Josef" creationdate="20180318T152510Z">
+        <seg>V čase psaní tohoto textu OmegaT lépe poběží s verzí Javy od Oracle (viz výše).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10443,6 +10483,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181141Z" creationid="Josef" creationdate="20180317T181141Z">
         <seg>Ve výchozím nastavení je adresář /tm umístěn přímo v kořenovém adresáři projektu (např. ...&lt;e0&gt;/MujProjekt/tm)&lt;/e0&gt;, ale můžete si dle vlastních potřeb zvolit v dialogovém okně Vlastnosti jiný adresář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152553Z" creationid="Josef" creationdate="20180318T152553Z">
+        <seg>Ve výchozím nastavení má tento spouštěcí bash skript prováděcí práva, ale váš systém může jeho oprávnění změnit (např. během rozbalování archivu) a možná tak tedy budete muset tomuto souboru udělit odpovídající práva pro spouštění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12249,6 +12297,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152608Z" creationid="Josef" creationdate="20180318T152608Z">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2011</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152151Z" creationid="Josef" creationdate="20180318T152151Z">
@@ -13365,6 +13421,30 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164345Z" creationid="Josef" creationdate="20180317T164345Z">
         <seg>Definitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152602Z" creationid="Josef" creationdate="20180318T152602Z">
+        <seg>Smaže veškeré spouštěcí skripty a odstraňte vlastní přizpůsobení pracovního prostředí, která se týkají OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152600Z" creationid="Josef" creationdate="20180318T152600Z">
+        <seg>Smažte programový adresář OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152601Z" creationid="Josef" creationdate="20180318T152601Z">
+        <seg>Smažte adresář /home/&lt;uživatel&gt;/.omegat ze všech uživatelských účtů, ve kterých jste OmegaT spouštěli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17207,6 +17287,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152518Z" creationid="Josef" creationdate="20180318T152518Z">
+        <seg>Aby skript kaptain script fungoval, je nutno nejprve instalovat balíček kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133827Z" creationid="Josef" creationdate="20180317T133827Z">
@@ -19223,6 +19311,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152519Z" creationid="Josef" creationdate="20180318T152519Z">
+        <seg>Pokud se nenachází v repozitáři distribuce, můžete si jej &lt;a0&gt;stáhnout z kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If languages match but not the country, the segments still get loaded.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181135Z" creationid="Josef" creationdate="20180317T181135Z">
@@ -19934,6 +20030,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152531Z" creationid="Josef" creationdate="20180318T152531Z">
+        <seg>Pokud se spoléháte nebo chcete použít verzi Javy, která není instalována na systémové úrovni, pak příkaz nebude vykonán: první musíte systému sdělit, kde má Javu najít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are serious about learning tcl/tk, "Practical Programming in Tcl and Tk" by Brent Welch, ISBN: 0-13-038560-3 is strongly recommended.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144659Z" creationid="Josef" creationdate="20180318T144659Z">
@@ -20248,6 +20352,22 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163738Z" creationid="Josef" creationdate="20180317T163738Z">
         <seg>Pokud používáte systém pro správu terminologie je docela možné, že bude nabízet export terminologických dat do formátu TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152532Z" creationid="Josef" creationdate="20180318T152532Z">
+        <seg>Pakliže máte instalovánu verzi OmegaT včetně dodaného JRE, spouštěcí skript již cestu k Javě obsahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152532Z" creationid="Josef" creationdate="20180318T152532Z">
+        <seg>Pokud máte instalovánu dodatečnou verzi Javy, ale nejedná se o výchozí verzi na systémové úrovni, musíte pak zahrnout celou cestu binárního souboru Javy do spouštěcího příkazu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21445,6 +21565,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181013Z" creationid="Josef" creationdate="20180317T181013Z">
         <seg>Vzhledem k flexibilitě, můžete zvážit definování více pravidel pro výjimky pro jazyk ze kterého překládáte, abyste získali smysluplnější a souvislejší segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152536Z" creationid="Josef" creationdate="20180318T152536Z">
+        <seg>Ve svém spouštěcím skriptu nezaměňte cestu k OmegaT.jar a cestu k příkazu java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23602,6 +23730,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from a launch script</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152538Z" creationid="Josef" creationdate="20180318T152538Z">
+        <seg>Spouštění OmegaT prostřednictvím spouštěcího skriptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152523Z" creationid="Josef" creationdate="20180318T152523Z">
+        <seg>Spouštění OmegaT z příkazového řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
@@ -25248,6 +25392,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More functions will usually be found in the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152511Z" creationid="Josef" creationdate="20180318T152511Z">
+        <seg>Více funkcí se obvykle nachází v „Nejnovější“ verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181352Z" creationid="Josef" creationdate="20180317T181352Z">
@@ -25302,6 +25454,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103129Z" creationid="Josef" creationdate="20180317T103129Z">
         <seg>Moses Server URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152510Z" creationid="Josef" creationdate="20180318T152510Z">
+        <seg>Většina linuxových distribucí ve výchozím nastavení používá verzi Javy OpenJDK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25687,6 +25847,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103626Z" creationid="Josef" creationdate="20180317T103626Z">
         <seg>Navažština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to the folder containing the file OmegaT.jar, e.g.:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152525Z" creationid="Josef" creationdate="20180318T152525Z">
+        <seg>Přejděte do adresáře obsahujícího soubor OmegaT.jar, např.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26255,6 +26423,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152509Z" creationid="Josef" creationdate="20180318T152509Z">
+        <seg>Nicméně si uvědomte, že:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180911Z" creationid="Josef" creationdate="20180317T180911Z">
@@ -26387,6 +26563,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180617Z" creationid="Josef" creationdate="20180317T180617Z">
         <seg>Za poznámku stojí, že v nabídce &lt;g2&gt;Možnosti -&gt; Filtry souborů&lt;/g2&gt; se mění obecné uživatelské filtry, ne filtry specifické pro daný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that it is easy to install multiple versions of OmegaT on Linux without conflicts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152512Z" creationid="Josef" creationdate="20180318T152512Z">
+        <seg>Pod Linuxem je snadné instalovat více verzí OmegaT aniž by došlo ke konfliktům</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,6 +27370,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180915Z" creationid="Josef" creationdate="20180317T180915Z">
         <seg>OmegaT zobrazí seznam všech segmentů, ve kterých se všechna tato slova vyskytují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152524Z" creationid="Josef" creationdate="20180318T152524Z">
+        <seg>OmegaT nemusí být spouštěna z příkazového řádku, ale pokud se k tomu odhodláte, získáte spoustu informací, které lze využít při řešení potíží v rámci odstraňování chyb programu (‚debugging‘).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27996,6 +28188,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133752Z" creationid="Josef" creationdate="20180317T133752Z">
         <seg>Pokud je týmový projekt nastaven, jediné co členové týmu potřebují k přístupu do týmového projektu je &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152539Z" creationid="Josef" creationdate="20180318T152539Z">
+        <seg>Jakmile je tento zkopírován nebo propojen do spouštěcí nabídky (pokud použijete dodaný instalační skript, tak se toto uskuteční automaticky), můžete spouštět OmegaT stiskem kláves &lt;i0&gt;Alt+F2&lt;/i0&gt;, napsáním &lt;i1&gt;omegat&lt;/i1&gt; a pak potvrzením ENTER.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32128,6 +32328,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Screenshot of the kaptain OmegaT launcher</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152521Z" creationid="Josef" creationdate="20180318T152521Z">
+        <seg>Snímek obrazovky spouštěče kaptain pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scribus</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102802Z" creationid="Josef" creationdate="20180317T102802Z">
@@ -33072,6 +33280,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152508Z" creationid="Josef" creationdate="20180318T152508Z">
+        <seg>Vyberte si verzi bez nebo s JRE, v závislosti na vaší situaci ohledně instalované verze Javy (viz výše).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102020Z" creationid="Josef" creationdate="20180317T102020Z">
@@ -33692,6 +33908,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152333Z" creationid="Josef" creationdate="20180318T152333Z">
         <seg>Jednoduše instalujte verzi OmegaT bez Javy a zkuste, jestli bude fungovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simply unpack the archive in the folder of your choice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152522Z" creationid="Josef" creationdate="20180318T152522Z">
+        <seg>Prostě rozbalte archív do adresáře dle svého výběru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36309,6 +36533,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152557Z" creationid="Josef" creationdate="20180318T152557Z">
+        <seg>Verzi použité Javy (stejné písmo může být různě zobrazeno ve verzích javy od Sun a OpenJDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163828Z" creationid="Josef" creationdate="20180317T163828Z">
@@ -36345,6 +36577,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145608Z" creationid="Josef" creationdate="20180318T145608Z">
         <seg>Nejnovější verze je zpravidla již dostatečně stabilní a použitelná, ale i tak může obsahovat nějaké chyby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152513Z" creationid="Josef" creationdate="20180318T152513Z">
+        <seg>Linuxová verze OmegaT je dodávána s vlastním instalačním skriptem: linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36425,6 +36665,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181824Z" creationid="Josef" creationdate="20180317T181824Z">
         <seg>Projekt OmegaT spravuje neformální, mezinárodní skupina dobrovolníků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152511Z" creationid="Josef" creationdate="20180318T152511Z">
+        <seg>Dodávaná verze OmegaT je obvykle „Standardní“ verze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36639,6 +36887,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152556Z" creationid="Josef" creationdate="20180318T152556Z">
+        <seg>Vzhled písma v OmegaT pod Linuxem se může velmi lišit, vždy v závislosti na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164043Z" creationid="Josef" creationdate="20180317T164043Z">
@@ -36671,6 +36927,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The available/selected fonts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152557Z" creationid="Josef" creationdate="20180318T152557Z">
+        <seg>Dostupná / vybraná písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181121Z" creationid="Josef" creationdate="20180317T181121Z">
@@ -36679,10 +36943,26 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152516Z" creationid="Josef" creationdate="20180318T152516Z">
+        <seg>Skript bash je velmi jednoduchý soubor, který můžete upravovat ručně přes volby příkazového řádku týkající se spouštění a konfigurace OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164102Z" creationid="Josef" creationdate="20180317T164102Z">
         <seg>Základní příkaz byl již popsán výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic launch command is:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152528Z" creationid="Josef" creationdate="20180318T152528Z">
+        <seg>Základní spouštěcí příkaz zní:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36831,6 +37111,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command is case-sensitive.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152530Z" creationid="Josef" creationdate="20180318T152530Z">
+        <seg>Příkazový řádek rozlišuje velká a malá písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102033Z" creationid="Josef" creationdate="20180317T102033Z">
@@ -36851,6 +37139,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181604Z" creationid="Josef" creationdate="20180317T181604Z">
         <seg>Příkaz ke spuštění OmegaT je:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command will therefore be (in this case):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152533Z" creationid="Josef" creationdate="20180318T152533Z">
+        <seg>Příkaz by pak (v tomto případě) vypadal takto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37297,6 +37593,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file is commented to help you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152518Z" creationid="Josef" creationdate="20180318T152518Z">
+        <seg>Soubor je pro přehlednost komentován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144611Z" creationid="Josef" creationdate="20180318T144611Z">
@@ -37333,6 +37637,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151149Z" creationid="Josef" creationdate="20180318T151149Z">
         <seg>Filtry dostupné pro formáty souborů jsou obzvláště příznačné spíše pro odvětví IT než pro soubory koncových uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152537Z" creationid="Josef" creationdate="20180318T152537Z">
+        <seg>První (s příkazem cd) je zapotřebí, pokud se váš spouštěcí skript nenachází ve stejném adresáři jako OmegaT.jar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37485,6 +37797,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165944Z" creationid="Josef" creationdate="20180317T165944Z">
         <seg>Následující okno ukazuje příklad a) anglického zdroje b) španělského a c) slovinského překladu prostřednictvím Google Překladač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font size</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152558Z" creationid="Josef" creationdate="20180318T152558Z">
+        <seg>Velikost písma</seg>
       </tuv>
     </tu>
     <tu>
@@ -37673,10 +37993,26 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The installation script provides added convenience, but you can still install OmegaT on Linux manually if you prefer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152522Z" creationid="Josef" creationdate="20180318T152522Z">
+        <seg>Instalace skriptu poskytne větší pohodlí, ale jestli chcete, pořád je možno instalovat OmegaT na Linuxu ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163759Z" creationid="Josef" creationdate="20180317T163759Z">
         <seg>Položky glosáře nejsou od sebe odděleny tabulátorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The kaptain script (or "grammar", as kaptain scripts are termed) enables you to select launch and configuration options from a user-friendly GUI.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152516Z" creationid="Josef" creationdate="20180318T152516Z">
+        <seg>Skript Kaptain script (nebo „gramatika“, neboť skripty kaptain script se skládá je jednotlivých výrazů) umožňuje vybrat spouštěcí a konfigurační volby z přívětivějšího uživatelského rozhraní.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37711,6 +38047,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181113Z" creationid="Josef" creationdate="20180317T181113Z">
         <seg>Poslední segment s identickým zdrojovým textem má tedy větší váhu (samozřejmě je smysluplnější v první řadě takovýmto situacím předcházet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The launch scripts will not be written to your execution path in this case.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152523Z" creationid="Josef" creationdate="20180318T152523Z">
+        <seg>Spouštěcí skripty v tomto případě nebudou zahrnuty do spouštěcí nabídky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38195,6 +38539,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152555Z" creationid="Josef" creationdate="20180318T152555Z">
+        <seg>Možností je mnoho, taktéž je mnoho procedur jak implementovat program v systému, tento počet vychází z množství distribucí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104047Z" creationid="Josef" creationdate="20180317T104047Z">
@@ -38585,6 +38937,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164056Z" creationid="Josef" creationdate="20180317T164056Z">
         <seg>Druhý příkaz je příkaz, který skutečně spustí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152537Z" creationid="Josef" creationdate="20180318T152537Z">
+        <seg>Druhá část je zapotřebí, když verze Javy, kterou chcete použít, není výchozí instalací na úrovni systému.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39345,6 +39705,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152528Z" creationid="Josef" creationdate="20180318T152528Z">
+        <seg>Pak vložte samotný spouštěcí příkaz a potvrďte ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152146Z" creationid="Josef" creationdate="20180318T152146Z">
@@ -39870,6 +40238,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will however always access the same user configuration files (unless launched from a different user account).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152512Z" creationid="Josef" creationdate="20180318T152512Z">
+        <seg>Tyto instalace ale budou vždy přistupovat k jednomu souboru s uživatelským nastavením (jedině, že by se spouštěly z různých uživatelských účtů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152331Z" creationid="Josef" creationdate="20180318T152331Z">
@@ -40104,6 +40480,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151140Z" creationid="Josef" creationdate="20180318T151140Z">
         <seg>Toto může být provedeno buď s příslušným CAT nástrojem nebo v některých případech v externím formátu dvoujazyčných souborů, které zvládá daný nástroj přečíst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can easily be restored again in the future.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152600Z" creationid="Josef" creationdate="20180318T152600Z">
+        <seg>Tento adresář můžete v budoucnu kdykoliv obnovit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40910,6 +41294,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152514Z" creationid="Josef" creationdate="20180318T152514Z">
+        <seg>Tento skript:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102042Z" creationid="Josef" creationdate="20180317T102042Z">
@@ -40990,6 +41382,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152533Z" creationid="Josef" creationdate="20180318T152533Z">
+        <seg>Bude to vypadat např. takto /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; během instalace si poznačte, kde je Java instalována, takže ji pak znovu lehko najdete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create a full distribution of &lt;a0&gt;OmegaT&lt;/a0&gt; in the ./dist/ folder, where you will find all the files necessary to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164236Z" creationid="Josef" creationdate="20180317T164236Z">
@@ -41018,6 +41418,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180609Z" creationid="Josef" creationdate="20180317T180609Z">
         <seg>To je prakticky navrátí do „nepřeloženého“ stavu, protože neodpovídají segmentům uloženým v paměti projektu, dokonce i přesto, že dřívější a teď nekorespondující překlad tam stále je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152637Z" creationid="Josef" creationdate="20180318T152637Z">
+        <seg>Toto způsobí smazání veškerých uživatelských nastavení, která byla kdy provedena (jako např. změny segmentačních pravidel) a - pokud je tento adresář smazán „řádně“, tj. nebyl jednoduše vložen do koše, nemůže být obnoven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41526,6 +41934,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch from the command line, open a terminal window (root permissions are not needed).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152525Z" creationid="Josef" creationdate="20180318T152525Z">
+        <seg>Abyste mohli spustit program z příkazového řádku, první otevřete okno terminálu (nepotřebujete práva roota).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163842Z" creationid="Josef" creationdate="20180317T163842Z">
@@ -41546,6 +41962,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180859Z" creationid="Josef" creationdate="20180317T180859Z">
         <seg>Aby toto bylo proveditelné (i když Hledat a nahradit pracuje jen s pamětí), OmegaT zkopíruje zdrojový segment do cílového segmentu před tím, než bude náhrada textu uskutečněna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152555Z" creationid="Josef" creationdate="20180318T152555Z">
+        <seg>Spouštění OmegaT může být ještě příjemnější, a to tak, že aplikaci přidáte do nabídky spuštění, nebo si vložíte spouštěcí ikonu na svou pracovní plochu nebo panel pracovní plochy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41630,6 +42054,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180959Z" creationid="Josef" creationdate="20180317T180959Z">
         <seg>Filtr odstraníte stisknutím tlačítka &lt;e0&gt;‚Odstranit filtr‘&lt;/e0&gt;, nebo opětovným načtením projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove all traces of OmegaT from your system:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152559Z" creationid="Josef" creationdate="20180318T152559Z">
+        <seg>Odstranit veškeré zbytky OmegaT ze systému:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42737,6 +43169,22 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uninstalling OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152559Z" creationid="Josef" creationdate="20180318T152559Z">
+        <seg>Odinstalace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152603Z" creationid="Josef" creationdate="20180318T152603Z">
+        <seg>Odinstalování OmegaT neodstraní projekty OmegaT z vašeho systému, jedině že byste je umístili uvnitř programového adresáře OmegaT nebo do adresáře / adresářů s konfiguračními soubory, což stejně není dobré místo pro ukládání uživatelských dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101856Z" creationid="Josef" creationdate="20180317T101856Z">
@@ -43540,6 +43988,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181617Z" creationid="Josef" creationdate="20180317T181617Z">
         <seg>Uživatelská podpora, v rámci uživatelské skupiny na Yahoo! (vícejazyčně), je zde možno prohledávat archívy i bez registrace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-friendly launching of OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152554Z" creationid="Josef" creationdate="20180318T152554Z">
+        <seg>Uživatelsky příjemné spouštění OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -44675,6 +45131,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152558Z" creationid="Josef" creationdate="20180318T152558Z">
+        <seg>Záleží na tom, jestli je povoleno vyhlazování písma (toto je volba spouštění přes příkazový řádek, ale je možno ji také použít ve spouštěcím kaptain skriptu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Which version do you want to keep?</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102000Z" creationid="Josef" creationdate="20180317T102000Z">
@@ -44969,6 +45433,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151138Z" creationid="Josef" creationdate="20180318T151138Z">
         <seg>Bez přípravy tímto způsobem, může být formát souboru pro překladatele nepřístupný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without/with JRE included, i.e. the cross-platform without JRE, e.g. "OmegaT_2.1.7_02_Beta_Without_JRE.zip" and the Linux-specific version with JRE, e.g. "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152507Z" creationid="Josef" creationdate="20180318T152507Z">
+        <seg>Bez/s obsaženou JRE, jt. multiplatformní bez JRE, např. „OmegaT_2.1.7_02_Beta_Without_JRE.zip“ a verze speciálně pro Linux včetně JRE, např. „OmegaT_2.1.7_02_Beta_Linux.tar.bz2“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45630,6 +46102,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152517Z" creationid="Josef" creationdate="20180318T152517Z">
+        <seg>Můžete si upravit spouštěcí skript kaptain script tak, že je uložíte jako výchozí hodnoty: jednoduše v textovém editoru pozměníte soubor omegat.kaptn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163656Z" creationid="Josef" creationdate="20180317T163656Z">
@@ -45685,6 +46165,14 @@ your programs, too.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181538Z" creationid="Josef" creationdate="20180317T181538Z">
         <seg>Text licence naleznete v souboru
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152517Z" creationid="Josef" creationdate="20180318T152517Z">
+        <seg>Můžete například použít tento skript k vybrání jazyka uživatelského prostředí, přiřadit více paměti OmegaT nebo vložit heslo Google Překladače.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46892,6 +47380,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and confirm with ENTER.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152527Z" creationid="Josef" creationdate="20180318T152527Z">
+        <seg>a potvrďte klávesou ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181615Z" creationid="Josef" creationdate="20180317T181615Z">
@@ -47300,6 +47796,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152526Z" creationid="Josef" creationdate="20180318T152526Z">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd /usr/local/omegat</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164055Z" creationid="Josef" creationdate="20180317T164055Z">
@@ -47528,6 +48032,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102240Z" creationid="Josef" creationdate="20180317T102240Z">
         <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creates links from /usr/local/bin to the launch scripts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152515Z" creationid="Josef" creationdate="20180318T152515Z">
+        <seg>vytvoří spojení mezi /usr/local/bin a spouštěcími skripty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49300,6 +49812,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>includes bash and kaptain launch scripts;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152515Z" creationid="Josef" creationdate="20180318T152515Z">
+        <seg>obsahuje skripty bash a kaptain launch script;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ind</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103451Z" creationid="Josef" creationdate="20180317T103451Z">
@@ -49530,6 +50050,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164149Z" creationid="Josef" creationdate="20180317T164149Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /cesta/k/projektu \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152529Z" creationid="Josef" creationdate="20180318T152529Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -51062,6 +51590,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>places the OmegaT program files in /opt/omegat/OmegaT-&lt;version&gt;;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152514Z" creationid="Josef" creationdate="20180318T152514Z">
+        <seg>umístí programové soubory aplikace OmegaT do adresáře /opt/omegat/OmegaT-&lt;verze&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pli</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103715Z" creationid="Josef" creationdate="20180317T103715Z">
@@ -51082,6 +51618,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103722Z" creationid="Josef" creationdate="20180317T103722Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>preview_ss.png</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152521Z" creationid="Josef" creationdate="20180318T152521Z">
+        <seg>preview_ss.png</seg>
       </tuv>
     </tu>
     <tu>
