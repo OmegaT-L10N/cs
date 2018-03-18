@@ -27488,6 +27488,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150935Z" creationid="Josef" creationdate="20180318T150935Z">
+        <seg>Pravidelná sestavení jsou dostupná na CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103716Z" creationid="Josef" creationdate="20180317T103716Z">
@@ -32384,6 +32392,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134034Z" creationid="Josef" creationdate="20180317T134034Z">
         <seg>Pole zdrojového a cílového kódování používají nabídky obsahující všechna podporovaná kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150955Z" creationid="Josef" creationdate="20180318T150955Z">
+        <seg>Běžní uživatelé balíčky zdrojového kódu nepotřebují, jsou určeny pouze pro vývojáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37630,6 +37646,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150955Z" creationid="Josef" creationdate="20180318T150955Z">
+        <seg>Naleznete je v adresářích odpovídajících kompilovaným verzím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133655Z" creationid="Josef" creationdate="20180317T133655Z">
@@ -37724,6 +37748,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101915Z" creationid="Josef" creationdate="20180317T101915Z">
         <seg>Tento klíč API byl zablokován</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150957Z" creationid="Josef" creationdate="20180318T150957Z">
+        <seg>Tento návod popisuje informace o kompatibilitě aplikace OmegaT s ostatními programy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44568,6 +44600,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102205Z" creationid="Josef" creationdate="20180317T102205Z">
         <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>built on DEV@cloud</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150954Z" creationid="Josef" creationdate="20180318T150954Z">
+        <seg>vytvořené na DEV@cloud</seg>
       </tuv>
     </tu>
     <tu>
