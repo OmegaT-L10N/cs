@@ -16543,6 +16543,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151016Z" creationid="Josef" creationdate="20180318T151016Z">
+        <seg>Pro Uživatele Microsoft Office, kteří (ještě) nemají verzi 2007, převod mezi Office Open XML a Microsoft Office 97-2003 se dá provést použitím konvertoru jako plugin od Microsoftu dostupného &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103354Z" creationid="Josef" creationdate="20180317T103354Z">
@@ -19963,6 +19971,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151015Z" creationid="Josef" creationdate="20180318T151015Z">
+        <seg>Ve skutečnosti je jejich struktura velmi podobná té, která se používá u souborů OpenOffice.org: skládá se z archivu zip, který obsahuje hned několik souborů, a soubory obsahující text se zakládají na standardu XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164057Z" creationid="Josef" creationdate="20180317T164057Z">
@@ -22646,6 +22662,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151019Z" creationid="Josef" creationdate="20180318T151019Z">
+        <seg>Uživatelé Linuxu mohou použít tuto verzi samostatného &lt;a0&gt;konverzního nástroje&lt;/a0&gt; pro převod přímo mezi Office Open XML a OpenDocument Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134144Z" creationid="Josef" creationdate="20180317T134144Z">
@@ -22922,6 +22946,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145859Z" creationid="Josef" creationdate="20180318T145859Z">
         <seg>Mac OS X má funkcionalitu zvanou Gatekeeper, která zvyšuje bezpečnost při stížení spouštění nepodepsaných programů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151019Z" creationid="Josef" creationdate="20180318T151019Z">
+        <seg>Uživatelé Mac OS X mohou převádět přímo z Office OpenXML na OpenDocument Format a zpět v &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23684,6 +23716,22 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163833Z" creationid="Josef" creationdate="20180317T163833Z">
         <seg>Metody se liší v závislosti na distribuci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151012Z" creationid="Josef" creationdate="20180318T151012Z">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151022Z" creationid="Josef" creationdate="20180318T151022Z">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
       </tuv>
     </tu>
     <tu>
@@ -25566,6 +25614,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151017Z" creationid="Josef" creationdate="20180318T151017Z">
+        <seg>Office Open XML lze převést přímo na OpenDocument Format a zpět prostřednictvím konvertoru ODF, dostupného &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164244Z" creationid="Josef" creationdate="20180317T164244Z">
@@ -25958,6 +26014,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181538Z" creationid="Josef" creationdate="20180317T181538Z">
         <seg>Program OmegaT je dostupný za podmínek licence GNU General Public Licence tak, jak je publikovala nadace Free Software Foundation, buď verze 3 licence nebo (dle situace) každé novější verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151013Z" creationid="Josef" creationdate="20180318T151013Z">
+        <seg>Aplikace OmegaT je schopná pracovat s aktuálními formáty Microsoft Office přímo, a to bez konverze z nebo do jiných formátů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28902,6 +28966,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102008Z" creationid="Josef" creationdate="20180317T102008Z">
         <seg>Znovu seřadit nezařazené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151020Z" creationid="Josef" creationdate="20180318T151020Z">
+        <seg>Současné verze OpenOffice.org jsou schopné provádět konverzi souborů mezi formáty Microsoft Office 2007 a Open Document Format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32136,6 +32208,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151023Z" creationid="Josef" creationdate="20180318T151023Z">
+        <seg>Některé CAT nástroje řeší tento problém, přinejmenším pro MS Word, zpracováním uvnitř samotného Wordu; většina ostatních CAT nástrojů převedou soubor do RTF a zpět, často to překladatel ani nevnímá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104015Z" creationid="Josef" creationdate="20180317T104015Z">
@@ -34533,6 +34613,22 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151014Z" creationid="Josef" creationdate="20180318T151014Z">
+        <seg>Formáty souborů Microsoft Office 2007 (též známý jako Office Open XML nebo .docx) je radikálně odlišný od formátů Office 97-2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151016Z" creationid="Josef" creationdate="20180318T151016Z">
+        <seg>Souborové formáty Microsoft Office 2007-2010 můžete zpracovávat s programem OmegaT přímo; více informací naleznete &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101916Z" creationid="Josef" creationdate="20180317T101916Z">
@@ -35795,6 +35891,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181302Z" creationid="Josef" creationdate="20180317T181302Z">
         <seg>Na řádku, kde je vypsáno procento shody, je také uveden název překladové paměti &lt;i1/&gt; obsahující danou shodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151009Z" creationid="Josef" creationdate="20180318T151009Z">
+        <seg>Níže uvedený seznam &lt;s0&gt;není&lt;/s0&gt; kompletním seznamem všech souborových formátů, které umí OmegaT zpracovat, ale je omezený na vybrané typy dle konkrétního zájmu běžného uživatele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37542,6 +37646,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151021Z" creationid="Josef" creationdate="20180318T151021Z">
+        <seg>Tyto souborové formáty jsou proprietární, binární, a donedávna nebyly veřejně zdokumentované, toto jsou vlastnosti, které zásadním způsobem komplikují zpracování těchto souborů pomocí nástrojů CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181107Z" creationid="Josef" creationdate="20180317T181107Z">
@@ -37936,6 +38048,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101936Z" creationid="Josef" creationdate="20180317T101936Z">
         <seg>Tento příkaz bude proveden po té, co jsou vytvořeny přeložené dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This converter is available for Windows and Mac.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151017Z" creationid="Josef" creationdate="20180318T151017Z">
+        <seg>Tento konvertor je dostupný pro Windows a Mac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38358,6 +38478,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151015Z" creationid="Josef" creationdate="20180318T151015Z">
+        <seg>Nástroje CAT mohou tento typ souborů lépe zpracovávat, tzn. že je podporují a zpracovávají přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103412Z" creationid="Josef" creationdate="20180317T103412Z">
@@ -38586,6 +38714,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134126Z" creationid="Josef" creationdate="20180317T134126Z">
         <seg>Ze začátku je tento podadresář prázdný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This utility requires a version of MS Office (XP/2003/2007).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151018Z" creationid="Josef" creationdate="20180318T151018Z">
+        <seg>Tento nástroj vyžaduje verze MS Office (XP/2003/2007).</seg>
       </tuv>
     </tu>
     <tu>
