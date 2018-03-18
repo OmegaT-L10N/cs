@@ -8700,6 +8700,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An interesting feature of Déjà Vu DVX is its "External View" file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151215Z" creationid="Josef" creationdate="20180318T151215Z">
+        <seg>Zajímavým rysem Déjà Vu je jeho souborový formát „External Views“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151106Z" creationid="Josef" creationdate="20180318T151106Z">
@@ -11777,6 +11785,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151219Z" creationid="Josef" creationdate="20180318T151219Z">
+        <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102834Z" creationid="Josef" creationdate="20180317T102834Z">
@@ -14102,6 +14118,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Déjà Vu "External View"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151215Z" creationid="Josef" creationdate="20180318T151215Z">
+        <seg>Déjà Vu „External Views“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Déjà Vu compatibility</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185644Z" creationid="Josef" creationdate="20180317T185644Z">
@@ -16177,6 +16201,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180338Z" creationid="Josef" creationdate="20180317T180338Z">
         <seg>Z bezpečnostních důvodů se může stát, že nebudete chtít poslat všechny své segmenty nástroji na strojový překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;Déjà Vu "External View" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151216Z" creationid="Josef" creationdate="20180318T151216Z">
+        <seg>Více detailů naleznete v &lt;a0&gt;návodu Déjà Vu „External Views“&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21556,6 +21588,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133959Z" creationid="Josef" creationdate="20180317T133959Z">
         <seg>Někdy se to totiž může hodit, když je možno definovat tagy podle hodnoty jejich atributů, a tyto tagy pak nepřekládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151214Z" creationid="Josef" creationdate="20180318T151214Z">
+        <seg>OmegaT jej podporuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38472,6 +38512,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151220Z" creationid="Josef" creationdate="20180318T151220Z">
+        <seg>Tento návod ukáže jak na použití OmegaT ve spojení s CAT nástrojem Déjà Vu, jehož autorem je společnost Atril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101903Z" creationid="Josef" creationdate="20180317T101903Z">
@@ -38752,6 +38800,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181105Z" creationid="Josef" creationdate="20180317T181105Z">
         <seg>Tento soubor je v projektu vždy obsažen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151216Z" creationid="Josef" creationdate="20180318T151216Z">
+        <seg>Tento formát umožňuje uživatelům OmegaT odevzdávat dvoujazyčné soubory uživatelům Déjà Vu DVX, kteří pak mohou nadále tyto soubory upravovat nebo je začlenit do svého automatického pracovního postupu.</seg>
       </tuv>
     </tu>
     <tu>
