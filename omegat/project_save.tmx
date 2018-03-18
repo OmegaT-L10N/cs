@@ -1841,6 +1841,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See screenshot: only the first three segments have been translated.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152134Z" creationid="Josef" creationdate="20180318T152134Z">
+        <seg>(Viz snímek obrazovky: zde byly přeloženy pouze první tři segmenty.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151421Z" creationid="Josef" creationdate="20180318T151421Z">
@@ -4226,6 +4234,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164330Z" creationid="Josef" creationdate="20180317T164330Z">
         <seg>&lt;http://fsf.org/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152132Z" creationid="Josef" creationdate="20180318T152132Z">
+        <seg>&lt;i0&gt;Pokud jste změnili koncovku souboru na .html, změňte koncovku přeloženého souboru zpět na .xml.&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8162,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152131Z" creationid="Josef" creationdate="20180318T152131Z">
+        <seg>Po dokončení překladu vytvořte přeložené dokumenty obvyklým způsobem (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133743Z" creationid="Josef" creationdate="20180317T133743Z">
@@ -8366,6 +8390,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164217Z" creationid="Josef" creationdate="20180317T164217Z">
         <seg>Přeloženy budou všechny soubory HTML – povšimněte si, že tečka v běžném výrazu *.html se musí maskovat (\.) jak je tomu určeno pravidly regulárních výrazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All being well, your translation will come out looking like the original, but translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152134Z" creationid="Josef" creationdate="20180318T152134Z">
+        <seg>Když vše dobře šlo, váš překlad bude vypadat stejně jako originál, ovšem přeložen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9386,6 +9418,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152138Z" creationid="Josef" creationdate="20180318T152138Z">
+        <seg>Jak už tak bývá u technických (a překladových) věcí, i tady je jeden háček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145437Z" creationid="Josef" creationdate="20180318T145437Z">
@@ -9830,6 +9870,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084856Z" creationid="Josef" creationdate="20180317T084856Z">
         <seg>P&amp;rocházet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152133Z" creationid="Josef" creationdate="20180318T152133Z">
+        <seg>Opět v programu Iceni Infix importujte přeložený soubor XML zpět na &lt;i0&gt;formát PDF, ze kterého jste text prvně exportovali&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,6 +11455,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152145Z" creationid="Josef" creationdate="20180318T152145Z">
+        <seg>Klikněte na sporný text a zobrazí se textové pole s formátovacími značkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084814Z" creationid="Josef" creationdate="20180317T084814Z">
@@ -12189,6 +12245,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151219Z" creationid="Josef" creationdate="20180318T151219Z">
         <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152151Z" creationid="Josef" creationdate="20180318T152151Z">
+        <seg>Copyright Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -17207,6 +17271,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translations intended "for information", this may not be a problem.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152135Z" creationid="Josef" creationdate="20180318T152135Z">
+        <seg>U překladů „pro informaci“, by toto nemuselo vadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151016Z" creationid="Josef" creationdate="20180318T151016Z">
@@ -18707,6 +18779,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163535Z" creationid="Josef" creationdate="20180317T163535Z">
         <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152136Z" creationid="Josef" creationdate="20180318T152136Z">
+        <seg>Iceni Infix také umožňuje uložit soubory PDF do formátu RTF, ale v tomto případě je demoverze vhodná pouze pro demonstraci účelu, protože znaky jsou převedeny jen namátkově.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20388,6 +20468,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your file contains lots of such inconvenient breaks, it is more efficient to remove them all at once, toggling between OmegaT and Infix to see where they are.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152146Z" creationid="Josef" creationdate="20180318T152146Z">
+        <seg>Pokud váš soubor obsahuje spousty takovýchto nevyhovujících zalomení, je efektivnější je odstranit všechny najednou, přepínáním mezi OmegaT a Infix si je necháte zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.</seg>
@@ -21217,6 +21305,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152148Z" creationid="Josef" creationdate="20180318T152148Z">
+        <seg>V takovýchto případech je praktické odstranit je před exportem do XML, takže k překladu jsou vám předkládány navazující segmenty, a pak budou opět vloženy v Infix na konci zpracování projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163707Z" creationid="Josef" creationdate="20180317T163707Z">
@@ -21401,6 +21497,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152111Z" creationid="Josef" creationdate="20180318T152111Z">
         <seg>Infox Professional lze použít na těchto platformách ve spojení s Crossover Linux a Crossover Macintosh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152141Z" creationid="Josef" creationdate="20180318T152141Z">
+        <seg>Infix má funkce, které toto umí zpracovat a poradí si i s ostatními potížemi, které v rámci tohoto návodu nelze všechny popsat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23854,6 +23958,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Locate the translated XML file in the OmegaT project's /target folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152132Z" creationid="Josef" creationdate="20180318T152132Z">
+        <seg>Přejděte k přeloženému souboru XML v projektovém adresáři /target aplikace OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102453Z" creationid="Josef" creationdate="20180317T102453Z">
@@ -26167,6 +26279,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152135Z" creationid="Josef" creationdate="20180318T152135Z">
+        <seg>Pokud při své práci použijete demo verzi programu Iceni Infix, přeložený PDF dokument bude obsahovat vodoznak Iceni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164103Z" creationid="Josef" creationdate="20180317T164103Z">
@@ -26371,6 +26491,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180055Z" creationid="Josef" creationdate="20180317T180055Z">
         <seg>Poznámka: OmegaT s nimi nespolupracuje dynamicky (musíte ručně exportovat / importovat soubory TMX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152130Z" creationid="Josef" creationdate="20180318T152130Z">
+        <seg>Poznámka na okraj: filtr aplikace OmegaT pro Infix zobrazuje tag Infixu &lt;BR/&gt; jako &lt;brx/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31790,6 +31918,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the changes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152133Z" creationid="Josef" creationdate="20180318T152133Z">
+        <seg>Uložte změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104104Z" creationid="Josef" creationdate="20180317T104104Z">
@@ -32824,6 +32960,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Tools &gt; Text tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152144Z" creationid="Josef" creationdate="20180318T152144Z">
+        <seg>Vyberte Tools &gt; Text tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102022Z" creationid="Josef" creationdate="20180317T102022Z">
@@ -33680,6 +33824,14 @@ can do so.</seg>
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152147Z" creationid="Josef" creationdate="20180318T152147Z">
+        <seg>Některé nevyhovující ukončení řádků mohou být požadovány pro správné umístění textu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38261,6 +38413,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The screenshot shows an example: &lt;i0/&gt; Remove the line break.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152145Z" creationid="Josef" creationdate="20180318T152145Z">
+        <seg>Snímek obrazovky ukazuje příklad: &lt;i0/&gt;Odstranit zalomení řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101919Z" creationid="Josef" creationdate="20180317T101919Z">
@@ -39073,6 +39233,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152146Z" creationid="Josef" creationdate="20180318T152146Z">
+        <seg>Pak uložte změny a znovu exportujte PDF do XML (a změňte koncovku souboru atd.), a znovu jej importujte do svého projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then tick the "Export the segment to text files" box.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144611Z" creationid="Josef" creationdate="20180318T144611Z">
@@ -39229,6 +39397,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164046Z" creationid="Josef" creationdate="20180317T164046Z">
         <seg>K dispozici máme dva způsoby spuštění &lt;a1&gt;OmegaT&lt;/a1&gt; přes příkazovou řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152140Z" creationid="Josef" creationdate="20180318T152140Z">
+        <seg>Je tu velká pravděpodobnost, že v některých případech bude překlad delší než originál.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39664,6 +39840,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT on Linux.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152152Z" creationid="Josef" creationdate="20180318T152152Z">
+        <seg>Tento návod poskytuje informace o použití OmegaT pod Linuxem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151447Z" creationid="Josef" creationdate="20180318T151447Z">
@@ -39928,6 +40112,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102036Z" creationid="Josef" creationdate="20180317T102036Z">
         <seg>Tato dokumentace má posloužit jako výukový materiál a zároveň referenční příručka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152131Z" creationid="Josef" creationdate="20180318T152131Z">
+        <seg>Toto pak umožňuje použít pravidlo pro segmentaci HTML a rozhodnout tak, jestli na takovýchto místech aplikovat segmentaci nebo ne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40438,6 +40630,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152140Z" creationid="Josef" creationdate="20180318T152140Z">
+        <seg>Toto se musí řešit uvnitř Infix, např. zvětšení pole obsahujícího text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181359Z" creationid="Josef" creationdate="20180317T181359Z">
@@ -40594,6 +40794,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102042Z" creationid="Josef" creationdate="20180317T102042Z">
         <seg>Tento krátký text popisuje akce vyvolané klávesami v podokně Editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152143Z" creationid="Josef" creationdate="20180318T152143Z">
+        <seg>Tato situace je vám jistě známá, pokud jste překládali soubory Powerpoint prostřednictvím OmegaT, nebo podobně u jiných CAT nástrojů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41294,6 +41502,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180959Z" creationid="Josef" creationdate="20180317T180959Z">
         <seg>Filtr odstraníte stisknutím tlačítka &lt;e0&gt;‚Odstranit filtr‘&lt;/e0&gt;, nebo opětovným načtením projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resolve this, open the original PDF file again in Infix.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152143Z" creationid="Josef" creationdate="20180318T152143Z">
+        <seg>Aby se toto vyřešilo, otevřete původní soubor PDF v Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45418,6 +45634,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152139Z" creationid="Josef" creationdate="20180318T152139Z">
+        <seg>Pravděpodobně můžete tuto situaci vyřešit získáním a instalací potřebných písem; nebo můžete vybrat pro tento účel jiné písmo - což může ale nemusí být vhodné řešení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can process the generated tmx with any tool you want.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181211Z" creationid="Josef" creationdate="20180317T181211Z">
@@ -45695,6 +45919,22 @@ Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181148Z" creationid="Josef" creationdate="20180317T181148Z">
         <seg>Taktéž nezapomeňte na možnost odstranění takových pamětí, které již nejsou zapotřebí, např. po té, co jste použili jejich obsah k naplnění souboru &lt;f0&gt;project-save.tmx &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152142Z" creationid="Josef" creationdate="20180318T152142Z">
+        <seg>Můžete se setkat s tím, že segmenty jsou zalomeny ukončením řádku na nevhodném místě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152139Z" creationid="Josef" creationdate="20180318T152139Z">
+        <seg>Může se stát, že vestavěná písma v PDF neobsahují všechny znaky, které potřebujete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48944,6 +49184,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134012Z" creationid="Josef" creationdate="20180317T134012Z">
         <seg>položky seznamu, záložky, odkazy na záložky, poznámky, komentáře, poznámky k prezentaci, linky (URL), jména listů tabulkového procesoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix3.png</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152137Z" creationid="Josef" creationdate="20180318T152137Z">
+        <seg>infix3.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix4.png</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152142Z" creationid="Josef" creationdate="20180318T152142Z">
+        <seg>infix4.png</seg>
       </tuv>
     </tu>
     <tu>
