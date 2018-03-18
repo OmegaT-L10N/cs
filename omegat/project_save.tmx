@@ -13966,6 +13966,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150102Z" creationid="Josef" creationdate="20180318T150102Z">
+        <seg>V závislosti na operačním systému můžete obdržet několik bezpečnostních hlášení.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164039Z" creationid="Josef" creationdate="20180317T164039Z">
@@ -20043,6 +20051,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150151Z" creationid="Josef" creationdate="20180318T150151Z">
+        <seg>Aby bylo možno instalovat verzi Web Start, musíte mít v počítači již nainstalovánu Javu 1.3 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144615Z" creationid="Josef" creationdate="20180318T144615Z">
@@ -21085,6 +21101,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150154Z" creationid="Josef" creationdate="20180318T150154Z">
+        <seg>Tuto verzi můžete získat přes příkaz pro subverzi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163617Z" creationid="Josef" creationdate="20180317T163617Z">
@@ -21281,6 +21305,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
         <seg>Balíček je poskytován jako komprimovaný soubor (archív typu zip nebo tar), který musíte rozbalit do adresáře, který jste si zvolili pro instalaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150154Z" creationid="Josef" creationdate="20180318T150154Z">
+        <seg>Je doporučená pouze pro zkušené vývojáře a zkušební provoz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28126,6 +28158,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150151Z" creationid="Josef" creationdate="20180318T150151Z">
+        <seg>Důvěrná informace: OmegaT Java Web Start neukládá žádné informace na server OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181100Z" creationid="Josef" creationdate="20180317T181100Z">
@@ -34137,6 +34177,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150153Z" creationid="Josef" creationdate="20180318T150153Z">
+        <seg>Verze /trunk (alfa) odpovídá nejaktuálnějšímu stavu vývoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180344Z" creationid="Josef" creationdate="20180317T180344Z">
@@ -34623,6 +34671,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150101Z" creationid="Josef" creationdate="20180318T150101Z">
+        <seg>Verze Web Start nabízí alternativní prostředek instalace OmegaT na váš počítač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164059Z" creationid="Josef" creationdate="20180317T164059Z">
@@ -34674,6 +34730,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164043Z" creationid="Josef" creationdate="20180317T164043Z">
+        <seg>Aplikace běží pouze na vašem přístroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150152Z" creationid="Josef" creationdate="20180318T150152Z">
         <seg>Aplikace běží pouze na vašem přístroji.</seg>
       </tuv>
     </tu>
@@ -34747,6 +34811,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180704Z" creationid="Josef" creationdate="20180317T180704Z">
         <seg>Znak návratu vozíku (‚\u000D‘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150150Z" creationid="Josef" creationdate="20180318T150143Z">
+        <seg>Certifikát podepsala společnost &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, společnost registrovaná ve Francii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36083,6 +36155,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150144Z" creationid="Josef" creationdate="20180318T150144Z">
+        <seg>Práva, která udělíte této verzi (která lze nazývat jako „neomezený přístup k počítači“) jsou identická s právy, která jste přidělili lokální verzi při její instalaci, tj. přístup na hard disk vašeho počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182207Z" creationid="Josef" creationdate="20180317T182207Z">
@@ -37341,6 +37421,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181046Z" creationid="Josef" creationdate="20180317T181046Z">
         <seg>OmegaT nemusíte nijak instruovat pro použití konkrétního slovníku kontroly pravopisu: Program použije správnou jazykovou verzi slovníku založenou na jazykovém kódu vašeho projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150007Z" creationid="Josef" creationdate="20180318T150004Z">
+        <seg>Při vydávání podepsaných verzí může docházet ke zpožděním.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40960,6 +41048,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150100Z" creationid="Josef" creationdate="20180318T150100Z">
+        <seg>Uživatelé, kteří nechtějí čekat mohou nepodepsanou verzi také použít; pokud máte potíře se spouštěním aplikace, hledejte v nápovědě &lt;a0&gt;jak otevřít aplikaci od neznámého vývojáře&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180351Z" creationid="Josef" creationdate="20180317T180351Z">
@@ -42245,6 +42341,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150102Z" creationid="Josef" creationdate="20180318T150102Z">
+        <seg>Prostřednictvím této verze se zajistí, že se budoucí nové verze budou instalovat automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With/without JRE</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145749Z" creationid="Josef" creationdate="20180318T145749Z">
@@ -43519,6 +43623,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164043Z" creationid="Josef" creationdate="20180317T164043Z">
         <seg>Vaše dokumenty a překladové paměti zůstávají na vašem počítači a projekt &lt;a2&gt;OmegaT&lt;/a2&gt; nemá žádný přístup k vaší práci nebo informacím. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150153Z" creationid="Josef" creationdate="20180318T150153Z">
+        <seg>Vaše dokumenty a překladové paměti zůstávají na vašem počítači a projekt OmegaT nemá žádný přístup k vaší práci nebo informacím. </seg>
       </tuv>
     </tu>
     <tu>
@@ -49106,6 +49218,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103804Z" creationid="Josef" creationdate="20180317T103804Z">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T150158Z" creationid="Josef" creationdate="20180318T150158Z">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
       </tuv>
     </tu>
     <tu>
