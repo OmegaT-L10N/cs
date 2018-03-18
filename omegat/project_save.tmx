@@ -1809,6 +1809,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151124Z" creationid="Josef" creationdate="20180318T151124Z">
+        <seg>(Toto je náhodou omezení Javy, ne samotné aplikace OmegaT.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163525Z" creationid="Josef" creationdate="20180317T163525Z">
@@ -2889,6 +2897,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144655Z" creationid="Josef" creationdate="20180318T144655Z">
         <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151129Z" creationid="Josef" creationdate="20180318T151129Z">
+        <seg>Pro tento účel lze také použít &lt;a1&gt;Anaphraseus&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7216,6 +7232,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151153Z" creationid="Josef" creationdate="20180318T151153Z">
+        <seg>Nedávno (2008) byl vyvinutý skript (jen pro Windows) a postup, který umožňuje uživatelům OmegaT vytvořit soubory Trados uncleaned RTF pro odevzdání po dokončení jejich překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180957Z" creationid="Josef" creationdate="20180317T180957Z">
@@ -7970,6 +7994,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, OmegaT has excellent file filters for both.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151104Z" creationid="Josef" creationdate="20180318T151104Z">
+        <seg>Souborové filtry OmegaT pro tyto dva formáty jsou také velmi dobře propracované.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101908Z" creationid="Josef" creationdate="20180317T101908Z">
@@ -8668,6 +8700,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151106Z" creationid="Josef" creationdate="20180318T151106Z">
+        <seg>Pro překladové paměti existuje mezinárodní standard: TMX, neboli Translation Memory eXchange (Výměna překladových pamětí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144723Z" creationid="Josef" creationdate="20180318T144723Z">
@@ -8688,6 +8728,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102013Z" creationid="Josef" creationdate="20180317T102013Z">
         <seg>Položka s názvem „{0}“ na dané pozici již existuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An understanding of the processes involved is however important.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151144Z" creationid="Josef" creationdate="20180318T151144Z">
+        <seg>Nicméně je důležité tomuto procesu rozumět.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8814,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180526Z" creationid="Josef" creationdate="20180317T180526Z">
         <seg>Další dodatečný parametr příkazového řádku režimu příkazového řádku: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151123Z" creationid="Josef" creationdate="20180318T151123Z">
+        <seg>Jiným zdrojem nekompatibility jsou tříciferné kódy jazyků, které OmegaT vůbec nepodporuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9666,6 +9722,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bilingual CAT-tool formats</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151133Z" creationid="Josef" creationdate="20180318T151133Z">
+        <seg>Dvoujazyčné formáty nástrojů CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bislama</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102203Z" creationid="Josef" creationdate="20180317T102203Z">
@@ -10179,6 +10243,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102221Z" creationid="Josef" creationdate="20180317T102221Z">
         <seg>Katalánština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151112Z" creationid="Josef" creationdate="20180318T151112Z">
+        <seg>Vybrané jiné CAT nástroje (jako např. TRADOS) jsou schopné exportovat různé soubory TMX v různých verzích.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11267,6 +11339,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185524Z" creationid="Josef" creationdate="20180317T185524Z">
         <seg>Kompatibilita návodů Jak na to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151120Z" creationid="Josef" creationdate="20180318T151120Z">
+        <seg>Problémy kompatibility mohou vyvstat z rozdílů v použitých jazykových kódech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,6 +15048,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Essentially, this format consists of an RTF file in which the source and target segments alternate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151152Z" creationid="Josef" creationdate="20180318T151152Z">
+        <seg>V zásadě sestává tento formát ze souboru RTF, ve kterém se střídají zdrojové a cílové segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Estonian</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102300Z" creationid="Josef" creationdate="20180317T102300Z">
@@ -16093,6 +16181,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;"Exporting from OmegaT to uncleaned RTF" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151154Z" creationid="Josef" creationdate="20180318T151154Z">
+        <seg>Více informací naleznete v &lt;a0&gt;návodu „Export formátu z OmegaT do Trados uncleaned RTF“&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180956Z" creationid="Josef" creationdate="20180317T180956Z">
@@ -16751,6 +16847,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further points to note regarding TMX files:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151116Z" creationid="Josef" creationdate="20180318T151116Z">
+        <seg>Jiné důležité body ohledně souborů TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103057Z" creationid="Josef" creationdate="20180317T103057Z">
@@ -17019,6 +17123,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103052Z" creationid="Josef" creationdate="20180317T103052Z">
         <seg>Soubory glosáře: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151130Z" creationid="Josef" creationdate="20180318T151130Z">
+        <seg>Soubory glosáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -17319,6 +17431,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151104Z" creationid="Josef" creationdate="20180318T151104Z">
+        <seg>HTML a XHTML, jako jeho XML ekvivalent, jsou nejběžnější souborové formáty pro webové stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML user manual online</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185219Z" creationid="Josef" creationdate="20180317T185219Z">
@@ -17331,6 +17451,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103004Z" creationid="Josef" creationdate="20180317T103004Z">
         <seg>Segmentace pro HTML, XHTML, ODF a Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151103Z" creationid="Josef" creationdate="20180318T151103Z">
+        <seg>HTML; XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18651,6 +18779,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151140Z" creationid="Josef" creationdate="20180318T151140Z">
+        <seg>Pokud by úpravy korektora měly být zahrnuty v úložišti překladové paměti, kterou si chce zákazník ponechat, musí být tyto změny provedeny &lt;i0&gt;před&lt;/i0&gt; tím, než jsou vytvořeny finální dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180301Z" creationid="Josef" creationdate="20180317T180301Z">
@@ -19817,6 +19953,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151152Z" creationid="Josef" creationdate="20180318T151152Z">
+        <seg>Navíc kromě Tradosu, některé další CAT nástroje také podporují formát „uncleaned RFT“, zejména Wordfast Classic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163736Z" creationid="Josef" creationdate="20180317T163736Z">
@@ -20035,6 +20179,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151142Z" creationid="Josef" creationdate="20180318T151142Z">
+        <seg>Aby bylo možno tento proces provést automaticky, musí být splněn dvě podmínky: za prvé, překladová paměť musí obsahovat formátovací údaje (vizte výše); a za druhé pravidla segmentace, která jsou aplikována na text, musí být stejná jako ta, která byla užita při vytvoření překladové paměti (nebo její části).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180105Z" creationid="Josef" creationdate="20180317T180105Z">
@@ -20107,6 +20259,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151110Z" creationid="Josef" creationdate="20180318T151110Z">
+        <seg>Jinými slovy, když uživatel OmegaT najde stoprocentní shodu na úrovni 2 souboru OmegaT TMX, může to být akceptováno bez vyžadování dalších úprav, ale to samé nemusí být docíleno na úrovni 2 souboru TMX, který vytvořil jiný CAT nástroj (nebo naopak).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163652Z" creationid="Josef" creationdate="20180317T163652Z">
@@ -20123,10 +20283,26 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151115Z" creationid="Josef" creationdate="20180318T151115Z">
+        <seg>V praxi to vypadá tak, že překladatelé mohou odevzdávat překladové paměti svým zákazníkům a naopak, a pro příjemce slouží tyto soubory buď jako bezprostřední nebo budoucí reference; jestli se mají tyto soubory použít pro automatický pracovní postup je nutno počítat se zmíněným způsobem použití. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164050Z" creationid="Josef" creationdate="20180317T164050Z">
         <seg>V praxi to vypadá tak, že příkaz bude vypadat asi takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice, working with the XLIFF workflow often requires the use of tools that are not very user-friendly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151148Z" creationid="Josef" creationdate="20180318T151148Z">
+        <seg>Prakticky to znamená, že práce s XLIFF často vyžaduje užití nástrojů, které nejsou pro uživatele příliš komfortní.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21213,6 +21389,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has been widely adopted and is supported by almost all current CAT tools.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151107Z" creationid="Josef" creationdate="20180318T151107Z">
+        <seg>Byl přijat velkou částí uživatelů a je podporován téměř všemi současnými CAT nástroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134244Z" creationid="Josef" creationdate="20180317T134244Z">
@@ -21241,6 +21425,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181356Z" creationid="Josef" creationdate="20180317T181356Z">
         <seg>Když OmegaT načítá projekt, zobrazí toto okno automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is however worth customizing the filter settings for optimum results.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151105Z" creationid="Josef" creationdate="20180318T151105Z">
+        <seg>Nicméně má svůj význam individuálně si upravit nastavení filtrů pro optimální výsledky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21368,6 +21560,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is supported by several CAT tools, and in fact some CAT tools are effectively "designed around" the XLIFF standard: Heartsome and Swordfish are examples.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151147Z" creationid="Josef" creationdate="20180318T151147Z">
+        <seg>Podporuje jej hned několik CAT nástrojů a prakticky jsou některé CAT nástroje efektivně „vyvíjeny“ pro XLIFF standard: například Heartsome a Swordfish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145436Z" creationid="Josef" creationdate="20180318T145436Z">
@@ -21436,6 +21636,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101931Z" creationid="Josef" creationdate="20180317T101931Z">
         <seg>Musí být preveden na nový týmový projekt, ale toto nelze provést v režimu příkazového řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151151Z" creationid="Josef" creationdate="20180318T151151Z">
+        <seg>Svůj původ má v použití MS Word jakožto prostředí pro CAT nástroj Trados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22556,10 +22764,34 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 1 TMX files contain no formatting information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151109Z" creationid="Josef" creationdate="20180318T151109Z">
+        <seg>Level 1 souborů TMX neobsahuje žádné formátovací údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151110Z" creationid="Josef" creationdate="20180318T151110Z">
+        <seg>Level 2 souborů TMX obsahuje formátovací údaje, ale tyto soubory jsou zpravidla kompatibilní jen tehdy, když jsou používány stejným CAT nástrojem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181150Z" creationid="Josef" creationdate="20180317T181150Z">
         <seg>Soubory TMX level2 se i tak budou importovat a jejich textový obsah OmegaT vidí, ale kvalita shody u přibližných překladů bude nižší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151111Z" creationid="Josef" creationdate="20180318T151111Z">
+        <seg>Level 3 souborů TMX obsahuje formátovací údaje zapsané takovým způsobem, který  umí číst i ostatní CAT nástroje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22586,6 +22818,14 @@ permissions.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181537Z" creationid="Josef" creationdate="20180317T181537Z">
         <seg>Licenční informace
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151105Z" creationid="Josef" creationdate="20180318T151105Z">
+        <seg>Podobně jako u souborů OpenOffice.org, lze tyto formáty překládat v OmegaT s velmi malým rizikem poškození.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23242,6 +23482,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103608Z" creationid="Josef" creationdate="20180317T103608Z">
         <seg>Manština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151134Z" creationid="Josef" creationdate="20180318T151134Z">
+        <seg>Spousta CAT nástrojů využívá zprostředkovaný formát dvoujazyčného souboru, např. soubor obsahující jak segmenty zdrojového, tak i cílového jazyka, a v některých případech také strukturu původního souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24903,6 +25151,22 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all CAT tools are equally strict in their observance of these definitions; consequently, some CAT tools are unable to open TMX files produced by certain other CAT tools directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151117Z" creationid="Josef" creationdate="20180318T151117Z">
+        <seg>Ne všechny CAT nástroje jsou stejně přísné při zachovávání těchto definicí, proto některé CAT nástroje nejsou schopné přímo otevřít soubory TMX, které vytvořily určité jiné CAT nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151122Z" creationid="Josef" creationdate="20180318T151122Z">
+        <seg>Ne všechny CAT nástroje poskytují stejnou míru tolerance a některé proto nezobrazí očekávané shody, pokud jazykové kódy nejsou dostatečně vyhovující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101946Z" creationid="Josef" creationdate="20180317T101946Z">
@@ -25814,6 +26078,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151132Z" creationid="Josef" creationdate="20180318T151132Z">
+        <seg>OmegaT nemůže importovat nebo číst soubory glosáře v proprietárních binárních formátech, jako je např. Trados Multiterm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185531Z" creationid="Josef" creationdate="20180317T185531Z">
@@ -25926,6 +26198,22 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151033Z" creationid="Josef" creationdate="20180318T151033Z">
+        <seg>OmegaT obsahuje souborové filtry pro oba formáty Open Document a pro formát Star Office, který je nahradil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has rudimentary support for XLIFF, and a procedure for using XLIFF in OmegaT in conjunction with the Rainbow tools can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151149Z" creationid="Josef" creationdate="20180318T151149Z">
+        <seg>OmegaT má jen základní podporu pro XLIFF, a postup pro použití XLIFF v OmegaT ve spojení s nástroji Rainbow se nachází &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102034Z" creationid="Josef" creationdate="20180317T102034Z">
@@ -26008,6 +26296,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151132Z" creationid="Josef" creationdate="20180318T151132Z">
+        <seg>OmegaT také umí číst glosáře ve formátu TBX, což je průmyslový standard pro formát souborů glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -26022,6 +26318,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151013Z" creationid="Josef" creationdate="20180318T151013Z">
         <seg>Aplikace OmegaT je schopná pracovat s aktuálními formáty Microsoft Office přímo, a to bez konverze z nebo do jiných formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151118Z" creationid="Josef" creationdate="20180318T151118Z">
+        <seg>OmegaT zásadně dodržuje podmínky a je v mnohém tolerantní, přitom si všímá pochybení jiných nástrojů; pokud tu nastanou problémy, je možno je obecně řešit poměrně jednoduše přes funkci Najít a nahradit v textovém editoru a ošetřit tak nepovolené znaky v souboru TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26089,6 +26393,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181542Z" creationid="Josef" creationdate="20180317T181542Z">
         <seg>OmegaT je připravena ke spuštění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151121Z" creationid="Josef" creationdate="20180318T151121Z">
+        <seg>OmegaT je tolerantní když čte soubory TMX: přijme soubory s en-GB, en-US, en, EN, adt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26190,10 +26502,26 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151112Z" creationid="Josef" creationdate="20180318T151112Z">
+        <seg>OmegaT podporuje všechny současné verze TMX, ale pravděpodobně budou lepší výsledky, když soubory TMX budou ve verzi 1.4b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181149Z" creationid="Josef" creationdate="20180317T181149Z">
         <seg>OmegaT podporuje importování TMX verzí 1.1-1.4b (oba typy: level 1 a level 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151120Z" creationid="Josef" creationdate="20180318T151120Z">
+        <seg>OmegaT podporuje jazykové kódy ve formátu „xx“, „XX“, „xxYY“ a „XX-YY“, kde xx nebo XX znamená jazyk, yy nebo YY znamená region.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26260,6 +26588,14 @@ installed on your system.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102841Z" creationid="Josef" creationdate="20180317T102841Z">
         <seg>OmegaT používá následující knihovny:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151114Z" creationid="Josef" creationdate="20180318T151114Z">
+        <seg>OmegaT používá mezinárodní standardy TMX jako svůj nativní formát překladové paměti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26380,6 +26716,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145101Z" creationid="Josef" creationdate="20180318T145101Z">
         <seg>OmegaT zpravidla běží na jakémkoliv Linuxu, na kterém lze instalovat vhodnou verzi prostředí Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's glossary files are plain-text files in the format:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151130Z" creationid="Josef" creationdate="20180318T151130Z">
+        <seg>Soubory glosáře OmegaT jsou soubory obsahující prostý text ve formátu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27044,6 +27388,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181937Z" creationid="Josef" creationdate="20180317T181937Z">
         <seg>Původní autoři aplikace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151134Z" creationid="Josef" creationdate="20180318T151134Z">
+        <seg>Původně byly tyto formáty dvoujazyčných souborů produkovány vždy podle architektury daného nástroje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27909,6 +28261,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102023Z" creationid="Josef" creationdate="20180317T102023Z">
         <seg>Pluginy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points regarding proprietary translation memory files:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151124Z" creationid="Josef" creationdate="20180318T151124Z">
+        <seg>Pár bodů ohledně proprietárních souborů překladových pamětí:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31784,6 +32144,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151144Z" creationid="Josef" creationdate="20180318T151144Z">
+        <seg>Některé formáty dvoujazyčných souborů lze zpracovat v OmegaT, a ne vždy s velkou námahou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133655Z" creationid="Josef" creationdate="20180317T133655Z">
@@ -32048,6 +32416,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151148Z" creationid="Josef" creationdate="20180318T151148Z">
+        <seg>Protože se jedná o standard, tak výhodou XLIFF je, že filtry souborů, poskytované jedním producentem CAT nástrojů pro konverzi mezi určitým formátem a XLIFF (a následné dokončení práce na překladu, a zpět), mohou být teoreticky použity pro přípravu souborů ve formátu týkající se překladu v jakémkoliv CAT nástroji schopném podporovat XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163707Z" creationid="Josef" creationdate="20180317T163707Z">
@@ -32216,6 +32592,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151114Z" creationid="Josef" creationdate="20180318T151114Z">
+        <seg>Některé CAT nástroje stále využívají vyhrazené proprietární formáty překladových pamětí, ale ve skutečnosti všechny podporují import a export souborů TMX. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151137Z" creationid="Josef" creationdate="20180318T151137Z">
+        <seg>Některé CAT nástroje, zejména TRADOS, jsou schopné importovat širokou škálu souborových formátů, včetně formátů desktop publishing, a připravit je na překlad v příslušném nástroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104015Z" creationid="Josef" creationdate="20180317T104015Z">
@@ -32256,6 +32648,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181349Z" creationid="Josef" creationdate="20180317T181349Z">
         <seg>Některé souborové formáty, specializované pro práci s překladem, jako např. PO, povolují zahrnout komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151131Z" creationid="Josef" creationdate="20180318T151131Z">
+        <seg>Některé jiné CAT nástroje jsou schopné importovat a exportovat soubory glosáře v tomto formátu, nebo v podobném formátu prostého textu, které lze jednoduše vytvářet ze souborů glosáře(například pomocí operací hledat &amp; nahradit v Microsoft Wordu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32980,6 +33380,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151121Z" creationid="Josef" creationdate="20180318T151121Z">
+        <seg>Přesněji řečeno, ISO standard pro jazykové kódy vyžaduje formát „xx-YY“ (např.: „en-GB“ pro britskou angličtinu); i když tuto variantu OmegaT podporuje, výchozí konvence v OmegaT nabízí formát „XX-YY“, např. „EN-GB“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181324Z" creationid="Josef" creationdate="20180317T181324Z">
@@ -33210,6 +33618,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support for Level 3 in CAT tools is rare.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151111Z" creationid="Josef" creationdate="20180318T151111Z">
+        <seg>Podpora pro Level 3 u CAT nástrojů je poměrně vzácná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102007Z" creationid="Josef" creationdate="20180317T102007Z">
@@ -33406,6 +33822,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151118Z" creationid="Josef" creationdate="20180318T151118Z">
+        <seg>Soubory TMX jsou kódovány v Unicode, mohou mít kódování UTF-8 nebo UTF-16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181111Z" creationid="Josef" creationdate="20180317T181111Z">
@@ -33418,6 +33842,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181136Z" creationid="Josef" creationdate="20180317T181136Z">
         <seg>Soubory překladových pamětí obecně obsahují překladové jednotky s několika možnými jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151119Z" creationid="Josef" creationdate="20180318T151119Z">
+        <seg>Soubory TMX, které byly vytvořeny pod Windows, mohou začínat označením pořadí bajtů („byte-order mark“; BOM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34247,6 +34679,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151137Z" creationid="Josef" creationdate="20180318T151137Z">
+        <seg>Taková „připravená“ forma je zpravidla právě formát dvoujazyčného souboru daného nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "source code" for a work means the preferred form of the work
 for making modifications to it.</seg>
       </tuv>
@@ -34669,6 +35109,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151033Z" creationid="Josef" creationdate="20180318T151033Z">
+        <seg>Formát Open Document představuje mezinárodní standard a nahradil proprietární (ale otevřený) formát Star Office; toto jsou ve skutečnosti dva různé, i když velmi podobné souborové formáty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102733Z" creationid="Josef" creationdate="20180317T102733Z">
@@ -34751,10 +35199,34 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX standard contains definitions of what characters are permissible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151116Z" creationid="Josef" creationdate="20180318T151116Z">
+        <seg>Standard TMX obsahuje definici, které znaky jsou přípustné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX standard exists both in different &lt;s0&gt;versions&lt;/s0&gt; and in different &lt;s1&gt;levels&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151107Z" creationid="Josef" creationdate="20180318T151107Z">
+        <seg>Standard TMX existuje jak v různých &lt;s0&gt;verzích&lt;/s0&gt;, tak i na různých &lt;s1&gt;úrovních&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181055Z" creationid="Josef" creationdate="20180317T181055Z">
         <seg>Služba TaaS na adrese https://demo.taas-project.eu/info poskytuje terminologický servis pro evropské jazyky (plus ruštinu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151151Z" creationid="Josef" creationdate="20180318T151151Z">
+        <seg>Formát souborů Trados „uncleaned“ RFT, kterým se často říká „uncleaned files“ / „nečištěné soubory“, byl po mnoho let nejběžnějším formátem dvoujazyčných souborů, které se používaly při překladatelské práci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35201,6 +35673,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The customer wishes to receive a translation memory against which texts can be run in the future: in other words, to "pretranslate" future texts against an existing translation memory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151142Z" creationid="Josef" creationdate="20180318T151142Z">
+        <seg>Zákazník si přeje obdržet překladovou paměť, za jejíž pomoci může v budoucnu zpracovat jiné texty: jinými slovy, k provedení „předběžného překladu“ budoucích textů, na základě stávající překladové paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133921Z" creationid="Josef" creationdate="20180317T133921Z">
@@ -35305,6 +35785,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The distinction is important for compatibility purposes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151108Z" creationid="Josef" creationdate="20180318T151108Z">
+        <seg>Rozlišování je důležité pro účely kompatibility.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103935Z" creationid="Josef" creationdate="20180317T103935Z">
@@ -35349,6 +35837,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145753Z" creationid="Josef" creationdate="20180318T145753Z">
         <seg>Stahování proběhne rychleji a instalace tak bude vyžadovat méně místa na vašem pevném disku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151143Z" creationid="Josef" creationdate="20180318T151143Z">
+        <seg>Pro zákazníka je nejjednodušším způsobem, jak si zajistit, že tyto dvě podmínky jsou dodrženy, je, že si sám provede předběžný překlad textu před tím, než text předá překladateli (definování způsobu segmentace), a vytvořit překladovou paměť v CAT nástroje dle vlastního výběru po té, co obdrží přeložený zprostředkující dvoujazyčný soubor od překladatele (ujistí se, že formátovací údaje obsažené v překladové paměti budou kompatibilní s budoucími projekty).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35485,6 +35981,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144613Z" creationid="Josef" creationdate="20180318T144613Z">
         <seg>Soubory jsou pak ve formě textových souborů s neformátovaným textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151149Z" creationid="Josef" creationdate="20180318T151149Z">
+        <seg>Filtry dostupné pro formáty souborů jsou obzvláště příznačné spíše pro odvětví IT než pro soubory koncových uživatelů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35657,6 +36161,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting information contained in the higher levels will be meaningless to the "other" tool, but the textual information can still be viewed, fuzzy matches found, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151114Z" creationid="Josef" creationdate="20180318T151114Z">
+        <seg>Formátovací údaje obsažené ve vyšší úrovni budou pro „ostatní“ nástroje bezvýznamné, ale textová informace bude zobrazována i tak, je možno nalézt shody, atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting represented by the group you have duplicated will be applied to both sections.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163647Z" creationid="Josef" creationdate="20180317T163647Z">
@@ -35770,6 +36282,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The individual bilingual file formats are described below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151145Z" creationid="Josef" creationdate="20180318T151145Z">
+        <seg>Jednotlivé formáty dvoujazyčných souborů jsou popsány níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181215Z" creationid="Josef" creationdate="20180317T181215Z">
@@ -35863,6 +36383,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181106Z" creationid="Josef" creationdate="20180317T181106Z">
         <seg>Soubor level2 obsahuje tagy specifické pro &lt;a0&gt;OmegaT&lt;/a0&gt; se správnými tagy TMX, takže soubor může být použitý s jeho formátovacími informacemi v překladatelském nástroji, který podporuje paměti TMX level 2, nebo samotným projektem &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The levels refer to the formatting information that is contained in the TMX file:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151109Z" creationid="Josef" creationdate="20180318T151109Z">
+        <seg>Každá úroveň („Level“) obsahuje specifické údaje k formátování obsažené v souboru TMX:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36925,6 +37453,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The standard is still undergoing development; this is what the different versions refer to.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151108Z" creationid="Josef" creationdate="20180318T151108Z">
+        <seg>Standard se stále vyvíjí; na tuto skutečnost odkazují samotné různé verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181416Z" creationid="Josef" creationdate="20180317T181416Z">
@@ -37153,6 +37689,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The traditional Wordfast translation memory file format is of particular interest owing to its simplicity: it consists of a plain-text file with a translation unit (segment) on each line in which the source and target are separated by a tab.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151125Z" creationid="Josef" creationdate="20180318T151125Z">
+        <seg>Tradiční formát soubor překladové paměti programu Wordfast budí zvláštní zájem, což vychází z jeho jednoduchosti: sestává z prostého textového souboru s překladovou jednotkou (segmentem) na každém řádku, na kterém jsou zdroj a cíl od sebe odděleni tabulátorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084906Z" creationid="Josef" creationdate="20180317T084906Z">
@@ -37173,6 +37717,22 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181209Z" creationid="Josef" creationdate="20180317T181209Z">
         <seg>Překlad v tomto tmx může být buď</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation may for example be passed to a checker for editing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151139Z" creationid="Josef" creationdate="20180318T151139Z">
+        <seg>Překlad může být např. předán korektorovi k dalším úpravám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation stage is only part of the customer's workflow.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151139Z" creationid="Josef" creationdate="20180318T151139Z">
+        <seg>Překlad je jen částí uceleného průběhu práce daného zákazníka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37457,6 +38017,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are at least three reasons why a customer may request delivery of a translation in a particular bilingual file format (rather than simply delivery of the translated file and possibly also the translation memory):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151136Z" creationid="Josef" creationdate="20180318T151136Z">
+        <seg>Existují nejméně tři důvody proč zákazník může vyžadovat dodání překladu v určitém formátu dvoujazyčného souboru (místo toho, aby jednoduše požadoval jen přeložený soubor a eventuálně také překladovou paměť):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180555Z" creationid="Josef" creationdate="20180317T180555Z">
@@ -37646,6 +38214,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151057Z" creationid="Josef" creationdate="20180318T151057Z">
+        <seg>Tyto souborové filtry jsou velmi propracované, a riziko poškození formátování souboru LibreOffice, OpenOffice.org, atd. během překladu s OmegaT je zcela nepatrné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151021Z" creationid="Josef" creationdate="20180318T151021Z">
@@ -37658,6 +38234,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181107Z" creationid="Josef" creationdate="20180317T181107Z">
         <seg>Tyto soubory jsou kopiemi souboru &lt;f0&gt;project_save.tmx&lt;/f0&gt;, tj. hlavní překladové paměti projektu, kromě tak zvaných nespárovaných (osiřelých) segmentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151153Z" creationid="Josef" creationdate="20180318T151153Z">
+        <seg>Tyto segmenty jsou označeny a vymezeny speciálními znaky a styly formátování MS Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37810,6 +38394,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180834Z" creationid="Josef" creationdate="20180317T180834Z">
         <seg>Všechny obecně postupují dle stejného vzoru (vizte níže příklad ve formě pluginu pro Firefox: Regular Expression Tester): regulární výraz (záznam nahoře) zkoumá hledaný text (textové pole uprostřed), ukazuje výsledky v poli pro výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151135Z" creationid="Josef" creationdate="20180318T151135Z">
+        <seg>Nicméně se staly důležitým fenoménem při překladu za využití CAT nástrojů, a častou představují největší překážku v kompatibilitě mezi OmegaT a jinými CAT nástroji (nebo vlastně obecně mezi CAT nástroji).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38004,6 +38596,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151140Z" creationid="Josef" creationdate="20180318T151140Z">
+        <seg>Toto může být provedeno buď s příslušným CAT nástrojem nebo v některých případech v externím formátu dvoujazyčných souborů, které zvládá daný nástroj přečíst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134054Z" creationid="Josef" creationdate="20180317T134054Z">
@@ -38100,6 +38700,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This differences do not generally lead to compatibility problems.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151119Z" creationid="Josef" creationdate="20180318T151119Z">
+        <seg>Tento rozdíl v zásadě nevede k problémům s kompatibilitou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180546Z" creationid="Josef" creationdate="20180317T180546Z">
@@ -38172,6 +38780,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151125Z" creationid="Josef" creationdate="20180318T151125Z">
+        <seg>Tento formát lze jednoduše převést na formát TMX pomocí nástrojů třetích stran, jako je např. &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163735Z" creationid="Josef" creationdate="20180317T163735Z">
@@ -38188,10 +38804,26 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151111Z" creationid="Josef" creationdate="20180318T151111Z">
+        <seg>Toto má dopad na průběh práce, kdy uživatelé CAT nástrojů (zejména zákazníci) očekávají obdržení souborů s překladovou pamětí a získat tak možnost automatického vkládání stoprocentních shod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163820Z" creationid="Josef" creationdate="20180317T163820Z">
         <seg>Toto se týká také nastavení učiněná přímo v prostředí OmegaT, jakékoliv změny, které jste provedli v souboru &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, a také ve spouštěcím skriptu (soubor .bat), jestli jej vůbec používáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This incompatibility can be resolved by searching for and replacing the relevant language codes in the TMX file in a suitable text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151123Z" creationid="Josef" creationdate="20180318T151123Z">
+        <seg>Tato nekompatibilita se dá řešit vyhledáním a nahrazením příslušných kódů jazyků v souboru TMX v odpovídajícím textovém editoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39606,6 +40238,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools which support different levels of TMX files are in principle still compatible with each other.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151113Z" creationid="Josef" creationdate="20180318T151113Z">
+        <seg>Nástroje, které podporují různé úrovně souborů TMX jsou v zásadě mezi sebou stále kompatibilní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Top folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134059Z" creationid="Josef" creationdate="20180317T134059Z">
@@ -39682,6 +40322,30 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145001Z" creationid="Josef" creationdate="20180318T145001Z">
         <seg>Tradiční</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados "uncleaned RTF"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151150Z" creationid="Josef" creationdate="20180318T151150Z">
+        <seg>Trados „uncleaned RFT“ / „nečištěné RTF“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados TTX</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151155Z" creationid="Josef" creationdate="20180318T151155Z">
+        <seg>Trados TTX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151156Z" creationid="Josef" creationdate="20180318T151156Z">
+        <seg>Formát Trados TTX tvoří protějšek k formátu „uncleaned RTF“ pro Trados Tag Editor, který narozdíl od Trados Workbench, nepracuje v přímé kombinaci s MS Wordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42549,6 +43213,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Without preparation in this way, the original file format may be accessible to the translator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151138Z" creationid="Josef" creationdate="20180318T151138Z">
+        <seg>Bez přípravy tímto způsobem, může být formát souboru pro překladatele nepřístupný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wolof</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103908Z" creationid="Josef" creationdate="20180317T103908Z">
@@ -42801,6 +43473,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084945Z" creationid="Josef" creationdate="20180317T084945Z">
         <seg>Možnosti filtru XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF is the industry-standard bilingual file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151146Z" creationid="Josef" creationdate="20180318T151146Z">
+        <seg>XLIFF je průmyslový standardní formát pro dvoujazyčné soubory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49266,6 +49946,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104031Z" creationid="Josef" creationdate="20180317T104031Z">
         <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T151131Z" creationid="Josef" creationdate="20180318T151131Z">
+        <seg>výraz zdrojového jazyka    &lt;tab&gt;    výraz cílového jazyka    &lt;tab&gt;    dodatečná informace</seg>
       </tuv>
     </tu>
     <tu>
