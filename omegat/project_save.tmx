@@ -1825,6 +1825,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Infix is also reported to work on WINE.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152116Z" creationid="Josef" creationdate="20180318T152116Z">
+        <seg>(Infix údajně pracuje i pod WINE.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144615Z" creationid="Josef" creationdate="20180318T144615Z">
@@ -3105,6 +3113,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181212Z" creationid="Josef" creationdate="20180317T181212Z">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; umí detekovat a aktualizovat takové soubory tmx za provozu a zvýšit tak kvalitu shody v přibližných překladech a zefektivní tak váš existující překlad, ušetří vám práci, kterou byste jinak museli dělat ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152113Z" creationid="Josef" creationdate="20180318T152113Z">
+        <seg>&lt;a1&gt;Specifické informace o provozu programu Iceni Infix pod Crossover Linux nebo Crossover Macintosh&lt;/a1&gt; jsou dostupné také.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7212,6 +7228,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152115Z" creationid="Josef" creationdate="20180318T152115Z">
+        <seg>Dostupná je demoverze; v čase psaní tohoto textu stojí plná verze přibližně 150 USD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163744Z" creationid="Josef" creationdate="20180317T163744Z">
@@ -8210,6 +8234,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, free demonstration versions are available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152112Z" creationid="Josef" creationdate="20180318T152112Z">
+        <seg>Jak je zvykem, demo verze jsou dostupné také.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101908Z" creationid="Josef" creationdate="20180317T101908Z">
@@ -8628,6 +8660,22 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134226Z" creationid="Josef" creationdate="20180317T134226Z">
         <seg>Alternativy obsahují linuxový balíček .tar, instalátor pro Windows – s nebo bez běhového prostředí Java, instalátor pro Mac OS X, a balíček se zdrojovým kódem pro vývojáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152111Z" creationid="Josef" creationdate="20180318T152111Z">
+        <seg>I když Infix je aplikací pro prostředí Windows, Iceni se překonal a vyšel vstříc i uživatelům Linuxu a Macintosh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152107Z" creationid="Josef" creationdate="20180318T152107Z">
+        <seg>I když je diskutabilní, zda výsledky tohoto postupu budou srovnatelné s opětovným vytvořením vzhledu stránky překladu nějakým DTP profesionálem, ale budou pravděpodobně lepší než převod na zcela odlišný formát (jako např. RTF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12617,6 +12665,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152113Z" creationid="Josef" creationdate="20180318T152113Z">
+        <seg>Crossover Linux a Crossover Macintosh můžete získat na stránkách &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh cost approximately €40.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152112Z" creationid="Josef" creationdate="20180318T152112Z">
+        <seg>Crossover Linux a Crossover Macintosh stojí průměrně 40 €.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180405Z" creationid="Josef" creationdate="20180317T180405Z">
@@ -16591,6 +16655,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152035Z" creationid="Josef" creationdate="20180318T152035Z">
+        <seg>Aby bylo možno překládat soubory PDF, pak správný postup obvykle znamená vytvořit překlad v původní (DTP) aplikaci a pak projít stejné kroky produkce PDF, které byly učiněny u originálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103400Z" creationid="Josef" creationdate="20180317T103400Z">
@@ -17123,6 +17195,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181123Z" creationid="Josef" creationdate="20180317T181123Z">
         <seg>Pro překladové paměti v adresářích s názvem „penalty-xxx“ (s hodnotou xxx mezi 0 a 100), jsou přibližné překlady negativně hodnoceny dle názvu adresáře: např. 100% shody v jakékoli překladové paměti, která je v adresáři nazvaném Penalty-30, bude snížena na 70% shody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152039Z" creationid="Josef" creationdate="20180318T152039Z">
+        <seg>Při překladu souborů PDF „jen pro informaci“, překladatelé ještě před zahájením překladu často použijí konverzi souboru PDF na jiný formát, např. RTF; výsledky mohou být pro zvolený účel dostačující, ale nebudou odpovídat profesionálním standardům původního DTP zpracování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18631,6 +18711,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Iceni Infix offers a further option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152038Z" creationid="Josef" creationdate="20180318T152038Z">
+        <seg>Iceni Infix nabízí další možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons and logo graphics</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134232Z" creationid="Josef" creationdate="20180317T134232Z">
@@ -19794,6 +19882,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145826Z" creationid="Josef" creationdate="20180318T145826Z">
         <seg>Pokud si nejste jisti, zda máte či nemáte odpovídající verzi JRE, vyberte si verzi s JRE (tj. výchozí verze)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152115Z" creationid="Josef" creationdate="20180318T152115Z">
+        <seg>Pokud používáte Linux nebo Macintosh, pořiďte si a instalujte odpovídající verzi Crossover před instalací Iceni Infix Professional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21297,6 +21393,22 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102758Z" creationid="Josef" creationdate="20180317T102758Z">
         <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152111Z" creationid="Josef" creationdate="20180318T152111Z">
+        <seg>Infox Professional lze použít na těchto platformách ve spojení s Crossover Linux a Crossover Macintosh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix is a PDF editor, i.e. the text in the PDF can be edited directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152106Z" creationid="Josef" creationdate="20180318T152106Z">
+        <seg>Infix je editor PDF, tj. text v PDF lze upravovat přímo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23248,6 +23360,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103606Z" creationid="Josef" creationdate="20180317T103606Z">
         <seg>Lotyšština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Iceni Infix and open the PDF file you wish to translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152116Z" creationid="Josef" creationdate="20180318T152116Z">
+        <seg>Spusťte Iceni Infix a otevřete soubor PDF, který chcete překládat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26589,6 +26709,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152114Z" creationid="Josef" creationdate="20180318T152114Z">
+        <seg>Stáhněte si a instalujte Iceni Infix Professional ze stránky &lt;a0&gt;Iceni&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103659Z" creationid="Josef" creationdate="20180317T103659Z">
@@ -27052,6 +27180,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151132Z" creationid="Josef" creationdate="20180318T151132Z">
         <seg>OmegaT také umí číst glosáře ve formátu TBX, což je průmyslový standard pro formát souborů glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152109Z" creationid="Josef" creationdate="20180318T152109Z">
+        <seg>OmegaT patří mezi CAT nástroje, pro které lze takovýto postup využít.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28789,6 +28925,14 @@ everything.</seg>
         <seg>Platform</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145545Z" creationid="Josef" creationdate="20180318T145545Z">
+        <seg>Platformy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platforms</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152110Z" creationid="Josef" creationdate="20180318T152110Z">
         <seg>Platformy</seg>
       </tuv>
     </tu>
@@ -31714,6 +31858,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102425Z" creationid="Josef" creationdate="20180317T102425Z">
         <seg>Probíhá ukládání projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scanned PDFs are not the subject of this HowTo.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152032Z" creationid="Josef" creationdate="20180318T152032Z">
+        <seg>Tento návod se skenovaným souborům PDF dále nebude věnovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35533,6 +35685,14 @@ control those activities.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152108Z" creationid="Josef" creationdate="20180318T152108Z">
+        <seg>„Profesionální“ verze editoru Infix má další funkce, které by překladatele mohly zajímat: export textu v XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103425Z" creationid="Josef" creationdate="20180317T103425Z">
@@ -36817,6 +36977,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152117Z" creationid="Josef" creationdate="20180318T152117Z">
+        <seg>Příklad na obrázku je &lt;a0&gt;Směrnice Evropské komise v maďarštině&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144615Z" creationid="Josef" creationdate="20180318T144615Z">
@@ -37837,6 +38005,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is described in this HowTo.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152110Z" creationid="Josef" creationdate="20180318T152110Z">
+        <seg>Postup je popsán v tomto návodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133725Z" creationid="Josef" creationdate="20180317T133725Z">
@@ -38657,6 +38833,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated text can then be re-imported into Infix Professional.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152109Z" creationid="Josef" creationdate="20180318T152109Z">
+        <seg>Přeložený text můžete pak opět importovat do Infix Professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101938Z" creationid="Josef" creationdate="20180317T101938Z">
@@ -39061,6 +39245,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181046Z" creationid="Josef" creationdate="20180317T181046Z">
         <seg>OmegaT nemusíte nijak instruovat pro použití konkrétního slovníku kontroly pravopisu: Program použije správnou jazykovou verzi slovníku založenou na jazykovém kódu vašeho projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152033Z" creationid="Josef" creationdate="20180318T152033Z">
+        <seg>Neexistuje žádný způsob překladu skenovaných souborů PDF než nějakým způsobem obnovit text, a to buď ručním přepsáním nebo pomocí OCR (optické rozlišení znaků), a vytvořit tak vzhled stránky úplně od začátku znova.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39736,6 +39928,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102036Z" creationid="Josef" creationdate="20180317T102036Z">
         <seg>Tato dokumentace má posloužit jako výukový materiál a zároveň referenční příručka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152108Z" creationid="Josef" creationdate="20180318T152108Z">
+        <seg>Toto umožňuje exportovat text do souboru XML, který již lze překládat v CAT nástroji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41639,6 +41839,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating a PDF file: procedure</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152114Z" creationid="Josef" creationdate="20180318T152114Z">
+        <seg>Překlad souboru PDF: postup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating the PDF file by editing it directly is not usually a practical proposition.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152035Z" creationid="Josef" creationdate="20180318T152035Z">
+        <seg>Překlad souboru PDF jeho přímou úpravou zpravidla není moc praktické.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190652Z" creationid="Josef" creationdate="20180317T190652Z">
@@ -41787,6 +42003,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101925Z" creationid="Josef" creationdate="20180317T101925Z">
         <seg>Komentář překladatele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152034Z" creationid="Josef" creationdate="20180318T152034Z">
+        <seg>Opravdové soubory PDF (někdy zvané „nativní“ nebo „distilled“ PDF soubory, i když „distilled“ [„destilovaný“] je přesnější označení) jsou takové soubory PDF, které vznikly exportem z jiné aplikace, obvykle z oblasti programů elektronické přípravy dokumentů (DTP; desktop publishing).</seg>
       </tuv>
     </tu>
     <tu>
