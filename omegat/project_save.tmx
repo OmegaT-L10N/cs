@@ -39057,6 +39057,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180318T152403Z" creationid="Josef" creationdate="20180318T152403Z">
+        <seg>Třetí možnost, tj. instalace verze OmegaT, která obsahuje Javu na lokální úrovni, je to vždy „jistá“ volba, a je doporučována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180401Z" creationid="Josef" creationdate="20180317T180401Z">
