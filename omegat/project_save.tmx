@@ -1905,6 +1905,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152308Z" creationid="Josef" creationdate="20180323T152308Z">
+        <seg>(Toto se netýká souborů pro lokalizace webové prezentace.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163525Z" creationid="Josef" creationdate="20180317T163525Z">
@@ -7608,6 +7616,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134245Z" creationid="Josef" creationdate="20180317T134245Z">
         <seg>Textový soubor, který obsahuje dva řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A translation may also be provided for information, but it has no legal validity.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152312Z" creationid="Josef" creationdate="20180323T152312Z">
+        <seg>Pro informaci lze poskytovat překlad, ale tento pak nemá žádnou legální platnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16728,6 +16744,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstly, only the original English is legally valid.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152312Z" creationid="Josef" creationdate="20180323T152312Z">
+        <seg>V první řadě je totiž legálně platná jen původní anglická verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181152Z" creationid="Josef" creationdate="20180317T181152Z">
@@ -17411,6 +17435,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133735Z" creationid="Josef" creationdate="20180317T133735Z">
         <seg>Například, jak je ukázáno zde, jsme se rozhodli pro jeden projekt OmegaT - jedno úložiště z důvodů jednoduchosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152252Z" creationid="Josef" creationdate="20180323T152252Z">
+        <seg>Pro plné a minimální balíky (uživatelské prostředí a dokumentace) nepotřebujete vytvářet projekt OmegaT tak, jak by jste to běžně činili: když jsou archivy rozbalené, soubory pro lokalizaci programu OmegaT představují projekt OmegaT připravený na použití.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,6 +19845,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152311Z" creationid="Josef" creationdate="20180323T152311Z">
+        <seg>Pokud dokument, který překládáte, obsahuje text licence GPL (GNU Public License) nebo GFDL (GNU Free Documentation License) &lt;s0&gt;ne&lt;/s0&gt;překládejte tyto licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180137Z" creationid="Josef" creationdate="20180317T180137Z">
@@ -20504,6 +20544,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163738Z" creationid="Josef" creationdate="20180317T163738Z">
         <seg>Pokud používáte systém pro správu terminologie je docela možné, že bude nabízet export terminologických dat do formátu TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152310Z" creationid="Josef" creationdate="20180323T152310Z">
+        <seg>Pokud máte nějaké otázky, &lt;a0&gt;konference OmT-l10n&lt;/a0&gt; je to nejlepší místo, kde se zeptat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32816,6 +32864,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search the web and you will probably find the translations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152313Z" creationid="Josef" creationdate="20180323T152313Z">
+        <seg>Prohledejte web a nějaký překlad jistě naleznete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102554Z" creationid="Josef" creationdate="20180317T102554Z">
@@ -32844,6 +32900,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180914Z" creationid="Josef" creationdate="20180317T180914Z">
         <seg>Vyhledávání slovního spojení &lt;l0&gt;open file&lt;/l0&gt; nalezne tedy všechny výskyty řetězce &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, ale ne &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; nebo &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152313Z" creationid="Josef" creationdate="20180323T152313Z">
+        <seg>A ve druhé řadě, pokud Váš jazyk není velmi nevšední, tak byly oba dokumenty s velkou pravděpodobností již přeloženy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46594,6 +46658,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can modify, correct, add or delete information at your own discretion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152310Z" creationid="Josef" creationdate="20180323T152310Z">
+        <seg>Můžete upravovat, opravovat, přidávat nebo mazat informace podle svého vlastního uvážení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can open them in an Internet browser to obtain access to external links.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134231Z" creationid="Josef" creationdate="20180317T134231Z">
@@ -46782,6 +46854,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T151853Z" creationid="Josef" creationdate="20180323T151853Z">
         <seg>Nemusíte překládat celý balík; můžete například přeložit jen uživatelské rozhraní (Bundle.properties), nebo jen stručný úvodní tutoriál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have complete freedom in how you translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152309Z" creationid="Josef" creationdate="20180323T152309Z">
+        <seg>Máte úplnou svobodu v tom, jak překládáte.</seg>
       </tuv>
     </tu>
     <tu>
