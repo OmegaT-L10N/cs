@@ -1790,6 +1790,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152340Z" creationid="Josef" creationdate="20180323T152340Z">
+        <seg>(Pokud jste překládali do jazyka, který není jazykem vašeho operačního systému, vizte bod níže „Jak OmegaT zachází s lokalizovanými verzemi“.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -21523,6 +21531,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152339Z" creationid="Josef" creationdate="20180323T152339Z">
+        <seg>V adresáři programu OmegaT /docs/ vytvořte podadresář s ISO kódem jazyka vašeho operačního systému (pokud tam již takový adresář je, přejmenujte jej dočasně na dobu testování), a zkopírujte příručku do tohoto adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164238Z" creationid="Josef" creationdate="20180317T164238Z">
@@ -23928,6 +23944,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152005Z" creationid="Josef" creationdate="20180318T152005Z">
         <seg>Spušťte OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152335Z" creationid="Josef" creationdate="20180323T152335Z">
+        <seg>Spusťte OmegaT z příkazové řádky (okno MS-DOS) prostřednictvím následujících příkazů (pokud si nejste v této oblasti jisti, podívejte se do příručky OmegaT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29773,6 +29797,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102021Z" creationid="Josef" creationdate="20180317T102021Z">
         <seg>Prosím vložte své heslo znovu pro ověření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152332Z" creationid="Josef" creationdate="20180323T152332Z">
+        <seg>Prosím ponechejte překlady souborů v jejich původním formátu a neměňte názvy souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36314,6 +36346,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test your translation (optional).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152334Z" creationid="Josef" creationdate="20180323T152334Z">
+        <seg>Otestujte svůj překlad (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101916Z" creationid="Josef" creationdate="20180317T101916Z">
@@ -38165,6 +38205,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151114Z" creationid="Josef" creationdate="20180318T151114Z">
         <seg>Formátovací údaje obsažené ve vyšší úrovni budou pro „ostatní“ nástroje bezvýznamné, ale textová informace bude zobrazována i tak, je možno nalézt shody, atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting is retained automatically if you use OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152332Z" creationid="Josef" creationdate="20180323T152332Z">
+        <seg>Pokud používáte OmegaT bude formátování automaticky zachováno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40069,6 +40117,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152528Z" creationid="Josef" creationdate="20180318T152528Z">
         <seg>Pak vložte samotný spouštěcí příkaz a potvrďte ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then launch OmegaT normally.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152339Z" creationid="Josef" creationdate="20180323T152339Z">
+        <seg>Pak spusťte OmegaT běžným  způsobem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42526,6 +42582,22 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133846Z" creationid="Josef" creationdate="20180317T133846Z">
         <seg>Pokud máte zájem podpořit projekt OmegaT finančně </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test display of the Instant Start Guide at launch:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152338Z" creationid="Josef" creationdate="20180323T152338Z">
+        <seg>Pro testování zobrazení úvodního průvodce po spuštění:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test the user interface:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152334Z" creationid="Josef" creationdate="20180323T152334Z">
+        <seg>Postup jak testovat uživatelské rozhraní:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45000,6 +45072,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103937Z" creationid="Josef" creationdate="20180317T103937Z">
         <seg>Záruka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152333Z" creationid="Josef" creationdate="20180323T152333Z">
+        <seg>Jsme vděční za všechny překlady, ale značně nám zjednoduší práci skutečnost, když budou soubory odevzdávané ve stejném formátu (a ne např. jako soubory Wordu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48288,6 +48368,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164051Z" creationid="Josef" creationdate="20180317T164051Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152336Z" creationid="Josef" creationdate="20180323T152336Z">
+        <seg>cd [celá cesta k OmegaT]</seg>
       </tuv>
     </tu>
     <tu>
@@ -53855,6 +53943,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152338Z" creationid="Josef" creationdate="20180323T152338Z">
+        <seg>kde [celá cesta k OmegaT] je celá cesta k adresáři obsahující program OmegaT, a [jméno balíčku s celou cestou] je jméno všeho překladu zdrojového balíčku (soubor „bundle“ s lokalizací, např. bundle_cs.properties, pokud jste tedy neměnili jméno) včetně celé cesty k lokalizaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181216Z" creationid="Josef" creationdate="20180317T181216Z">
@@ -54331,6 +54427,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151715Z" creationid="Josef" creationdate="20180318T151715Z">
         <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152337Z" creationid="Josef" creationdate="20180323T152337Z">
+        <seg>java -jar OmegaT.jar resource-bundle=[jméno balíčku s celou cestou]</seg>
       </tuv>
     </tu>
     <tu>
