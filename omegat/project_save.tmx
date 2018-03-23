@@ -13617,6 +13617,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT (user interface and documentation) or upload it to the website (website pages).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152433Z" creationid="Josef" creationdate="20180323T152433Z">
+        <seg>Odevzdejte soubor koordinátorovi lokalizací, který jej dále předá vývojářskému týmu, aby se dostal do následujícího vydání OmegaT (uživatelské prostředí a dokumentace) nebo je nahrejte na web (překlad webové prezentace).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181002Z" creationid="Josef" creationdate="20180317T181002Z">
