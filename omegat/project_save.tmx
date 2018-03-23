@@ -2074,6 +2074,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154317Z" creationid="Josef" creationdate="20180323T154317Z">
+        <seg>*Pokud ještě nemáte Microsoft účet, bude nejprve nutno si jej založit.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084925Z" creationid="Josef" creationdate="20180317T084925Z">
@@ -2102,6 +2110,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104056Z" creationid="Josef" creationdate="20180317T104056Z">
         <seg>nalezneme např.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154253Z" creationid="Josef" creationdate="20180323T154253Z">
+        <seg>- Přístup na nahoře uvedenou stránku a [Přihlášení] do Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2188,8 +2204,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T152853Z" creationid="Josef" creationdate="20180323T152853Z">
-        <seg>- Abyste mohli použít klíč Microsoft Translator API, </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T153448Z" creationid="Josef" creationdate="20180323T152853Z">
+        <seg>- Abyste mohli použít klíč Microsoft Translator API, musíte registrovat svou aplikaci v obchodě Microsoft Azure Marketplace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3205,6 +3221,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154226Z" creationid="Josef" creationdate="20180323T154226Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144655Z" creationid="Josef" creationdate="20180318T144655Z">
@@ -3361,6 +3385,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163641Z" creationid="Josef" creationdate="20180317T163641Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154227Z" creationid="Josef" creationdate="20180323T154227Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154254Z" creationid="Josef" creationdate="20180323T154254Z">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154318Z" creationid="Josef" creationdate="20180323T154318Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28238,6 +28286,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154220Z" creationid="Josef" creationdate="20180323T154220Z">
+        <seg>OmegaT používá k identifikaci "Client ID" a "Client secret" dle vaší registrace.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181539Z" creationid="Josef" creationdate="20180317T181539Z">
@@ -35474,6 +35530,14 @@ makes it unnecessary.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164400Z" creationid="Josef" creationdate="20180317T164400Z">
         <seg>Sublicensing is not allowed; section 10
 makes it unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154224Z" creationid="Josef" creationdate="20180323T154224Z">
+        <seg>Podpis</seg>
       </tuv>
     </tu>
     <tu>
