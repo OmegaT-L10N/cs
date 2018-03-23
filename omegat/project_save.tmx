@@ -8258,6 +8258,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152157Z" creationid="Josef" creationdate="20180323T152157Z">
+        <seg>Po stažení souboru archívu zip pro plný nebo minimální balík nebo balík s lokalizací webu, tento archiv rozbalte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After duplication:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163647Z" creationid="Josef" creationdate="20180317T163647Z">
