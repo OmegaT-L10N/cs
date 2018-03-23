@@ -12457,6 +12457,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152643Z" creationid="Josef" creationdate="20180323T152643Z">
+        <seg>Informace o autorských právech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102834Z" creationid="Josef" creationdate="20180317T102834Z">
@@ -20475,6 +20483,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152627Z" creationid="Josef" creationdate="20180323T152627Z">
+        <seg>Pokud na překladu již nebude pokračovat a projekt není kompletně přeložen, prosím vytvořte překladovou paměť TMX obsahující dosavadní překlad a nahrajte ji do repozitáře překladových pamětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180100Z" creationid="Josef" creationdate="20180317T180100Z">
@@ -20782,8 +20798,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T152536Z" creationid="Josef" creationdate="20180323T152536Z">
-        <seg>Pokud jste pro práci použili aplikaci OmegaT, nebo jiný CAT nástroj, prosím nahrejte Vaši překladovou paměť (soubor TMX) do &lt;a0&gt;repozitáře překladových paměťí v online uživatelské skupině&lt;/a0&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152634Z" creationid="Josef" creationdate="20180323T152536Z">
+        <seg>Pokud jste pro práci použili aplikaci OmegaT, nebo jiný CAT nástroj, prosím nahrejte Vaši překladovou paměť (soubor TMX) do &lt;a0&gt;repozitáře překladových pamětí v online uživatelské skupině&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +25810,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152644Z" creationid="Josef" creationdate="20180323T152644Z">
+        <seg>Většina dokumentace OmegaT je licencovaná pro opětovné využití za podmínek licence GNU Public License (GPL) nebo GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104037Z" creationid="Josef" creationdate="20180317T104037Z">
@@ -26595,6 +26619,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102026Z" creationid="Josef" creationdate="20180317T102026Z">
         <seg>Nic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152645Z" creationid="Josef" creationdate="20180323T152645Z">
+        <seg>Ničím z tohoto se nemusíte zabývat, pokud se nezajímáte o otázky autorských práv do hloubky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40089,6 +40121,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The web pages are not licensed for re-use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152645Z" creationid="Josef" creationdate="20180323T152645Z">
+        <seg>Webové stránky nejsou licencované pro opětovné využití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133925Z" creationid="Josef" creationdate="20180317T133925Z">
@@ -47319,6 +47359,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133912Z" creationid="Josef" creationdate="20180317T133912Z">
         <seg>Při překladu svých souborů zpracováváte segmenty jeden za druhým, tj. v daném okamžiku je pro úpravu aktivní jen jeden segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be credited as the author of your work and named as joint copyright holder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152646Z" creationid="Josef" creationdate="20180323T152646Z">
+        <seg>Budete uvedený jako autor práce  a jmenovaný jako spoludržitel autorských práv.</seg>
       </tuv>
     </tu>
     <tu>
