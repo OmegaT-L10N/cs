@@ -2106,6 +2106,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152811Z" creationid="Josef" creationdate="20180323T152811Z">
+        <seg>- Při použití klíče Microsoft Translator API můžete využít strojový překlad Microsoft Translator v okně Strojový překlad v rámci OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144609Z" creationid="Josef" creationdate="20180318T144609Z">
@@ -2174,6 +2182,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144652Z" creationid="Josef" creationdate="20180318T144652Z">
         <seg>- Existuje spousta dobrých publikací a jiných zdrojů zabývajících se touto problematikou (minimálně v angličtině určitě)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152853Z" creationid="Josef" creationdate="20180323T152853Z">
+        <seg>- Abyste mohli použít klíč Microsoft Translator API, </seg>
       </tuv>
     </tu>
     <tu>
