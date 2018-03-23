@@ -2116,8 +2116,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T154253Z" creationid="Josef" creationdate="20180323T154253Z">
-        <seg>- Přístup na nahoře uvedenou stránku a [Přihlášení] do Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154529Z" creationid="Josef" creationdate="20180323T154253Z">
+        <seg>- Otevřete nahoře uvedenou stránku a [Přihlášení] do Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154540Z" creationid="Josef" creationdate="20180323T154348Z">
+        <seg>- Po přihlášení do účtu Microsoft Azure Marketplace můžete získat typ přihlášení k používání překladače Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,6 +2134,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T152811Z" creationid="Josef" creationdate="20180323T152811Z">
         <seg>- Při použití klíče Microsoft Translator API můžete využít strojový překlad Microsoft Translator v okně Strojový překlad v rámci OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154634Z" creationid="Josef" creationdate="20180323T154634Z">
+        <seg>- Klikněte na [DEVELOPERS] v levé části nemu "my account".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154612Z" creationid="Josef" creationdate="20180323T154612Z">
+        <seg>- Klikněte na [My Account] v horní části stránky.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2230,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T153448Z" creationid="Josef" creationdate="20180323T152853Z">
         <seg>- Abyste mohli použít klíč Microsoft Translator API, musíte registrovat svou aplikaci v obchodě Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154550Z" creationid="Josef" creationdate="20180323T154413Z">
+        <seg>- Můžete si vybrat z dostupných nabídky typu přihlášení, jak je to ukázáno v pravé části stránky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3273,6 +3305,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144656Z" creationid="Josef" creationdate="20180318T144656Z">
         <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154636Z" creationid="Josef" creationdate="20180323T154636Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20884,6 +20924,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154510Z" creationid="Josef" creationdate="20180323T154510Z">
+        <seg>Pokud chcete vybrat základní typ přihlášení (zdarma, do 2 milionů znaků za měsíc), klikněte na [SIGN UP] nahoře u výběru typu přihlášení.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104101Z" creationid="Josef" creationdate="20180317T104101Z">
@@ -31394,6 +31442,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154558Z" creationid="Josef" creationdate="20180323T154558Z">
+        <seg>Zaregistrujte svou aplikaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expression</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180839Z" creationid="Josef" creationdate="20180317T180839Z">
@@ -35536,8 +35592,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Subscription</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T154224Z" creationid="Josef" creationdate="20180323T154224Z">
-        <seg>Podpis</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T154514Z" creationid="Josef" creationdate="20180323T154224Z">
+        <seg>Typ přihlášení</seg>
       </tuv>
     </tu>
     <tu>
