@@ -126,6 +126,14 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151339Z" creationid="Josef" creationdate="20180323T151339Z">
+        <seg>„My“ v následujícím textu označuje tým projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164107Z" creationid="Josef" creationdate="20180317T164107Z">
@@ -1982,6 +1990,54 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151846Z" creationid="Josef" creationdate="20180318T151846Z">
         <seg>(kde "xxxxx" je klíč API poskytnutý Google).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151435Z" creationid="Josef" creationdate="20180323T151435Z">
+        <seg>* Návod pro začátečníky&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151415Z" creationid="Josef" creationdate="20180323T151415Z">
+        <seg>* Stručný průvodce „Instant start“ (krátký úvod k používání OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The OmegaT web pages (probably where you are reading this)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151436Z" creationid="Josef" creationdate="20180323T151436Z">
+        <seg>* Webové stránky OmegaT (pravděpodobně je právě čtete online)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151416Z" creationid="Josef" creationdate="20180323T151416Z">
+        <seg>* Soubor čtimě (readme) (dokument, který obsahuje všeobecné informace o OmegaT)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151413Z" creationid="Josef" creationdate="20180323T151413Z">
+        <seg>* Uživatelské rozhraní (menu atd.)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151415Z" creationid="Josef" creationdate="20180323T151415Z">
+        <seg>* Uživatelská příručka (velmi obsáhlá)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8202,6 +8258,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After joining, visit the &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151728Z" creationid="Josef" creationdate="20180323T151728Z">
+        <seg>Až se připojíte, navštivte Lokalizační plán &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After nesting:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163653Z" creationid="Josef" creationdate="20180317T163653Z">
@@ -9522,6 +9586,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151341Z" creationid="Josef" creationdate="20180323T151341Z">
+        <seg>Program je určený pro překladatele na celém světě a ne jen v anglicky mluvících zemích, proto je vhodné aby dokumentace (a podle možností i samotný program) byli dostupné i v jiných jazycích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133954Z" creationid="Josef" creationdate="20180317T133954Z">
@@ -9622,6 +9694,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152510Z" creationid="Josef" creationdate="20180318T152510Z">
         <seg>V čase psaní tohoto textu OmegaT lépe poběží s verzí Javy od Oracle (viz výše).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151413Z" creationid="Josef" creationdate="20180323T151413Z">
+        <seg>V době psaní tohoto textu obsahuje materiál, který je potřebné přeložit, tyto části:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11999,6 +12079,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
         <seg>Mód překladu pomocí příkazového řádku:
 	--source-pattern=&lt;pattern&gt;
 		Seznam výjimek (whitelist) regulárních výrazů ve zdrojovém souboru, které mají být zpracovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151546Z" creationid="Josef" creationdate="20180323T151546Z">
+        <seg>Kontaktuje se příslušný koordinátor překladatelské práce:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,6 +14766,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151728Z" creationid="Josef" creationdate="20180323T151728Z">
+        <seg>Během procesu registrace budete muset poslat krátkou zprávu skupině moderátorů: to je proto, aby mohli odlišit skutečné uživatele od spamerů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181005Z" creationid="Josef" creationdate="20180317T181005Z">
@@ -17319,6 +17415,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151633Z" creationid="Josef" creationdate="20180323T151633Z">
+        <seg>Pro uživatelské prostředí, uživatelskou příručku, Stručného úvodního průvodce anembo soubor readme (ctime) kontaktujte prosím &lt;a1&gt;koordinátora lokalizace OmegaT&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181545Z" creationid="Josef" creationdate="20180317T181545Z">
@@ -18671,6 +18775,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151409Z" creationid="Josef" creationdate="20180323T151409Z">
+        <seg>Nicméně protože nejsme komerční projekt, tak nemáme rozpočet na odměny překladatelům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145749Z" creationid="Josef" creationdate="20180318T145749Z">
@@ -19048,6 +19160,14 @@ not survive such relicensing or conveying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145100Z" creationid="Josef" creationdate="20180318T145100Z">
         <seg>Pokud máte vhodné JRE již instalováno ve svém systému Windows, vyberte „Bez JRE“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151730Z" creationid="Josef" creationdate="20180323T151730Z">
+        <seg>Pokud pro Váš jazyk ještě nebyl započatý vhodný kus práce, můžete provést v plánu záznam, abyste ukázali, že jste za ni převzali odpovědnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20588,6 +20708,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT website and/or the Beginner's Tutorial, please contact the &lt;a3&gt;OmegaT Website Manager&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151722Z" creationid="Josef" creationdate="20180323T151722Z">
+        <seg>Pokud chcete překládat webové stránky OmegaT anebo návod pro začátečníky, kontaktujte prosím &lt;a3&gt;správce webové stránky OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181151Z" creationid="Josef" creationdate="20180317T181151Z">
@@ -21207,6 +21335,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180538Z" creationid="Josef" creationdate="20180317T180538Z">
         <seg>Když překládáte mezi dvěma jazyky užívajícími různé abecedy nebo-li systémy zápisu (jako např. ruština a japonština), zde je pak obzvlášť nutné pečlivě vybrat písmo, které lze pro oba jazyky použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151509Z" creationid="Josef" creationdate="20180323T151509Z">
+        <seg>Zejména pak překlad hlavní uživatelské příručky zabere přibližně dva týdny, je tudíž možné práci rozdělit mezi několika překladateli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22049,6 +22185,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103103Z" creationid="Josef" creationdate="20180317T103103Z">
         <seg>‚Rychlý start‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151411Z" creationid="Josef" creationdate="20180323T151411Z">
+        <seg>Ti, kteří se podílejí na projektu OmegaT spíše doufají, že překlady poskytují nejprve a především překladatelé, kteří již vyzkoušeli aplikaci OmegaT a jsou přesvědčeni o její hodnotě pro překladatelskou komunitu jako celek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23006,6 +23150,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102842Z" creationid="Josef" creationdate="20180317T102842Z">
         <seg>Jmyspell (Licence LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join the &lt;a0&gt;OmegaT user group&lt;/a0&gt; (also known as "OmT").</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151727Z" creationid="Josef" creationdate="20180323T151727Z">
+        <seg>Přidejte se k &lt;a0&gt;uživatelské skupině OmegaT&lt;/a0&gt; (známé též jako „OmT“).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27552,6 +27704,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151340Z" creationid="Josef" creationdate="20180323T151340Z">
+        <seg>OmegaT je svobodný, open-source program využívající technologie překladové paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133920Z" creationid="Josef" creationdate="20180317T133920Z">
@@ -30026,6 +30186,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133907Z" creationid="Josef" creationdate="20180317T133907Z">
         <seg>Problémy se slovníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151510Z" creationid="Josef" creationdate="20180323T151510Z">
+        <seg>Postup</seg>
       </tuv>
     </tu>
     <tu>
@@ -36669,6 +36837,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151339Z" creationid="Josef" creationdate="20180323T151339Z">
+        <seg>Tým projektu OmegaT není společnost nebo formální právní subjekt, jen skupina dobrovolníků podílejících se na projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152511Z" creationid="Josef" creationdate="20180318T152511Z">
@@ -39505,6 +39681,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151412Z" creationid="Josef" creationdate="20180323T151412Z">
+        <seg>Překladatelská práce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181348Z" creationid="Josef" creationdate="20180317T181348Z">
@@ -39565,6 +39749,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181213Z" creationid="Josef" creationdate="20180317T181213Z">
         <seg>Uživatelské rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151341Z" creationid="Josef" creationdate="20180323T151341Z">
+        <seg>Uživatelské rozhraní a dokumentace byli původně napsané v angličtině.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41198,6 +41390,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151729Z" creationid="Josef" creationdate="20180323T151729Z">
+        <seg>Tento plán ukazuje jaká překladatelská/lokalizační práce už byla pro OmegaT učiněna, a jaká práce právě probíhá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151418Z" creationid="Josef" creationdate="20180318T151418Z">
@@ -42775,10 +42975,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151337Z" creationid="Josef" creationdate="20180323T151337Z">
+        <seg>Překlad: všeobecné poznámky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101925Z" creationid="Josef" creationdate="20180317T101925Z">
         <seg>Komentář překladatele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151438Z" creationid="Josef" creationdate="20180323T151438Z">
+        <seg>Překladatelé mohou přeložit z této práce tolik, kolik si k překladu vyberou. </seg>
       </tuv>
     </tu>
     <tu>
