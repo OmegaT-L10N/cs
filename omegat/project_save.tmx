@@ -1849,6 +1849,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note: these are the English files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151854Z" creationid="Josef" creationdate="20180323T151854Z">
+        <seg>(Poznámka: toto jsou anglické soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See screenshot: only the first three segments have been translated.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152134Z" creationid="Josef" creationdate="20180318T152134Z">
@@ -17341,6 +17349,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151850Z" creationid="Josef" creationdate="20180323T151850Z">
+        <seg>Pro &lt;s0&gt;OmegaT program a dokumentaci&lt;/s0&gt;, tyto soubory jsou buď jako &lt;a1&gt;„plný“ („Full“) balík&lt;/a1&gt; nebo &lt;a2&gt;„minimální“ („Minimal“) balík&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103938Z" creationid="Josef" creationdate="20180317T103938Z">
@@ -20612,6 +20628,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151855Z" creationid="Josef" creationdate="20180323T151855Z">
+        <seg>Pokud upřednostňujete překlad z jiného jazyka, do kterého byla aplikace OmegaT již lokalizována, prosím kontaktujte webmastera OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181249Z" creationid="Josef" creationdate="20180317T181249Z">
@@ -20704,6 +20728,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134038Z" creationid="Josef" creationdate="20180317T134038Z">
         <seg>Pokud budete chtít obnovit výchozí nastavení filtru, klikněte na &lt;e2&gt;Výchozí nastavení.&lt;/e2&gt; Můžete tedy upravovat název přímo v políčku vzoru pro název cílového souboru nebo v dialogovém okně filtrů souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the &lt;s0&gt;OmegaT web pages&lt;/s0&gt;, download the &lt;a1&gt;website localization package&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151853Z" creationid="Josef" creationdate="20180323T151853Z">
+        <seg>Pokud chcete překládat webové stránky OmegaT, stáhněte si lokalizační balík webové prezentace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24298,6 +24330,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182148Z" creationid="Josef" creationdate="20180317T182148Z">
         <seg>Správce loklaizace a vlastník uživatelské skupiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizations of the OmegaT user interface and documentation are generally updated in step with new releases of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151927Z" creationid="Josef" creationdate="20180323T151927Z">
+        <seg>Překlady uživatelskéh prostředí OmegaT a dokumentace jsou obecně aktualizovány v kroku nového vydání OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36853,6 +36893,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151928Z" creationid="Josef" creationdate="20180323T151928Z">
+        <seg>Webová prezentace OmegaT obsahuje soubory ve formátu HTML a od roku 2011 také v PHP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151033Z" creationid="Josef" creationdate="20180318T151033Z">
@@ -38025,6 +38073,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151852Z" creationid="Josef" creationdate="20180323T151852Z">
+        <seg>Plný balík obsahuje uživatelskou příručku, rychlou úvodní příručku, zdrojový balíček uživatelského rozhraní a soubor čtimě (readme).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104039Z" creationid="Josef" creationdate="20180317T104039Z">
@@ -38451,6 +38507,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164229Z" creationid="Josef" creationdate="20180317T164229Z">
         <seg>Hlášení, která byste obvykle nalezli ve stavové liště se nebudou zobrazovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151852Z" creationid="Josef" creationdate="20180323T151852Z">
+        <seg>Minimální balík obsahuje stejné soubory jako plný balík, mimo hlavní uživatelskou příručku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46630,6 +46694,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163710Z" creationid="Josef" creationdate="20180317T163710Z">
         <seg>Sami si zvolíte umístění a název svého glosáře v dialogovém okně Vlastnosti projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T151853Z" creationid="Josef" creationdate="20180323T151853Z">
+        <seg>Nemusíte překládat celý balík; můžete například přeložit jen uživatelské rozhraní (Bundle.properties), nebo jen stručný úvodní tutoriál.</seg>
       </tuv>
     </tu>
     <tu>
