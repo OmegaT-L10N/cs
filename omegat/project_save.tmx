@@ -14509,6 +14509,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152543Z" creationid="Josef" creationdate="20180323T152543Z">
+        <seg>Nezapomeňte aktualizovat Lokalizační plán OmegaT (vizte krok 2) abyste ukázali, že překlad daného dokumentu / verze je dokončen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101945Z" creationid="Josef" creationdate="20180317T101945Z">
@@ -15588,6 +15596,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181627Z" creationid="Josef" creationdate="20180317T181627Z">
         <seg>Zdroj a cíl je stejný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152543Z" creationid="Josef" creationdate="20180323T152543Z">
+        <seg>Stejně tak, když z jakéhokoliv důvodu ukončíte práci na překladu, prosím aktualizujte svou položku v plánu, aby na toto poukazovala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20760,6 +20776,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180513Z" creationid="Josef" creationdate="20180317T180513Z">
         <seg>Když &lt;a1&gt;OmegaT&lt;/a1&gt; spustíte v režimu příkazového řádku, tak bude použito zadané nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152536Z" creationid="Josef" creationdate="20180323T152536Z">
+        <seg>Pokud jste pro práci použili aplikaci OmegaT, nebo jiný CAT nástroj, prosím nahrejte Vaši překladovou paměť (soubor TMX) do &lt;a0&gt;repozitáře překladových paměťí v online uživatelské skupině&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29753,6 +29777,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152540Z" creationid="Josef" creationdate="20180323T152540Z">
+        <seg>Prosím NEodevzdávejte celý projekt OmegaT koordinátorovi lokalizací (nepotřebuje dostávat několik kopií celého projektu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184710Z" creationid="Josef" creationdate="20180317T184710Z">
@@ -30974,6 +31006,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144638Z" creationid="Josef" creationdate="20180318T144638Z">
         <seg>Místo hledání všech výskytů „abc“ a jejich opravování před dalším postupem (což je možné, ale má jisté nevýhody), měl by se jednoduše rozhodnout pro opravu těchto míst během dalšího kola překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152541Z" creationid="Josef" creationdate="20180323T152541Z">
+        <seg>Raději vytvořte dva oddělené archivy, buď .zip nebo tar.gz, jeden, který obsahuje cílové soubory a druhý, který obsahuje soubory TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41060,6 +41100,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the document concerned to be released for translation by another translator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152544Z" creationid="Josef" creationdate="20180323T152544Z">
+        <seg>Je pak možno uvolnit daný dokument pro překlad jinému překladateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152108Z" creationid="Josef" creationdate="20180318T152108Z">
@@ -41858,6 +41906,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180609Z" creationid="Josef" creationdate="20180317T180609Z">
         <seg>To je prakticky navrátí do „nepřeloženého“ stavu, protože neodpovídají segmentům uloženým v paměti projektu, dokonce i přesto, že dřívější a teď nekorespondující překlad tam stále je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will greatly simplify updating of your translation in the future.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180323T152539Z" creationid="Josef" creationdate="20180323T152539Z">
+        <seg>Do budoucna to totiž velmi zjednoduší aktualizaci Vašeho překladu.</seg>
       </tuv>
     </tu>
     <tu>
