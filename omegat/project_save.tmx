@@ -2154,6 +2154,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063128Z" creationid="Josef" creationdate="20180324T063128Z">
+        <seg>- Klikněte na [REGISTER] jak vidíte pod "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144609Z" creationid="Josef" creationdate="20180318T144609Z">
@@ -3441,6 +3449,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T154254Z" creationid="Josef" creationdate="20180323T154254Z">
         <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063102Z" creationid="Josef" creationdate="20180324T063102Z">
+        <seg>&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
