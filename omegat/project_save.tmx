@@ -214,6 +214,14 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110006Z" creationid="Josef" creationdate="20180324T110006Z">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># Microsoft Translator credentials
 #-Dmicrosoft.api.client_id=xxxxx
 #-Dmicrosoft.api.client_secret=xxxxx</seg>
@@ -288,6 +296,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
 -Duser.language=FR
 # Country
 -Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># TMXFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110009Z" creationid="Josef" creationdate="20180324T110009Z">
+        <seg>V TMXFilter.java:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1852,6 +1868,14 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181616Z" creationid="Josef" creationdate="20180317T181616Z">
         <seg>(Pokud si myslíte, že jste významně přispěli k projektu OmegaT,
 ale své jméno nevidíte v těchto záznamech, klidně nás kontaktujte.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110011Z" creationid="Josef" creationdate="20180324T110011Z">
+        <seg>(Pokud chcete spouštět OmegaT s jiným jazykem uživatelského prostředí než anglicky, ujistěte se, že stejnou změnu provedete v odpovídajícím souboru Bundle.properties pro váš jazyk.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10610,6 +10634,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below them, insert the lines:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110020Z" creationid="Josef" creationdate="20180324T110020Z">
+        <seg>Pod ně vložte řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below these lines, insert the lines</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110008Z" creationid="Josef" creationdate="20180324T110008Z">
+        <seg>Pod tyto řádky vložte řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105946Z" creationid="Josef" creationdate="20180324T105946Z">
+        <seg>Pod tyto řádky můžete také vložit kód:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102159Z" creationid="Josef" creationdate="20180317T102159Z">
@@ -11239,6 +11287,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105955Z" creationid="Josef" creationdate="20180324T105955Z">
+        <seg>Změňte koncovku souboru, v tomto případě .tmx, změnou řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181017Z" creationid="Josef" creationdate="20180317T181017Z">
@@ -11571,6 +11627,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133908Z" creationid="Josef" creationdate="20180317T133908Z">
         <seg>Zkontrolujte &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Projekt &lt;/g6&gt; &lt;g7&gt; Vlastnosti...&lt;/g7&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check in Options &gt; File Filters that the new filter is present.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110027Z" creationid="Josef" creationdate="20180324T110027Z">
+        <seg>Zkontrolujte Možnosti &gt; Filtry souborů, zda je nový filtr zobrazen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12303,6 +12367,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110026Z" creationid="Josef" creationdate="20180324T110026Z">
+        <seg>Zkompilujte jak je to popsáno v návodu Kompilovat OmegaT ze zdrojového kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compile the code</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151304Z" creationid="Josef" creationdate="20180318T151304Z">
@@ -12765,6 +12837,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165432Z" creationid="Josef" creationdate="20180317T164640Z">
         <seg>Copyright (C) &lt;rok&gt; &lt;jméno autora&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2008-2011</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110030Z" creationid="Josef" creationdate="20180324T110030Z">
+        <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -13909,6 +13989,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104107Z" creationid="Josef" creationdate="20180317T104107Z">
         <seg>Výchozí klávesová zkratka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Define the paragraph tags, in this case by changing the line:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105919Z" creationid="Josef" creationdate="20180324T105919Z">
+        <seg>Definujte tagy odstavce, v tomto případě změnou řádku:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17120,6 +17208,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the lines:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110012Z" creationid="Josef" creationdate="20180324T110012Z">
+        <seg>Najděte řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180839Z" creationid="Josef" creationdate="20180317T180839Z">
@@ -19495,6 +19591,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105917Z" creationid="Josef" creationdate="20180324T105917Z">
+        <seg>Určete tag(y) na úrovni odstavce pro váš souborový formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103501Z" creationid="Josef" creationdate="20180317T103501Z">
@@ -21521,6 +21625,30 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105918Z" creationid="Josef" creationdate="20180324T105918Z">
+        <seg>V TMX tag na úrovni odstavce odpovídající segmentu je „tu“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105919Z" creationid="Josef" creationdate="20180324T105919Z">
+        <seg>V TMXDialect.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105955Z" creationid="Josef" creationdate="20180324T105955Z">
+        <seg>V TMXFilter.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134057Z" creationid="Josef" creationdate="20180317T134057Z">
@@ -22067,6 +22195,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110005Z" creationid="Josef" creationdate="20180324T110005Z">
+        <seg>V adresáři /src/org/omegat otevřete v textovém editoru soubor Bundle.properties a hledejte řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134058Z" creationid="Josef" creationdate="20180317T134058Z">
@@ -22093,6 +22229,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163806Z" creationid="Josef" creationdate="20180317T163806Z">
         <seg>V následujícím okně můžete určit, že vybraný jazyk se má použít i v samotné aplikaci OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110011Z" creationid="Josef" creationdate="20180324T110011Z">
+        <seg>V hlavním adresáři zdrojového kódu otevřete v textovém editoru soubor manifest-template.mf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24404,6 +24548,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch the newly compiled version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110026Z" creationid="Josef" creationdate="20180324T110026Z">
+        <seg>Spusťte nově zkompilovanou verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch the script with "wish" followed by the script file name, e.g.:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144622Z" creationid="Josef" creationdate="20180318T144622Z">
@@ -26551,6 +26703,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102031Z" creationid="Josef" creationdate="20180317T102031Z">
         <seg>Název:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110013Z" creationid="Josef" creationdate="20180324T110013Z">
+        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110024Z" creationid="Josef" creationdate="20180324T110024Z">
+        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38497,6 +38665,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filter will however still work if you do not do this.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105945Z" creationid="Josef" creationdate="20180324T105945Z">
+        <seg>Filtr stále bude fungovat stejně, jako kdyby sem nebylo nic vloženo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151149Z" creationid="Josef" creationdate="20180318T151149Z">
@@ -40942,6 +41118,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105942Z" creationid="Josef" creationdate="20180324T105942Z">
+        <seg>Tyto definují subsegmenty které se nacházejí mimo segmentu, ve kterém jsou obsaženy (dobrým příkladem jsou poznámky pod čarou).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151057Z" creationid="Josef" creationdate="20180318T151057Z">
@@ -42382,6 +42566,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105954Z" creationid="Josef" creationdate="20180324T105954Z">
+        <seg>Toto umožní zobrazit soubory TMX ještě úhledněji, ale opět, není to zcela zásadní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152637Z" creationid="Josef" creationdate="20180318T152637Z">
@@ -42630,6 +42822,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110028Z" creationid="Josef" creationdate="20180324T110028Z">
+        <seg>Pro kontrolu, zda pracuje správně, můžete umístit soubor TMX do /source adresáře projektu, nebo (více užitečné) zkuste hledat v souborech TMX: Hledat &gt; Hledat soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181251Z" creationid="Josef" creationdate="20180317T181251Z">
@@ -42750,6 +42950,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this for the TMX filter, insert the line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105942Z" creationid="Josef" creationdate="20180324T105942Z">
+        <seg>K vytvoření takového záznamu ve filtru TMX vložte řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152245Z" creationid="Josef" creationdate="20180318T152245Z">
@@ -42802,6 +43010,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181047Z" creationid="Josef" creationdate="20180317T181047Z">
         <seg>Aby byla kontrola pravopisu aktivní, otevřete &lt;g0&gt;Možnosti &gt; Kontrola pravopisu&lt;/g0&gt; a označte zaškrtávací políčko &lt;g1&gt;Automaticky kontrolovat pravopis textu&lt;/g1&gt; (viz příklad výše).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105918Z" creationid="Josef" creationdate="20180324T105918Z">
+        <seg>Pro určení, co by mělo být jako odstavcový tag, se podívejte na zkušební soubor v textovém editoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47166,6 +47382,22 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define out-of-turn tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105941Z" creationid="Josef" creationdate="20180324T105941Z">
+        <seg>Můžete definovat specifické tagy .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can delete the line:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105938Z" creationid="Josef" creationdate="20180324T105938Z">
+        <seg>Můžete smazat řádek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180606Z" creationid="Josef" creationdate="20180317T180606Z">
@@ -48524,6 +48756,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>as it is irrelevant to TMX, although the new filter will still work if you do not.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105941Z" creationid="Josef" creationdate="20180324T105941Z">
+        <seg>protože nemá v TMX žádné využití, i když nový filtr bude fungovat, i když jej neodstraníte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>asm</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102129Z" creationid="Josef" creationdate="20180317T102129Z">
@@ -48688,6 +48928,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102200Z" creationid="Josef" creationdate="20180317T102200Z">
         <seg>ben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>beneath the line</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105944Z" creationid="Josef" creationdate="20180324T105944Z">
+        <seg>pod řádek</seg>
       </tuv>
     </tu>
     <tu>
@@ -49248,6 +49496,46 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163614Z" creationid="Josef" creationdate="20180317T163614Z">
         <seg>výchozí zarovnání, které je definováno s jazykem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105947Z" creationid="Josef" creationdate="20180324T105947Z">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105943Z" creationid="Josef" creationdate="20180324T105943Z">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105932Z" creationid="Josef" creationdate="20180324T105932Z">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105937Z" creationid="Josef" creationdate="20180324T105937Z">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineShortcut("link", "li");</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105939Z" creationid="Josef" creationdate="20180324T105939Z">
+        <seg>defineShortcut("link", "li");</seg>
       </tuv>
     </tu>
     <tu>
@@ -52934,6 +53222,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105957Z" creationid="Josef" creationdate="20180324T105957Z">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pus</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103721Z" creationid="Josef" creationdate="20180317T103721Z">
@@ -53984,8 +54280,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>to</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T103824Z" creationid="Josef" creationdate="20180317T103824Z">
-        <seg>to</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105935Z" creationid="Josef" creationdate="20180317T103824Z">
+        <seg>na</seg>
       </tuv>
     </tu>
     <tu>
@@ -55051,6 +55347,118 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151712Z" creationid="Josef" creationdate="20180318T151712Z">
         <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105951Z" creationid="Josef" creationdate="20180324T105951Z">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105952Z" creationid="Josef" creationdate="20180324T105952Z">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105949Z" creationid="Josef" creationdate="20180324T105949Z">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105952Z" creationid="Josef" creationdate="20180324T105952Z">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105950Z" creationid="Josef" creationdate="20180324T105950Z">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105950Z" creationid="Josef" creationdate="20180324T105950Z">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105953Z" creationid="Josef" creationdate="20180324T105953Z">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110007Z" creationid="Josef" creationdate="20180324T110007Z">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   OmegaT-Plugin: filter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110019Z" creationid="Josef" creationdate="20180324T110019Z">
+        <seg>   OmegaT-Plugin: filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110010Z" creationid="Josef" creationdate="20180324T110010Z">
+        <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T110003Z" creationid="Josef" creationdate="20180324T110003Z">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105958Z" creationid="Josef" creationdate="20180324T105958Z">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105948Z" creationid="Josef" creationdate="20180324T105948Z">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   });</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105953Z" creationid="Josef" creationdate="20180324T105953Z">
+        <seg>   });</seg>
       </tuv>
     </tu>
     <tu>
