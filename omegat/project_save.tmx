@@ -2202,6 +2202,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063220Z" creationid="Josef" creationdate="20180324T063220Z">
+        <seg>- Regustrujte aplikaci s násedujícími informacemi:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144652Z" creationid="Josef" creationdate="20180318T144652Z">
@@ -54699,6 +54707,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T152337Z" creationid="Josef" creationdate="20180323T152337Z">
         <seg>java -jar OmegaT.jar resource-bundle=[jméno balíčku s celou cestou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063253Z" creationid="Josef" creationdate="20180324T063253Z">
+        <seg>   - Klientské ID: jakýkoliv řetězec ex.) my_clientid1&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
