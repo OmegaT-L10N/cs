@@ -54951,6 +54951,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T065024Z" creationid="Josef" creationdate="20180324T065024Z">
+        <seg>   - Pokud nalzenete hlášení obsahující </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064308Z" creationid="Josef" creationdate="20180324T064308Z">
