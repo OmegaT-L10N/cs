@@ -2442,6 +2442,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105809Z" creationid="Josef" creationdate="20180324T105809Z">
+        <seg>- Svůj měsíční limit pro použití strojového překladu můžete zkontrolovat ve svém účtu po přihlášení na nahoře zmíněnou stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T154550Z" creationid="Josef" creationdate="20180323T154413Z">
@@ -3457,6 +3465,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163506Z" creationid="Josef" creationdate="20180317T163506Z">
         <seg>S programem &lt;a0&gt;OmegaT&lt;/a0&gt; můžete překládat soubory mnoha formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105736Z" creationid="Josef" creationdate="20180324T105736Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12801,6 +12817,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105901Z" creationid="Josef" creationdate="20180324T105901Z">
+        <seg>Autorská práva Will Helton a Japonský lokalizační tým OmegaT 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright information</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T152643Z" creationid="Josef" creationdate="20180323T152643Z">
@@ -19139,6 +19163,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190609Z" creationid="Josef" creationdate="20180317T190609Z">
         <seg>Jak překládat soubory Wordpress XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105732Z" creationid="Josef" creationdate="20180324T105732Z">
+        <seg>Jak se dozvím, kdy prekročím svůj měsíční limit?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36989,6 +37021,14 @@ control those activities.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105838Z" creationid="Josef" creationdate="20180324T105838Z">
+        <seg>Pole "Status" ukazuje limit jako např. "Zbývá 1 998 890 znaků".&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "System Libraries" of an executable work include anything, other
 than the work as a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part of that Major
@@ -41212,6 +41252,14 @@ the server.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151220Z" creationid="Josef" creationdate="20180318T151220Z">
         <seg>Tento návod ukáže jak na použití OmegaT ve spojení s CAT nástrojem Déjà Vu, jehož autorem je společnost Atril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105902Z" creationid="Josef" creationdate="20180324T105902Z">
+        <seg>Tento návod popisuje vytvoření nového filtru pro použití v OmegaT, příklad bude demonstrován na vytvoření základního filtru pro formát TMX.</seg>
       </tuv>
     </tu>
     <tu>
