@@ -214,6 +214,30 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064603Z" creationid="Josef" creationdate="20180324T064603Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064700Z" creationid="Josef" creationdate="20180324T064700Z">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># MyMemory email</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T170001Z" creationid="Josef" creationdate="20180317T170001Z">
@@ -2122,6 +2146,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064615Z" creationid="Josef" creationdate="20180324T064615Z">
+        <seg>- Po úpravě OmegaT.l4J.ini (kde Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064447Z" creationid="Josef" creationdate="20180324T064447Z">
@@ -2134,6 +2166,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T154540Z" creationid="Josef" creationdate="20180323T154348Z">
         <seg>- Po přihlášení do účtu Microsoft Azure Marketplace můžete získat typ přihlášení k používání překladače Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064602Z" creationid="Josef" creationdate="20180324T064602Z">
+        <seg>- Před úpravou souboru OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,10 +2250,42 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064545Z" creationid="Josef" creationdate="20180324T064545Z">
+        <seg>- Najděte soubor OmegaT.I4J.ini (v programovém adresáři OmegaT) a upravte následující řádky ve svém editoru prostého textu:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064507Z" creationid="Josef" creationdate="20180324T064507Z">
+        <seg>- OmegaT používá k identifikaci "Client ID" a "Client secret" dle vaší registrace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T063220Z" creationid="Josef" creationdate="20180324T063220Z">
         <seg>- Regustrujte aplikaci s násedujícími informacemi:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064659Z" creationid="Josef" creationdate="20180324T064659Z">
+        <seg>- Odstraňte "#" na začátku řádků a nahraďte "xxxxx" vaší identifikací "Client ID" a heslem "Client secret".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064710Z" creationid="Josef" creationdate="20180324T064710Z">
+        <seg>- Uložte  OmegaT.l4J.ini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3449,6 +3521,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163639Z" creationid="Josef" creationdate="20180317T163639Z">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064546Z" creationid="Josef" creationdate="20180324T064546Z">
+        <seg>&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
