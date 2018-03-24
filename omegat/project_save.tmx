@@ -2266,6 +2266,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105713Z" creationid="Josef" creationdate="20180324T105713Z">
+        <seg>- Ctrl+M (nebo Command+M na Macu) nahradí současný překlad segmentu výsledkem strojového překladu.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064753Z" creationid="Josef" creationdate="20180324T064753Z">
