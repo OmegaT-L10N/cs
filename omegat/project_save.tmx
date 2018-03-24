@@ -54953,8 +54953,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180324T065024Z" creationid="Josef" creationdate="20180324T065024Z">
-        <seg>   - Pokud nalzenete hlášení obsahující </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T105624Z" creationid="Josef" creationdate="20180324T065024Z">
+        <seg>   - Pokud nalzenete hlášení obsahující "Bad Request" / "Nesprávný dotaz" v okně Strojový překlad, zkontrolujte jestli jsou zadané správně hodnoty pro přihlášení "Client ID" a heslo "Client secret".&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
