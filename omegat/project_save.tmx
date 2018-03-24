@@ -20950,8 +20950,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T154510Z" creationid="Josef" creationdate="20180323T154510Z">
-        <seg>Pokud chcete vybrat základní typ přihlášení (zdarma, do 2 milionů znaků za měsíc), klikněte na [SIGN UP] nahoře u výběru typu přihlášení.&lt;br8/&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063438Z" creationid="Josef" creationdate="20180323T154510Z">
+        <seg>Pokud chcete vybrat základní typ přihlášení (zdarma, do 2 milionů znaků za měsíc), klikněte na [SIGN UP] / [ZAREGISTRUJTE SE] nahoře u výběru typu přihlášení.&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
