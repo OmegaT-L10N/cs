@@ -2122,6 +2122,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064447Z" creationid="Josef" creationdate="20180324T064447Z">
+        <seg>- Po zaregistrování zkontrolujte, zda je vaše aplikace zobrazena na stránce "Registered Applications".&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T154540Z" creationid="Josef" creationdate="20180323T154348Z">
@@ -2148,8 +2156,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180323T154612Z" creationid="Josef" creationdate="20180323T154612Z">
-        <seg>- Klikněte na [My Account] v horní části stránky.&lt;br0/&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T063500Z" creationid="Josef" creationdate="20180323T154612Z">
+        <seg>- Klikněte na [My Account] / [Můj účet] v horní části stránky.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,6 +3293,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064449Z" creationid="Josef" creationdate="20180324T064449Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151129Z" creationid="Josef" creationdate="20180318T151129Z">
@@ -3433,6 +3449,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163639Z" creationid="Josef" creationdate="20180317T163639Z">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064448Z" creationid="Josef" creationdate="20180324T064448Z">
+        <seg>&lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54715,6 +54739,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T063253Z" creationid="Josef" creationdate="20180324T063253Z">
         <seg>   - Klientské ID: jakýkoliv řetězec ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064335Z" creationid="Josef" creationdate="20180324T064335Z">
+        <seg>   - Klientské heslo: Použijte řetězec, který je zobrazen ve výchozím nastavení&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064308Z" creationid="Josef" creationdate="20180324T064308Z">
+        <seg>   - Jméno: jakýkoliv řetězec ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064414Z" creationid="Josef" creationdate="20180324T064414Z">
+        <seg>   - Přesměrovávací URI: Jakákoliv URI: (neplatná URL, je požadována při používání Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
