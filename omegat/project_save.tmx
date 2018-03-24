@@ -227,6 +227,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     <tu>
       <tuv lang="EN">
         <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064807Z" creationid="Josef" creationdate="20180324T064807Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
 -Dmicrosoft.api.client_id=my_clientid1
 -Dmicrosoft.api.client_secret=your Client secret</seg>
       </tuv>
@@ -234,6 +246,18 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
         <seg># Microsoft Translator credentials
 -Dmicrosoft.api.client_id=my_clientid1
 -Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064819Z" creationid="Josef" creationdate="20180324T064819Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2178,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064817Z" creationid="Josef" creationdate="20180324T064817Z">
+        <seg>- Po úpravě OmegaT.sh (kde Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064447Z" creationid="Josef" creationdate="20180324T064447Z">
@@ -2174,6 +2206,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064602Z" creationid="Josef" creationdate="20180324T064602Z">
         <seg>- Před úpravou souboru OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064806Z" creationid="Josef" creationdate="20180324T064806Z">
+        <seg>- Před úpravou souboru OmegaT.sh&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2246,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T063128Z" creationid="Josef" creationdate="20180324T063128Z">
         <seg>- Klikněte na [REGISTER] jak vidíte pod "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064753Z" creationid="Josef" creationdate="20180324T064753Z">
+        <seg>- Najděte soubor OmegaT.app/Contents/MacOS/OmegaT.sh a upravte následujcí řádky ve svém editoru prostého textu:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,10 +2330,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064724Z" creationid="Josef" creationdate="20180324T064724Z">
+        <seg>Pravý klik na OmegaT.app a vyberte „Show Package Contents“ [„Zobrazit obsah balíčku“].&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Save OmegaT.l4J.ini.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064710Z" creationid="Josef" creationdate="20180324T064710Z">
         <seg>- Uložte  OmegaT.l4J.ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064823Z" creationid="Josef" creationdate="20180324T064823Z">
+        <seg>- Uložit OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
