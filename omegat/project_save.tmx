@@ -2170,6 +2170,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064850Z" creationid="Josef" creationdate="20180324T064850Z">
+        <seg>- Přidejte následující možnosti při spouštění OmegaT (kde Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064615Z" creationid="Josef" creationdate="20180324T064615Z">
@@ -2222,6 +2230,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T152811Z" creationid="Josef" creationdate="20180323T152811Z">
         <seg>- Při použití klíče Microsoft Translator API můžete využít strojový překlad Microsoft Translator v okně Strojový překlad v rámci OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064934Z" creationid="Josef" creationdate="20180324T064934Z">
+        <seg>- Zkontrolujte [Microsoft Translator]&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064919Z" creationid="Josef" creationdate="20180324T064919Z">
+        <seg>- Spusťte OmegaT a otevřete svůj projekt.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T064545Z" creationid="Josef" creationdate="20180324T064545Z">
@@ -2354,6 +2378,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064924Z" creationid="Josef" creationdate="20180324T064924Z">
+        <seg>- Vyberte Možnosti &gt; Strojový překlad&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144652Z" creationid="Josef" creationdate="20180318T144652Z">
@@ -2390,6 +2422,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T153448Z" creationid="Josef" creationdate="20180323T152853Z">
         <seg>- Abyste mohli použít klíč Microsoft Translator API, musíte registrovat svou aplikaci v obchodě Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T065002Z" creationid="Josef" creationdate="20180324T065002Z">
+        <seg>- Když označíte jakýkoliv segment, pak bude jeho překlad zobrazen v okně Strojový překlad apliakace OmegaT.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45010,6 +45050,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064910Z" creationid="Josef" creationdate="20180324T064910Z">
+        <seg>Použití nástroje Microsoft Translator v OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185957Z" creationid="Josef" creationdate="20180317T185957Z">
@@ -51010,6 +51058,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152002Z" creationid="Josef" creationdate="20180318T152002Z">
         <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180324T064853Z" creationid="Josef" creationdate="20180324T064853Z">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
