@@ -2815,6 +2815,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-align</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111420Z" creationid="Josef" creationdate="20180325T111420Z">
+        <seg>--mode=console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111417Z" creationid="Josef" creationdate="20180325T111417Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111416Z" creationid="Josef" creationdate="20180325T111416Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-translate \</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180520Z" creationid="Josef" creationdate="20180317T180520Z">
@@ -2845,6 +2869,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164221Z" creationid="Josef" creationdate="20180317T164221Z">
         <seg>--output-tag-validation-={regulární výraz}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111419Z" creationid="Josef" creationdate="20180325T111419Z">
+        <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,6 +4241,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164117Z" creationid="Josef" creationdate="20180317T164117Z">
         <seg>&lt;e0&gt;-Dhttp.proxyPort=NNNN&lt;/e0&gt; &lt;i1/&gt; Číslo portu, který váš systém používá pro přístup k proxy serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111412Z" creationid="Josef" creationdate="20180325T111412Z">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,6 +8246,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111504Z" creationid="Josef" creationdate="20180325T111504Z">
+        <seg>Soubor Déjà Vu „External View“ odpovídá svou stavbou souboru RTF, který obsahuje vícesloupcovou tabulku, včetně sloupce pro zdrojový a cílový text, ve kterém každý segment zabírá buňku tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T095805Z">
@@ -11466,6 +11514,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111319Z" creationid="Josef" creationdate="20180325T111319Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102148Z" creationid="Josef" creationdate="20180317T102148Z">
@@ -11993,6 +12049,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111301Z" creationid="Josef" creationdate="20180325T111301Z">
+        <seg>Vydal Leo Viëtor (holandsky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144730Z" creationid="Josef" creationdate="20180318T144730Z">
@@ -12227,6 +12291,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101609Z" creationid="Josef" creationdate="20180317T101609Z">
         <seg>A&amp;ktuální cílový dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111320Z" creationid="Josef" creationdate="20180325T111320Z">
+        <seg>CJ Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,6 +13747,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102423Z" creationid="Josef" creationdate="20180317T102423Z">
         <seg>Potvrzuji cílové soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111321Z" creationid="Josef" creationdate="20180325T111321Z">
+        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -16053,6 +16133,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111321Z" creationid="Josef" creationdate="20180325T111321Z">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102846Z" creationid="Josef" creationdate="20180317T102846Z">
@@ -16081,6 +16169,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151711Z" creationid="Josef" creationdate="20180318T151711Z">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111322Z" creationid="Josef" creationdate="20180325T111322Z">
+        <seg>Diptik</seg>
       </tuv>
     </tu>
     <tu>
@@ -16709,6 +16805,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111322Z" creationid="Josef" creationdate="20180325T111322Z">
+        <seg>Doublet KK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145501Z" creationid="Josef" creationdate="20180318T145501Z">
@@ -16785,6 +16889,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180126Z" creationid="Josef" creationdate="20180317T180126Z">
         <seg>Stáhnout týmový projekt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111531Z" creationid="Josef" creationdate="20180325T111531Z">
+        <seg>Stáhněte a instalujte Java Development Kit (JDK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17164,6 +17276,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164607Z" creationid="Josef" creationdate="20180317T164607Z">
         <seg>Each version is given a distinguishing version number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111618Z" creationid="Josef" creationdate="20180325T111618Z">
+        <seg>Dřívější verze OmegaT vyžaduje &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19190,6 +19310,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111602Z" creationid="Josef" creationdate="20180325T111602Z">
+        <seg>Pro OmegaT 4.0 a novější už není zapotřebí žádný dodatečný software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133723Z" creationid="Josef" creationdate="20180317T133723Z">
@@ -20319,6 +20447,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genua</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111323Z" creationid="Josef" creationdate="20180325T111323Z">
+        <seg>Genua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102318Z" creationid="Josef" creationdate="20180317T102318Z">
@@ -20755,6 +20891,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134236Z" creationid="Josef" creationdate="20180317T134236Z">
         <seg>Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111324Z" creationid="Josef" creationdate="20180325T111324Z">
+        <seg>Grup de Recerca Tradumàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -24673,6 +24817,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111503Z" creationid="Josef" creationdate="20180325T111503Z">
+        <seg>Stejným způsobem mohou uživatelé CAT nástrojů, včetně OmegaT, kteří nevlastní Déjà Vu, překládat soubory předpřipravené uživately Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180244Z" creationid="Josef" creationdate="20180317T180244Z">
@@ -25405,6 +25557,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111325Z" creationid="Josef" creationdate="20180325T111325Z">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T190452Z">
@@ -25545,6 +25705,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084903Z" creationid="Josef" creationdate="20180317T084903Z">
         <seg>Neplatný typ úložiště: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111325Z" creationid="Josef" creationdate="20180325T111325Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -25793,6 +25961,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T190310Z">
         <seg>Nepřekládá za vás!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111511Z" creationid="Josef" creationdate="20180325T111511Z">
+        <seg>Editorům, kteří nevlastní Déjà Vu, je tak umožněno upravovat překlady vytvořené v Déjà Vu takovým způsobem, že změny mohou být snadno znovu začleněny do projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,6 +26698,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Julian Rippon</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111326Z" creationid="Josef" creationdate="20180325T111326Z">
+        <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084803Z" creationid="Josef" creationdate="20180317T084803Z">
@@ -26746,6 +26930,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kilgray</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111327Z" creationid="Josef" creationdate="20180325T111327Z">
+        <seg>Kilgray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kinyarwanda</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103531Z" creationid="Josef" creationdate="20180317T103531Z">
@@ -26838,6 +27030,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T111239Z" creationid="Josef" creationdate="20180325T111239Z">
         <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111342Z" creationid="Josef" creationdate="20180325T111342Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -31750,6 +31950,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111315Z" creationid="Josef" creationdate="20180325T111315Z">
+        <seg>OmegaT na Wikipedii v &lt;s0&gt;25 jazycích&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133818Z" creationid="Josef" creationdate="20180317T133818Z">
@@ -33249,6 +33457,22 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111348Z" creationid="Josef" creationdate="20180325T111348Z">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111342Z" creationid="Josef" creationdate="20180325T111342Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T084934Z" creationid="Josef" creationdate="20180317T084934Z">
@@ -34030,6 +34254,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102406Z" creationid="Josef" creationdate="20180317T102406Z">
         <seg>Formátování Pop Directional (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111327Z" creationid="Josef" creationdate="20180325T111327Z">
+        <seg>Portavita</seg>
       </tuv>
     </tu>
     <tu>
@@ -35027,6 +35259,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111329Z" creationid="Josef" creationdate="20180325T111329Z">
+        <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102746Z" creationid="Josef" creationdate="20180317T102746Z">
@@ -35095,6 +35335,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163552Z" creationid="Josef" creationdate="20180317T163546Z">
         <seg>RELAX NG schema pro XML (*.rng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111432Z" creationid="Josef" creationdate="20180325T111432Z">
+        <seg>RTF (Rich Text Format):</seg>
       </tuv>
     </tu>
     <tu>
@@ -35231,6 +35479,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102454Z" creationid="Josef" creationdate="20180317T102454Z">
         <seg>Rekurzi&amp;vní hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111428Z" creationid="Josef" creationdate="20180325T111428Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -41338,6 +41594,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111542Z" creationid="Josef" creationdate="20180325T111542Z">
+        <seg>Je vyžadován &lt;a0&gt;Java Development Kit&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181107Z" creationid="Josef" creationdate="20180317T181107Z">
@@ -41500,6 +41764,14 @@ Source.</seg>
         <seg>The Corresponding Source need not include anything that users
 can regenerate automatically from other parts of the Corresponding
 Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111444Z" creationid="Josef" creationdate="20180325T111444Z">
+        <seg>Formát souborů „External View“ („Externí náhled“) v Déjà Vu představuje budoucnost formátu Déjà Vu DVX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46033,6 +46305,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101851Z" creationid="Josef" creationdate="20180317T101851Z">
         <seg>Toto hlášení MUSÍ být provedeno v swing thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111442Z" creationid="Josef" creationdate="20180325T111442Z">
+        <seg>Toho lze dosáhnout (pro Déjà Vu DVX) použitím souborového formátu „External Views“ v Déjà Vu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50579,6 +50859,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111329Z" creationid="Josef" creationdate="20180325T111329Z">
+        <seg>Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144849Z" creationid="Josef" creationdate="20180318T144849Z">
@@ -53220,6 +53508,14 @@ Finder window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111707Z" creationid="Josef" creationdate="20180325T111707Z">
+        <seg>Možná budete muset nastavit proměnnou prostředí &lt;c0&gt;JAVA_HOME&lt;/c0&gt; aby směřovala na umístění JDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may make, run and propagate covered works that you do not
 convey, without conditions so long as your license otherwise remains
 in force.</seg>
@@ -54533,6 +54829,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111320Z" creationid="Josef" creationdate="20180325T111320Z">
+        <seg>cApStAn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102222Z" creationid="Josef" creationdate="20180317T102222Z">
@@ -55129,6 +55433,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164525Z" creationid="Josef" creationdate="20180317T164525Z">
         <seg>e) Declining to grant rights under trademark law for use of some</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111323Z" creationid="Josef" creationdate="20180325T111323Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -56085,6 +56397,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111409Z" creationid="Josef" creationdate="20180325T111409Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134046Z" creationid="Josef" creationdate="20180317T134046Z">
@@ -56341,6 +56661,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111404Z" creationid="Josef" creationdate="20180325T111404Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133822Z" creationid="Josef" creationdate="20180317T133822Z">
@@ -56401,6 +56729,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180628Z" creationid="Josef" creationdate="20180317T180628Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111410Z" creationid="Josef" creationdate="20180325T111410Z">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
@@ -56521,6 +56857,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104018Z" creationid="Josef" creationdate="20180317T104018Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111358Z" creationid="Josef" creationdate="20180325T111358Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
@@ -58239,6 +58583,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111356Z" creationid="Josef" creationdate="20180325T111356Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144904Z" creationid="Josef" creationdate="20180318T144904Z">
@@ -58327,6 +58679,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111352Z" creationid="Josef" creationdate="20180325T111352Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104505Z" creationid="Josef" creationdate="20180317T104505Z">
@@ -58383,10 +58743,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111354Z" creationid="Josef" creationdate="20180325T111354Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104500Z" creationid="Josef" creationdate="20180317T104500Z">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111353Z" creationid="Josef" creationdate="20180325T111353Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -58427,6 +58803,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104515Z" creationid="Josef" creationdate="20180317T104515Z">
         <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111351Z" creationid="Josef" creationdate="20180325T111351Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -60716,6 +61100,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103904Z" creationid="Josef" creationdate="20180317T103904Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111330Z" creationid="Josef" creationdate="20180325T111330Z">
+        <seg>weLocalize</seg>
       </tuv>
     </tu>
     <tu>
