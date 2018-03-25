@@ -5336,16 +5336,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180134Z" creationid="Josef" creationdate="20180317T180134Z">
-        <seg>Ctrl+D</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112725Z" creationid="Josef" creationdate="20180317T180134Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180135Z" creationid="Josef" creationdate="20180317T180135Z">
-        <seg>Ctrl+E</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112731Z" creationid="Josef" creationdate="20180317T180135Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,8 +5432,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180133Z" creationid="Josef" creationdate="20180317T180133Z">
-        <seg>Ctrl+S</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112735Z" creationid="Josef" creationdate="20180317T180133Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5472,8 +5472,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+T&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180426Z" creationid="Josef" creationdate="20180317T180426Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112813Z" creationid="Josef" creationdate="20180317T180426Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+T&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5488,8 +5488,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180135Z" creationid="Josef" creationdate="20180317T180135Z">
-        <seg>Ctrl+Shift+D</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112743Z" creationid="Josef" creationdate="20180317T180135Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5568,8 +5568,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180132Z" creationid="Josef" creationdate="20180317T180132Z">
-        <seg>Ctrl+Shift+W</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112719Z" creationid="Josef" creationdate="20180317T180132Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5632,8 +5632,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180447Z" creationid="Josef" creationdate="20180317T180447Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112818Z" creationid="Josef" creationdate="20180317T180447Z">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,8 +17394,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180907Z" creationid="Josef" creationdate="20180317T180907Z">
-        <seg>Upravit &gt; Vložit zdroj (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt;): vloží zdrojový text aktuálního segmentu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112828Z" creationid="Josef" creationdate="20180317T180907Z">
+        <seg>Upravit &gt; Vložit zdroj (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): vloží zdrojový text aktuálního segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30993,8 +30993,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180338Z" creationid="Josef" creationdate="20180317T180338Z">
-        <seg>Poznámka: v tomto případě, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; můžete stále použít k tomu, aby se zaktivoval dotaz na strojový překlad v již přeloženém segmentu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112805Z" creationid="Josef" creationdate="20180317T180338Z">
+        <seg>Poznámka: v tomto případě, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;můžete stále použít k tomu, aby se zaktivoval dotaz na strojový překlad v již přeloženém segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34631,8 +34631,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T180230Z" creationid="Josef" creationdate="20180317T180230Z">
-        <seg>Stisknutí &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; zobrazí poslední již otevřené okno Hledat (místo aby se otevřeno nové).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112755Z" creationid="Josef" creationdate="20180317T180230Z">
+        <seg>Stisknutí &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;zobrazí poslední již otevřené okno Hledat (místo aby se otevřeno nové).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52006,8 +52006,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T164243Z" creationid="Josef" creationdate="20180317T164243Z">
-        <seg>Po přeložení celého segmentu stiskem &lt;k0&gt;Ctrl+U&lt;/k0&gt; přejdete na další nepřeložený segment (nebo stiskem &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;přejděte na další přeložený segment segment).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112708Z" creationid="Josef" creationdate="20180317T164243Z">
+        <seg>Pokaždé kdy chcete vidět jak bude vypadat váš překlad ve finálním formátu, stistkněte &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro vygenerování přeložených dokumentů, které budou vytvořeny v podadresáři &lt;f3&gt;/target/&lt;/f3&gt; ve vašem projektu.</seg>
       </tuv>
     </tu>
     <tu>
