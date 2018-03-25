@@ -23695,8 +23695,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T181045Z" creationid="Josef" creationdate="20180317T181045Z">
-        <seg>Pokud pak třeba máte k dispozici slovník se standardní španělštinou, označené např. ‚es_es.dic‘ and ‚es_es.aff‘, můžete je přejmenovat na ‚es_MX.dic‘ a ‚es_MX.aff‘ a kontrola pravopisu budu fungovat. </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T135915Z" creationid="Josef" creationdate="20180317T181045Z">
+        <seg>Pokud pak třeba máte k dispozici slovník se standardní španělštinou, označené např. ‚es_es.dic‘ and ‚es_es.aff‘, můžete je přejmenovat na ‚es_MX.dic‘ a ‚es_MX.aff‘ a kontrola pravopisu bude fungovat. </seg>
       </tuv>
     </tu>
     <tu>
@@ -39976,7 +39976,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spell checker</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T181034Z" creationid="Josef" creationdate="20180317T181034Z">
+      <tuv lang="CS" changeid="Josef" changedate="20180325T135822Z" creationid="Josef" creationdate="20180317T181034Z">
         <seg>Kontrola pravopisu</seg>
       </tuv>
     </tu>
