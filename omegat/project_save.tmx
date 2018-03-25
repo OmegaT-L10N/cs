@@ -12914,8 +12914,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180325T141958Z" creationid="Josef" creationdate="20180317T181046Z">
-        <seg>Nic2méně zkontrolujte, zda jazykový kód je naprosto stejný: například slovník FR-FR nebude fungovat při nastavení překladu jako FR.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T142155Z" creationid="Josef" creationdate="20180317T181046Z">
+        <seg>Nicméně zkontrolujte, zda jazykový kód je naprosto stejný: například slovník FR-FR nebude fungovat při nastavení překladu jako FR.</seg>
       </tuv>
     </tu>
     <tu>
