@@ -1880,6 +1880,30 @@ znak '?'  představuje přesně jeden znak ('run?' najde 'runs' a 'rung', ale ne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112321Z" creationid="Josef" creationdate="20180325T112321Z">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112321Z" creationid="Josef" creationdate="20180325T112321Z">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112323Z" creationid="Josef" creationdate="20180325T112323Z">
+        <seg>'&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'?' matches any single character.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180910Z" creationid="Josef" creationdate="20180317T180910Z">
@@ -3373,6 +3397,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3a.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112009Z" creationid="Josef" creationdate="20180325T112009Z">
+        <seg>3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3b.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112118Z" creationid="Josef" creationdate="20180325T112118Z">
+        <seg>3b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164403Z" creationid="Josef" creationdate="20180317T164403Z">
@@ -3409,6 +3449,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164404Z" creationid="Josef" creationdate="20180317T164404Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112332Z" creationid="Josef" creationdate="20180325T112332Z">
+        <seg>5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,6 +3657,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T104337Z" creationid="Josef" creationdate="20180325T104337Z">
         <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112317Z" creationid="Josef" creationdate="20180325T112253Z">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (nenákladný)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112313Z" creationid="Josef" creationdate="20180325T112304Z">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (zdrama)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +10898,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As already mentioned, this problem with MS Word is not unique to OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112226Z" creationid="Josef" creationdate="20180325T112226Z">
+        <seg>Jak již bylo zmíněno, tento problém s MS Word se nevyskytuje výhradně u OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152508Z" creationid="Josef" creationdate="20180318T152508Z">
@@ -12291,6 +12363,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101609Z" creationid="Josef" creationdate="20180317T101609Z">
         <seg>A&amp;ktuální cílový dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112004Z" creationid="Josef" creationdate="20180325T112004Z">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
     </tu>
     <tu>
@@ -17672,6 +17752,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112327Z" creationid="Josef" creationdate="20180325T112327Z">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Sub&lt;br28/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151734Z" creationid="Josef" creationdate="20180318T151734Z">
@@ -20259,6 +20347,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144725Z" creationid="Josef" creationdate="20180318T144725Z">
         <seg>Ze série videí na YouTube o OmegaT, autor Miguel Navarro (španělsky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112003Z" creationid="Josef" creationdate="20180325T112003Z">
+        <seg>Uvnitř kořenového adresáře proveďte Apache Ant vložením ant executable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22878,6 +22974,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111819Z" creationid="Josef" creationdate="20180325T111819Z">
+        <seg>Pokud to je vše, co vás zajímá, můžete přeskočit na krok 3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T133941Z" creationid="Josef" creationdate="20180317T133941Z">
@@ -24751,6 +24855,30 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T110005Z" creationid="Josef" creationdate="20180324T110005Z">
         <seg>V adresáři /src/org/omegat otevřete v textovém editoru soubor Bundle.properties a hledejte řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112138Z" creationid="Josef" creationdate="20180325T112138Z">
+        <seg>V adresáři &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; otevřete soubor &lt;c1&gt;OConsts.java&lt;/c1&gt; v textovém editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112033Z" creationid="Josef" creationdate="20180325T112033Z">
+        <seg>V adresáři &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; otevřete soubor &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; v textovém editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112103Z" creationid="Josef" creationdate="20180325T112103Z">
+        <seg>V adresáři &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; otevřete soubor &lt;c1&gt;Styles.java&lt;/c1&gt; v textovém editoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29843,6 +29971,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111737Z" creationid="Josef" creationdate="20180325T111737Z">
+        <seg>Přejděte do kořene zdrojového kódu OmegaT (adresář obsahující soubor &lt;c0&gt;build.gradle&lt;/c0&gt;), např.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103637Z" creationid="Josef" creationdate="20180317T103637Z">
@@ -31287,6 +31423,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111914Z" creationid="Josef" creationdate="20180325T111914Z">
+        <seg>Starší verze OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184441Z" creationid="Josef" creationdate="20180317T184441Z">
@@ -31315,6 +31459,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180546Z" creationid="Josef" creationdate="20180317T180546Z">
         <seg>OmegaT 3.5 - Uživatelská příručka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111748Z" creationid="Josef" creationdate="20180325T111748Z">
+        <seg>OmegaT 4.0 nebo novější</seg>
       </tuv>
     </tu>
     <tu>
@@ -32023,6 +32175,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112413Z" creationid="Josef" creationdate="20180325T112413Z">
+        <seg>Nastavení OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151458Z" creationid="Josef" creationdate="20180318T151458Z">
@@ -32325,6 +32485,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134252Z" creationid="Josef" creationdate="20180317T134252Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112007Z" creationid="Josef" creationdate="20180325T112007Z">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -34727,6 +34895,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112405Z" creationid="Josef" creationdate="20180325T112405Z">
+        <seg>Vytvořte snímek obrazovky OmegaT ve vašem jazyce (po přeložení uživatelského prostředí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Professional features</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105942Z" creationid="Josef" creationdate="20180325T105942Z">
@@ -36139,6 +36315,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112117Z" creationid="Josef" creationdate="20180325T112117Z">
+        <seg>a nahraďte  &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; tímto &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; a &lt;c2&gt;192, 255, 192&lt;/c2&gt; tímto &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181210Z" creationid="Josef" creationdate="20180317T181210Z">
@@ -36585,6 +36769,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T061853Z">
         <seg>Recenze OmegaT, 2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112440Z" creationid="Josef" creationdate="20180325T112440Z">
+        <seg>Recenze OmegaT, 2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -38437,6 +38629,62 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T061411Z">
         <seg>Výběr alternativních ikon pro užití s OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112326Z" creationid="Josef" creationdate="20180325T112326Z">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112326Z" creationid="Josef" creationdate="20180325T112326Z">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112326Z" creationid="Josef" creationdate="20180325T112326Z">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112325Z" creationid="Josef" creationdate="20180325T112325Z">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112329Z" creationid="Josef" creationdate="20180325T112329Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112327Z" creationid="Josef" creationdate="20180325T112327Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112330Z" creationid="Josef" creationdate="20180325T112330Z">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
       </tuv>
     </tu>
     <tu>
@@ -44438,6 +44686,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111910Z" creationid="Josef" creationdate="20180325T111910Z">
+        <seg>Výsledky se budou nacházet v &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102038Z" creationid="Josef" creationdate="20180317T102038Z">
@@ -46055,6 +46311,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party tools have been produced to deal with the problem.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112249Z" creationid="Josef" creationdate="20180325T112249Z">
+        <seg>Existují nástroje třetích stran aby si s tímto problémem poradily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164433Z" creationid="Josef" creationdate="20180317T164433Z">
@@ -46513,6 +46777,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181149Z" creationid="Josef" creationdate="20180317T181149Z">
         <seg>Toto umožňuje v aplikaci OmegaT používat překladové paměti vytvořené jinými nástroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112436Z" creationid="Josef" creationdate="20180325T112436Z">
+        <seg>Toto zajišťuje zachování zájmů uživatelů a také ústí v zachování záruky aplikace OmegaT: &lt;a0&gt;Softpedia „100% zdrama“&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47691,6 +47963,14 @@ computer or modifying a private copy.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T101929Z" creationid="Josef" creationdate="20180317T101929Z">
         <seg>Abyste se ujistili, že se neztratila žádná část překladu, potřebujete:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To build the OmegaT program and all associated files, instead do</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111854Z" creationid="Josef" creationdate="20180325T111842Z">
+        <seg>Pro sestavení programu OmegaT a všech asociovaných souborů, udělejte místot toho</seg>
       </tuv>
     </tu>
     <tu>
@@ -49236,6 +49516,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103832Z" creationid="Josef" creationdate="20180317T103832Z">
         <seg>Ťwiština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two of these are:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112252Z" creationid="Josef" creationdate="20180325T112252Z">
+        <seg>Dva z nich jsou:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53163,6 +53451,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111805Z" creationid="Josef" creationdate="20180325T111805Z">
+        <seg>Můžete spustit OmegaT přímo z příkazového řádku příkazem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181400Z" creationid="Josef" creationdate="20180317T181400Z">
@@ -54213,6 +54509,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>___________________</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112328Z" creationid="Josef" creationdate="20180325T112328Z">
+        <seg>___________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112319Z" creationid="Josef" creationdate="20180325T112319Z">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a language-independent machine translation engine</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T165955Z" creationid="Josef" creationdate="20180317T165955Z">
@@ -54429,6 +54741,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112156Z" creationid="Josef" creationdate="20180325T112156Z">
+        <seg>a nahraďte &lt;c0&gt;= 5&lt;/c0&gt; tímto &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112045Z" creationid="Josef" creationdate="20180325T112045Z">
+        <seg>a nahraďte  &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; tímto &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181559Z" creationid="Josef" creationdate="20180317T181555Z">
@@ -54585,6 +54913,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102147Z" creationid="Josef" creationdate="20180317T102147Z">
         <seg>aze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b = Styles.COLOR_GREEN;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112036Z" creationid="Josef" creationdate="20180325T112036Z">
+        <seg>b = Styles.COLOR_GREEN;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54913,6 +55249,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144622Z" creationid="Josef" creationdate="20180318T144622Z">
         <seg>cd C:\Dokumenty a Nastavení\Jméno Uživatele\Data aplikací\OmegaT\script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111739Z" creationid="Josef" creationdate="20180325T111739Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112008Z" creationid="Josef" creationdate="20180325T112008Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -56149,6 +56501,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew installDist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111843Z" creationid="Josef" creationdate="20180325T111843Z">
+        <seg>gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T111806Z" creationid="Josef" creationdate="20180325T111806Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180819Z" creationid="Josef" creationdate="20180317T180819Z">
@@ -57121,6 +57489,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T134012Z" creationid="Josef" creationdate="20180317T134012Z">
         <seg>položky seznamu, záložky, odkazy na záložky, poznámky, komentáře, poznámky k prezentaci, linky (URL), jména listů tabulkového procesoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix1.png</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112335Z" creationid="Josef" creationdate="20180325T112335Z">
+        <seg>infix1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix2.png</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112337Z" creationid="Josef" creationdate="20180325T112337Z">
+        <seg>infix2.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -59479,6 +59863,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112106Z" creationid="Josef" creationdate="20180325T112106Z">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112159Z" creationid="Josef" creationdate="20180325T112159Z">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pus</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103721Z" creationid="Josef" creationdate="20180317T103721Z">
@@ -59611,6 +60011,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181231Z" creationid="Josef" creationdate="20180317T181231Z">
         <seg>obnoví nastavení vzhledu před krokem maximalizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180325T112035Z" creationid="Josef" creationdate="20180325T112035Z">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
       </tuv>
     </tu>
     <tu>
