@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_10357M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14558,6 +14558,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102834Z" creationid="Josef" creationdate="20180317T102834Z">
         <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk a další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Vera Lavrinenko" changedate="20180424T083820Z" creationid="Vera Lavrinenko" creationdate="20180424T083820Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk a další</seg>
       </tuv>
     </tu>
     <tu>
