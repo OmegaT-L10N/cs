@@ -9778,6 +9778,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170326Z" creationid="Josef" creationdate="20180606T170326Z">
+        <seg>Všechny soubory DOCX v projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121020T160112Z">
@@ -14995,6 +15003,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170344Z" creationid="Josef" creationdate="20180606T170344Z">
+        <seg>Vytvořit záložní soubory původního DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T080021Z">
@@ -15679,6 +15695,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T161449Z" creationid="Josef" creationdate="20150928T161449Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170331Z" creationid="Josef" creationdate="20180606T170331Z">
+        <seg>Aktuální soubor DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -27984,10 +28008,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170355Z" creationid="Josef" creationdate="20180606T170355Z">
+        <seg>Úroveň 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151109Z" creationid="Josef" creationdate="20180318T151109Z">
         <seg>Level 1 souborů TMX neobsahuje žádné formátovací údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170357Z" creationid="Josef" creationdate="20180606T170357Z">
+        <seg>Úroveň 1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28008,10 +28048,74 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170359Z" creationid="Josef" creationdate="20180606T170359Z">
+        <seg>Úroveň 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151111Z" creationid="Josef" creationdate="20180318T151111Z">
         <seg>Level 3 souborů TMX obsahuje formátovací údaje zapsané takovým způsobem, který  umí číst i ostatní CAT nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170401Z" creationid="Josef" creationdate="20180606T170401Z">
+        <seg>Úroveň 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170403Z" creationid="Josef" creationdate="20180606T170403Z">
+        <seg>Úroveň 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170405Z" creationid="Josef" creationdate="20180606T170405Z">
+        <seg>Úroveň 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170407Z" creationid="Josef" creationdate="20180606T170407Z">
+        <seg>Úroveň 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170409Z" creationid="Josef" creationdate="20180606T170409Z">
+        <seg>Úroveň 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170411Z" creationid="Josef" creationdate="20180606T170411Z">
+        <seg>Úroveň 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170414Z" creationid="Josef" creationdate="20180606T170414Z">
+        <seg>Úroveň 9:</seg>
       </tuv>
     </tu>
     <tu>
