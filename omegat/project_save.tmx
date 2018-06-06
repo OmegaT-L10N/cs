@@ -790,6 +790,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T164954Z" creationid="Josef" creationdate="20180606T164954Z">
+        <seg>&amp;Zkontrolovat aktualizace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T164942Z" creationid="Josef" creationdate="20180606T164942Z">
+        <seg>&amp;Smazat nabídku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T181739Z">
@@ -14667,6 +14683,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165017Z" creationid="Josef" creationdate="20180606T165017Z">
+        <seg>Nepodařilo se vytvořit adresář projektu v {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T171031Z" creationid="Josef" creationdate="20150928T171031Z">
@@ -25719,6 +25743,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165049Z" creationid="Josef" creationdate="20180606T165049Z">
+        <seg>Nedostatečné oprávnění pro adresář projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T190452Z">
@@ -31475,8 +31507,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180606T164407Z" creationid="Josef" creationdate="20180309T170117Z">
-        <seg>O aplikaci OmegaT</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180309T170117Z" creationid="Josef" creationdate="20180309T170117Z">
+        <seg>O aplikaci OO</seg>
       </tuv>
     </tu>
     <tu>
@@ -31685,6 +31717,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T150621Z">
         <seg>OmegaT nemá integrovanou funkci náhledu, ale je možné poskytnout téměř stejnou funkci za použití dodatečného softwaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165127Z" creationid="Josef" creationdate="20180606T165127Z">
+        <seg>OmegaT nemá práva pro čtení a zápis do tohoto adresáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61942,6 +61982,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T165926Z" creationid="Josef" creationdate="20180309T165926Z">
         <seg>{0}:	Mazání u konce!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T164916Z" creationid="Josef" creationdate="20180606T164916Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
