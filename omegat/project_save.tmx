@@ -21737,6 +21737,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165210Z" creationid="Josef" creationdate="20180606T165210Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T193643Z">
@@ -30069,6 +30077,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165421Z" creationid="Josef" creationdate="20180606T165421Z">
+        <seg>Neurální strojový překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145438Z" creationid="Josef" creationdate="20180318T145438Z">
@@ -33847,6 +33863,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T165406Z">
         <seg>Paštština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165233Z" creationid="Josef" creationdate="20180606T165233Z">
+        <seg>Heslo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43540,6 +43564,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165206Z" creationid="Josef" creationdate="20180606T165206Z">
+        <seg>Následující možnosti se netýkají situace kdy je zatržena možnost "Kompatibilita s OmegaT 2.6".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T200811Z">
@@ -50831,6 +50863,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T070259Z">
         <seg>Uživatel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165231Z" creationid="Josef" creationdate="20180606T165231Z">
+        <seg>Uživatelské jméno:</seg>
       </tuv>
     </tu>
     <tu>
