@@ -1,2 +1,3 @@
 tutorial	návod
 sign up	zaregistrovat se
+Neural Machine Translation	Neurální strojový překlad
