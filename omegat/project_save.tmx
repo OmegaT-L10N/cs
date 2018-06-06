@@ -11596,6 +11596,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170254Z" creationid="Josef" creationdate="20180606T170254Z">
+        <seg>Záloha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T170919Z">
@@ -11712,6 +11720,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T054322Z">
         <seg>Mějte na paměti, že po změně jazyků mohou být aktuálně používané překladové paměti nepoužitelné, obzvláště když se pak už neshodují s nově nastavenými jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170308Z" creationid="Josef" creationdate="20180606T170249Z">
+        <seg>Vylepšit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170318Z" creationid="Josef" creationdate="20180606T170318Z">
+        <seg>Vylepšit následný DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -13337,6 +13361,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170203Z" creationid="Josef" creationdate="20180606T170203Z">
+        <seg>Vyčistit záznam '{0}'...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T173634Z" creationid="Josef" creationdate="20150928T173634Z">
@@ -14319,6 +14351,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170251Z" creationid="Josef" creationdate="20180606T170251Z">
+        <seg>Převést</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T184547Z" creationid="Josef" creationdate="20180309T184547Z">
@@ -14339,6 +14379,22 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T184542Z">
         <seg>Soubore převeďte z formátu RTF na OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170046Z" creationid="Josef" creationdate="20180606T170046Z">
+        <seg>Převod všech .DOCX v projektu ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170053Z" creationid="Josef" creationdate="20180606T170053Z">
+        <seg>Převod aktuálního .DOCX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15095,6 +15151,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105303Z" creationid="Josef" creationdate="20180325T105145Z">
         <seg>Vytvoření „alternativního překladu“ tedy závisí na tom, že identické segmenty mají odlišné segmenty před nebo za sebou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170156Z" creationid="Josef" creationdate="20180606T170156Z">
+        <seg>Vytvořit soubor výstupu '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -27912,6 +27976,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170236Z" creationid="Josef" creationdate="20180606T170236Z">
+        <seg>Úroveň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151109Z" creationid="Josef" creationdate="20180318T151109Z">
@@ -29967,6 +30039,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170230Z" creationid="Josef" creationdate="20180606T170230Z">
+        <seg>Přesunout vyčištěné '{0}' do '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170218Z" creationid="Josef" creationdate="20180606T170218Z">
+        <seg>Přesunout originál '{0}' do '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102741Z" creationid="Josef" creationdate="20180317T102741Z">
@@ -30415,6 +30503,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170117Z" creationid="Josef" creationdate="20180606T170117Z">
+        <seg>Nejsou tu žádné soubory .DOCX k vyčištění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T061812Z" creationid="Josef" creationdate="20180310T061812Z">
@@ -30515,6 +30611,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072909Z">
         <seg>Na serveru nejsou dostupné žádné nové slovníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170014Z" creationid="Josef" creationdate="20180606T170014Z">
+        <seg>Není nahraný žádný projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33365,6 +33469,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170148Z" creationid="Josef" creationdate="20180606T170148Z">
+        <seg>Otevřít soubor vstupu '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T184959Z" creationid="Josef" creationdate="20180309T184959Z">
@@ -35315,6 +35427,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170021Z" creationid="Josef" creationdate="20180606T170021Z">
+        <seg>Projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072736Z">
@@ -37241,6 +37361,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170032Z" creationid="Josef" creationdate="20180606T170032Z">
+        <seg>Spustit Tagwipe pro soubor '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151130T170935Z" creationid="Josef" creationdate="20151130T170935Z">
@@ -38849,6 +38977,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T075446Z">
         <seg>Vybrané nástroje: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170036Z" creationid="Josef" creationdate="20180606T170036Z">
+        <seg>Vybrané možnosti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41439,6 +41575,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180606T170001Z" creationid="Josef" creationdate="20180606T170001Z">
         <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T170135Z" creationid="Josef" creationdate="20180606T170135Z">
+        <seg>Tagwipe je dokončeno, projekt bude znovu nahrán....</seg>
       </tuv>
     </tu>
     <tu>
