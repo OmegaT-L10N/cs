@@ -1078,6 +1078,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165516Z" creationid="Josef" creationdate="20180606T165516Z">
+        <seg>Přejít na &amp;Stahování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T194609Z">
@@ -5222,6 +5230,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165533Z" creationid="Josef" creationdate="20180606T165533Z">
+        <seg>&lt;html&gt;Aktuální verze: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T041410Z">
@@ -5250,6 +5266,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T062155Z" creationid="Josef" creationdate="20180310T062155Z">
         <seg>&lt;html&gt;Termín: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosáře:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165544Z" creationid="Josef" creationdate="20180606T165544Z">
+        <seg>&lt;html&gt;Kanál pro aktualizace: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11396,6 +11420,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165550Z" creationid="Josef" creationdate="20180606T165550Z">
+        <seg>Automaticky kontrolovat aktualizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T093222Z">
@@ -12777,6 +12809,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165509Z" creationid="Josef" creationdate="20180606T165509Z">
+        <seg>Zkontrolovat &amp;automaticky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T170752Z" creationid="Josef" creationdate="20150928T170752Z">
@@ -12829,6 +12869,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T171755Z" creationid="Josef" creationdate="20151007T171755Z">
         <seg>Zkontrolujte pravidla pro jazykové nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165553Z" creationid="Josef" creationdate="20180606T165553Z">
+        <seg>Zkontrolovat teď</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,6 +15611,16 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165613Z" creationid="Josef" creationdate="20180606T165603Z">
+        <seg>Aktuální tým:
+(v abecedním pořadí)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T052515Z">
@@ -16235,6 +16293,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182114Z" creationid="Josef" creationdate="20180317T182114Z">
         <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165655Z" creationid="Josef" creationdate="20180606T165655Z">
+        <seg>Didier Briel (Správce projektu OmegaT, správce komunity Twitter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21745,6 +21811,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165428Z" creationid="Josef" creationdate="20180606T165428Z">
+        <seg>IBM Watson není dostupný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T193643Z">
@@ -27180,6 +27254,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165809Z" creationid="Josef" creationdate="20180606T165809Z">
+        <seg>Kos Ivantsov (správce lokalizací)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kos Ivantsov</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182149Z" creationid="Josef" creationdate="20180317T182149Z">
@@ -30085,6 +30167,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165432Z" creationid="Josef" creationdate="20180606T165432Z">
+        <seg>Neurální strojový překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145438Z" creationid="Josef" creationdate="20180318T145438Z">
@@ -32519,6 +32609,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145101Z" creationid="Josef" creationdate="20180318T145101Z">
         <seg>OmegaT zpravidla běží na jakémkoliv Linuxu, na kterém lze instalovat vhodnou verzi prostředí Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165452Z" creationid="Josef" creationdate="20180606T165452Z">
+        <seg>Omega {0} není k dispozici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50272,6 +50370,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165522Z" creationid="Josef" creationdate="20180606T165522Z">
+        <seg>Aktualizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T075340Z">
@@ -52976,6 +53082,14 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165443Z" creationid="Josef" creationdate="20180606T165443Z">
+        <seg>Už máte nejnovější verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T185939Z">
@@ -53729,6 +53843,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T204311Z">
         <seg>Nejprve vytvoříte prázdný adresář klienta na svém disku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20180606T165504Z" creationid="Josef" creationdate="20180606T165504Z">
+        <seg>Právě užíváte {1}.</seg>
       </tuv>
     </tu>
     <tu>
