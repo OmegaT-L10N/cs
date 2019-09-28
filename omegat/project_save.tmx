@@ -49198,6 +49198,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T131837Z" creationid="Josef" creationdate="20190928T131837Z">
+        <seg>Pro přístup s souboru &lt;f0&gt;Configuration.properties&lt;/f0&gt; klikněte pravým tlačítkem myši na soubor &lt;f1&gt;OmegaT.app&lt;/f1&gt; a vyberte „Ukázat obsah balíčku“, pak poklikem pravým tlačítkem v &lt;f2&gt;Contents/Resources&lt;/f2&gt; soubor otevřete a vyberete editor textu dle svého výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T192259Z" creationid="Josef" creationdate="20180308T192259Z">
@@ -54812,6 +54820,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T150050Z" creationid="Josef" creationdate="20180308T150050Z">
         <seg>Můžete změnit chování OmegaT upravením &lt;e0&gt;Vlastnosti&lt;/e0&gt;, ale také souboru v balíčku &lt;e1&gt;Configuration.properties&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T131729Z" creationid="Josef" creationdate="20190928T131729Z">
+        <seg>Můžete změnit chování OmegaT upravením &lt;e0&gt;Vlastnosti&lt;/e0&gt;, ale také souboru v balíčku &lt;f1&gt;Configuration.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
