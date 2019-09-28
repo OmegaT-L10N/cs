@@ -3202,6 +3202,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143436Z" creationid="Josef" creationdate="20190928T143436Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/** Number of fuzzy matches to display */</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130501T150353Z">
@@ -14698,6 +14706,14 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143430Z" creationid="Josef" creationdate="20190928T143430Z">
+        <seg>Obsahuje projektový paramtery tak, jak byla definována v dialogu &lt;l0&gt;Vlastnosti projektu&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T175705Z">
@@ -25396,6 +25412,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143528Z" creationid="Josef" creationdate="20190928T143528Z">
+        <seg>V týmovém projektu obsahuje tento adresář různé verze kopií projektové stromové struktury napojené přímo na vzdálený server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151152Z" creationid="Josef" creationdate="20180318T151152Z">
@@ -25866,6 +25890,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130508T173639Z">
         <seg>V některých případech se může stát, že tokenizer zdrojového jazyka se ruší s kontrolou pravopisu cílového jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143648Z" creationid="Josef" creationdate="20190928T143648Z">
+        <seg>V některých operačních systémech se tento adresář při výchozím nastavení nezobrazuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56129,6 +56161,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143628Z" creationid="Josef" creationdate="20190928T143628Z">
+        <seg>Můžete měnit vzdálené soubory (např. smazáním souboru) jak použitím tohoto adresáře, tak i klienta Git nebo SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T150050Z" creationid="Josef" creationdate="20180308T150050Z">
@@ -61889,6 +61929,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T111356Z" creationid="Josef" creationdate="20180325T111356Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143408Z" creationid="Josef" creationdate="20190928T143408Z">
+        <seg>soubor omegat.project</seg>
       </tuv>
     </tu>
     <tu>
