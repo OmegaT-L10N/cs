@@ -2815,6 +2815,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135030Z" creationid="Josef" creationdate="20190928T135030Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;umistění přeložených souborů&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T202118Z">
@@ -2961,6 +2969,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134939Z" creationid="Josef" creationdate="20190928T134939Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T111419Z" creationid="Josef" creationdate="20180325T111419Z">
@@ -3010,6 +3026,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="CS" changeid="Josef" changedate="20180307T190118Z" creationid="Josef" creationdate="20180307T190118Z">
         <seg>--script=&lt;cesta&gt;
 		Soubor skriptu, který se má provést při událostech projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135128Z" creationid="Josef" creationdate="20190928T135128Z">
+        <seg>--source-pattern=&lt;p0&gt;regulární výraz&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,6 +4521,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T201619Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; startuje v režimu příkazového řádku a vykoná tak jednu z následujících služeb automaticky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134905Z" creationid="Josef" creationdate="20190928T134905Z">
+        <seg>
+&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; startuje v režimu příkazového řádku a vykoná tak jednu z následujících služeb automaticky</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6155,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T161822Z" creationid="Josef" creationdate="20180308T161822Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;  který konfigurační soubor se má použít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134855Z" creationid="Josef" creationdate="20190928T134855Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt;&gt; prozradí aplikaci &lt;a2&gt;OmegaT&lt;/a2&gt;  který konfigurační soubor se má použít</seg>
       </tuv>
     </tu>
     <tu>
@@ -20611,6 +20652,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135100Z" creationid="Josef" creationdate="20190928T135044Z">
+        <seg>Např. pokud se jedná o projekt EN-&gt;FR, adresář &lt;f1&gt;alignDir&lt;/f1&gt; musí obsahovat balíček ‚bundle‛ končící na &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130508T173807Z">
@@ -25979,6 +26028,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135017Z" creationid="Josef" creationdate="20190928T135017Z">
+        <seg>V tomto režimu, vezme OmegaT soubory Java properties, které nalezne v adresáři &lt;f0&gt;/source/&lt;/f0&gt; a alignuje je s obsahy nalezenými na zadaném umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T202024Z">
@@ -25991,6 +26048,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T201652Z">
         <seg>V tomto režimu se OmegaT pokusí přeložit soubory z adresáře /source/ za pomoci dostupných překladových pamětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134918Z" creationid="Josef" creationdate="20190928T134918Z">
+        <seg>V tomto režimu se OmegaT pokusí přeložit soubory z adresáře &lt;f0&gt;/source/&lt;/f0&gt; za pomoci dostupných překladových pamětí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32087,6 +32152,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T203318Z">
         <seg>Mějte na paměti, že pro sestavení vlastní verzi OmegaT budete potřebovat program ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134841Z" creationid="Josef" creationdate="20190928T134841Z">
+        <seg>Všimněte si dvojitého znaku &lt;l5&gt;pomlčky&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46317,6 +46390,14 @@ the User Product in which it has been modified or installed.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T133450Z">
         <seg>Výsledná tmx je uložena v adresáři &lt;f1&gt;omegat&lt;/f1&gt; s názvem &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135120Z" creationid="Josef" creationdate="20190928T135120Z">
+        <seg>Výsledná paměť tmx je uložena v adresáři &lt;f3&gt;omegat&lt;/f3&gt; s názvem &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
