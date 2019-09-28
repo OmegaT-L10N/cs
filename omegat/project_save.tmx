@@ -2831,10 +2831,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134615Z" creationid="Josef" creationdate="20190928T134615Z">
+        <seg>--config-dir=/cesta/ke/konfiguracnim-souborum/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164151Z" creationid="Josef" creationdate="20180317T164151Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134634Z" creationid="Josef" creationdate="20190928T134634Z">
+        <seg>--config-file=/cesta/k/konfiguracnimu-souboru/ \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2865,6 +2881,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="CS" changeid="Josef" changedate="20180307T185638Z" creationid="Josef" creationdate="20180307T185638Z">
         <seg>--disable-project-locking
 		Nebude se zamykat projektový soubor omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134641Z" creationid="Josef" creationdate="20190928T134641Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3010,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="CS" changeid="Josef" changedate="20180307T190118Z" creationid="Josef" creationdate="20180307T190118Z">
         <seg>--script=&lt;cesta&gt;
 		Soubor skriptu, který se má provést při událostech projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134651Z" creationid="Josef" creationdate="20190928T134651Z">
+        <seg>--source-pattern=&lt;p4&gt;regulární výraz&lt;/p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6078,6 +6110,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134734Z" creationid="Josef" creationdate="20190928T134734Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; prozradí &lt;a2&gt;OmegaT&lt;/a2&gt;, ve kterém adresáři jsou uloženy konfigurační soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T161822Z" creationid="Josef" creationdate="20180308T161822Z">
@@ -6162,6 +6202,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T072210Z">
         <seg>Soubory s koncovkou &lt;l0&gt;.utf8&lt;/l0&gt; jsou v &lt;a1&gt;OmegaT&lt;/a1&gt; interpretovány jako v kódování UTF-8 (kódování, které pokrývá téměř všechny jazyky světa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134716Z" creationid="Josef" creationdate="20190928T134716Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;, kde najít projekt, který má být překládán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23187,6 +23235,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134807Z" creationid="Josef" creationdate="20190928T134807Z">
+        <seg>Když není zadáno, &lt;a3&gt;OmegaT&lt;/a3&gt; se vrátí k výchozím hodnotám (adresář &lt;a4&gt;OmegaT&lt;/a4&gt; v domovské složce  uživatele, nebo když není dostupné, pak adresář, ve kterém se právě pracuje).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130525T045412Z">
@@ -31751,6 +31807,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T201241Z">
         <seg>Všimněte si, že všechny parametry začínají dvojitým znakem pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134700Z" creationid="Josef" creationdate="20190928T134700Z">
+        <seg>Všimněte si, že všechny parametry začínají dvojitým znakem &lt;l0&gt;pomlčky&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45689,6 +45753,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T171625Z">
         <seg>Soubor &lt;f1&gt;project_save.tmx&lt;/f1&gt; představuje pracovní překladovou paměť projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134555Z" creationid="Josef" creationdate="20190928T134555Z">
+        <seg>Nejdůležitější z nich je &lt;l1&gt;/path/to/project&lt;/l1&gt;, a volitelně &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59720,6 +59792,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T180531Z" creationid="Josef" creationdate="20180317T180531Z">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134611Z" creationid="Josef" creationdate="20190928T134611Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/cesta/k/projektu&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
