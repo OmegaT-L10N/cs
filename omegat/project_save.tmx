@@ -2105,6 +2105,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111907Z" creationid="Josef" creationdate="20190928T111907Z">
+        <seg>(Ponechejte pole hesla prázdné pokud používáte klíč API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130508T175253Z">
@@ -16781,6 +16789,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112043Z" creationid="Josef" creationdate="20190928T112043Z">
+        <seg>Zobrazuje záznamy jako "&lt;source&gt; → &lt;target&gt;" / "&lt;zdroj&gt; → &lt;cíl&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T173144Z" creationid="Josef" creationdate="20150928T173144Z">
@@ -18452,6 +18468,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112010Z" creationid="Josef" creationdate="20190928T112010Z">
+        <seg>Při aktualizaci repozitáře se vyskytla chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T171957Z" creationid="Josef" creationdate="20180309T171957Z">
@@ -18480,6 +18504,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T073539Z">
         <seg>Chyba: {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112015Z" creationid="Josef" creationdate="20190928T112015Z">
+        <seg>Chyba: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18772,6 +18804,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T040641Z">
         <seg>Vykonává se externí příkaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111932Z" creationid="Josef" creationdate="20190928T111932Z">
+        <seg>Provádím skript  {0} (událost {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -29810,6 +29850,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111837Z" creationid="Josef" creationdate="20190928T111837Z">
+        <seg>ID modelu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T190611Z">
@@ -36740,6 +36788,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111958Z" creationid="Josef" creationdate="20190928T111958Z">
+        <seg>Chyba síťové komunikace ke vzdálenému repozitáři: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removal of these codes is described below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151604Z" creationid="Josef" creationdate="20180318T151604Z">
@@ -40086,6 +40142,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T111545Z" creationid="Josef" creationdate="20190928T111545Z">
         <seg>Přeskočit nahraný plugin třídy  '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112014Z" creationid="Josef" creationdate="20190928T112014Z">
+        <seg>Přeskočit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51574,6 +51638,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T070259Z">
         <seg>Uživatel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111830Z" creationid="Josef" creationdate="20190928T111830Z">
+        <seg>Uživatelské jméno nebo klíč API:</seg>
       </tuv>
     </tu>
     <tu>
