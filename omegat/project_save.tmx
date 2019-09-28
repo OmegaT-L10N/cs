@@ -4733,6 +4733,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113659Z" creationid="Josef" creationdate="20190928T113659Z">
+        <seg>&lt;e0&gt;Ne / Nevím:&lt;/e0&gt; stáhněte si&lt;e1&gt; OmegaT_4.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183748Z">
@@ -5074,6 +5082,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183820Z">
         <seg>&lt;e0&gt;Ano: &lt;/e0&gt;stáhněte si &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113653Z" creationid="Josef" creationdate="20190928T113653Z">
+        <seg>&lt;e0&gt;Ano: &lt;/e0&gt;stáhněte si &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16965,6 +16981,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113647Z" creationid="Josef" creationdate="20190928T113647Z">
+        <seg>Máte prostředí Java kompatibilní s Java 8 JRE od Oracle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T184418Z">
@@ -23759,6 +23783,14 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113715Z" creationid="Josef" creationdate="20190928T113715Z">
+        <seg>Pokud zaznačíte odpovídající zaškrtávající políčko, bude upraven soubor &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;, kde bude zadán vybraný jazyk (pro detaily viz další oddíl).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T111333Z">
@@ -27986,6 +28018,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T111516Z">
         <seg>Později, po té, co přijmete licenční ujednání, se vás instalační průvodce zeptá, zda chcete vytvořit složku v menu &lt;e0&gt;start&lt;/e0&gt;, a jestli chcete vytvořit zástupce na ploše a v panelu rychlého spuštění - tyto možnosti můžete přidat i později přetažením souboru &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; na plochu nebo do nabídky start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113753Z" creationid="Josef" creationdate="20190928T113753Z">
+        <seg>Později, po té, co přijmete licenční ujednání, se vás instalační průvodce zeptá, zda chcete vytvořit složku v menu &lt;e1&gt;Start&lt;/e1&gt;, a jestli chcete vytvořit zástupce na ploše a v panelu rychlého spuštění - tyto možnosti můžete přidat i později přetažením souboru &lt;f2&gt;OmegaT.exe&lt;/f2&gt; na plochu nebo do nabídky start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33341,6 +33381,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113827Z" creationid="Josef" creationdate="20190928T113827Z">
+        <seg>Když je &lt;a0&gt;OmegaT&lt;/a0&gt; nainstalována, můžete kliknout na &lt;f1&gt;OmegaT.jar&lt;/f1&gt; a spustit ji přímo, nebo program spustíte přímo z příkazové řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T193902Z">
@@ -37850,6 +37898,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T075552Z">
         <seg>Spustit skript na slotu #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113800Z" creationid="Josef" creationdate="20190928T113800Z">
+        <seg>Spouštění &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44411,6 +44467,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113913Z" creationid="Josef" creationdate="20190928T113913Z">
+        <seg>Následující příklad souboru INI rezervuje 1 GB paměti, zadá francouzštinu jako uživatelský jazyk a Kanadu jako zemi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T140542Z">
@@ -45293,6 +45357,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113905Z" creationid="Josef" creationdate="20190928T113905Z">
+        <seg>Možnosti pro startování programu budou v tomto případě načteny ze souboru &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, který se nachází ve stejném adresáři, jako soubor exe, a který můžete upravit, aby tak odpovídal vašemu nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.</seg>
@@ -45983,6 +46055,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T152833Z" creationid="Josef" creationdate="20150928T152833Z">
         <seg>Klávesové zkratky &lt;k2&gt;Ctrl+A&lt;/k2&gt; a &lt;k3&gt;Ctrl+C&lt;/k3&gt; fungují v rámci podoken a umožňují zkopírovat celý text nebo jeho část do schránky systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113844Z" creationid="Josef" creationdate="20190928T113844Z">
+        <seg>Nejjednodušším způsobem je ale spouštět program přes &lt;f1&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
