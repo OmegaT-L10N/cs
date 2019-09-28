@@ -23316,6 +23316,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140412Z" creationid="Josef" creationdate="20190928T140412Z">
+        <seg>Pokud není vybrán žádný text, &lt;a3&gt;OmegaT&lt;/a3&gt; vybere slovo, které se zprava dotýká kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T190316Z">
@@ -40355,6 +40363,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140533Z" creationid="Josef" creationdate="20190928T140533Z">
+        <seg>Vybere předchozí, další nebo několikátý přibližný překlad, který je zobrazen v okně Přibližné překlady a vloží jej místo stávajíchího textu v segmetnu nebo jej prostě vloží do prázného segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144837Z" creationid="Josef" creationdate="20180318T144837Z">
@@ -52392,6 +52408,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140405Z" creationid="Josef" creationdate="20190928T140405Z">
+        <seg>Tyto čtyři možnosti můžete cyklicky procházet opakovaným tisknutím &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt;.&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Dave Turner's CodeZapper macro.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T191141Z">
@@ -52564,6 +52588,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T171916Z" creationid="Josef" creationdate="20151001T171916Z">
         <seg>Použitím tohoto příkazu registrujete překlad jako identický se zdrojem, a to i když políčko „Povolit překlad rovnající se zdroji“ (v Možnosti / Nastavení editace...) není označeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140604Z" creationid="Josef" creationdate="20190928T140604Z">
+        <seg>Použitím tohoto příkazu registrujete překlad jako identický se zdrojem, a to i když políčko &lt;l0&gt;&lt;g1&gt;Povolit překlad rovnající se zdroji&lt;/g1&gt;&lt;/l0&gt; (v Možnosti / Nastavení editace...) není označeno.</seg>
       </tuv>
     </tu>
     <tu>
