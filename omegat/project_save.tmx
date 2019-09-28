@@ -11684,6 +11684,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111037Z" creationid="Josef" creationdate="20190928T111037Z">
+        <seg>Barman hlasitě zvolal:
+Vaše stránka nenalzenea,
+kup si další drink kámo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T184745Z">
@@ -18672,9 +18684,10 @@ propagate that work, subject to this License.</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T110832Z" creationid="Josef" creationdate="20190928T110832Z">
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110843Z" creationid="Josef" creationdate="20190928T110832Z">
         <seg>Zajímavá stránka nápovědy
-Vlákna babího léta brání postupu</seg>
+Vlákna babího léta brání postupu
+404 nenalezeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -34220,6 +34233,17 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T180045Z">
         <seg>Jestliže je tato možnost zaznačena, tak hlavička PO bude přeskočena a ponechána beze změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111156Z" creationid="Josef" creationdate="20190928T111156Z">
+        <seg>Stránka proklouzla mezi prsty
+puls se zběsile zrychluje</seg>
       </tuv>
     </tu>
     <tu>
@@ -52841,6 +52865,18 @@ Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuj
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T051836Z">
         <seg>Zobrazí seznam segmentů s chybnými tagy a možnými nesrovnalostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111008Z" creationid="Josef" creationdate="20190928T111008Z">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Stránka nenalezena.</seg>
       </tuv>
     </tu>
     <tu>
