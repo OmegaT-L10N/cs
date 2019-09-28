@@ -20101,6 +20101,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T132231Z" creationid="Josef" creationdate="20190928T132231Z">
+        <seg>Například &lt;l2&gt;user.language=ja&lt;/l2&gt; (bez &lt;l3&gt;#&lt;/l3&gt;) spustí &lt;a4&gt;OmegaT&lt;/a4&gt; s uživatelským prostředím v japonštině. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
@@ -49324,6 +49332,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T150235Z" creationid="Josef" creationdate="20180308T150235Z">
         <seg>Pokud chcete změnit množství dostupné paměti, upravte soubor &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; a změňte obsah řetězce &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt; file and remove the &lt;l1&gt;#&lt;/l1&gt; before the &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt; entry.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T132348Z" creationid="Josef" creationdate="20190928T132348Z">
+        <seg>Pokud chcete změnit množství dostupné paměti, upravte soubor &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt; a odstraňte znak &lt;l1&gt;#&lt;/l1&gt; před záznamem &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt;</seg>
       </tuv>
     </tu>
     <tu>
