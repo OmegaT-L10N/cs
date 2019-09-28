@@ -44230,8 +44230,8 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T184420Z" creationid="Josef" creationdate="20190928T184420Z">
-        <seg>Algoritmy &lt;g0&gt;Viterbi&lt;/g0&gt; a &lt;g1&gt;Forward-Backward&lt;/g1&gt; představují dvě odlišné metody výpočtu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184821Z" creationid="Josef" creationdate="20190928T184420Z">
+        <seg>Algoritmy &lt;g0&gt;Viterbiho&lt;/g0&gt; a &lt;g1&gt;Forward-Backward&lt;/g1&gt; představují dvě odlišné metody výpočtu.</seg>
       </tuv>
     </tu>
     <tu>
