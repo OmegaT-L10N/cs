@@ -8956,6 +8956,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111632Z" creationid="Josef" creationdate="20190928T111632Z">
+        <seg>Aaron Madlon-Kay je projektový manager OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T153121Z">
@@ -14739,6 +14747,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Vera Lavrinenko" changedate="20180424T083820Z" creationid="Vera Lavrinenko" creationdate="20180424T083820Z">
         <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk a další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111615Z" creationid="Josef" creationdate="20190928T111615Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk a další</seg>
       </tuv>
     </tu>
     <tu>
@@ -21551,6 +21567,16 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111525Z" creationid="Josef" creationdate="20190928T111525Z">
+        <seg>Stránka nenalezena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T185115Z">
@@ -25477,6 +25503,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T192725Z" creationid="Josef" creationdate="20180307T192725Z">
         <seg>Začlenit vzor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111713Z" creationid="Josef" creationdate="20190928T111713Z">
+        <seg>Zahrnout sh&amp;ody z jiných jazyků</seg>
       </tuv>
     </tu>
     <tu>
@@ -29888,6 +29922,22 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111551Z" creationid="Josef" creationdate="20190928T111551Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111556Z" creationid="Josef" creationdate="20190928T111556Z">
+        <seg>Možnosti filtru Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T163948Z" creationid="Josef" creationdate="20150928T163948Z">
@@ -30062,6 +30112,16 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151457Z" creationid="Josef" creationdate="20180318T151457Z">
         <seg>Většina uživatelů bude pravděpodobně téhož názoru, že zjednodušení práce na překladu má větší váhu než si ji ztěžovat složitým formátováním.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111510Z" creationid="Josef" creationdate="20190928T111510Z">
+        <seg>Smutek a nářky 404 už tu s námi není stránka se odebrala do věčných lovišť.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34308,6 +34368,14 @@ puls se zběsile zrychluje</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111655Z" creationid="Josef" creationdate="20190928T111655Z">
+        <seg>Formát oddělovačů odstavců:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T184723Z">
@@ -34488,6 +34556,14 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T131344Z">
         <seg>Věnujte zvýšenou pozornost párovým tagům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111814Z" creationid="Josef" creationdate="20190928T111814Z">
+        <seg>Snížení váhy pro shody v jiných jazycích:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36146,6 +36222,16 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121020T155605Z">
         <seg>změna směru záznamu mezi RTL-LTR (zprava doleva – zleva doprava)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111458Z" creationid="Josef" creationdate="20190928T111458Z">
+        <seg>Místo pípnutí nebo drsné chybové hlášky čtěte: 'Stránka nenalezena'</seg>
       </tuv>
     </tu>
     <tu>
@@ -39996,6 +40082,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111545Z" creationid="Josef" creationdate="20190928T111545Z">
+        <seg>Přeskočit nahraný plugin třídy  '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T061910Z">
@@ -42877,6 +42971,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151016Z" creationid="Josef" creationdate="20180318T151016Z">
         <seg>Souborové formáty Microsoft Office 2007-2010 můžete zpracovávat s programem OmegaT přímo; více informací naleznete &lt;a0&gt;zde&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T111607Z" creationid="Josef" creationdate="20190928T111607Z">
+        <seg>Filtr Moodle PHP ukazuje výjimku:</seg>
       </tuv>
     </tu>
     <tu>
