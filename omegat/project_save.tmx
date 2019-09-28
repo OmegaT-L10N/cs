@@ -9923,6 +9923,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185909Z" creationid="Josef" creationdate="20190928T185909Z">
+        <seg>Po několika takovýchto krocích vyberte &lt;m0&gt;&lt;g1&gt;Upravit&lt;/g1&gt; &lt;g2&gt;Zarovnat rozpracované&lt;/g2&gt; &lt;/m0&gt;a tím zaktualizujete zarovnání ostatních segmentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T185000Z" creationid="Josef" creationdate="20190928T185000Z">
