@@ -9475,6 +9475,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143726Z" creationid="Josef" creationdate="20190928T143726Z">
+        <seg>Aby jste jej mohli vidět, kativujte možnost „Zobrazit skryté soubory“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T125256Z">
@@ -54952,6 +54960,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T174247Z">
         <seg>Windows Vista a 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143737Z" creationid="Josef" creationdate="20190928T143737Z">
+        <seg>Okna a dialogová okna</seg>
       </tuv>
     </tu>
     <tu>
