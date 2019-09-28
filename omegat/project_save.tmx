@@ -23806,6 +23806,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183353Z" creationid="Josef" creationdate="20190928T183353Z">
+        <seg>Pokud se při zarovnání textů vyskytne situace, kdy se nabízí vylepšení, zkuste změnit parametry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T104705Z">
@@ -25308,6 +25316,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184007Z" creationid="Josef" creationdate="20190928T184007Z">
+        <seg>V &lt;g0&gt;h&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T131733Z">
@@ -25674,6 +25690,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T060028Z">
         <seg>Nicméně v mnoha případech je nutné vložit text LTR do textu RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183443Z" creationid="Josef" creationdate="20190928T183443Z">
+        <seg>Ve většině případů je to tak, že čím je &lt;g0&gt;Průměrná hodnota&lt;/g0&gt; nižší, tak o to bude lepší zarovnání.</seg>
       </tuv>
     </tu>
     <tu>
