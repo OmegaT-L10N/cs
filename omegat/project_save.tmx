@@ -45356,6 +45356,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T182852Z" creationid="Josef" creationdate="20190928T182852Z">
+        <seg>Rozdíl je nepatrný: „Oknem“ nazýváme okno, které zůstává otevřeno vedle editoru a interaguje s ním, a „dialogové okno“ je okno, kde musíte vybrat parametry dříve, než jej  zavřete a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055647Z">
