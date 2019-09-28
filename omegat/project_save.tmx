@@ -44228,6 +44228,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184420Z" creationid="Josef" creationdate="20190928T184420Z">
+        <seg>Algoritmy &lt;g0&gt;Viterbi&lt;/g0&gt; a &lt;g1&gt;Forward-Backward&lt;/g1&gt; představují dvě odlišné metody výpočtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055558Z">
@@ -50017,6 +50025,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184338Z" creationid="Josef" creationdate="20190928T184338Z">
+        <seg>Tato možnost se zobrazí tehdy, když jsou oba označené soubory rozeznány jako soubory typu Key=Value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183953Z">
@@ -50349,6 +50365,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152637Z" creationid="Josef" creationdate="20180318T152637Z">
         <seg>Toto způsobí smazání veškerých uživatelských nastavení, která byla kdy provedena (jako např. změny segmentačních pravidel) a - pokud je tento adresář smazán „řádně“, tj. nebyl jednoduše vložen do koše, nemůže být obnoven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184300Z" creationid="Josef" creationdate="20190928T184300Z">
+        <seg>Toto funguje i v případě, že klíče nejsou ve stejném pořadí ve dvou souborech, anebo když ty dva soubory neobsahují stejné množství informací.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53066,8 +53090,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T184152Z" creationid="Josef" creationdate="20190928T184152Z">
-        <seg>V režimu &lt;g0&gt;Porovnání ID&lt;/g0&gt; se zarovnávají texty typu </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184209Z" creationid="Josef" creationdate="20190928T184152Z">
+        <seg>V režimu &lt;g0&gt;Porovnání ID&lt;/g0&gt; se zarovnávají texty typu Klíč=Hodnota (Key=Value).</seg>
       </tuv>
     </tu>
     <tu>
