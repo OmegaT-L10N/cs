@@ -6199,6 +6199,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135249Z" creationid="Josef" creationdate="20190928T135224Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;[abort|warn]&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;NazevSouboruProVystup&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T182935Z">
@@ -10107,6 +10115,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135147Z" creationid="Josef" creationdate="20190928T135147Z">
+        <seg>Přeloženy budou všechny soubory HTML – povšimněte si, že tečka v běžném výrazu &lt;l0&gt;*.html&lt;/l0&gt; se musí maskovat (&lt;l1&gt;\.&lt;/l1&gt;) jak je tomu určeno pravidly regulárních výrazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All being well, Priorview should appear when launched as described above.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T094309Z">
@@ -12722,6 +12738,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105124Z">
         <seg>Při výchozím nastavení je kódování přeloženého souboru stejné jako kódování souboru výchozího.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135313Z" creationid="Josef" creationdate="20190928T135313Z">
+        <seg>Ve výchozím nastavení, pod Windows, je &lt;f1&gt;omegat.project&lt;/f1&gt; zablokováno a zobrazuje se chybové hlášení pokud se pokoušíte otevřít již otevřený projekt v jiném okně OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22761,6 +22785,14 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T112830Z">
+        <seg>Pokud je zvolena možnost ‚&lt;l0&gt;abort&lt;/l0&gt;‛ (‚přerušit‛), ověřování tagů bude zastaveno při prvním neplatným segmentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135301Z" creationid="Josef" creationdate="20190928T135301Z">
         <seg>Pokud je zvolena možnost ‚&lt;l0&gt;abort&lt;/l0&gt;‛ (‚přerušit‛), ověřování tagů bude zastaveno při prvním neplatným segmentem.</seg>
       </tuv>
     </tu>
@@ -33974,6 +34006,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135448Z" creationid="Josef" creationdate="20190928T135448Z">
+        <seg>Jakmile je kód stažen, otevřete jej ve zdrojovém adresáři a napište:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T182904Z">
@@ -34162,6 +34202,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150929T203114Z" creationid="Josef" creationdate="20150929T203114Z">
         <seg>V potaz tedy přichází celá čísla a čísla s desetinnými místy (za použití tečky jako značky desetiny, např. 5.4, ale ne 5,4 nebo 54E-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135214Z" creationid="Josef" creationdate="20190928T135214Z">
+        <seg>Zpracovávat se bude pouze soubor &lt;f0&gt;test.html&lt;/f0&gt; v adresáři &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46788,6 +46836,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135410Z" creationid="Josef" creationdate="20190928T135410Z">
+        <seg>Zdroje pro aktuální verzi lze získat s klientem SVN z repozitáře &lt;u0/&gt; nebo přímo na adrese &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T171000Z" creationid="Josef" creationdate="20150928T171000Z">
@@ -52164,6 +52220,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T183628Z">
         <seg>Příklad použití: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135329Z" creationid="Josef" creationdate="20190928T135329Z">
+        <seg>Příklad použití: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59251,6 +59315,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135338Z" creationid="Josef" creationdate="20190928T135338Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104055Z" creationid="Josef" creationdate="20180317T104055Z">
@@ -62665,6 +62737,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T150158Z" creationid="Josef" creationdate="20180318T150158Z">
         <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135334Z" creationid="Josef" creationdate="20190928T135334Z">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
       </tuv>
     </tu>
     <tu>
