@@ -14014,6 +14014,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141746Z" creationid="Josef" creationdate="20190928T141746Z">
+        <seg>Klikněte na záložku &lt;g0&gt;Upravit&lt;/g0&gt; na stránce Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T200153Z" creationid="Josef" creationdate="20151006T200153Z">
@@ -14940,6 +14948,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121016T060614Z">
         <seg>zkopírujte pak její obsah do souboru &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141807Z" creationid="Josef" creationdate="20190928T141807Z">
+        <seg>Zkopírujte URL stránky (končící &lt;g0&gt;action=edit&lt;/g0&gt;) a vložte ji do &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18345,6 +18361,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141537Z" creationid="Josef" creationdate="20190928T141537Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T122246Z">
@@ -21492,6 +21516,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T171127Z" creationid="Josef" creationdate="20151001T171127Z">
         <seg>Zpřístupňuje posledních pět upravovaných projektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141708Z" creationid="Josef" creationdate="20190928T141708Z">
+        <seg>Poskytuje přístup k deseti posledním upravovaným projektům.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34694,6 +34726,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141551Z" creationid="Josef" creationdate="20190928T141551Z">
+        <seg>Otevře možnosti &lt;l0&gt;Editoru&lt;/l0&gt; v dialogovém okně Předvolby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T141439Z" creationid="Josef" creationdate="20190928T141439Z">
@@ -34710,6 +34750,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141534Z" creationid="Josef" creationdate="20190928T141534Z">
+        <seg>Otevře možnosti &lt;l0&gt;Nastavení segmentace&lt;/l0&gt; v dialogovém okně Předvolby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T114326Z">
@@ -34722,6 +34770,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T060349Z">
         <seg>Otevře okno funkce Ověření tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141626Z" creationid="Josef" creationdate="20190928T141626Z">
+        <seg>Otevře místní adresář OmegaT, ve kterém jsou uloženy konfigurační soubory (záleží na operačním systému).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39543,6 +39599,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T183714Z">
         <seg>Více naleznete v části &lt;l0&gt;Přizpůsobení zkratek&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141652Z" creationid="Josef" creationdate="20190928T141652Z">
+        <seg>Detaily naleznete v části &lt;l0&gt;Jak používat týmový projekt&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50829,6 +50893,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141729Z" creationid="Josef" creationdate="20190928T141729Z">
+        <seg>Pro překlad obsahu stránky Wikipedia (na příklad):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate the file in OmegaT, proceed as follows:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T082520Z">
@@ -54186,6 +54258,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T201202Z">
         <seg>Pak zavřete projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141825Z" creationid="Josef" creationdate="20190928T141825Z">
+        <seg>Jakmile dokončíte svůj překlad, importujete jej na Wikipedii takto.</seg>
       </tuv>
     </tu>
     <tu>
