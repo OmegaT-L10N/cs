@@ -9730,6 +9730,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133407Z" creationid="Josef" creationdate="20190928T133407Z">
+        <seg>Po první instalaci můžete samozřejmě soubor &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; spouštět i v režimu offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130525T062230Z">
@@ -33541,6 +33549,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133552Z" creationid="Josef" creationdate="20190928T133552Z">
+        <seg>Na macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T184530Z">
@@ -34988,6 +35004,14 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T111838Z">
         <seg>Věnujte pozornost psaní velkých a malých písmen – pod systémem Mac OS oproti Windows program nebude spuštěn, pokud zadáte &lt;e0&gt;omegat&lt;/e0&gt; místo &lt;e1&gt;OmegaT&lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133646Z" creationid="Josef" creationdate="20190928T133646Z">
+        <seg>Věnujte pozornost psaní velkých a malých písmen – různé systémy, narozdíl od Windows nebude program spuštěn, pokud zadáte &lt;l0&gt;omegat&lt;/l0&gt; místo &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45361,6 +45385,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T195917Z">
         <seg>Umístění různých odlišných překladových pamětí pro daný projekt si uživatel určuje sám (viz dialogové okno Projekt v okně &lt;l0&gt;Vlastnosti projektu).&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133433Z" creationid="Josef" creationdate="20190928T133433Z">
+        <seg>Obdobu u macOS představuje aplikace Terminál, která je umístěná v &lt;f0&gt;Aplikace/Nástroje&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56906,6 +56938,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133558Z" creationid="Josef" creationdate="20190928T133558Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133444Z" creationid="Josef" creationdate="20190928T133444Z">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144622Z" creationid="Josef" creationdate="20180318T144622Z">
@@ -56934,6 +56982,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164051Z" creationid="Josef" creationdate="20180317T164051Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133548Z" creationid="Josef" creationdate="20190928T133548Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -63217,6 +63273,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T094142Z">
         <seg>kde &lt;i0&gt;cesta&lt;/i0&gt; je celý název cesty k adresáři, ve kterém je uložen preview.tcl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133541Z" creationid="Josef" creationdate="20190928T133541Z">
+        <seg>kde &lt;p0&gt;folder&lt;/p0&gt; představuje jméno adresáře s kompletní cestou k umístění, kde se nachází Váš program &lt;a1&gt;OmegaT&lt;/a1&gt; - obzvláště soubor &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
