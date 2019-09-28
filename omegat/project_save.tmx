@@ -10573,6 +10573,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142958Z" creationid="Josef" creationdate="20190928T142958Z">
+        <seg>Projekt OmegaT je adresář obsahující soubory a podadresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T183258Z">
@@ -20756,6 +20764,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143053Z" creationid="Josef" creationdate="20190928T143053Z">
+        <seg>Například (pokud je akceptováno výchozí nastavení), překlad z vedlejší překladové paměti je akceptován a je přidána předpona &lt;e3&gt;[přibližně]&lt;/e3&gt;, takže překladatel si může takovéto překlady v pozdější fázi překladu projít a zkontrolovat, jestli takto označené segmenty byly přeloženy správně&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T124747Z">
@@ -22430,6 +22446,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T151738Z" creationid="Josef" creationdate="20150928T151738Z">
         <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142929Z" creationid="Josef" creationdate="20190928T142929Z">
+        <seg>Jak na to...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30505,6 +30529,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142930Z" creationid="Josef" creationdate="20190928T142930Z">
+        <seg>Nabídka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
@@ -32891,6 +32923,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142845Z" creationid="Josef" creationdate="20190928T142845Z">
+        <seg>Nicméně pokud není dostupný návrh č. 5, stiskem &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; ničeho nedocílíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T145947Z" creationid="Josef" creationdate="20180308T145947Z">
@@ -35110,6 +35150,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142919Z" creationid="Josef" creationdate="20190928T142919Z">
+        <seg>Nespárované (osiřelé) segmenty (shoda č. 2) představují takové segmenty ve výchozí překladové paměti, které nemají odpovídajícího zdrojové segmenty v aktuálním projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T085738Z">
@@ -36947,6 +36995,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T060340Z">
         <seg>Seznam souborů projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142937Z" creationid="Josef" creationdate="20190928T142937Z">
+        <seg>Adresář projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -46086,6 +46142,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142914Z" creationid="Josef" creationdate="20190928T142910Z">
+        <seg>Na řádku, kde je vypsáno procento shody, je také uveden název překladové paměti obsahující danou shodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151009Z" creationid="Josef" creationdate="20180318T151009Z">
@@ -51185,6 +51249,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130507T145614Z">
         <seg>Abyste mohli použít slovníky tohoto formátu, přejmenujte koncovku souboru z .oxt na .zip a programem na zpracování zip archivů (např. WinZip) vyextrahujte soubory .dic a .aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142904Z" creationid="Josef" creationdate="20190928T142904Z">
+        <seg>Vybraný shodný výraz bude vložen do vašeho překladu po stisku &lt;g4&gt;Ctrl+R&lt;/g4&gt;, cílové pole tak bude nahrazeno nalezeným výrazem, nebo stiskněte &lt;g5&gt;Ctrl+I&lt;/g5&gt; pro vložení této shody na pozici kurzoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56546,6 +56618,14 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T151733Z">
         <seg>Možná &lt;i0&gt;nebudete&lt;/i0&gt; chtít použít svůj běžný prohlížeč pro zobrazování náhledu, budete jej chtít využít k rešerši na internetu místo toho, abyste pořád museli překlikávat mezi panely, pak tedy instalujte další prohlížeč, který bude plnit funkci náhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142805Z" creationid="Josef" creationdate="20190928T142805Z">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63173,6 +63253,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143001Z" creationid="Josef" creationdate="20190928T143001Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104031Z" creationid="Josef" creationdate="20180317T104031Z">
@@ -63377,6 +63465,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103806Z" creationid="Josef" creationdate="20180317T103806Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143007Z" creationid="Josef" creationdate="20190928T143002Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -63705,6 +63801,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103817Z" creationid="Josef" creationdate="20180317T103817Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143009Z" creationid="Josef" creationdate="20190928T143009Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
