@@ -10075,6 +10075,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183132Z" creationid="Josef" creationdate="20190928T183132Z">
+        <seg>Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T185811Z" creationid="Josef" creationdate="20180309T185811Z">
@@ -10103,6 +10111,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T185906Z" creationid="Josef" creationdate="20180309T185906Z">
         <seg>Zvýraznění řádku tabulky pro zarovnávací nástroj Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183211Z" creationid="Josef" creationdate="20190928T183211Z">
+        <seg>Alignment / Zarovnávání zahrnuje vytvoření dvoujazyčné překladatelské paměti z jednojazyčných dokumentů, který již byly přeloženy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33116,6 +33132,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183054Z" creationid="Josef" creationdate="20190928T183054Z">
+        <seg>OmegaT 4.2 - Uživatelská příručka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105820Z" creationid="Josef" creationdate="20180318T144548Z">
@@ -33888,6 +33912,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T164646Z">
         <seg>OmegaT podporuje dva z populárních systémů na správu verzí (version control systems / VCS), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (často zkracováno jako SVN, po příkazu jako svn) a &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183107Z" creationid="Josef" creationdate="20190928T183107Z">
+        <seg>Tým OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -42431,6 +42463,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183309Z" creationid="Josef" creationdate="20190928T183309Z">
+        <seg>Krok 1: Přizpůsobit parametry zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Unhide the paragraph mark.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101127T195128Z">
@@ -45358,8 +45398,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T182852Z" creationid="Josef" creationdate="20190928T182852Z">
-        <seg>Rozdíl je nepatrný: „Oknem“ nazýváme okno, které zůstává otevřeno vedle editoru a interaguje s ním, a „dialogové okno“ je okno, kde musíte vybrat parametry dříve, než jej  zavřete a</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183046Z" creationid="Josef" creationdate="20190928T182852Z">
+        <seg>Rozdíl je nepatrný: „Oknem“ nazýváme takové okno, které zůstává otevřeno vedle editoru a interaguje s ním, a „dialogové okno“ je okno, kde musíte vybrat parametry dříve, než jej  zavřete a budete pokračovat v překládání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50419,6 +50459,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T192259Z" creationid="Josef" creationdate="20180308T192259Z">
         <seg>Pro přístup ke službě TaaS musí uživatel vytvořit klíč za použití odkazu https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T183256Z" creationid="Josef" creationdate="20190928T183256Z">
+        <seg>Okno otevřete následovně, vyberte &lt;m0&gt; &lt;g1&gt;Nástroje&lt;/g1&gt; &lt;g2&gt;Zarovnat soubory...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
