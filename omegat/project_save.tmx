@@ -34654,6 +34654,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190130Z" creationid="Josef" creationdate="20190928T190130Z">
+        <seg>Při vytváření překladové paměti budou zahrnuty jen ty řádky, které budou mít zaškrtno &lt;g0&gt;zaškrtávací&lt;/g0&gt; políčko v prvním sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T135214Z" creationid="Josef" creationdate="20190928T135214Z">
@@ -51173,6 +51181,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T164617Z">
         <seg>Pro změnu možností vyberte filtr ze seznamu a klikněte na &lt;e0&gt;Možnosti&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190045Z" creationid="Josef" creationdate="20190928T190045Z">
+        <seg>Pozice jednoho nebo více segmentů samostatně upravíte tak, že vyberete daný segment či segmenty a stisknete &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Pohyb nahoru&lt;/g1&gt;) nebo &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Pohyb dolů&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
