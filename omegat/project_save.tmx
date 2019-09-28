@@ -16626,6 +16626,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135628Z" creationid="Josef" creationdate="20190928T135628Z">
+        <seg>Detailní instrukce k sestavení verze jsou v souboru docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T192815Z">
@@ -49577,6 +49585,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135537Z" creationid="Josef" creationdate="20190928T135537Z">
+        <seg>Tímto vytvoříte kompletní distribuci programu OmegaT v adresáři &lt;f0&gt;./build/distributions&lt;/f0&gt;, ve kterém naleznete zazipované všechny soubory potřebné k provozu &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T114229Z" creationid="Josef" creationdate="20190928T114229Z">
@@ -55115,6 +55131,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135558Z" creationid="Josef" creationdate="20190928T135558Z">
+        <seg>Také můžete aplikaci spouštět přímo pomocí následujícího příkazu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T193238Z">
@@ -58627,6 +58651,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135454Z" creationid="Josef" creationdate="20190928T135454Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gradlew installDist</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T111843Z" creationid="Josef" creationdate="20180325T111843Z">
@@ -59319,6 +59351,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T135338Z" creationid="Josef" creationdate="20190928T135338Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T135605Z" creationid="Josef" creationdate="20190928T135605Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
