@@ -4607,8 +4607,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20121002T060826Z">
-        <seg>&lt;e0&gt;Tip:&lt;/e0&gt; sada filtrů souborů pro daný projekt je uložena v &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113127Z">
+        <seg>&lt;e0&gt;Tip:&lt;/e0&gt; sada filtrů souborů pro daný projekt je uložena v &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;&lt;e0&gt;Tip:&lt;/e0&gt; sada filtrů souborů pro daný projekt je uložena v &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38724,8 +38724,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T112944Z" creationid="Josef" creationdate="20190928T112944Z">
-        <seg>V kapitole &lt;l1&gt;Nastavení segmentace&lt;/l1&gt; naleznete více informací k pravidlům segmentace.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113108Z" creationid="Josef" creationdate="20190928T112944Z">
+        <seg>V kapitole &lt;l1&gt;Předvolby nastavení segmentace&lt;/l1&gt; naleznete více informací k pravidlům segmentace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38734,6 +38734,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T051920Z">
         <seg>Viz &lt;l1&gt;Ověření tagů&lt;/l1&gt; a &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113123Z" creationid="Josef" creationdate="20190928T113123Z">
+        <seg>Více informací k tomuto tématu najdete v kapitole &lt;l3&gt;Předvolby filtrů souborů&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52881,6 +52889,14 @@ price.</seg>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164335Z" creationid="Josef" creationdate="20180317T164335Z">
         <seg>When we speak of free software, we are referring to freedom, not
 price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113332Z" creationid="Josef" creationdate="20190928T113332Z">
+        <seg>Pokud pracujete na týmovém projektu, pak Vám toto okno umožní definovat mapování mezi vzdálenými a místními adresáři (příklady vizte &lt;l0&gt;zde&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
