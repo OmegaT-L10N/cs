@@ -21112,6 +21112,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143141Z" creationid="Josef" creationdate="20190928T143141Z">
+        <seg>Pro překladové paměti v adresářích s názvem &lt;f0&gt;penalty-xxx&lt;/f0&gt; (s hodnotou xxx mezi 0 a 100), jsou přibližné překlady negativně hodnoceny dle názvu adresáře: např. 100% shody v jakékoli překladové paměti, která je v adresáři nazvaném &lt;f1&gt;Penalty-30&lt;/f1&gt;, bude snížena na 70% shody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152039Z" creationid="Josef" creationdate="20180318T152039Z">
@@ -26018,6 +26026,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T201737Z" creationid="Josef" creationdate="20151006T201635Z">
         <seg>Když se vloží přibližný překlad z paměti TMX, která je umístěna v adresáři nazvaném &lt;e0&gt;mt&lt;/e0&gt;, pak se v podokně editoru pozadí aktivního segmentu změní na červenou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143113Z" creationid="Josef" creationdate="20190928T143113Z">
+        <seg>Když se vloží přibližný překlad z paměti TMX, která je umístěna v adresáři nazvaném &lt;f0&gt;mt&lt;/f0&gt;, pak se v podokně editoru pozadí aktivního segmentu změní na červenou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39799,6 +39815,22 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T183714Z">
         <seg>Více naleznete v části &lt;l0&gt;Přizpůsobení zkratek&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143241Z" creationid="Josef" creationdate="20190928T143212Z">
+        <seg>Více informací k tomuto tématu naleznete v části &lt;l0&gt;Slovníky&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143244Z" creationid="Josef" creationdate="20190928T143229Z">
+        <seg>Více informací  k tomuto tématu naleznete v části &lt;l0&gt;Glosáře&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58443,6 +58475,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143148Z" creationid="Josef" creationdate="20190928T143148Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164220Z" creationid="Josef" creationdate="20180317T164220Z">
@@ -59167,6 +59207,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102317Z" creationid="Josef" creationdate="20180317T102317Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143216Z" creationid="Josef" creationdate="20190928T143216Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -60139,6 +60187,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143359Z" creationid="Josef" creationdate="20190928T143359Z">
+        <seg>pokud extistuje, tak obsahuje nastavení grafického prostředí typické pro daný projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T163435Z">
@@ -60147,10 +60203,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143331Z" creationid="Josef" creationdate="20190928T143331Z">
+        <seg>pokud existuje, obsahuje filtry souborů specifické pro daný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T163424Z">
         <seg>Pokud existuje, obsahuje segmentační pravidla šitá na míru danému projektu, tedy jen pokud se na ně odkazuje přes &lt;g0&gt;Projekt &gt; Vlastnosti...&lt;/g0&gt; Viz &lt;l1&gt;kapitolu Vlastnosti projektu&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143314Z" creationid="Josef" creationdate="20190928T143314Z">
+        <seg>pokud existuje, pak obsahuje segmentační pravidla specifická pro daný projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63813,10 +63885,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143058Z" creationid="Josef" creationdate="20190928T143058Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T124517Z">
         <seg>adresář tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143103Z" creationid="Josef" creationdate="20190928T143103Z">
+        <seg>tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
@@ -63829,10 +63917,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143108Z" creationid="Josef" creationdate="20190928T143108Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/mt folder</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T201615Z" creationid="Josef" creationdate="20151006T201615Z">
         <seg>adresář tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T143117Z" creationid="Josef" creationdate="20190928T143117Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
