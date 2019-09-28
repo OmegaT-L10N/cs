@@ -13950,6 +13950,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185739Z" creationid="Josef" creationdate="20190928T185739Z">
+        <seg>Klikněte do dalšího sloupce na ten překlad, který odpovídá prvnímu segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072643Z">
