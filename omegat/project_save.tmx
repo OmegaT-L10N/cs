@@ -718,6 +718,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110628Z" creationid="Josef" creationdate="20190928T110628Z">
+        <seg>&amp;Automaticky hledat segmentovaný text ve slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T181956Z">
@@ -15757,6 +15765,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110636Z" creationid="Josef" creationdate="20190928T110636Z">
+        <seg>Kurzor zamčen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110641Z" creationid="Josef" creationdate="20190928T110641Z">
+        <seg>Kurzor odemčen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T185643Z" creationid="Josef" creationdate="20180309T185643Z">
@@ -18640,6 +18664,17 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T064323Z">
         <seg>Vyskytla se výjimka při načítání pravidel segmentace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110832Z" creationid="Josef" creationdate="20190928T110832Z">
+        <seg>Zajímavá stránka nápovědy
+Vlákna babího léta brání postupu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21999,6 +22034,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T052535Z">
         <seg>Soubory INI (klíč=hodnota) (*.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110705Z" creationid="Josef" creationdate="20190928T110705Z">
+        <seg>INS</seg>
       </tuv>
     </tu>
     <tu>
@@ -25601,6 +25644,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110654Z" creationid="Josef" creationdate="20190928T110654Z">
+        <seg>Režim vkládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130501T095338Z">
@@ -27418,6 +27469,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T181122Z">
         <seg>Pr&amp;otokol...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110701Z" creationid="Josef" creationdate="20190928T110701Z">
+        <seg>LCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -31754,6 +31813,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110704Z" creationid="Josef" creationdate="20190928T110704Z">
+        <seg>OVF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152114Z" creationid="Josef" creationdate="20180318T152114Z">
@@ -34057,6 +34124,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T160201Z">
         <seg>K překrývání dochází v důsledku chybné manipulace s párovými tagy, a toto pak určitě vyústí v poškození formátování a někdy může být přeložený soubor poškozen do takové míry, že už nepůjde otevřít vůbec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110650Z" creationid="Josef" creationdate="20190928T110650Z">
+        <seg>Režim přepisování</seg>
       </tuv>
     </tu>
     <tu>
@@ -38097,6 +38172,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T062542Z" creationid="Josef" creationdate="20180310T062542Z">
         <seg>Hledat ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110632Z" creationid="Josef" creationdate="20190928T110632Z">
+        <seg>Prohledat slovníky</seg>
       </tuv>
     </tu>
     <tu>
@@ -50154,6 +50237,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T164454Z" creationid="Josef" creationdate="20150928T164454Z">
         <seg>&amp;Nepřeloženo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110702Z" creationid="Josef" creationdate="20190928T110702Z">
+        <seg>UNL</seg>
       </tuv>
     </tu>
     <tu>
