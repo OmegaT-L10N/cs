@@ -14992,6 +14992,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141915Z" creationid="Josef" creationdate="20190928T141915Z">
+        <seg>Zkopírujte text a vložte jej do přeložené verze stránky Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T201018Z">
@@ -31448,6 +31456,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142108Z" creationid="Josef" creationdate="20190928T142108Z">
+        <seg>Nové překladové paměti umístěné v adresáři &lt;f0&gt;/tm&lt;/f0&gt; se během překladu automaticky nahrávají jakmile se kurzor přesune z jednoho segmentu do jiného.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T192656Z">
@@ -33028,6 +33044,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142121Z" creationid="Josef" creationdate="20190928T142121Z">
+        <seg>OmegaT automaticky ukládá překlad každé 3 minuty, stejně tak při zavření projektu, nebo při ukončení OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183022Z">
@@ -34514,6 +34538,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T055329Z">
         <seg>Otevřít projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141858Z" creationid="Josef" creationdate="20190928T141858Z">
+        <seg>Otevřete soubor &lt;f0&gt;.UTF8&lt;/f0&gt;, který je vygenerován v cílovém adresáři &lt;f1&gt;/target&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37623,7 +37655,7 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20120924T172805Z">
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142029Z">
         <seg>Znovu načíst</seg>
       </tuv>
     </tu>
@@ -37633,6 +37665,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130504T044945Z">
         <seg>Nechejte projekt v OmegaT znovu načíst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142026Z" creationid="Josef" creationdate="20190928T142026Z">
+        <seg>Načte projekt a tak převezme externí změny ve zdrojových souborech a projektových nastaveních.</seg>
       </tuv>
     </tu>
     <tu>
