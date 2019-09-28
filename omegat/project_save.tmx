@@ -4590,6 +4590,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190626Z" creationid="Josef" creationdate="20190928T190626Z">
+        <seg>&lt;e0&gt;Přidání souborů do projektu:&lt;/e0&gt; soubory do projektu můžete přidat kliknutím na tlačítko &lt;g1&gt;„Importovat zdrojové soubory“&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T181316Z">
@@ -8363,6 +8371,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130525T062746Z">
         <seg>&lt;r0&gt;Poznámka:&lt;/r0&gt; Na počítačích Apple Mac používejte klávesu &lt;k1&gt;Command&lt;/k1&gt; místo &lt;k2&gt;Ctrl&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190517Z" creationid="Josef" creationdate="20190928T190517Z">
+        <seg>&lt;r0&gt;Poznámka:&lt;/r0&gt; můžete potlačit zobrazení okna Soubory projektu při otevření projektu nastavením &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; na hodnotu &lt;e2&gt;false&lt;/e2&gt; v souboru &lt;f3&gt;omegat.prefs&lt;/f3&gt;  (přístupné &lt;m4&gt;přes nabídku &lt;g5&gt;Možnosti&lt;/g5&gt; &lt;g6&gt;Otevřít adresář nastavení&lt;/g6&gt;&lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44308,6 +44324,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190539Z" creationid="Josef" creationdate="20190928T190539Z">
+        <seg>Okno &lt;g2&gt;Soubory projektu&lt;/g2&gt; zobrazuje následující informace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055558Z">
@@ -49255,6 +49279,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190632Z" creationid="Josef" creationdate="20190928T190632Z">
+        <seg>Tímto zkopírujete vybrané soubory do adresáře &lt;f2&gt;source&lt;/f2&gt;, projekt bude znovu načten a je možno importovat nové soubory. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T102414Z">
@@ -52388,6 +52420,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190549Z" creationid="Josef" creationdate="20190928T190549Z">
+        <seg>Psaní libovolného textu otevře pole &lt;g0&gt;Filtr&lt;/g0&gt;, kam lze vkládat části názvu souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T163853Z" creationid="Josef" creationdate="20180308T163853Z">
@@ -53180,6 +53220,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T145532Z" creationid="Josef" creationdate="20180308T145532Z">
         <seg>Použijte výchozí filtr v &lt;a0&gt;OmegaT&lt;/a0&gt; (vstup PDF), přeložte, vytvořte cílový soubor (bude to soubor s prostým textem) a přidejte důležité formátování a položky ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190530Z" creationid="Josef" creationdate="20190928T190530Z">
+        <seg>Dialogové okno otevřete stiskem &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; a přes klávesu &lt;k1&gt;Esc&lt;/k1&gt; jej zavřete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55984,6 +56032,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190641Z" creationid="Josef" creationdate="20190928T190641Z">
+        <seg>Můžete také přidat zdrojové soubory z internetových stránek, napsaných v MediaWiki, kliknutím na tlačítko &lt;g3&gt;„Import z Mediawiki“&lt;/g3&gt; a zadáním odpovídající URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121016T054426Z">
@@ -56509,6 +56565,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T163945Z" creationid="Josef" creationdate="20180308T163945Z">
         <seg>Za pomoci kláves &lt;k0&gt;Nahoru&lt;/k0&gt; a &lt;k1&gt;Dolů&lt;/k1&gt; můžete vybrat soubor a stiskem &lt;k2&gt;Enter&lt;/k2&gt; se soubor otevře pro překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190609Z" creationid="Josef" creationdate="20190928T190609Z">
+        <seg>Za pomoci kláves &lt;k1&gt;Nahoru&lt;/k1&gt; a &lt;k2&gt;Dolů&lt;/k2&gt; můžete vybrat soubor a stiskem &lt;k3&gt;Enter&lt;/k3&gt; se soubor otevře pro překlad.</seg>
       </tuv>
     </tu>
     <tu>
