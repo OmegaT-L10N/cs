@@ -13550,6 +13550,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141152Z" creationid="Josef" creationdate="20190928T141152Z">
+        <seg>Označte možnost &lt;g0&gt;U záznamů glosáře použít přibližné shody&lt;/g0&gt; pro zobrazení slov, která mají stejný kořen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055314Z">
@@ -22798,6 +22806,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141205Z" creationid="Josef" creationdate="20190928T141205Z">
+        <seg>Pokud je zatržena možnost &lt;g0&gt;Automatické doplňovánícky ukazovat relevantní návrhy&lt;/g0&gt;, pak bude automaticky spuštěno automatické doplňování již při psaní prvních znaků přeloženého záznamu glosáře, nebo při zadání "&lt;" v případě tagu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T185026Z" creationid="Josef" creationdate="20180308T185010Z">
@@ -23468,6 +23484,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T184745Z">
         <seg>Pokud je vybráno Segmentace na úrovni vět, pak můžete nastavit pravidla vybráním položky &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Možnosti&lt;/g6&gt; &lt;g8&gt;Segmentace...&lt;/g8&gt; &lt;/m5&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141020Z" creationid="Josef" creationdate="20190928T141020Z">
+        <seg>Pokud je vybráno víc nástrojů strojového překladu, pak se také používá zkratka &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; k přepínání mezi nimi a vložení posledního vybraného.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34654,6 +34678,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140927Z" creationid="Josef" creationdate="20190928T140927Z">
+        <seg>Otevře dialogové okno &lt;l0&gt;Předvolby&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T114326Z">
@@ -39975,6 +40007,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130501T114213Z">
         <seg>Označit &amp;předchozí přibližný překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141102Z" creationid="Josef" creationdate="20190928T141102Z">
+        <seg>Vybrat možnost &lt;g0&gt;oblast hledání terminologie v TaaS&lt;/g0&gt; pro aktivaci tohoto typu hledání.</seg>
       </tuv>
     </tu>
     <tu>
