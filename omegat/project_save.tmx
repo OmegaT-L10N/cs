@@ -60091,6 +60091,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="cs" changeid="Kos Ivantsov" changedate="20190928T204025Z" creationid="Kos Ivantsov" creationdate="20190928T204025Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T105357Z" creationid="Josef" creationdate="20180325T105357Z">
