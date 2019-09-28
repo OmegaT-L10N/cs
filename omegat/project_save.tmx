@@ -3040,6 +3040,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134331Z" creationid="Josef" creationdate="20190928T134331Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134343Z" creationid="Josef" creationdate="20190928T134343Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T170027Z" creationid="Josef" creationdate="20180317T170027Z">
@@ -3052,6 +3068,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T163816Z" creationid="Josef" creationdate="20180317T163816Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134357Z" creationid="Josef" creationdate="20190928T134357Z">
+        <seg>-Dyandex.api.key=&lt;/p0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,6 +4465,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T201619Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; startuje v režimu příkazového řádku a vykoná tak jednu z následujících služeb automaticky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134317Z" creationid="Josef" creationdate="20190928T134317Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt; &lt;/e0&gt; Pokud jste se zaregistrovali do služeb Google Překladač, pak sem zadejte svůj Google API klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134234Z" creationid="Josef" creationdate="20190928T134234Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt; &lt;/e0&gt; Adresa IP vašeho proxy serveru, pokud váš systém používá proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134253Z" creationid="Josef" creationdate="20190928T134253Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Číslo portu, který váš systém používá pro přístup k proxy serveru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46139,6 +46187,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134525Z" creationid="Josef" creationdate="20190928T134525Z">
+        <seg>Důležité soubory jsou &lt;f2&gt;filters.conf&lt;/f2&gt; a &lt;f3&gt;segmentation.conf&lt;/f3&gt; a můžete je najít v adresáři home daného uživatele (např. &lt;f4&gt;C:\Dokumenty a nastavení\&lt;p5&gt;%Uživatel%&lt;/p5&gt;\OmegaT&lt;/f4&gt; ve Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; v Linuxu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T164255Z" creationid="Josef" creationdate="20151001T164255Z">
@@ -59544,6 +59600,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164139Z" creationid="Josef" creationdate="20180317T164139Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T134402Z" creationid="Josef" creationdate="20190928T134402Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
