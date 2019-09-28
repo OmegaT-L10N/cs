@@ -25318,8 +25318,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T184007Z" creationid="Josef" creationdate="20190928T184007Z">
-        <seg>V &lt;g0&gt;h&lt;/g0&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184021Z" creationid="Josef" creationdate="20190928T184007Z">
+        <seg>V &lt;g0&gt;Hromadném&lt;/g0&gt; režimu se texty vyhodnocují globálně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25328,6 +25328,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T131733Z">
         <seg>Hned několik proměnných v &lt;g0&gt;Možnosti &gt; Externí soubory TMX&lt;/g0&gt; umožňuje nastavit zobrazení v podokně Přibližné překlady: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184058Z" creationid="Josef" creationdate="20190928T184058Z">
+        <seg>V &lt;g1&gt;Parsovacím&lt;/g1&gt; režimu se vyhodnocuje segment za segmentem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53052,6 +53060,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T101418Z">
         <seg>Dialogové okno otevřete stiskem &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; a přes klávesu &lt;k2&gt;Esc&lt;/k2&gt; jej zavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184152Z" creationid="Josef" creationdate="20190928T184152Z">
+        <seg>V režimu &lt;g0&gt;Porovnání ID&lt;/g0&gt; se zarovnávají texty typu </seg>
       </tuv>
     </tu>
     <tu>
