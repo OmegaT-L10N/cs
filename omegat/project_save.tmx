@@ -13254,6 +13254,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141337Z" creationid="Josef" creationdate="20190928T141337Z">
+        <seg>Označte &lt;g0&gt;Doplnění historie&lt;/g0&gt;, pak se budou zobrazovat navrhovaná slova hned, jakmile se napíšou první znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141418Z" creationid="Josef" creationdate="20190928T141418Z">
+        <seg>Označte &lt;g0&gt;Navrhování historie&lt;/g0&gt;, pak se budou zobrazovat navrhovaná slova, která běžně následují po slově, které jste právě zadali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152007Z" creationid="Josef" creationdate="20180318T152007Z">
@@ -34678,6 +34694,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141439Z" creationid="Josef" creationdate="20190928T141439Z">
+        <seg>Otevře možnosti &lt;l0&gt;Filtry souborů&lt;/l0&gt; v dialogovém okně Předvolby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T140927Z" creationid="Josef" creationdate="20190928T140927Z">
@@ -48057,6 +48081,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151153Z" creationid="Josef" creationdate="20180318T151153Z">
         <seg>Tyto segmenty jsou označeny a vymezeny speciálními znaky a styly formátování MS Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T141513Z" creationid="Josef" creationdate="20190928T141513Z">
+        <seg>Tato nastavení platí na úrovni OmegaT, na všechny projekty.</seg>
       </tuv>
     </tu>
     <tu>
