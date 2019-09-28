@@ -8126,6 +8126,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110302Z" creationid="Josef" creationdate="20190928T110302Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; je svobodná aplikace překladové paměti, která funguje v operačních systémech Windows, macOS,Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105912Z" creationid="Josef" creationdate="20180325T105912Z">
@@ -29082,6 +29090,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110554Z" creationid="Josef" creationdate="20190928T110554Z">
+        <seg>Označit oddělovače odstav&amp;ců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120920T184008Z">
@@ -34585,6 +34601,14 @@ to determine the source of the error and try again.</seg>
         <seg>Abyste zjistili zdroj chyby, projděte si, prosím, log 
 ({1})
 a zkuste akci zopakovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T110435Z" creationid="Josef" creationdate="20190928T110435Z">
+        <seg>Více podrobností co obnáší lokalizace/překlad Vám poskytne &lt;a0&gt;koordinátor lokalizace OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
