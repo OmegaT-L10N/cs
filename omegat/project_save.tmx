@@ -9923,6 +9923,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185000Z" creationid="Josef" creationdate="20190928T185000Z">
+        <seg>Po skončení automatického zpracování se zpravidla pro zarovnní dvou souborů obecně vyžadují ruční opravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T194359Z">
@@ -13814,6 +13822,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184847Z" creationid="Josef" creationdate="20190928T184847Z">
+        <seg>Vyberte jeden z nich, který poskytne lepší výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T172126Z">
@@ -13890,6 +13906,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T172414Z" creationid="Josef" creationdate="20151006T051115Z">
         <seg>Zde můžete vybírat z možností &lt;e2&gt;Nahradit další&lt;/e2&gt; nebo &lt;e3&gt;Přeskočit&lt;/e3&gt;&lt;e4&gt;Dokončit&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T184905Z" creationid="Josef" creationdate="20190928T184905Z">
+        <seg>Klikněte na &lt;g0&gt;Pokračovat&lt;/g0&gt; a přejděte na další krok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36605,6 +36629,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185139Z" creationid="Josef" creationdate="20190928T185139Z">
+        <seg>Stiskněte mezerník (zkratka pro &lt;m0&gt; &lt;g1&gt;Editovat&lt;/g1&gt; &lt;g2&gt;Začátek detailního zarovnání&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T183401Z" creationid="Josef" creationdate="20180308T183401Z">
@@ -40727,6 +40759,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121016T060609Z">
         <seg>označte takovou zálohu překladové paměti, třeba tu nejnovější, nebo poslední z předchozího dne, která nejvíce pravděpodobně obsahuje hledaná data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185045Z" creationid="Josef" creationdate="20190928T185045Z">
+        <seg>Vyberte první segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50559,6 +50599,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185036Z" creationid="Josef" creationdate="20190928T185036Z">
+        <seg>Jak zarovnat dva segmenty na stejný řádek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T170338Z">
@@ -52110,6 +52158,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T060225Z">
         <seg>Mimo překladovou jednotku objevena varianta překladové jednotky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T185022Z" creationid="Josef" creationdate="20190928T185022Z">
+        <seg>Jednotky překladu se nacházejí v buňkách ve dvou posledních sloupcích.</seg>
       </tuv>
     </tu>
     <tu>
