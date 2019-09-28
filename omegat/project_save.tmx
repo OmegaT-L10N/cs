@@ -22806,6 +22806,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140327Z" creationid="Josef" creationdate="20190928T140327Z">
+        <seg>Pokud je deaktivováno &lt;l0&gt;Automaticky hledat ve slovnících&lt;/l0&gt;, pak vám tato funkce umožní hledat označené slovo ve slovnících.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T112822Z">
@@ -37951,6 +37959,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140010Z" creationid="Josef" creationdate="20190928T140010Z">
+        <seg>Přepsat zdrojem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T055956Z">
@@ -44980,6 +44996,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140022Z" creationid="Josef" creationdate="20190928T140022Z">
+        <seg>Exportovaný obsah je zkopírován do souboru &lt;f1&gt;selection.txt&lt;/f1&gt;, který se nachází v adresáři dle předvoleb uživatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T161630Z" creationid="Josef" creationdate="20151001T161630Z">
@@ -48419,6 +48443,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072709Z">
         <seg>Toto hlášení MUSÍ být provedeno v swing thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T140134Z" creationid="Josef" creationdate="20190928T140134Z">
+        <seg>Toto lze použít také na pole &lt;g0&gt;Cílový pojem&lt;/g0&gt; a &lt;g1&gt;Komentář&lt;/g1&gt;, a to tehdy, když je učiněn nový výběr a když znovu stisknete &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
