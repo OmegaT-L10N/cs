@@ -4437,6 +4437,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133831Z" creationid="Josef" creationdate="20190928T133831Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Běžně, tj. když se &lt;a3&gt;OmegaT&lt;/a3&gt;&gt; spouští bez jakýchkoliv parametrů, program první detekuje jazyk uživatelova operačního systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T180322Z">
@@ -11022,6 +11030,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T062841Z" creationid="Josef" creationdate="20180310T062841Z">
         <seg>Jste si jistí, že chcete resetovat hlavní heslo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133736Z" creationid="Josef" creationdate="20190928T133736Z">
+        <seg>Jednotlivé parametry se přidávají za počáteční &lt;c0&gt;„java“&lt;/c0&gt; a před část  &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20711,6 +20727,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133702Z" creationid="Josef" creationdate="20190928T133702Z">
+        <seg>Z toho důvodu jsou oba nahoře popsané příkazy obsaženy v jednom souboru („skript“, taky nazýváno soubor „&lt;f0&gt;.bat&lt;/f0&gt;“ u systému Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T190116Z">
@@ -22710,6 +22734,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133837Z" creationid="Josef" creationdate="20190928T133837Z">
+        <seg>Pokud je uživatelské prostředí v tomto jazyce k dispozici, tak ho &lt;a4&gt;OmegaT&lt;/a4&gt; použije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
@@ -23411,6 +23443,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T195614Z">
         <seg>Pokud jazyk uživatelova systému není k dispozici, &lt;a6&gt;OmegaT&lt;/a6&gt; použije jako výchozí jazyk angličtinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133858Z" creationid="Josef" creationdate="20190928T133858Z">
+        <seg>Pokud jazyk uživatelova systému není k dispozici, &lt;a7&gt;OmegaT&lt;/a7&gt; použije jako výchozí jazyk angličtinu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25257,6 +25297,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T053033Z">
         <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projekt&lt;/g2&gt; &lt;g4&gt;Vlastnosti...&lt;/g4&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133801Z" creationid="Josef" creationdate="20190928T133801Z">
+        <seg>Na jiných platformách můžete pro stejnou akci změnit spouštěč &lt;f3&gt;Configuration.properties&lt;/f3&gt; na Macu, &lt;f4&gt;OmegaT&lt;/f4&gt; pod Linuxem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31679,6 +31727,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152135Z" creationid="Josef" creationdate="20180318T152135Z">
         <seg>Pokud při své práci použijete demo verzi programu Iceni Infix, přeložený PDF dokument bude obsahovat vodoznak Iceni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133746Z" creationid="Josef" creationdate="20190928T133746Z">
+        <seg>Povšimněte si, že ve Windows budete měnit soubor &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; a tak definovat své priority.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40730,6 +40786,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133852Z" creationid="Josef" creationdate="20190928T133852Z">
+        <seg>To znamená, že když je uživatelův operační systém v ruštině a &lt;a5&gt;OmegaT&lt;/a5&gt; byla lokalizována do ruštiny, bude &lt;a6&gt;OmegaT&lt;/a6&gt; zobrazena s ruským uživatelským prostředím, ruskými nabídkami, atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Software required</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T093538Z">
@@ -43287,6 +43351,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055558Z">
         <seg>Při přepínání &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; se volí mezi třemi nastaveními:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133929Z" creationid="Josef" creationdate="20190928T133929Z">
+        <seg>Parametr &lt;l0&gt;„-Duser.language=&lt;p1&gt;XX“&lt;/p1&gt;&lt;/l0&gt; způsobí, že &lt;a2&gt;OmegaT&lt;/a2&gt; použije definovaný jazyk, a ne jazyk uživatelova operačního systému.</seg>
       </tuv>
     </tu>
     <tu>
