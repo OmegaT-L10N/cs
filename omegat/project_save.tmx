@@ -11131,6 +11131,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142702Z" creationid="Josef" creationdate="20190928T142702Z">
+        <seg>Přílohy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T174640Z">
@@ -13286,6 +13294,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142445Z" creationid="Josef" creationdate="20190928T142445Z">
+        <seg>Zkontrolovat problém&amp;y...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T171755Z" creationid="Josef" creationdate="20151007T171755Z">
@@ -13602,6 +13618,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120926T195839Z">
         <seg>Na webové stránce projektu se můžete podívat na kompletní seznam implementovaných jazykových párů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142637Z" creationid="Josef" creationdate="20190928T142637Z">
+        <seg>Zatrhněte tuto možnost tehdy, když &lt;a0&gt;OmegaT&lt;/a0&gt; nezobrazuje některé znaky správně (a to i tehdy, když jsou znakové sady obsahující požadované znaky na vašem počítači správně instalovány).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20886,6 +20910,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142630Z" creationid="Josef" creationdate="20190928T142630Z">
+        <seg>Více technických detailů najdete v &lt;u3&gt;Požadavky na vylepšení&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T061414Z">
@@ -23189,6 +23221,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142601Z" creationid="Josef" creationdate="20190928T142601Z">
+        <seg>Když je tato možnost aktivní, pozadí všech segmentů, kde byl cílový segment automaticky vyplněn (např. z paměti TMX umístěné v &lt;f0&gt;/tm/auto&lt;/f0&gt;), je barevně zvýrazněno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T173039Z" creationid="Josef" creationdate="20150928T173009Z">
@@ -23201,6 +23241,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T172947Z" creationid="Josef" creationdate="20150928T172918Z">
         <seg>Pokud je volba vybrána, delší pojmy se v seznamu zobrazí na začátku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142530Z" creationid="Josef" creationdate="20190928T142530Z">
+        <seg>Pokud je tato volba vybrána, pak budou oddělovače odstavců ve zdrojovém dokumentu indikovány vizuálně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30129,6 +30177,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142451Z" creationid="Josef" creationdate="20190928T142451Z">
+        <seg>Označit oddělovače odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T073027Z">
@@ -34814,6 +34870,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142440Z" creationid="Josef" creationdate="20190928T142440Z">
+        <seg>Ptevře okno &lt;l0&gt;Soubory projektu&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T141534Z" creationid="Josef" creationdate="20190928T141534Z">
@@ -35389,6 +35453,14 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T082102Z">
         <seg>Tlačítka podoken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142712Z" creationid="Josef" creationdate="20190928T142712Z">
+        <seg>Podokna</seg>
       </tuv>
     </tu>
     <tu>
@@ -40827,10 +40899,26 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142656Z" creationid="Josef" creationdate="20190928T142656Z">
+        <seg>Když vyberete volbu &lt;g1&gt;Všechny segmenty&lt;/g1&gt;, bude tato informace u všech segmentů a volba &lt;g2&gt;Nezobrazovat žádné&lt;/g2&gt; zobrazování vypne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T172722Z" creationid="Josef" creationdate="20151001T172722Z">
         <seg>Když v možnosti zobrazit Informace k úpravám vyberete volbu &lt;e0&gt;Aktuální segment&lt;/e0&gt;, bude zobrazen čas a autor poslední změny u aktuálně otevřeného segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142644Z" creationid="Josef" creationdate="20190928T142644Z">
+        <seg>Když v možnosti zobrazit Informace k úpravám vyberete volbu &lt;g0&gt;Aktuální segment&lt;/g0&gt;, bude zobrazen čas a autor poslední změny u aktuálně otevřeného segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40959,6 +41047,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T173742Z">
         <seg>Pokud by se OmegaT chovala chybně, je zapotřebí toto zaznamenat do tohoto souboru nebo důležité části jakéhokoliv hlášení o chybách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142708Z" creationid="Josef" creationdate="20190928T142708Z">
+        <seg>Pokud ztratíte přehled o změnách zobrazení podoken v uživatelském prostředí, můžete použít možnost &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Možnosti → Obnovit hlavní okno&lt;/g0&gt; a kdykoliv tak vrátit původní rozestavění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44810,6 +44906,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142623Z" creationid="Josef" creationdate="20190928T142623Z">
+        <seg>Barvy se zobrazují tehdy, když je aktivní možnost &lt;l1&gt;&lt;g2&gt;Uložit automaticky vyplněný status&lt;/g2&gt;&lt;/l1&gt; (v Možnosti / Nastavení editace ...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command is case-sensitive.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152530Z" creationid="Josef" creationdate="20180318T152530Z">
@@ -47616,6 +47720,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142733Z" creationid="Josef" creationdate="20190928T142721Z">
+        <seg>Horní část je v jazyce zdroje, tučným písmem a na zeleném pozadí, spodní část je pole editace, které je ukončené značkou: značka je &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt;, kde nnnn představuje číslo segmentu v daném projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T043241Z">
@@ -49541,6 +49653,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T142143Z">
         <seg>Nicméně tato příručka by nevznikla bez pomoci a podpory celé řady lidí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T142549Z" creationid="Josef" creationdate="20190928T142549Z">
+        <seg>Toto označení má přednost před volbami &lt;g0&gt;Označit přeložené segmenty&lt;/g0&gt; a &lt;g1&gt;Označit nepřeložené segmenty&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
