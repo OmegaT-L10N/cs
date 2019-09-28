@@ -16041,6 +16041,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113402Z" creationid="Josef" creationdate="20190928T113402Z">
+        <seg>Definuje zdroje pro projektově specifické externí hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164345Z" creationid="Josef" creationdate="20180317T164345Z">
@@ -29208,6 +29216,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113416Z" creationid="Josef" creationdate="20190928T113416Z">
+        <seg>Spravovat jazyky se zápisem zprava doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T171645Z" creationid="Josef" creationdate="20180309T171645Z">
@@ -35452,6 +35468,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113424Z" creationid="Josef" creationdate="20190928T113424Z">
+        <seg>Prevence ztráty dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T185055Z">
@@ -37562,6 +37586,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T170719Z" creationid="Josef" creationdate="20150928T174435Z">
         <seg>Obnovit seznam oblastí ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113428Z" creationid="Josef" creationdate="20190928T113428Z">
+        <seg>Opětovné používání překladových pamětí</seg>
       </tuv>
     </tu>
     <tu>
@@ -44435,6 +44467,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113435Z" creationid="Josef" creationdate="20190928T113435Z">
+        <seg>Následující postup znázorňuje jen jednu z možností, ale dostatečně jednoduchou k porozumění a bez jakéhokoli ohrožení obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T200811Z">
@@ -50088,6 +50128,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113601Z" creationid="Josef" creationdate="20190928T113601Z">
+        <seg>Překlad souboru PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T174943Z">
@@ -51952,6 +52000,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T094236Z">
         <seg>Použití Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113538Z" creationid="Josef" creationdate="20190928T113538Z">
+        <seg>Použití překladových pamětí s alternativním jazykem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61872,6 +61928,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164844Z" creationid="Josef" creationdate="20180317T164844Z">
         <seg>nadací Free Software Foundation, buď ve verzi licence č. 3 nebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T113511Z" creationid="Josef" creationdate="20190928T113511Z">
+        <seg>Soubory překladové paměti, které jsou obsaženy v hlavním adresáři projektu (viz výše) nyní obsahují překlady vybraného jazykového páru pro ty soubory, které jste nakopírovali do zdrojového adresáře.</seg>
       </tuv>
     </tu>
     <tu>
