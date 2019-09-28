@@ -8278,6 +8278,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112423Z" creationid="Josef" creationdate="20190928T112423Z">
+        <seg>&lt;u0&gt;Sbírka terminologických slovníčků Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; nabízí ke stažení terminologii v téměř stech jazycích a slouží jako základ IT glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181536Z" creationid="Josef" creationdate="20180317T181536Z">
@@ -24655,6 +24663,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T161929Z" creationid="Josef" creationdate="20151001T161929Z">
         <seg>Vedle prostého textového formátu je podporován &lt;i0/&gt; formát TBX jakožto formát slovníku určený pouze pro čtení..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112350Z" creationid="Josef" creationdate="20190928T112350Z">
+        <seg>Vedle prostého textového formátu je podporován formát TBX jakožto formát slovníku určený pouze pro čtení..</seg>
       </tuv>
     </tu>
     <tu>
@@ -44861,6 +44877,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112408Z" creationid="Josef" creationdate="20190928T112408Z">
+        <seg>Umístění souboru &lt;f0&gt;.tbx&lt;/f0&gt; musí být sice v adresáři &lt;f1&gt;/glossary&lt;/f1&gt;, ale zato může být na jakékoliv nižší úrovni (např. &lt;f2&gt;glossary/sub/MujGlosar.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T162019Z" creationid="Josef" creationdate="20151001T162019Z">
@@ -54104,6 +54128,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T193951Z" creationid="Josef" creationdate="20180307T193951Z">
         <seg>Můžete měnit nebo přidávat vzory názvů souborů pro filtry souborů, které budou u každého souboru zpracovávány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T112640Z" creationid="Josef" creationdate="20190928T112640Z">
+        <seg>Můžete změnit již přiřazené klávesové zkratky a přidat nové zkratky tak, že přidáte soubor definic klávesových zkratek do svého adresáře nastavení &lt;a0&gt;OmegaT&lt;/a0&gt; (nalzenete jej v nabídce &lt;m1&gt; &lt;g2&gt;Možnosti&lt;/g2&gt; &lt;g3&gt;Zpřístupnit adresář nastavení&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
