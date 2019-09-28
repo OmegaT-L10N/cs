@@ -14663,6 +14663,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124342Z" creationid="Josef" creationdate="20190928T124342Z">
+        <seg>Zkopírujte jej na vhodné umístění (např. Aplikace).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144620Z" creationid="Josef" creationdate="20180318T144620Z">
@@ -17229,6 +17237,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124241Z" creationid="Josef" creationdate="20190928T124241Z">
+        <seg>Soubor rozbalíte dvojklikem na &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T165530Z">
@@ -17305,6 +17321,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183842Z">
         <seg>Stáhněte si &lt;e0&gt;OmegaT_3.n.n_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124224Z" creationid="Josef" creationdate="20190928T124224Z">
+        <seg>Stáhněte si &lt;f0&gt;OmegaT_4.n.n_Mac.zip.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20939,6 +20963,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T144103Z">
         <seg>V GNOME může selhat zobrazení souborů ikon v dostupném formátu, protože očekává soubor SVG, ale jakmile je vybrán adresář, soubory by se měly zobrazit a můžete vybrat &lt;a4&gt;OmegaT&lt;/a4&gt;.png.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124119Z" creationid="Josef" creationdate="20190928T124119Z">
+        <seg>V GNOME může selhat zobrazení souborů ikon v dostupném formátu, protože očekává soubor SVG, ale jakmile je vybrán adresář, soubory by se měly zobrazit a můžete vybrat &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26119,6 +26151,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124231Z" creationid="Josef" creationdate="20190928T124231Z">
+        <seg>Instalace programu &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T135616Z">
@@ -29268,6 +29308,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T193919Z">
         <seg>Ujistěte se, že vaše nastavení &lt;e3&gt;PATH&lt;/e3&gt; (tedy nastavení cesty) jsou správná a že soubory &lt;e4&gt;.jar&lt;/e4&gt; jsou řádně asociovány s Javou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124206Z" creationid="Josef" creationdate="20190928T124206Z">
+        <seg>Ujistěte se, že vaše nastavení &lt;v1&gt;PATH&lt;/v1&gt; (tedy nastavení cesty) jsou správná a že soubory &lt;f2&gt;.jar&lt;/f2&gt; jsou řádně asociovány s Javou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33545,6 +33593,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T183925Z">
         <seg>Jakmile je to provedeno, můžete soubor &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt;  smazat, už jej dál nepotřebujete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124356Z" creationid="Josef" creationdate="20190928T124356Z">
+        <seg>Jakmile je to provedeno, můžete soubor &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;  smazat, už jej dál nepotřebujete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39602,6 +39658,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124057Z" creationid="Josef" creationdate="20190928T124057Z">
+        <seg>Vyberte ikonu &lt;f3&gt;OmegaT&lt;/f3&gt;.png.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the backup translation memory that is most likely - e.g. the most recent one, or the last version from the day before) to contain the data you are looking for</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121016T060609Z">
@@ -44531,6 +44595,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124320Z" creationid="Josef" creationdate="20190928T124320Z">
+        <seg>Tento adresář obsahuje 2 soubory: &lt;f2&gt;index.html&lt;/f2&gt; a &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T175316Z">
@@ -47882,6 +47954,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T144500Z">
         <seg>Tak vytvoříte adresář nazvaný &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124251Z" creationid="Josef" creationdate="20190928T124251Z">
+        <seg>Tak vytvoříte adresář nazvaný &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54696,6 +54776,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124139Z" creationid="Josef" creationdate="20190928T124139Z">
+        <seg>OmegaT můžete spouštět z příkazového řádku přes skript, který obsahuje startovací možnosti nebo pro přímý start klikněte na &lt;f0&gt;OmegaT.jar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T182943Z">
@@ -59672,6 +59760,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102926Z" creationid="Josef" creationdate="20180317T102926Z">
         <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124212Z" creationid="Josef" creationdate="20190928T124212Z">
+        <seg>Uživatelé macOS</seg>
       </tuv>
     </tu>
     <tu>
