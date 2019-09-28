@@ -37007,6 +37007,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190224Z" creationid="Josef" creationdate="20190928T190224Z">
+        <seg>Soubory projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T192109Z" creationid="Josef" creationdate="20180307T192109Z">
@@ -50433,6 +50441,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190332Z" creationid="Josef" creationdate="20190928T190332Z">
+        <seg>Toto okno se zobrazí automaticky, když OmegaT otevře projekt a také pokaždé, když zvolíte &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Soubory projektu...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T184300Z" creationid="Josef" creationdate="20190928T184300Z">
@@ -54664,6 +54680,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T061309Z">
         <seg>Když se vytváří přeložené dokumenty, směr zobrazení bude stejný jako u výchozího dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T190222Z" creationid="Josef" creationdate="20190928T190222Z">
+        <seg>Jakmile jsou oba sloupce dostatečně zarovnány, klikněte na &lt;g0&gt;Uložit TMX...&lt;/g0&gt; a vytvoříte tak hotovu překladovou paměť.</seg>
       </tuv>
     </tu>
     <tu>
