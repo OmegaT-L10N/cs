@@ -13685,6 +13685,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124049Z" creationid="Josef" creationdate="20190928T124049Z">
+        <seg>Klikněte na tlačítko ikony, pak &lt;g0&gt;Procházet...&lt;/g0&gt; a přejděte k podadresáři &lt;f1&gt;/images&lt;/f1&gt; v adresáři aplikace &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the link to activate the segment in the Editor.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T131556Z">
@@ -37818,6 +37826,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T143932Z">
         <seg>Klikněte pravým tlačítkem myši na panel: &lt;e0&gt;Přidat na panel... &lt;/e0&gt; pak volba Vlastní spouštěč aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T124021Z" creationid="Josef" creationdate="20190928T124021Z">
+        <seg>Klikněte pravým tlačítkem myši na panel: &lt;e0&gt;Přidat nový špouštěč... &lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
