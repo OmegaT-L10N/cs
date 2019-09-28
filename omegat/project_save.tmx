@@ -20445,6 +20445,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T132152Z" creationid="Josef" creationdate="20190928T132152Z">
+        <seg>U předdefinovaných možností stačí odstranit znak &lt;l1&gt;#&lt;/l1&gt; před parametrem, a tak jej povolit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T181050Z">
@@ -34225,6 +34233,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T150154Z" creationid="Josef" creationdate="20180308T150154Z">
         <seg>Možnosti lze upravovat změnou &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T131920Z" creationid="Josef" creationdate="20190928T131920Z">
+        <seg>Možnosti lze upravovat změnou &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54403,6 +54419,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T150138Z" creationid="Josef" creationdate="20180308T150138Z">
         <seg>Můžete k souboru přistupovat přímo přes příkazový řádek a otevřít &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; v editoru příkazového řádku jako je emacs nebo vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T131913Z" creationid="Josef" creationdate="20190928T131913Z">
+        <seg>Můžete k souboru přistupovat přímo přes &lt;c3&gt;příkazový řádek&lt;/c3&gt; a otevřít &lt;f4&gt;&gt;Configuration.properties&lt;/f4&gt; v editoru příkazového řádku jako je emacs nebo vi.</seg>
       </tuv>
     </tu>
     <tu>
