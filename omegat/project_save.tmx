@@ -17461,6 +17461,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133143Z" creationid="Josef" creationdate="20190928T133143Z">
+        <seg>Stáhněte si soubor&lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; a klikněte na něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T194145Z">
@@ -27436,6 +27444,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133129Z" creationid="Josef" creationdate="20190928T133129Z">
+        <seg>Technologie Java Web Start (součást verze Java 8 a vyšší), může být použita pro začlenění samostatné softwarové aplikace Javy spustitelné prostým kliknutím přes síť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T060501Z">
@@ -29404,6 +29420,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T124206Z" creationid="Josef" creationdate="20190928T124206Z">
         <seg>Ujistěte se, že vaše nastavení &lt;v1&gt;PATH&lt;/v1&gt; (tedy nastavení cesty) jsou správná a že soubory &lt;f2&gt;.jar&lt;/f2&gt; jsou řádně asociovány s Javou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133123Z" creationid="Josef" creationdate="20190928T133123Z">
+        <seg>Ujistěte se, že vaše nastavení &lt;v2&gt;PATH&lt;/v2&gt; (tedy nastavení cesty) jsou správná a že soubory &lt;f3&gt;.jar&lt;/f3&gt; jsou řádně asociovány s Javou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33589,6 +33613,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133108Z" creationid="Josef" creationdate="20190928T133108Z">
+        <seg>Jakmile je &lt;a0&gt;OmegaT&lt;/a0&gt; nainstalována, můžete ji spouštět přímo z příkazového řádku, můžete vytvořit skript, který zahrnuje spouštěcí parametry pro příkazový řádek nebo můžete program spouštět přímo kliknutím na &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T194531Z" creationid="Josef" creationdate="20180307T194531Z">
@@ -34367,8 +34399,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T132930Z" creationid="Josef" creationdate="20190928T132930Z">
-        <seg>Oracle poskytkuje JRE pro systémy Solaris SPARC/x86 (Java 8) a pro Linux x64, Solaris x64, Windows x64 (Java 8) na adrese &lt;u0/&gt;:</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133022Z" creationid="Josef" creationdate="20190928T132930Z">
+        <seg>Zde poskytkuje Oracle své JRE pro systémy Solaris SPARC/x86 (Java 8) a pro Linux x64, Solaris x64, Windows x64 (Java 8)&lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41712,6 +41744,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133343Z" creationid="Josef" creationdate="20190928T133343Z">
+        <seg>Další kliknutí na soubor &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zkontroluje, jestli jsou k dispozici aktualizace, a pokud ano, nainstaluje je a posléze program &lt;a4&gt;OmegaT&lt;/a4&gt; spustí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T193356Z" creationid="Josef" creationdate="20180307T193343Z">
@@ -48078,6 +48118,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133046Z" creationid="Josef" creationdate="20190928T133046Z">
+        <seg>Toto vytvoří adresář &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; ve zvoleném pracovním adresáři se vším potřebným pro běh &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T104301Z">
@@ -49724,6 +49772,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T184043Z">
         <seg>Pro instalaci &lt;a0&gt;OmegaT&lt;/a0&gt; stačí rozbalit soubor &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20190928T133033Z" creationid="Josef" creationdate="20190928T133033Z">
+        <seg>Pro instalaci &lt;a0&gt;OmegaT&lt;/a0&gt; stačí rozbalit soubor &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
