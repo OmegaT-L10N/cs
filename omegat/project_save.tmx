@@ -44378,6 +44378,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164601Z" creationid="Josef" creationdate="20191003T164601Z">
+        <seg>Verze „master“ je nejvyspělejší, verze „alpha“ se nachází ještě ve vývoji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T141108Z">
