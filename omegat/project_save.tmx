@@ -24224,6 +24224,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174109Z" creationid="Josef" creationdate="20191003T174109Z">
+        <seg>Pokud je tato možnost označena, název zdrojového souboru nebude použit a alternativní překlady se projeví v libovolném souboru, pokud se jiný kontext (předchozí/následný segment nebo nějaký typ identifikátoru segmentu v závislosti na souborovém formátu) shoduje s přibližným překladem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T175706Z">
@@ -25535,6 +25543,14 @@ work and works based on it.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T160941Z" creationid="Josef" creationdate="20151001T160811Z">
+        <seg>Ignorovat obsah souboru pokud se naleznou segmenty s alternativními překlady: ve výchozím nastavení OmegaT používá název zdrojového souboru jako část identifikace alternativního překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174035Z" creationid="Josef" creationdate="20191003T174035Z">
         <seg>Ignorovat obsah souboru pokud se naleznou segmenty s alternativními překlady: ve výchozím nastavení OmegaT používá název zdrojového souboru jako část identifikace alternativního překladu.</seg>
       </tuv>
     </tu>
@@ -36988,6 +37004,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174030Z" creationid="Josef" creationdate="20191003T174030Z">
+        <seg>Zachovat mezery pro všechny tagy: označte tuto možnost pokud zdrojové dokumenty obsahují důležité mezery, které nesmí být ignorovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -38665,6 +38689,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T160304Z" creationid="Josef" creationdate="20151001T160304Z">
         <seg>Odstranit úvodní a koncové tagy: zrušením označení této možnosti zobrazíte všechny tagy včetně úvodních a koncových.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173942Z" creationid="Josef" creationdate="20191003T173942Z">
+        <seg>Odstranit úvodní a koncové tagy: zrušením označení této možnosti zobrazíte všechny tagy včetně tagů na začátku a na konci segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41670,6 +41702,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T175956Z">
+        <seg>Několik filtrů (textové soubory, soubory XHTML, soubory HTML a XHTML, OpenDocument/OpenOffice.org a Microsoft Open XML) nabízí jednu nebo více specifických možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174111Z" creationid="Josef" creationdate="20191003T174111Z">
         <seg>Několik filtrů (textové soubory, soubory XHTML, soubory HTML a XHTML, OpenDocument/OpenOffice.org a Microsoft Open XML) nabízí jednu nebo více specifických možností.</seg>
       </tuv>
     </tu>
@@ -45983,6 +46023,14 @@ instead.</seg>
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T160225Z" creationid="Josef" creationdate="20151001T160225Z">
+        <seg>Dialogové okno umožňuje zpřístupnit nebo zakázat následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173858Z" creationid="Josef" creationdate="20191003T173858Z">
         <seg>Dialogové okno umožňuje zpřístupnit nebo zakázat následující možnosti:</seg>
       </tuv>
     </tu>
@@ -51833,6 +51881,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174118Z" creationid="Josef" creationdate="20191003T174118Z">
+        <seg>Pro změnu možností vyberte filtr ze seznamu a klikněte na &lt;e0&gt;Možnosti&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T190045Z" creationid="Josef" creationdate="20190928T190045Z">
@@ -55067,6 +55123,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T042426Z">
         <seg>Upozornění: Změna pořadí tagů může poškodit přeložený dokument!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174003Z" creationid="Josef" creationdate="20191003T174003Z">
+        <seg>Upozornění: ve formátech Microsoft Open XML (docx, xlsx, atd.), pokud jsou tagy zobrazeny, NIKDY nezapisujte žádný text před první tag - je to technický tag, kterým segment vždy začíná.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61335,6 +61399,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T143314Z" creationid="Josef" creationdate="20190928T143314Z">
         <seg>pokud existuje, pak obsahuje segmentační pravidla specifická pro daný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174130Z" creationid="Josef" creationdate="20191003T174130Z">
+        <seg>pokud jsou aktivní pravidla segmentace podle vět, text bude i nadále segmentován podle možnosti, která je zde označena.</seg>
       </tuv>
     </tu>
     <tu>
