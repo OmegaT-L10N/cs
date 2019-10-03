@@ -34028,6 +34028,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175450Z" creationid="Josef" creationdate="20191003T175450Z">
+        <seg>OmegaT má vestavěnou kontrolu pravopisu založenou na &lt;l0&gt;kontrole pravopisu&lt;/l0&gt;, která se používá v programech Apache OpenOffice, LibreOffice, Firefox a Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130525T045835Z">
@@ -41479,6 +41487,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T185045Z" creationid="Josef" creationdate="20190928T185045Z">
         <seg>Vyberte první segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175508Z" creationid="Josef" creationdate="20191003T175508Z">
+        <seg>Vyberte umístění nástroje kontroly pravopisu</seg>
       </tuv>
     </tu>
     <tu>
