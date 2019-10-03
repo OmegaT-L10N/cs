@@ -4702,9 +4702,25 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174327Z" creationid="Josef" creationdate="20191003T174327Z">
+        <seg>&lt;e0&gt;Nepřekládejte obsah atributů meta-tagů ... :&lt;/e0&gt; Meta-tagy v políčku nebudou přeloženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T164811Z">
+        <seg>&lt;e0&gt;Nepřekládejte obsah tagů s následujícími atributy párů key-value [klíč-hodnota] (odděleno čárkou):&lt;/e0&gt;: shoda v seznamu párů klíč-hodnota zapříčiní, že obsah tagů bude ignorován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174356Z" creationid="Josef" creationdate="20191003T174356Z">
         <seg>&lt;e0&gt;Nepřekládejte obsah tagů s následujícími atributy párů key-value [klíč-hodnota] (odděleno čárkou):&lt;/e0&gt;: shoda v seznamu párů klíč-hodnota zapříčiní, že obsah tagů bude ignorován.</seg>
       </tuv>
     </tu>
@@ -5119,6 +5135,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174230Z" creationid="Josef" creationdate="20191003T174230Z">
+        <seg>&lt;e0&gt;Přeskočit text který se rovná regulárnímu výrazu: &lt;/e0&gt; text představující regulární výraz bude ignorován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T175902Z">
@@ -5131,6 +5155,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T200405Z" creationid="Josef" creationdate="20151006T200405Z">
         <seg>&lt;e0&gt;Shody mezer nbsp&lt;/e0&gt;: když je označena tato možnost, pak mezera vložená do hledacího políčka může odpovídat buď znaku normální mezery nebo znaku nezalomitelné mezery (tj. \u00a).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174222Z" creationid="Josef" creationdate="20191003T174222Z">
+        <seg>&lt;e0&gt;Začít nový odstavec od:&lt;/e0&gt; tag &lt;br&gt; v HTML vytvoří odstavec pro účely segmentace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11560,6 +11592,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T175647Z">
+        <seg>Protože toto je standardní chování PO souborů a ve výchozím nastavení je tato možnost zapnuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174202Z" creationid="Josef" creationdate="20191003T174202Z">
         <seg>Protože toto je standardní chování PO souborů a ve výchozím nastavení je tato možnost zapnuta.</seg>
       </tuv>
     </tu>
@@ -20750,6 +20790,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174428Z" creationid="Josef" creationdate="20191003T174428Z">
+        <seg>Například &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T132231Z" creationid="Josef" creationdate="20190928T132231Z">
@@ -23932,6 +23980,14 @@ licenses to the work the party's predecessor in interest had or could
 give under the previous paragraph, plus a right to possession of the
 Corresponding Source of the work from the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174153Z" creationid="Josef" creationdate="20191003T174153Z">
+        <seg>Když je tato možnost povolena, tak když není segment PO (což může být i celý odstavec) přeložen, překlad zůstane v cílovém souboru prázdný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27987,6 +28043,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174254Z" creationid="Josef" creationdate="20191003T174254Z">
+        <seg>Validátor tagů toto zobrazí červeně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T175951Z">
@@ -27999,6 +28063,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T125208Z">
         <seg>Nicméně je jednodušší vyhledávat slovníky online za použití políčka &lt;e0&gt;URL online slovníků&lt;/e0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174411Z" creationid="Josef" creationdate="20191003T174411Z">
+        <seg>Někdy se to totiž může hodit, když je možno definovat tagy podle hodnoty jejich atributů, a tyto tagy pak nepřekládat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44463,6 +44535,14 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174303Z" creationid="Josef" creationdate="20191003T174303Z">
+        <seg>Text ve zdrojovém segmentu, který má shodu, bude zobrazen kurzívou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T181048Z">
@@ -45276,6 +45356,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T060821Z">
         <seg>Filtr PO souborů ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174205Z" creationid="Josef" creationdate="20191003T174205Z">
+        <seg>Jestliže je tato možnost zaznačena, tak hlavička PO bude přeskočena a ponechána beze změny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50709,6 +50797,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T202516Z" creationid="Josef" creationdate="20151006T202415Z">
         <seg>Jejich počet je zobrazen v závorkách vedle nápisu „Soubory projektu“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174207Z" creationid="Josef" creationdate="20191003T174207Z">
+        <seg>Tato možnost umožňuje aplikaci OmegaT přepsat specifikaci v hlavičce souboru PO a použít výchozí hodnoty pro vybraný cílový jazyk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57057,6 +57153,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T054951Z">
         <seg>Můžete se rozhodnout takové segmenty vůbec nepřekládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174438Z" creationid="Josef" creationdate="20191003T174438Z">
+        <seg>Můžete definovat páry klíč-hodnota pro tagy, které mají zůstat nepřeložené.</seg>
       </tuv>
     </tu>
     <tu>
