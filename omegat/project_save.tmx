@@ -24763,6 +24763,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T185544Z" creationid="Josef" creationdate="20191003T185544Z">
+        <seg>Pokud se vyskytnou nějaké rozdíky, zkontrolujte, jestli se soubory &lt;f0&gt;filters.xml&lt;/f0&gt; a &lt;f1&gt;segmentation.conf&lt;/f1&gt; nacházejí pod správou verzí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T184303Z">
@@ -43429,6 +43437,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T165900Z">
         <seg>Španělština, Kastilština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T185553Z" creationid="Josef" creationdate="20191003T185553Z">
+        <seg>Zvláštní případ: minimální sdílení</seg>
       </tuv>
     </tu>
     <tu>
