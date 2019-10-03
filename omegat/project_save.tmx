@@ -5559,6 +5559,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183152Z" creationid="Josef" creationdate="20191003T183152Z">
+        <seg>&lt;g0&gt;Projekt&lt;/g0&gt; &lt;g1&gt;Nový...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T061950Z" creationid="Josef" creationdate="20180310T061804Z">
@@ -9751,6 +9759,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151958Z" creationid="Josef" creationdate="20180318T151958Z">
         <seg>Přidejte následující parametr do spouštěcího příkazu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183244Z" creationid="Josef" creationdate="20191003T183244Z">
+        <seg>Přidat nový projekt OmegaT do systému sloužícímu ke správě verzí projektu (&lt;c0&gt;přidat&lt;/c0&gt; s SVN a Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15864,10 +15880,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183109Z" creationid="Josef" creationdate="20191003T183109Z">
+        <seg>Vytvořte lokální kopii repozitáře (&lt;c0&gt;ověřit&lt;/c0&gt; s SVN, &lt;c1&gt;klonovat&lt;/c1&gt; s Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T172043Z">
         <seg>Vytvořte nový projekt v části ProjectLocker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183131Z" creationid="Josef" creationdate="20191003T183131Z">
+        <seg>Vytvořte nový, prázdný projekt OmegaT v lokálním repozitáři.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33372,6 +33404,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183341Z" creationid="Josef" creationdate="20191003T183341Z">
+        <seg>Poznámka: Pokud byl projekt vytvořen v příkazovém řádku dle kroku 3, pak tento krok program již udělal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T134142Z">
@@ -50383,6 +50423,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183142Z" creationid="Josef" creationdate="20191003T183142Z">
+        <seg>Toto lze docílit dvěma způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152600Z" creationid="Josef" creationdate="20180318T152600Z">
@@ -63809,6 +63857,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T143408Z" creationid="Josef" creationdate="20190928T143408Z">
         <seg>soubor omegat.project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183208Z" creationid="Josef" creationdate="20191003T183208Z">
+        <seg>v příkazovém řádku: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
