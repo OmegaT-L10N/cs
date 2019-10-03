@@ -4750,6 +4750,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163000Z" creationid="Josef" creationdate="20191003T163000Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): je dynamický jazyk pro Java Virtual machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T080643Z">
@@ -4850,6 +4858,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T112557Z">
         <seg>&lt;e0&gt;Instalace a provoz programu OmegaT:&lt;/e0&gt; tato kapitola se hodí když se poprvé pouštíte do užívání OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163005Z" creationid="Josef" creationdate="20191003T163005Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (někdy se zkracuje jako JS, nezaměňovat s Javou): je skrptovací jazyk založený na prototypech, je dynamický, používá krátký zápis a nabízí prvotřídní funkce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6307,6 +6323,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T133205Z">
         <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; prozradí aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;, kde najít projekt, který má být překládán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163041Z" creationid="Josef" creationdate="20191003T163041Z">
+        <seg>&lt;l0&gt;Regulární výrazy&lt;/l0&gt; představují účinný způsob hledání různých podob daného řetězce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11077,6 +11101,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163125Z" creationid="Josef" creationdate="20191003T163125Z">
+        <seg>Anthony Baldwin (správce lokalizací)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any attempt otherwise to propagate or
 modify it is void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
@@ -12228,6 +12260,14 @@ kup si další drink kámo.</seg>
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T081038Z">
+        <seg>Je jazykem, který stojí za populárním software jako Firefox a představuje tak známý a často využívaný programovací nástroj v oblasti open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163007Z" creationid="Josef" creationdate="20191003T163007Z">
         <seg>Je jazykem, který stojí za populárním software jako Firefox a představuje tak známý a často využívaný programovací nástroj v oblasti open source.</seg>
       </tuv>
     </tu>
@@ -17062,6 +17102,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163135Z" creationid="Josef" creationdate="20191003T163135Z">
+        <seg>Didier Briel (projektový manažer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T170310Z" creationid="Josef" creationdate="20150928T170310Z">
@@ -20750,6 +20798,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T185251Z">
         <seg>Například mohou být textové soubory segmentovány podle zlomů řádků, prázdných řádků nebo vůbec nemusí být segmentovány na strukturální úrovni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163024Z" creationid="Josef" creationdate="20191003T163024Z">
+        <seg>Následující ukázka kódu v groovy prochází všechny segmenty ve všech souborech aktuálního projektu a, pokud jsou dostupné překlady, zobrazí zdrojový a cílový segment:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28205,10 +28261,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163112Z" creationid="Josef" creationdate="20191003T163112Z">
+        <seg>Jean-Christophe Helary (správce komunity Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T181611Z" creationid="Josef" creationdate="20180317T181611Z">
         <seg>Jean-Christophe Helary (správce lokalizace)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163149Z" creationid="Josef" creationdate="20191003T163149Z">
+        <seg>Jean-Christophe Helary (vlastník skupiny podpory, správce lokalizace)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30269,6 +30341,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T151635Z" creationid="Josef" creationdate="20150928T151607Z">
         <seg>Marc Prior: oprava mého prvního návrhu byla projevem lásky k programu OmegaT a anglickému jazyku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163059Z" creationid="Josef" creationdate="20191003T163059Z">
+        <seg>Marco Cevoli (správce komunity Telegram)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33544,6 +33624,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182340Z" creationid="Josef" creationdate="20180317T182340Z">
         <seg>OmegaT má velmi aktivní, nápomocnou a vícejazyčnou uživatelskou skupinu, odkaz &lt;a0&gt;zde&lt;/a0&gt;; velmi doporučujeme uživatelům se připojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163211Z" creationid="Josef" creationdate="20191003T163211Z">
+        <seg>OmegaT á velmi aktivní, nápomocnou a vícejazyčnou uživatelskou skupinu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49849,6 +49937,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163242Z" creationid="Josef" creationdate="20191003T163242Z">
+        <seg>Toto je &lt;a0&gt;doporučený kanál podpory&lt;/a0&gt;, a chceme uživatele velmi povzbudit, aby jej využívali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T055002Z">
@@ -60493,8 +60589,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180317T104018Z" creationid="Josef" creationdate="20180317T104018Z">
-        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162954Z" creationid="Josef" creationdate="20180317T104018Z">
+        <seg>https://sourceforge.net/projects/macsvnhttps://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
