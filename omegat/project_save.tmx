@@ -19745,6 +19745,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163315Z" creationid="Josef" creationdate="20191003T163315Z">
+        <seg>Facebooková skupina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151130T172016Z" creationid="Josef" creationdate="20151130T172016Z">
@@ -21074,6 +21082,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T191121Z">
         <seg>Pro takovéto odstavce zvažte následující alternativy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163357Z" creationid="Josef" creationdate="20191003T163357Z">
+        <seg>V případě dotazů na podporu použijte &lt;a1&gt;doporučený kanál podpory&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33620,6 +33636,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163307Z" creationid="Josef" creationdate="20191003T163307Z">
+        <seg>OmegaT je přítomna v různých sociálních sítítch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T182340Z" creationid="Josef" creationdate="20180317T182340Z">
@@ -34289,6 +34313,14 @@ installed on your system.</seg>
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145523Z" creationid="Josef" creationdate="20180318T145523Z">
+        <seg>OmegaT je možno spustit pod jakýmkoliv systémem, na kterém je nainstalované nebo je možné nainstalovat prostředí JRE (Java Runtime Environment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163431Z" creationid="Josef" creationdate="20191003T163431Z">
         <seg>OmegaT je možno spustit pod jakýmkoliv systémem, na kterém je nainstalované nebo je možné nainstalovat prostředí JRE (Java Runtime Environment).</seg>
       </tuv>
     </tu>
@@ -36273,6 +36305,14 @@ a zkuste akci zopakovat.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163333Z" creationid="Josef" creationdate="20191003T163333Z">
+        <seg>Prosím kontaktujte &lt;a0&gt;Správce projektu OmegaT&lt;/a0&gt; pokud máte jakékoliv dotazy k věcem, které nebyly nahoře zmíněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184842Z" creationid="Josef" creationdate="20180317T184842Z">
@@ -36285,6 +36325,14 @@ a zkuste akci zopakovat.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T184906Z" creationid="Josef" creationdate="20180317T184906Z">
         <seg>Prosím kontaktujte  &lt;a2&gt;správce webu&lt;/a2&gt; v případě jakýchkoliv dotazů a připomínek ohledně webové stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163413Z" creationid="Josef" creationdate="20191003T163413Z">
+        <seg>Prosím kontaktujte  &lt;a3&gt;správce webu&lt;/a3&gt; v případě jakýchkoliv dotazů a připomínek ohledně webové stránky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41875,6 +41923,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163248Z" creationid="Josef" creationdate="20191003T163248Z">
+        <seg>Sociální sítě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Software required</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T093538Z">
@@ -43897,6 +43953,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163320Z" creationid="Josef" creationdate="20191003T163320Z">
+        <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Telugu</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T165927Z">
@@ -44626,8 +44690,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180318T145524Z" creationid="Josef" creationdate="20180318T145524Z">
-        <seg>Prostředí JRE se v současnosti dodává přímo s aplikací OmegaT a není zapotřebí si jej obstarávat zvlášť.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163545Z" creationid="Josef" creationdate="20180318T145524Z">
+        <seg>Prostředí JRE je dodáváno s OmegaT a nemusíte jej stahovat zvlášť.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52502,6 +52566,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T170031Z">
         <seg>Ťwiština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163318Z" creationid="Josef" creationdate="20191003T163318Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
