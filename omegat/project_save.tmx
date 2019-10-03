@@ -13734,6 +13734,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180203Z" creationid="Josef" creationdate="20191003T180203Z">
+        <seg>Označte, nebo zrušte označení, v závislosti na tom, jestli jsou daná pravidla důležitá pro daný text, který překládáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T171839Z" creationid="Josef" creationdate="20151007T171839Z">
