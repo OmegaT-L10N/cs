@@ -30017,6 +30017,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181029Z" creationid="Josef" creationdate="20191003T181029Z">
+        <seg>Seznam projektů, pro které jsou v OmegaT uloženy přihlašovací údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101116T181931Z">
@@ -33328,6 +33336,14 @@ measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T162424Z" creationid="Josef" creationdate="20180308T162424Z">
         <seg>Pozor: popisek segmentu ukazuje &lt;l0&gt;&lt;segment nnn +yy víc&gt; tehdy, když segment není jedinečný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181004Z" creationid="Josef" creationdate="20191003T181004Z">
+        <seg>Poznámka: tyto dvě instrukce lze kombinovat napsáním &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38909,6 +38925,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181124Z" creationid="Josef" creationdate="20191003T181124Z">
+        <seg>Odstraňte projekt z tohoto seznamu pokud chcete, aby OmegaT při každém přístupu k danému projektu vyžadovala login a heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20100929T133427Z">
@@ -42231,6 +42255,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130429T165502Z">
         <seg>Podobně jako v případě projektů OmegaT, budete potřebovat mít oddělené úložiště pro různé jazykové páry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180930Z" creationid="Josef" creationdate="20191003T180930Z">
+        <seg>Podobně třeba vložte &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; a tím zajistíte, že HTML tagy vložené ze zdrojového textu budou v překladu zachovány bez změny.</seg>
       </tuv>
     </tu>
     <tu>
