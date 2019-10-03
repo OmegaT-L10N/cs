@@ -9089,6 +9089,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173624Z" creationid="Josef" creationdate="20191003T173624Z">
+        <seg>Výchozí skript nazývaný Switch Colour Themes/Přepnout barevné nastavení poskytuje výchozí Dark/Temný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T201128Z" creationid="Josef" creationdate="20151006T201128Z">
@@ -25199,6 +25207,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173724Z" creationid="Josef" creationdate="20191003T173724Z">
+        <seg>Pokud nechcete používat aplikaci OmegaT na překlad souborů nějakého určitého typu, můžete daný filtr vypnout odznačením zaškrtávacího políčka vedle jeho názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T113659Z" creationid="Josef" creationdate="20180323T151855Z">
@@ -34526,6 +34542,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173734Z" creationid="Josef" creationdate="20191003T173734Z">
+        <seg>OmegaT pak při načítání projektů vynechá všechny příslušné soubory, a při vytváření cílových dokumentů je zkopíruje v nezměněné podobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T055001Z">
@@ -36853,6 +36877,14 @@ additional steps need to be taken.</seg>
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151004T103007Z" creationid="Josef" creationdate="20151004T103007Z">
+        <seg>Pomocí skriptu si můžete vybrat předdefinované ucelené nastavení barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173551Z" creationid="Josef" creationdate="20191003T173551Z">
         <seg>Pomocí skriptu si můžete vybrat předdefinované ucelené nastavení barev.</seg>
       </tuv>
     </tu>
@@ -46284,6 +46316,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173709Z" creationid="Josef" creationdate="20191003T173709Z">
+        <seg>Filtry používané v aktuálním projektu jsou zobrazeny tučně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152537Z" creationid="Josef" creationdate="20180318T152537Z">
@@ -49863,6 +49903,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173647Z" creationid="Josef" creationdate="20191003T173647Z">
+        <seg>Toto dialogové okno zobrazí dostupné filtry souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This differences do not generally lead to compatibility problems.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151119Z" creationid="Josef" creationdate="20180318T151119Z">
@@ -51501,6 +51549,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T121737Z">
         <seg>Skupiny tagů můžete duplikovat prostým nakopírováním na pozici dle vašeho výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173849Z" creationid="Josef" creationdate="20191003T173849Z">
+        <seg>Když chcete upravit nastavení, které soubory budou v jakém kódování, vyberte filtr ze seznamu a klikněte na &lt;e1&gt;Editovat&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
