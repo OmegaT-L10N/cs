@@ -18955,6 +18955,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182439Z" creationid="Josef" creationdate="20191003T182439Z">
+        <seg>Umožňuje automatické informování o aktualizacích &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T121155Z">
@@ -22124,6 +22132,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T141708Z" creationid="Josef" creationdate="20190928T141708Z">
         <seg>Poskytuje přístup k deseti posledním upravovaným projektům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182359Z" creationid="Josef" creationdate="20191003T182359Z">
+        <seg>Poskytují přístup k seznamu dostupných pluginů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37194,6 +37210,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182416Z" creationid="Josef" creationdate="20191003T182416Z">
+        <seg>Pluginy se instalují do adresáře &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151124Z" creationid="Josef" creationdate="20180318T151124Z">
@@ -42043,6 +42067,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182459Z" creationid="Josef" creationdate="20191003T182459Z">
+        <seg>Nastavit týmový projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set up a new project</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T174011Z">
@@ -42119,6 +42151,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190030Z" creationid="Josef" creationdate="20180317T190030Z">
         <seg>Nastavení funkce přehledu pro použití s OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182704Z" creationid="Josef" creationdate="20191003T182704Z">
+        <seg>Nastavení týmového projektu vyžaduje znalosti o serverech a systémech sloužících ke správě verzí projektu SVN nebo Git.</seg>
       </tuv>
     </tu>
     <tu>
