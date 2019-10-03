@@ -21312,6 +21312,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174458Z" creationid="Josef" creationdate="20191003T174458Z">
+        <seg>Jako příklad poslouží nahoře uvedený příklad, pole by pak obsahovalo: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130429T165529Z">
