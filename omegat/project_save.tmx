@@ -8569,6 +8569,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190452Z" creationid="Josef" creationdate="20191003T190452Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T110117Z" creationid="Josef" creationdate="20180325T110108Z">
@@ -9797,6 +9805,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190308Z" creationid="Josef" creationdate="20191003T190308Z">
+        <seg>Přidá vzory za použití zástupných znaků (ve stylu Apache Ant): *, ?, **</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20100929T133302Z">
@@ -10479,6 +10495,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T190814Z">
         <seg>Všechny sady pravidel segmentace pro odpovídající vzor jazyka jsou použité v daném pořadí priority, takže pravidla pro konkrétní jazyk by měla být vyšší než ta z výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190931Z" creationid="Josef" creationdate="20191003T190931Z">
+        <seg>Veškerý obsah </seg>
       </tuv>
     </tu>
     <tu>
@@ -11587,6 +11611,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072610Z">
         <seg>V důsledku toho budou všechna nastavení ve stavu výchozího nastavení, a následně se můžete setkat s nečekaným, ale správným chováním programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190330Z" creationid="Josef" creationdate="20191003T190330Z">
+        <seg>Podobně jak uvedeno výše.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19783,10 +19815,34 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190446Z" creationid="Josef" creationdate="20191003T190446Z">
+        <seg>Příklad mapování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T121820Z">
         <seg>Příklad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190406Z" creationid="Josef" creationdate="20191003T190406Z">
+        <seg>Příklad: použije se &lt;u0&gt;**/*.docx&lt;/u0&gt; pro přidání všech souborů .docx, a je jedno, kde se v projektu nacházejí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190319Z" creationid="Josef" creationdate="20191003T190319Z">
+        <seg>Příklad &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47619,6 +47675,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190440Z" creationid="Josef" creationdate="20191003T190440Z">
+        <seg>Pravidla pro zahrnutí přebírají prioritu nad pravidly vyloučení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151145Z" creationid="Josef" creationdate="20180318T151145Z">
@@ -61141,6 +61205,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190243Z" creationid="Josef" creationdate="20191003T190243Z">
+        <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T171606Z" creationid="Josef" creationdate="20150928T171606Z">
@@ -62593,6 +62665,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103449Z" creationid="Josef" creationdate="20180317T103449Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190321Z" creationid="Josef" creationdate="20191003T190321Z">
+        <seg>includes</seg>
       </tuv>
     </tu>
     <tu>
