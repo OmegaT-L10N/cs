@@ -10561,6 +10561,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181959Z" creationid="Josef" creationdate="20191003T181959Z">
+        <seg>Také umožnit externí příkazy pro konkrétní projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T084233Z">
@@ -10925,6 +10933,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T182016Z">
         <seg>Přesné vyhledávání hledá slovní spojení, tj. pokud je zadaných několik slov, budou tato nalezena jen pokud se nacházejí v přesně stejném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181955Z" creationid="Josef" creationdate="20191003T181955Z">
+        <seg>Příklad použití této funkce by bylo automatické poslání přeložených dokumentů na FTP server klienta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,6 +12958,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182038Z" creationid="Josef" creationdate="20191003T182038Z">
+        <seg>Ve výchozím nastavení OmegaT nevykonává příkazy specifikované v nastaveních pro daný projekt (soubor &lt;f0&gt;omega.project&lt;/f0&gt;), protože můžou mít zásadní dopad na bezpečnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T042537Z">
@@ -13290,6 +13314,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T181505Z" creationid="Josef" creationdate="20191003T181505Z">
         <seg>Pomocí použití přednastavených proměnných změňte nastavení jak zobrazovat přibližné překlady:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181750Z" creationid="Josef" creationdate="20191003T181750Z">
+        <seg>Změnit výchozí interval (3 minuty) v závislosti na vlastnostech projektu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43183,6 +43215,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181918Z" creationid="Josef" creationdate="20191003T181918Z">
+        <seg>Specifikujte příkazy, které se budou vykonávat po příkazu &lt;g0&gt;Vytvořit přeložené dokumenty&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130501T094302Z">
@@ -62933,6 +62973,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181836Z" creationid="Josef" creationdate="20191003T181836Z">
+        <seg>dlouhé intervaly pro týmové projekty hostované na externích serverech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104248Z" creationid="Josef" creationdate="20180317T104248Z">
@@ -64945,6 +64993,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103742Z" creationid="Josef" creationdate="20180317T103742Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181822Z" creationid="Josef" creationdate="20191003T181822Z">
+        <seg>krátké intervaly (minimum: 10 vteřin) pro synchronizované projekty na interním serveru.</seg>
       </tuv>
     </tu>
     <tu>
