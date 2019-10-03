@@ -24633,6 +24633,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183541Z" creationid="Josef" creationdate="20191003T183541Z">
+        <seg>Pokud projekt používá specifické parametry souborů a segmentace, pak je nutno přidat oba soubory &lt;f0&gt;filters.xml&lt;/f0&gt; a &lt;f1&gt;segmentation.conf&lt;/f1&gt; do systému sloužícího ke správě verzí projektu a zveřejněny na serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T185814Z">
@@ -38379,6 +38387,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183431Z" creationid="Josef" creationdate="20191003T183431Z">
+        <seg>Zveřejněte nový projekt OmegaT na serveru (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Purpose</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144607Z" creationid="Josef" creationdate="20180318T144607Z">
@@ -43343,6 +43359,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183437Z" creationid="Josef" creationdate="20191003T183437Z">
+        <seg>Specifické parametry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T063434Z" creationid="Josef" creationdate="20180310T063434Z">
@@ -43667,6 +43691,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101127T195128Z">
         <seg>Krok 1: Zobrazte si značky odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183558Z" creationid="Josef" creationdate="20191003T183558Z">
+        <seg>Krok 2: Přidat soubory pro překlad a další zdroje</seg>
       </tuv>
     </tu>
     <tu>
@@ -54716,6 +54748,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T174036Z" creationid="Josef" creationdate="20150928T174036Z">
         <seg>Použít všechny aktualizované</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183633Z" creationid="Josef" creationdate="20191003T183633Z">
+        <seg>Použijte klienta SVN nebo Git na přidání souborů pro překlad</seg>
       </tuv>
     </tu>
     <tu>
