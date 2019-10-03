@@ -3,3 +3,4 @@ sign up	zaregistrovat se
 Neural Machine Translation	Neurální strojový překlad
 Preferences	Předvolby
 cutting-edge	nejvyspělejší
+versioning systems	systémy sloužící ke správě verzí projektu
