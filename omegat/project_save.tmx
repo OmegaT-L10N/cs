@@ -11629,6 +11629,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182931Z" creationid="Josef" creationdate="20191003T182931Z">
+        <seg>Spousta informací o SVN a Git je dostupná z různých zdrojů, nebudeme zde popisovat jak fungují, ale jen jak OmegaT s nimi spolupracuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T060305Z">
@@ -15888,6 +15896,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183023Z" creationid="Josef" creationdate="20191003T183023Z">
+        <seg>Vytvořte repozitář SVN nebo Git na serveru, který bude přístupný pro překladatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T182902Z">
@@ -16068,6 +16084,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105303Z" creationid="Josef" creationdate="20180325T105145Z">
         <seg>Vytvoření „alternativního překladu“ tedy závisí na tom, že identické segmenty mají odlišné segmenty před nebo za sebou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182959Z" creationid="Josef" creationdate="20191003T182959Z">
+        <seg>Jak vytvořit prázdný projekt na serveru</seg>
       </tuv>
     </tu>
     <tu>
@@ -28519,6 +28543,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T151035Z">
         <seg>Měl by zobrazit text, který se co nejvíce přibližuje v uspořádání a formátování konečnému dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182851Z" creationid="Josef" creationdate="20191003T182851Z">
+        <seg>Proto by jej měl provádět projektový manager, vedoucí projektu nebo správce lokalizace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43579,6 +43611,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T183309Z" creationid="Josef" creationdate="20190928T183309Z">
         <seg>Krok 1: Přizpůsobit parametry zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182946Z" creationid="Josef" creationdate="20191003T182946Z">
+        <seg>Krok 1: Vytvořte na serveru prázdný projekt</seg>
       </tuv>
     </tu>
     <tu>
