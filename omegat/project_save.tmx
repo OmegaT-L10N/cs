@@ -3725,6 +3725,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184759Z" creationid="Josef" creationdate="20191003T184759Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121001T121207Z">
@@ -6431,6 +6441,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184754Z" creationid="Josef" creationdate="20191003T184754Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T180752Z">
@@ -8499,6 +8517,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20160222T190032Z" creationid="Josef" creationdate="20160222T190032Z">
         <seg>&lt;r0&gt;Poznámka:&lt;/r0&gt; můžete potlačit zobrazení okna Soubory projektu nastavením &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; na hodnotu &lt;e2&gt;false&lt;/e2&gt; v souboru &lt;f3&gt;omegat.prefs&lt;/f3&gt;  (přístupné přes nabídku Možnosti / Otevřít adresář nastavení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184745Z" creationid="Josef" creationdate="20191003T184745Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184750Z" creationid="Josef" creationdate="20191003T184750Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26248,6 +26282,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T104254Z" creationid="Josef" creationdate="20180325T104254Z">
         <seg>Jak ve Firefoxu, tak v Opeře, je možno toto aktivovat kliknutím pravým tlačítkem myši v přeloženém souboru .thml, který je otevřen, a vyberte Obnovyt každých (Reload every) &gt; vyberte požadovaný interval (např. 5 sekund).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184918Z" creationid="Josef" creationdate="20191003T184918Z">
+        <seg>V obou případech musí projektový manager poslat překladateli identifikační údaje a heslo pro přístup do repozitáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48388,6 +48430,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184740Z" creationid="Josef" creationdate="20191003T184740Z">
+        <seg>Odkaz na URL je specifikován níže (zde na repozitář Git):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121020T160610Z">
@@ -65287,16 +65337,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T184607Z" creationid="Josef" creationdate="20191003T184607Z">
-        <seg>posláním souboru &lt;f0&gt;omegat.project&lt;/f0&gt;, který obsahuje odkaz na URL a </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184716Z" creationid="Josef" creationdate="20191003T184607Z">
+        <seg>posláním souboru &lt;f0&gt;omegat.project&lt;/f0&gt;, který obsahuje odkaz na URL s požadavkem na překladatele zkopírovat do vyhrazeného adresáře a otevřít jej pomocí OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T184529Z" creationid="Josef" creationdate="20191003T184529Z">
-        <seg>posláním URL projektu a požadavkem na překladatele vytvořit lokální kopii pomocní možnosti &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Stáhnout Týmový projekt&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184611Z" creationid="Josef" creationdate="20191003T184529Z">
+        <seg>posláním URL projektu s požadavkem na překladatele vytvořit lokální kopii pomocní možnosti &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Stáhnout Týmový projekt&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
