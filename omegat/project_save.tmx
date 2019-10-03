@@ -35342,6 +35342,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184358Z" creationid="Josef" creationdate="20191003T184358Z">
+        <seg>Jakmile je projekt na serveru nastaven, pak může projektový manager pozvat překladatele k práci na překladu jedním z dvou různých způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130429T164528Z">
@@ -43739,6 +43747,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T191022Z" creationid="Josef" creationdate="20180309T191022Z">
         <seg>Krok 2: Provést ruční opravy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184322Z" creationid="Josef" creationdate="20191003T184322Z">
+        <seg>Krok 3: Poslat pozvánku překladateli</seg>
       </tuv>
     </tu>
     <tu>
@@ -65265,6 +65281,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T144612Z" creationid="Josef" creationdate="20180318T144612Z">
         <seg>selection.txt - obsahuje text, který uživatel zvýraznil, a to tehdy, když stisknete kombinaci kláves Ctrl-Shift-C nebo vyberete volbu Upravit &gt; Exportovat výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184607Z" creationid="Josef" creationdate="20191003T184607Z">
+        <seg>posláním souboru &lt;f0&gt;omegat.project&lt;/f0&gt;, který obsahuje odkaz na URL a </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184529Z" creationid="Josef" creationdate="20191003T184529Z">
+        <seg>posláním URL projektu a požadavkem na překladatele vytvořit lokální kopii pomocní možnosti &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Stáhnout Týmový projekt&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
