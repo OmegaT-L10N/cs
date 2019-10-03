@@ -46026,6 +46026,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T185451Z" creationid="Josef" creationdate="20191003T185451Z">
+        <seg>Projektový manager by měl s překladatelem zkontrolovat, že statistika projektu je na obou stranách stejná (na straně serveru a na straně překladatele).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T095058Z">
