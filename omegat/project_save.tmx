@@ -12926,6 +12926,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180312Z" creationid="Josef" creationdate="20191003T180312Z">
+        <seg>Ve výchozím nastavení OmegaT nevykonává příkazy specifikované v nastaveních pro daný projekt (soubor &lt;f0&gt;finder.xm.&lt;/f0&gt; v adresáři &lt;f1&gt;omegat&lt;/f1&gt;), protože můžou mít zásadní dopad na bezpečnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T042537Z">
@@ -18879,6 +18887,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130508T175215Z">
         <seg>Umožňuje, aby externí skripty přistupovaly k funkcím OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180420Z" creationid="Josef" creationdate="20191003T180420Z">
+        <seg>Umožní změnit pořadí příkazů v kontextové nabídce (nabídka zobrazená po kliknutí pravým tlačítkem myši).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35218,6 +35234,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105051Z">
         <seg>Pouze omezené množství formátů souborů uvádí povinné kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180341Z" creationid="Josef" creationdate="20191003T180341Z">
+        <seg>Tuto možnost aktivujte pouze v případě, že víte co děláte, a pouze pokud projekt pochází z důvěryhodných zdrojů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55165,6 +55189,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180448Z" creationid="Josef" creationdate="20191003T180448Z">
+        <seg>Hodnoty okolo 100 zobrazí příkazy nahoře a hodnoty kolem 900 je zobrazí dole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T060228Z">
@@ -58310,6 +58342,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T062346Z" creationid="Josef" creationdate="20180310T062346Z">
         <seg>Budete vyzváni k vložení tohoto hesla při každém spuštění OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180515Z" creationid="Josef" creationdate="20191003T180515Z">
+        <seg>Bude nutno OmegaT restartovat k tomu, aby se změny projevily.</seg>
       </tuv>
     </tu>
     <tu>
