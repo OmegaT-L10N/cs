@@ -11893,6 +11893,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173355Z" creationid="Josef" creationdate="20191003T173355Z">
+        <seg>Automaticky hledat segmentovaný text ve slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T093222Z">
@@ -13986,6 +13994,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T190657Z" creationid="Josef" creationdate="20180309T190657Z">
         <seg>Vymazat označení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173420Z" creationid="Josef" creationdate="20191003T173420Z">
+        <seg>Zrušte označení této možnosti pro deaktivaci automatického hledání  - například pokud jsou slovníky příliš velké.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23744,6 +23760,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T083435Z">
         <seg>Pokud je to nutné, upravte název souboru slovníku kontroly pravopisu nebo změňte jazyková nastavení vašeho projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173352Z" creationid="Josef" creationdate="20191003T173352Z">
+        <seg>V případě potřeby můžete označit specifickou doménu k vymezení objemu dat, která se mají posílat či přijmout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40555,6 +40579,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173514Z" creationid="Josef" creationdate="20191003T173514Z">
+        <seg>Viz nastavení písma v Různé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T091206Z">
@@ -41019,6 +41051,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173314Z" creationid="Josef" creationdate="20191003T173314Z">
+        <seg>Vybrat oblast hledání terminologie v TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T170715Z" creationid="Josef" creationdate="20150928T174418Z">
@@ -41183,6 +41223,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T185332Z">
         <seg>Vyberte tuto položku v nabídce, pokud se aktuální segment nehodí a vložte alternativní překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173500Z" creationid="Josef" creationdate="20191003T173500Z">
+        <seg>Vyberte tuto možnost pokud chcete, aby slovníky zobrazovaly slova se stejným kořenem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45614,6 +45662,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130429T175111Z">
         <seg>Překlad založený na spolupráci více překladatelů, který nabízí OmegaT, se zakládá na funkčnosti verzí nebo správě revizí, hojně používané softwarovou komunitou pro správu změn v kódu programu a umožňuje tak nerušenou spolupráci v rámci vývojářského týmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173309Z" creationid="Josef" creationdate="20191003T173309Z">
+        <seg>Kolekce se stahují jako glosáře TBX a ukl8daj9 se do aktuálního adresáře glosáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50625,6 +50681,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173531Z" creationid="Josef" creationdate="20191003T173531Z">
+        <seg>Tato stránka umožňuje vybrat různé barvy pro každou část uživatelského prostředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T151729Z" creationid="Josef" creationdate="20180323T151729Z">
@@ -53864,6 +53928,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173427Z" creationid="Josef" creationdate="20191003T173427Z">
+        <seg>U záznamů glosáře použít přibližné shody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T172954Z" creationid="Josef" creationdate="20151007T172954Z">
@@ -53980,6 +54052,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T140604Z" creationid="Josef" creationdate="20190928T140604Z">
         <seg>Použitím tohoto příkazu registrujete překlad jako identický se zdrojem, a to i když políčko &lt;l0&gt;&lt;g1&gt;Povolit překlad rovnající se zdroji&lt;/g1&gt;&lt;/l0&gt; (v Možnosti / Nastavení editace...) není označeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173506Z" creationid="Josef" creationdate="20191003T173506Z">
+        <seg>Tuto vlastnost využijete, když jste odpojili, přesunuli nebo skryli jednu nebo více komponent a nedaří se vám obnovit jejich žádané rozestavění.</seg>
       </tuv>
     </tu>
     <tu>
