@@ -4173,6 +4173,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175153Z" creationid="Josef" creationdate="20191003T175153Z">
+        <seg>Volba &lt;auto&gt; ponechá výběr kódování na aplikaci &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105159Z">
@@ -13298,6 +13306,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T191455Z">
         <seg>Změňte název sady pravidel a vzor jazyka pro daný jazyk a jeho kód (viz &lt;x1/&gt; seznam jazykových kódů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175410Z" creationid="Josef" creationdate="20191003T175410Z">
+        <seg>Změňte název sady pravidel a vzor jazyka pro daný jazyk a jeho kód.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24056,6 +24072,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175338Z" creationid="Josef" creationdate="20191003T175338Z">
+        <seg>Pokud je vybráno Segmentace na úrovni vět, pak můžete nastavit pravidla vybráním položky &lt;m4&gt; &lt;g5&gt;Možnosti&lt;/g5&gt; &lt;g6&gt;Segmentace...&lt;/g6&gt; &lt;/m4&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T184745Z">
@@ -25431,6 +25455,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175257Z" creationid="Josef" creationdate="20191003T175257Z">
+        <seg>Pokud budete chtít obnovit výchozí nastavení filtru, klikněte na &lt;e2&gt;Výchozí nastavení.&lt;/e2&gt; Můžete tedy upravovat název přímo v políčku vzoru pro název cílového souboru nebo v dialogovém okně filtrů souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180324T063438Z" creationid="Josef" creationdate="20180323T154510Z">
@@ -25571,6 +25603,14 @@ material under section 10.</seg>
         <seg>If your rights have been terminated and not permanently
 reinstated, you do not qualify to receive new licenses for the same
 material under section 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175419Z" creationid="Josef" creationdate="20191003T175419Z">
+        <seg>Pokud vaše sada pravidel platí pro pár jazyk-země, doporučujeme posunout ji nahoru pomocí tlačítka &lt;e1&gt;Přesunout nahoru&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26274,6 +26314,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T053033Z">
         <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projekt&lt;/g2&gt; &lt;g4&gt;Vlastnosti...&lt;/g4&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175312Z" creationid="Josef" creationdate="20191003T175312Z">
+        <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projekt&lt;/g2&gt; &lt;g3&gt;Vlastnosti...&lt;/g3&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34076,6 +34124,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175155Z" creationid="Josef" creationdate="20191003T175155Z">
+        <seg>OmegaT najde kódování zdrojového souboru za užití jeho deklarace kódování, tedy pokud je nějaká deklarace k dispozici (soubory HTML, soubory založené na XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T200706Z">
@@ -34211,6 +34267,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T165230Z">
+        <seg>OmegaT má instrukci, že se má použít povinné kódování pro vybrané formáty souborů (Java properties atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175156Z" creationid="Josef" creationdate="20191003T175156Z">
         <seg>OmegaT má instrukci, že se má použít povinné kódování pro vybrané formáty souborů (Java properties atd.)</seg>
       </tuv>
     </tu>
@@ -40639,6 +40703,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T051920Z">
         <seg>Viz &lt;l1&gt;Ověření tagů&lt;/l1&gt; a &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175433Z" creationid="Josef" creationdate="20191003T175433Z">
+        <seg>VIz &lt;l2&gt;Regulární výrazy&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48536,6 +48608,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175231Z" creationid="Josef" creationdate="20191003T175231Z">
+        <seg>Vzor názvu cílového souboru používá speciální syntaxi, takže pokud chcete editovat toto pole, musíte kliknout na &lt;e0&gt;Editovat ...&lt;/e0&gt; a použít dialogové okno Upravit vzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105536Z">
@@ -52886,6 +52966,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T170224Z" creationid="Josef" creationdate="20180309T170224Z">
         <seg>Přeložená cesta k souboru nesmí být stejná jako je výchozí cesta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175216Z" creationid="Josef" creationdate="20191003T175216Z">
+        <seg>Název přeloženého souboru</seg>
       </tuv>
     </tu>
     <tu>
