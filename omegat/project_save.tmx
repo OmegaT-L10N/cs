@@ -10473,6 +10473,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180523Z" creationid="Josef" creationdate="20191003T180523Z">
+        <seg>Povolit překlad rovnající se zdroji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T183827Z">
@@ -20962,6 +20970,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180826Z" creationid="Josef" creationdate="20191003T180826Z">
+        <seg>Například, když vložíte &lt;u0&gt;\d+&lt;/u0&gt; do políčka &lt;g1&gt;Regulární výraz pro speciální tagy&lt;/g1&gt;, pak budou všechny čísla pokládána za tagy a umožní Vám zajistit, že čísla během překladu omylem nezměníte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055056Z">
@@ -27276,6 +27292,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T053938Z">
         <seg>Vložit nejpřibližnější překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180518Z" creationid="Josef" creationdate="20191003T180518Z">
+        <seg>Vložit zdrojový text</seg>
       </tuv>
     </tu>
     <tu>
@@ -52201,6 +52225,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180549Z" creationid="Josef" creationdate="20191003T180549Z">
+        <seg>Abyste toto umožnili, pak vyberte tuto možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T165103Z">
@@ -55908,6 +55940,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180614Z" creationid="Josef" creationdate="20191003T180614Z">
+        <seg>Při překladu souborů vztahujících se k software, můžete konfigurovat možnosti validátoru tagů tak, aby kontroloval i programovací proměnné (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T185842Z" creationid="Josef" creationdate="20180308T185842Z">
@@ -57188,6 +57228,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T185127Z" creationid="Josef" creationdate="20180317T185127Z">
         <seg>Samozřejmě si můžete nechat zobrazit uživatelskou příručku dodávanou s OmegaT i bez samotného spuštění OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T180637Z" creationid="Josef" creationdate="20191003T180637Z">
+        <seg>Také můžete definovat různé možnsti vztahující se k validaci tagů a definování vlastních tagů.</seg>
       </tuv>
     </tu>
     <tu>
