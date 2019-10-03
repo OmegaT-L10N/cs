@@ -17302,6 +17302,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165442Z" creationid="Josef" creationdate="20191003T165442Z">
+        <seg>Zobrazit popis kontextu pro glosáře TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T073223Z">
@@ -47332,6 +47340,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165434Z" creationid="Josef" creationdate="20191003T165434Z">
+        <seg>Postupy pro konfiguraci přístupu k překladačům Microsoff Translator a Google Translate jsou popsány &lt;u0&gt;zde&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T185437Z">
@@ -53060,6 +53076,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165533Z" creationid="Josef" creationdate="20191003T165533Z">
+        <seg>Zrušte označení této možnosti v tom případě, pokud je zobrazený popis kontextu pro každý záznam klosáře nepotřebný nebo příliš dlouhý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150929T203210Z" creationid="Josef" creationdate="20150929T203210Z">
@@ -53772,6 +53796,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T191619Z" creationid="Josef" creationdate="20180307T191619Z">
         <seg>Ve zdrojovém textu zobr&amp;azovat pojmy odděleně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165537Z" creationid="Josef" creationdate="20191003T165537Z">
+        <seg>Ve zdrojovém textu zobrazovat pojmy odděleně</seg>
       </tuv>
     </tu>
     <tu>
@@ -55176,6 +55208,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T082416Z">
         <seg>V takovém případě zobrazí podokno v horní části záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165703Z" creationid="Josef" creationdate="20191003T165703Z">
+        <seg>Když je tato možnost označena, pak glosář zobrazí páry nebo skupiny slov (výrazů), a to i tehdy, když se zde zastoupená slova budou vyskytovat ve zdrojovém textu každé zvlášť.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60861,9 +60901,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T165346Z" creationid="Josef" creationdate="20191003T165338Z">
-        <seg>
-</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165356Z" creationid="Josef" creationdate="20191003T165338Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
