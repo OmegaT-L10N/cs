@@ -14768,16 +14768,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191038Z" creationid="Josef" creationdate="20180307T191038Z">
-        <seg>Potvrdit zdrojové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183848Z" creationid="Josef" creationdate="20180307T191038Z">
+        <seg>Zapsat zdrojové soubory</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191043Z" creationid="Josef" creationdate="20180307T191043Z">
-        <seg>Potvrdit cílové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183853Z" creationid="Josef" creationdate="20180307T191043Z">
+        <seg>Zapsat cílové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -20107,8 +20107,8 @@ Vlákna babího léta brání postupu
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191949Z" creationid="Josef" creationdate="20180307T191949Z">
-        <seg>Potvrzení zdrojových souborů se nezdařilo!</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183906Z" creationid="Josef" creationdate="20180307T191949Z">
+        <seg>Zápis zdrojových souborů se nezdařil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50423,6 +50423,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183650Z" creationid="Josef" creationdate="20191003T183650Z">
+        <seg>Toto lze provést i v rámci OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T140134Z" creationid="Josef" creationdate="20190928T140134Z">
@@ -60195,6 +60203,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183718Z" creationid="Josef" creationdate="20191003T183718Z">
+        <seg>zkopírujte soubory do zdrojového adresáře &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>copy the object code is a network server, the Corresponding Source</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164438Z" creationid="Josef" creationdate="20180317T164438Z">
@@ -66314,6 +66330,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103850Z" creationid="Josef" creationdate="20180317T103850Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T183942Z" creationid="Josef" creationdate="20191003T183942Z">
+        <seg>použijte možnost &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Zapsat zdrojové soubory&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
