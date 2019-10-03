@@ -11885,6 +11885,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164916Z" creationid="Josef" creationdate="20191003T164916Z">
+        <seg>Automaticky doplnit překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T093222Z">
@@ -20606,6 +20614,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164931Z" creationid="Josef" creationdate="20191003T164931Z">
+        <seg>Z bezpečnostních důvodů se může stát, že nebudete chtít poslat všechny své segmenty nástroji na strojový překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180308T183958Z" creationid="Josef" creationdate="20180308T183958Z">
@@ -25159,6 +25175,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165034Z" creationid="Josef" creationdate="20191003T165034Z">
+        <seg>Při zrušení zatržení této možnosti, se bude strojový překlad chovat tak, že při stistku &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;(&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k1&gt; &lt;k5&gt;M&lt;/k2&gt; &lt;/k3&gt; v OS X) bude přeložen pouze aktuální segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180323T152634Z" creationid="Josef" creationdate="20180323T152536Z">
@@ -27452,6 +27476,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T165128Z" creationid="Josef" creationdate="20151007T165128Z">
         <seg>Umožňuje přístup jak k veřejným, tak i k soukromým datům, kde soukromé glosáře (zde nazývané „kolekce“) mohou být extrahovány z existujících dokumentů a cílové pojmy bývají částečně doplněny automaticky z různých zdrojů. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164825Z" creationid="Josef" creationdate="20191003T164825Z">
+        <seg>Umožňuje nastavit parametry pro všechny překladatelské projekty</seg>
       </tuv>
     </tu>
     <tu>
@@ -41411,6 +41443,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164846Z" creationid="Josef" creationdate="20191003T164846Z">
+        <seg>Nastaví klíč potvrzení segmentu na TAB místo přednastaveného Enter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T172748Z" creationid="Josef" creationdate="20151001T172748Z">
@@ -47287,6 +47327,14 @@ modification follow.</seg>
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120925T052833Z">
+        <seg>Program si před ukončením vyžádá potvrzení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164912Z" creationid="Josef" creationdate="20191003T164912Z">
         <seg>Program si před ukončením vyžádá potvrzení.</seg>
       </tuv>
     </tu>
@@ -53624,6 +53672,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164828Z" creationid="Josef" creationdate="20191003T164828Z">
+        <seg>Použít TAB pro postup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T195412Z" creationid="Josef" creationdate="20180307T195412Z">
@@ -57412,6 +57468,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T191829Z">
         <seg>I nadále musíte během práce na překladu a jeho úpravou s tagy zacházet opatrně, ale můžete si text zobrazit v odděleném okně bez mnohdy nepřehledné hromady tagů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165057Z" creationid="Josef" creationdate="20191003T165057Z">
+        <seg>Pak musíte použít &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; podruhé, aby se vložil návrh.</seg>
       </tuv>
     </tu>
     <tu>
