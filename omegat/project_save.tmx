@@ -38791,6 +38791,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165846Z" creationid="Josef" creationdate="20191003T165846Z">
+        <seg>Nahradit tipy glosáře při vkládání zdrojového textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151130T170501Z" creationid="Josef" creationdate="20151130T170501Z">
@@ -41127,6 +41135,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T185332Z">
         <seg>Vyberte tuto položku v nabídce, pokud se aktuální segment nehodí a vložte alternativní překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165841Z" creationid="Josef" creationdate="20191003T165841Z">
+        <seg>Označte tuto možnost když chcete, aby glosář zobrazoval slova, která mají stejný kořen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53084,6 +53100,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165755Z" creationid="Josef" creationdate="20191003T165755Z">
+        <seg>Zrušte označení této možnosti, pokud glosář zobrazuje příliš mnoho nevhodných návrhů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150929T203210Z" creationid="Josef" creationdate="20150929T203210Z">
@@ -53788,6 +53812,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T112601Z">
         <seg>Použijete jej tehdy, když OmegaT nemá synchronizovat obsah projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165801Z" creationid="Josef" creationdate="20191003T165801Z">
+        <seg>U záznamů glosáře vytvářet základní tvar</seg>
       </tuv>
     </tu>
     <tu>
