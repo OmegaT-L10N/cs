@@ -13950,6 +13950,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181650Z" creationid="Josef" creationdate="20191003T181650Z">
+        <seg>Označte tuto možnost pro zobrazení všech nejedinečných segmentů (opakování) šedou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150929T203639Z" creationid="Josef" creationdate="20150929T203639Z">
@@ -27036,6 +27044,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181625Z" creationid="Josef" creationdate="20191003T181625Z">
+        <seg>Označením nejedinečných segmentů zahrno&amp;ut první nejedinečný segment. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inclusion of a covered work
 in an aggregate does not cause this License to apply to the other
 parts of the aggregate.</seg>
@@ -36605,6 +36621,30 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T132336Z">
         <seg>Upravené procento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181622Z" creationid="Josef" creationdate="20191003T181622Z">
+        <seg>Procento vypočítané pomocí možnsti &lt;g0&gt;Kompletní text včetně tagů a čísel&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181559Z" creationid="Josef" creationdate="20191003T181559Z">
+        <seg>Procento vypočítané pomocí možnosti &lt;g0&gt;Žádné tagy a čísl.a&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181534Z" creationid="Josef" creationdate="20191003T181534Z">
+        <seg>Procento vypočítané pomocí možnosti &lt;g0&gt;Podle základního tvaru, žádné tagy a čísla&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55944,6 +55984,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T170026Z" creationid="Josef" creationdate="20180317T170008Z">
         <seg>Při spouštění OmegaT z příkazového řádku, specifikujte v příkazu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T181729Z" creationid="Josef" creationdate="20191003T181729Z">
+        <seg>Když je u této možnosti zrušeno označení, pak budou všechny nejedinečné segmenty zobrazeny šedou kromě prvního výskytu.</seg>
       </tuv>
     </tu>
     <tu>
