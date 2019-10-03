@@ -21688,6 +21688,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164722Z" creationid="Josef" creationdate="20191003T164722Z">
+        <seg>Obecné předvolby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101006T131600Z">
@@ -27488,6 +27496,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164651Z" creationid="Josef" creationdate="20191003T164651Z">
+        <seg>Také ji můžete získat použitím příkazu git:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be obtained using the subversion command:</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T150154Z" creationid="Josef" creationdate="20180318T150154Z">
@@ -30589,6 +30605,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T174629Z" creationid="Josef" creationdate="20150928T174629Z">
         <seg>Maska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164605Z" creationid="Josef" creationdate="20191003T164605Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -36157,6 +36181,14 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T150935Z" creationid="Josef" creationdate="20180318T150935Z">
         <seg>Pravidelná sestavení jsou dostupná na CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164709Z" creationid="Josef" creationdate="20191003T164709Z">
+        <seg>PPravidelná sestavení jsou dostupná na Sourceforge</seg>
       </tuv>
     </tu>
     <tu>
@@ -44378,6 +44410,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164638Z" creationid="Josef" creationdate="20191003T164638Z">
+        <seg>Verze „master“ (alpha) odráží nejaktuálnější stav vývoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T164601Z" creationid="Josef" creationdate="20191003T164601Z">
@@ -49579,6 +49619,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T104301Z">
         <seg>Dialogové okno vám umožní nastavit vzory názvů zdrojových souborů pro soubory, které bude filtr zpracovávat, přizpůsobit si názvy přeložených souborů a vybrat, jaké kódování se bude používat pro načtení souboru a uložení jeho přeloženého protějšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164801Z" creationid="Josef" creationdate="20191003T164801Z">
+        <seg>Toto dialogové okno zpřístupníte výběrem možnosti &lt;m0&gt; &lt;g1&gt;Možnosti&lt;/g1&gt; &lt;g2&gt;Předvolby ...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59831,6 +59879,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103746Z" creationid="Josef" creationdate="20180317T103746Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164658Z" creationid="Josef" creationdate="20191003T164658Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
