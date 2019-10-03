@@ -4590,10 +4590,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174827Z" creationid="Josef" creationdate="20191003T174827Z">
+        <seg>&lt;e0&gt;Přidat nebo přepsat deklaraci kódování v souborech HTML a XHTML&lt;/e0&gt;: cílové soubory často vyžadují kódování znakové sady odlišné od kódování ve zdrojovém souboru (nezáleží na tom, jestli je to přímo definováno či implicitně obsaženo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T190626Z" creationid="Josef" creationdate="20190928T190626Z">
         <seg>&lt;e0&gt;Přidání souborů do projektu:&lt;/e0&gt; soubory do projektu můžete přidat kliknutím na tlačítko &lt;g1&gt;„Importovat zdrojové soubory“&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174724Z" creationid="Josef" creationdate="20191003T174724Z">
+        <seg>&lt;e0&gt;Slučovat tagy do skupin&lt;/e0&gt;: pokud je tato možnost zaškrtnuta, tagy bez překládaného textu mezi nimi budou sloučeny do jednoho tagu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5027,6 +5043,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T181147Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: Komentáře snímků, šablony snímků, rozložení snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174755Z" creationid="Josef" creationdate="20191003T174755Z">
+        <seg>&lt;e0&gt;Zachovat mezery pro všechny tagy&lt;/e0&gt;: když je tato možnost označena, budou zachovány tzv. „neviditelné znaky“ (tj. mezery a znaky nového řádku), dokonce i když nejsou definovány v samotném dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
