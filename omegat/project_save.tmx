@@ -13758,6 +13758,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165146Z" creationid="Josef" creationdate="20191003T165146Z">
+        <seg>Zaškrtněte toto políčko, pokud chcete do služby strojového překladu poslat pouze nepřeložené segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T142637Z" creationid="Josef" creationdate="20190928T142637Z">
@@ -40987,6 +40995,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165336Z" creationid="Josef" creationdate="20191003T165336Z">
+        <seg>Ze seznamu vyberte poskytovatele, a pokud je to nutné, klikněte na volbu &lt;g0&gt;Konfigurovat&lt;/g0&gt; a vložte identifikační údaje dodané poskytovatelem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T152508Z" creationid="Josef" creationdate="20180318T152508Z">
@@ -53384,6 +53400,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165101Z" creationid="Josef" creationdate="20191003T165101Z">
+        <seg>Pouze nepřeložené segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T184448Z" creationid="Josef" creationdate="20150928T184448Z">
@@ -60831,6 +60855,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T104052Z" creationid="Josef" creationdate="20180317T104052Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T165346Z" creationid="Josef" creationdate="20191003T165338Z">
+        <seg>
+</seg>
       </tuv>
     </tu>
     <tu>
