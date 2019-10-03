@@ -10517,16 +10517,16 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191026Z" creationid="Josef" creationdate="20191003T191026Z">
-        <seg>Všechny komponenty projektu &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; jsou mapovány do místního projektu OmegaT.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191528Z" creationid="Josef" creationdate="20191003T191026Z">
+        <seg>Všechny komponenty projektu &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; jsou zapsány do místního projektu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T190931Z" creationid="Josef" creationdate="20191003T190931Z">
-        <seg>Veškerý obsah </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191518Z" creationid="Josef" creationdate="20191003T190931Z">
+        <seg>Veškerý obsah &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; je zapsán do místního projektu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31141,8 +31141,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mapping parameters</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185808Z" creationid="Josef" creationdate="20191003T185808Z">
-        <seg>Mapovací parametry</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191447Z" creationid="Josef" creationdate="20191003T185808Z">
+        <seg>Parametry zápisu</seg>
       </tuv>
     </tu>
     <tu>
@@ -48688,8 +48688,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191051Z" creationid="Josef" creationdate="20191003T191051Z">
-        <seg>Vzdálený soubor  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; je mapován do místního souboru &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191537Z" creationid="Josef" creationdate="20191003T191051Z">
+        <seg>Vzdálený soubor  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; je zapsán do místního souboru &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56714,8 +56714,8 @@ price.</seg>
       <tuv lang="EN">
         <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T113332Z" creationid="Josef" creationdate="20190928T113332Z">
-        <seg>Pokud pracujete na týmovém projektu, pak Vám toto okno umožní definovat mapování mezi vzdálenými a místními adresáři (příklady vizte &lt;l0&gt;zde&lt;/l0&gt;).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191435Z" creationid="Josef" creationdate="20190928T113332Z">
+        <seg>Pokud pracujete na týmovém projektu, pak Vám toto okno umožní definovat zápis mezi vzdálenými a místními adresáři (příklady vizte &lt;l0&gt;zde&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
