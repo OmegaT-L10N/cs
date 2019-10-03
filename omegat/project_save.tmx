@@ -23453,6 +23453,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T172846Z" creationid="Josef" creationdate="20191003T172846Z">
+        <seg>Když máte označny obě tyto možnosti a &lt;l0&gt;&lt;g1&gt;Vložit zdrojový text&lt;/g1&gt;&lt;/l0&gt; také, pak se dojde k automatickému překladu slov s odpovídajícím záznamem glošáře v okamžiku vkládání zdrojového textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T172118Z" creationid="Josef" creationdate="20151001T172118Z">
