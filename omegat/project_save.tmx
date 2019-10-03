@@ -12553,6 +12553,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173200Z" creationid="Josef" creationdate="20191003T173200Z">
+        <seg>Procházet kolekce TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T190442Z" creationid="Josef" creationdate="20180309T190442Z">
@@ -14218,6 +14226,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T200153Z" creationid="Josef" creationdate="20151006T200153Z">
         <seg>Posledních 10 hledání zobrazíte kliknutím na šipku rozbalovacího menu v okně &lt;e0&gt;Hledat&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173044Z" creationid="Josef" creationdate="20191003T173044Z">
+        <seg>Kliknutím na toto tlačítko se dostanete na stránku projektu &lt;u0&gt;Taas&lt;/u0&gt; a můžete zde založit uživatelský účet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24407,6 +24423,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T175204Z">
         <seg>Když je tato možnost zaškrtnuta, tak při vložení přibližného překladu, buď ručně nebo automaticky, se OmegaT pokusí převést čísla v daném přibližném překladu, a to tak, že se místo dostupného čísla použije číslo ze zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173158Z" creationid="Josef" creationdate="20191003T173158Z">
+        <seg>Pokud je tato možnost označena, pak si OmegaT nezapamatuje přístup mezi různými sezeními.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42983,6 +43007,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173121Z" creationid="Josef" creationdate="20191003T173121Z">
+        <seg>Uložit pouze pro toto sezení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151121Z" creationid="Josef" creationdate="20180318T151121Z">
@@ -49555,6 +49587,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T101304Z">
         <seg>Tato lišta podává uživateli zpětnou vazbu o specifických operacích, které právě probíhají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173228Z" creationid="Josef" creationdate="20191003T173228Z">
+        <seg>Toto tlačítko Vám umožní procházet a stahovat kolekce, které existují pro zdrojový a cílový jazyk projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57169,6 +57209,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173118Z" creationid="Josef" creationdate="20191003T173118Z">
+        <seg>Pak můžete vytvořit přístupový klíč na stránce &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T190752Z">
@@ -60983,6 +61031,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T162954Z" creationid="Josef" creationdate="20180317T104018Z">
         <seg>https://sourceforge.net/projects/macsvnhttps://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173056Z" creationid="Josef" creationdate="20191003T173056Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173009Z" creationid="Josef" creationdate="20191003T173009Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
