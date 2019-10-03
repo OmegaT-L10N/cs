@@ -4670,6 +4670,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174908Z" creationid="Josef" creationdate="20191003T174908Z">
+        <seg>&lt;e0&gt;V přeloženém dokumentu komprimovat netisknutelné znaky&lt;/e0&gt;: více po sobě jdoucích netisknutelných znaků bude v přeloženém dokumentu převedeno na jeden jediný netisknutelný znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151130T165424Z" creationid="Josef" creationdate="20151130T165424Z">
@@ -5082,6 +5090,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151130T165526Z" creationid="Josef" creationdate="20151130T165526Z">
+        <seg>&lt;e0&gt;V přeloženém dokumentu odstranit HTML komentáře&lt;/e0&gt;: žádné části kódu označené jako komentář (mezi značkami &lt;!-- a --&gt;) nebudou skopírovány do přeloženého dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174922Z" creationid="Josef" creationdate="20191003T174922Z">
         <seg>&lt;e0&gt;V přeloženém dokumentu odstranit HTML komentáře&lt;/e0&gt;: žádné části kódu označené jako komentář (mezi značkami &lt;!-- a --&gt;) nebudou skopírovány do přeloženého dokumentu.</seg>
       </tuv>
     </tu>
@@ -20872,6 +20888,14 @@ subprograms and other parts of the work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175049Z" creationid="Josef" creationdate="20191003T175049Z">
+        <seg>Například ve výchozím nastavení se použije filtr XHTML pro zpracování souborů s příponou .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
@@ -21127,6 +21151,14 @@ sale, or importing the Program or any portion of it.</seg>
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T180457Z">
+        <seg>Například, pokud pokud filtr souboru určí UTF8 jako kódovací schéma pro cílové soubory, výběrem možnosti ‚Vždy‘ zajistí, že tato informace bude obsažena v přeložených souborech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174847Z" creationid="Josef" creationdate="20191003T174847Z">
         <seg>Například, pokud pokud filtr souboru určí UTF8 jako kódovací schéma pro cílové soubory, výběrem možnosti ‚Vždy‘ zajistí, že tato informace bude obsažena v přeložených souborech.</seg>
       </tuv>
     </tu>
@@ -42663,6 +42695,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175059Z" creationid="Josef" creationdate="20191003T175059Z">
+        <seg>Kódování zdrojových a cílových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105137Z">
@@ -44213,6 +44253,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T105508Z">
         <seg>Název cílového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175120Z" creationid="Josef" creationdate="20191003T175120Z">
+        <seg>Cílové soubory mohou být zapsány v jakémkoliv kódování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46184,6 +46232,14 @@ instead.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T175752Z">
         <seg>Dialogové okno &lt;m0&gt; &lt;g1&gt;Možnosti&lt;/g1&gt; &lt;g2&gt;Nastavení editace...&lt;/g2&gt; &lt;/m0&gt; umožňuje uživateli vybrat si, jak bude aktuální segment v editoru rozpoznán a zpracován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175037Z" creationid="Josef" creationdate="20191003T175037Z">
+        <seg>Dialogové okno obsahuje speciální vzory názvů cílových souborů a editor vám umožňuje upravovat názvy výstupních souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48244,6 +48300,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175143Z" creationid="Josef" creationdate="20191003T175143Z">
+        <seg>Pole zdrojového a cílového kódování používají nabídky obsahující všechna podporovaná kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T054049Z">
@@ -50047,6 +50111,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174955Z" creationid="Josef" creationdate="20191003T174955Z">
+        <seg>Dialogové okno vám umožní specifikovat vzory názvů zdrojových souborů pro soubory, které bude filtr zpracovávat, přizpůsobit si názvy přeložených souborů a vybrat, jaké kódování se bude používat pro načtení souboru a uložení jeho překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T164801Z" creationid="Josef" creationdate="20191003T164801Z">
@@ -51407,6 +51479,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175021Z" creationid="Josef" creationdate="20191003T175021Z">
+        <seg>Kliknutím na &lt;e1&gt;Přidat...&lt;/e1&gt; přidáte nový filtr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T151346Z">
@@ -51997,6 +52077,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T165103Z">
         <seg>Aby se daly upravovat vzory filtrů souborů, buď změníte daná pole přímo, nebo nakliknutím &lt;e0&gt;Editovat ...&lt;/e0&gt;. Kliknutím na &lt;e1&gt;Přidat...&lt;/e1&gt; přidáte nový filtr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175016Z" creationid="Josef" creationdate="20191003T175016Z">
+        <seg>Aby se daly upravovat vzory filtrů souborů, buď změníte daná pole přímo, nebo nakliknutím &lt;e0&gt;Editovat ...&lt;/e0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -54845,6 +54933,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T174841Z" creationid="Josef" creationdate="20191003T174841Z">
+        <seg>Použitím této možnosti si překladatel může určit, zda cílové soubory mají obsahovat deklaraci kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using wild cards</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T191158Z">
@@ -57105,6 +57201,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T081941Z">
         <seg>Můžete měnit pozici jakéhokoliv podokna nebo dokonce jej odpojit a získat tak samostatné okno tím, že dané podokno nakliknete a potáhnete za jeho název. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T175108Z" creationid="Josef" creationdate="20191003T175108Z">
+        <seg>Můžete změnit kódování zdrojového souboru pro každý odlišný vzor názvu zdrojového souboru.</seg>
       </tuv>
     </tu>
     <tu>
