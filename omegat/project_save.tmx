@@ -19095,8 +19095,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T193339Z" creationid="Josef" creationdate="20180307T193339Z">
-        <seg>V mapování se nachází prázdné URL úložiště</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191420Z" creationid="Josef" creationdate="20180307T193339Z">
+        <seg>Prázdné URL úložiště při zápisu</seg>
       </tuv>
     </tu>
     <tu>
@@ -31133,8 +31133,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T193411Z" creationid="Josef" creationdate="20180307T192643Z">
-        <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191341Z" creationid="Josef" creationdate="20180307T192643Z">
+        <seg>Zapsání místních adresářů na vzdálené adresáře v úložištích</seg>
       </tuv>
     </tu>
     <tu>
@@ -39827,16 +39827,16 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T193029Z" creationid="Josef" creationdate="20180307T192553Z">
-        <seg>Mapování úložiště...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191326Z" creationid="Josef" creationdate="20180307T192553Z">
+        <seg>Zapsání úložiště...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T193018Z" creationid="Josef" creationdate="20180307T192500Z">
-        <seg>Mapování úložiště...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191318Z" creationid="Josef" creationdate="20180307T192500Z">
+        <seg>Zapsání úložiště...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51607,6 +51607,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T151015Z" creationid="Josef" creationdate="20180318T151015Z">
         <seg>Nástroje CAT mohou tento typ souborů lépe zpracovávat, tzn. že je podporují a zpracovávají přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191212Z" creationid="Josef" creationdate="20191003T191212Z">
+        <seg>Toto umožňuje přejmenovat soubor, který se má překladádat.</seg>
       </tuv>
     </tu>
     <tu>
