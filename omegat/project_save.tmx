@@ -6457,6 +6457,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190943Z" creationid="Josef" creationdate="20191003T190943Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T190018Z" creationid="Josef" creationdate="20191003T190018Z">
@@ -8569,6 +8577,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190941Z" creationid="Josef" creationdate="20191003T190941Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T190452Z" creationid="Josef" creationdate="20191003T190452Z">
@@ -10495,6 +10511,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T190814Z">
         <seg>Všechny sady pravidel segmentace pro odpovídající vzor jazyka jsou použité v daném pořadí priority, takže pravidla pro konkrétní jazyk by měla být vyšší než ta z výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191026Z" creationid="Josef" creationdate="20191003T191026Z">
+        <seg>Všechny komponenty projektu &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; jsou mapovány do místního projektu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48650,6 +48674,22 @@ modification follow.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T164255Z" creationid="Josef" creationdate="20151001T164255Z">
         <seg>Důležité soubory jsou &lt;l2&gt;filters.conf&lt;/l2&gt; a &lt;l3&gt;segmentation.conf&lt;/l3&gt; a můžete je najít v adresáři home daného uživatele (např. &lt;l4&gt;C:\Dokumenty a nastavení\%Uživatel%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; ve Windows, &lt;l6&gt;%uzivatel%/.omegat/&lt;/l6&gt; v Linuxu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191150Z" creationid="Josef" creationdate="20191003T191150Z">
+        <seg>Vzdálený soubor &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; je zapsán do místního souboru &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T191051Z" creationid="Josef" creationdate="20191003T191051Z">
+        <seg>Vzdálený soubor  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; je mapován do místního souboru &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
