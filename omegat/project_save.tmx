@@ -12225,6 +12225,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163611Z" creationid="Josef" creationdate="20191003T163611Z">
+        <seg>Před dalším postupem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055233Z">
@@ -19269,6 +19277,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163713Z" creationid="Josef" creationdate="20191003T163713Z">
+        <seg>I když je tento software zdarma, tak pokud se Vám zdá OmegaT užitečná a chtěli byste vyjádřit svůj vděk, můžete poslat příspěvek na náš účet Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072653Z">
@@ -22316,6 +22332,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T164253Z">
         <seg>Hauština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163625Z" creationid="Josef" creationdate="20191003T163625Z">
+        <seg>Nechtěli byste přispět projektu OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27608,10 +27632,26 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163810Z" creationid="Josef" creationdate="20191003T163810Z">
+        <seg>Toto se již nějakou dobu používalo a ověřilo se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T180655Z">
         <seg>Obsahuje obecné informace o programu OmegaT, kde naleznete více informací, jak přispět atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T164403Z" creationid="Josef" creationdate="20191003T164403Z">
+        <seg>Je to novější verze než ta standardní a zahrnuje nové funkce, které nejsou obsaženy v aktuálně zveřejněné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44744,6 +44784,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163827Z" creationid="Josef" creationdate="20191003T163827Z">
+        <seg>Nejnovější verze vyžaduje prostředí Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145608Z" creationid="Josef" creationdate="20180318T145608Z">
@@ -44980,6 +45028,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145543Z" creationid="Josef" creationdate="20180318T145543Z">
         <seg>Standardní verze je obvykle již nějakou dobu používána a je tedy vyzkoušena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163742Z" creationid="Josef" creationdate="20191003T163742Z">
+        <seg>Standardní verze vyžaduje prostředí Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52760,6 +52816,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130507T145006Z">
         <seg>Linky k úložištím slovníků pro kontrolu pravopisu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T163721Z" creationid="Josef" creationdate="20191003T163721Z">
+        <seg>USD &lt;a0&gt;Přispět&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
