@@ -3725,6 +3725,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190023Z" creationid="Josef" creationdate="20191003T190023Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -6449,6 +6457,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190018Z" creationid="Josef" creationdate="20191003T190018Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190032Z" creationid="Josef" creationdate="20191003T190032Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T180752Z">
@@ -8533,6 +8557,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T184750Z" creationid="Josef" creationdate="20191003T184750Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190011Z" creationid="Josef" creationdate="20191003T190011Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32386,6 +32418,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190147Z" creationid="Josef" creationdate="20191003T190147Z">
+        <seg>Určení jména místního adresáře nebo souboru, odpovídající kořenovému adresáři projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190236Z" creationid="Josef" creationdate="20191003T190236Z">
+        <seg>Jméno vzdáleného adresáře nebo souboru, odpovídající URL repozitáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20101115T114402Z">
@@ -39185,8 +39233,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185844Z" creationid="Josef" creationdate="20191003T185844Z">
-        <seg>Vzdálené umístění souborů překladu</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190114Z" creationid="Josef" creationdate="20191003T185844Z">
+        <seg>URL repozitáře je vzdálené umístění souborů překladu</seg>
       </tuv>
     </tu>
     <tu>
@@ -50643,8 +50691,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This can be either http (which includes https), svn or git.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185829Z" creationid="Josef" creationdate="20191003T185829Z">
-        <seg>Toto může být buď http (což se vztahuje i na https), svn nebo git.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190100Z" creationid="Josef" creationdate="20191003T185829Z">
+        <seg>Typ repozitáře může být buď http (což se vztahuje i na https), svn nebo git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63529,8 +63577,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185852Z" creationid="Josef" creationdate="20191003T185852Z">
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190120Z" creationid="Josef" creationdate="20191003T185852Z">
         <seg>mapping local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190153Z" creationid="Josef" creationdate="20191003T190153Z">
+        <seg>mapping repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -65169,16 +65225,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185812Z" creationid="Josef" creationdate="20191003T185812Z">
-        <seg>typ repozitáře</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190051Z" creationid="Josef" creationdate="20191003T185812Z">
+        <seg>repository type</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>repository url</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T185832Z" creationid="Josef" creationdate="20191003T185832Z">
-        <seg>url repozitáře</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T190105Z" creationid="Josef" creationdate="20191003T185832Z">
+        <seg>repository url</seg>
       </tuv>
     </tu>
     <tu>
