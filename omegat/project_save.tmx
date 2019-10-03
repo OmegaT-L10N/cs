@@ -22818,6 +22818,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182252Z" creationid="Josef" creationdate="20191003T182252Z">
+        <seg>Zde můžete předefinovat hlavní heslo používané k ochraně přihlašovacích údajů a přístupových klíčů ke službám strojového překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130427T115256Z">
@@ -23547,6 +23555,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T165752Z" creationid="Josef" creationdate="20180309T165752Z">
         <seg>Pokud je Java instalována na úrovni systému, a když je také zadaná cesta v příkazu pro spouštění, nemusíte vkládat úplnou cestu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182207Z" creationid="Josef" creationdate="20191003T182207Z">
+        <seg>V případě, že OmegaT vyžaduje použití ověřeného proxy serveru pro přístup na internet., pak sem vložte údaje poskytnuté proxy administrátorem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40787,6 +40803,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182211Z" creationid="Josef" creationdate="20191003T182211Z">
+        <seg>Bezpečnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T181648Z">
@@ -44501,6 +44525,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T165929Z">
         <seg>Tádžičtina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T182340Z" creationid="Josef" creationdate="20191003T182340Z">
+        <seg>Nezapomeňte si poznačit všechny tyto údaje před vytvářením nového hesla, protože všechny budou smazány a bude nutno je zadat znova.</seg>
       </tuv>
     </tu>
     <tu>
