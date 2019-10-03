@@ -24395,6 +24395,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T173001Z" creationid="Josef" creationdate="20191003T173001Z">
+        <seg>Když je tato možnost označena, pak glosář zobrazí jen jeden záznam, a to i tehdy, když se zde zastoupená slova budou vyskytovat v glosáři v několika formách (např. s nebo bez velkých počátečních písmen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130424T175204Z">
@@ -25472,6 +25480,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151007T173006Z" creationid="Josef" creationdate="20151007T173006Z">
         <seg>Ignorovat velikost písmen podle glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T172852Z" creationid="Josef" creationdate="20191003T172852Z">
+        <seg>Ignorovat shody s velmi rozlišnou velikostí písmen (např. FOO vs. foo)</seg>
       </tuv>
     </tu>
     <tu>
