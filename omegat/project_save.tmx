@@ -14088,6 +14088,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T184924Z" creationid="Josef" creationdate="20191003T184924Z">
+        <seg>Kontrola statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130508T175145Z">
