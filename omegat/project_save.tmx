@@ -12790,6 +12790,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162911Z" creationid="Josef" creationdate="20191003T162911Z">
+        <seg>Ve výchozím nastavení jsou skripty uloženy v adresáři &lt;f0&gt;scripts&lt;/f0&gt;, který se nachází v instalačním adresáři OmegaT (je to ten adresář, který obsahuje &lt;f1&gt;OmegaT.jar&lt;/f1&gt;). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151006T201829Z" creationid="Josef" creationdate="20151006T201829Z">
@@ -24283,6 +24291,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162950Z" creationid="Josef" creationdate="20191003T162950Z">
+        <seg>Když sem přidáte nové skrpity, pak se tyto objeví v seznamu dostupných skriptů v podokně &lt;g0&gt;Skriptování&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
 additional terms that apply to those files, or a notice indicating
@@ -29493,6 +29509,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T171858Z" creationid="Josef" creationdate="20180309T171858Z">
         <seg>Nahrát projekt pro konfiguraci pravidel pro tyto jazyky projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162649Z" creationid="Josef" creationdate="20191003T162649Z">
+        <seg>Nahrejte skript do editoru kliknutím na jméno skriptu v seznamu v levém panelu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38939,6 +38963,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120929T055317Z">
         <seg>Jazyky se zápisem zprava doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162811Z" creationid="Josef" creationdate="20191003T162811Z">
+        <seg>Klikněte pravým tlačítkem myši ve spodním panelu na tlačítko od  &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; a potvrďte možnost &lt;g2&gt;Přidat skript&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50475,8 +50507,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T162634Z" creationid="Josef" creationdate="20191003T162634Z">
-        <seg>Toto okno se zpřístupní výběremo možností &lt;m0&gt; &lt;g1&gt;Nástroje&lt;/g1&gt;&lt;g2&gt;Skriptování&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162702Z" creationid="Josef" creationdate="20191003T162634Z">
+        <seg>Toto okno se zpřístupní výběrem možností &lt;m0&gt; &lt;g1&gt;Nástroje&lt;/g1&gt;&lt;g2&gt;Skriptování&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50852,6 +50884,14 @@ computer or modifying a private copy.</seg>
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T074745Z">
+        <seg>Pro přizpůsobení vlastností skriptu proveďte následující kroky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162643Z" creationid="Josef" creationdate="20191003T162643Z">
         <seg>Pro přizpůsobení vlastností skriptu proveďte následující kroky:</seg>
       </tuv>
     </tu>
@@ -54942,6 +54982,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162818Z" creationid="Josef" creationdate="20191003T162818Z">
+        <seg>Když kliknete na číslo levým tlačítkem myši, vybraný skript bude spuštěn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T111212Z">
@@ -56127,6 +56175,14 @@ from there.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T135558Z" creationid="Josef" creationdate="20190928T135558Z">
         <seg>Také můžete aplikaci spouštět přímo pomocí následujícího příkazu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191003T162846Z" creationid="Josef" creationdate="20191003T162846Z">
+        <seg>Stejně tak můžete spouštět vybraná makra z hlavního menu, a to použitím jejich záznamů v nabídce &lt;g0&gt;Nástroje &lt;/g0&gt; nebo aktivováním zkratky &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (kde # odpovídá 1 až 12).</seg>
       </tuv>
     </tu>
     <tu>
