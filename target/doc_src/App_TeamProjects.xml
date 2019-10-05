@@ -52,7 +52,7 @@
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">odevzdat / ‚commit‘</emphasis>: jakmile je k dispozici nová místní verze materiálu, který je připraven k odeslání, může být odevzdán do úložiště a tím pádem zpřístupněn zbytku týmu. Server se ujistí, že budou vyřešeny konfliktní změny, které by se mohly vyskytovat pokud dva členové týmu pracují na stejném obsahu.</para>
+        <para><emphasis role="bold">zapsat / ‚commit‘</emphasis>: jakmile je k dispozici nová místní verze materiálu, který je připraven k odeslání, může být zapsán do úložiště a tím pádem zpřístupněn zbytku týmu. Server se ujistí, že budou vyřešeny konfliktní změny, které by se mohly vyskytovat pokud dva členové týmu pracují na stejném obsahu.</para>
       </listitem>
 
       <listitem>
@@ -172,7 +172,7 @@
 
         </listitem>
         <listitem>
-          <para><emphasis role="bold">odevzdat místní změny na server:</emphasis> klikněte pravým tlačítkem na místní adresář získání a vyberte <guilabel>SVN Odevzdat...</guilabel> Otevře se okno pro odevzdání - viz níže. Zkontrolujte změny, které mají být provedeny - tj. v tomto případě přidané adresáře a soubory.</para>
+          <para><emphasis role="bold">zapsat místní změny na server:</emphasis> klikněte pravým tlačítkem na místní adresář získání a vyberte <guilabel>SVN zapsat...</guilabel> Otevře se okno pro zápis - viz níže. Zkontrolujte změny, které mají být provedeny - tj. v tomto případě přidané adresáře a soubory.</para>
  
           <mediaobject>
             <imageobject role="html">
@@ -183,7 +183,7 @@
             </imageobject>
           </mediaobject>
 
-          <para>Vložte vhodnou zprávu do okna Zpráva a stiskněte <guilabel>OK</guilabel>. Otevře se okno odevzdání a ukáže stav provádění příkazu odevzdání. V první řadě bude odevzdán obsah serverového úložiště a pak se aktualizuje místní kopie úložiště - tj. obsahy podadresáře .svn - takže bude aktuální a odpovídat poslední verzi úložiště.</para>
+          <para>Vložte vhodnou zprávu do okna Zpráva a stiskněte <guilabel>OK</guilabel>. Otevře se okno odevzdání a ukáže stav provádění příkazu zápisu. V první řadě bude zapsán obsah serverového úložiště a pak se aktualizuje místní kopie úložiště - tj. obsahy podadresáře .svn - takže bude aktuální a odpovídat poslední verzi úložiště.</para>
         </listitem>
 
         <listitem>

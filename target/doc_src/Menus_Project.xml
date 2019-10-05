@@ -103,7 +103,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Potvrdit zdrojové soubory</term>
+      <term>Zapsat zdrojové soubory</term>
 
       <listitem>
         <para>Nahraje soubory do repozitáře, které byly přidány nebo upraveny místně v adresáři <filename>source</filename> / zdroj.</para>
@@ -113,7 +113,7 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Potvrdit cílové soubory</term>
+      <term>Zapsat cílové soubory</term>
 
       <listitem>
         <para>Nahraje do repozitáře soubory, které byly vytvořny místně v adresáři <filename>target</filename> / cíl.</para>
