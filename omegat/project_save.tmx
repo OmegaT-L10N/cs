@@ -616,8 +616,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191500Z" creationid="Josef" creationdate="20180307T191500Z">
-        <seg>Z&amp;arovnat soubory...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062644Z" creationid="Josef" creationdate="20180307T191500Z">
+        <seg>Spárov&amp;at soubory...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10365,6 +10365,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062359Z" creationid="Josef" creationdate="20191005T062359Z">
+        <seg>Zarovnat soubory...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T080056Z">
@@ -11691,6 +11699,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T072610Z">
         <seg>V důsledku toho budou všechna nastavení ve stavu výchozího nastavení, a následně se můžete setkat s nečekaným, ale správným chováním programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062335Z" creationid="Josef" creationdate="20191005T062335Z">
+        <seg>Jak bylo popsáno výše, ale jen platí jen pro dokument, který je aktuálně zobrazen v okně Editoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17936,10 +17952,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062356Z" creationid="Josef" creationdate="20191005T062356Z">
+        <seg>Zobrazí Statistiku shody pro každý soubor projektu: počet opakování, přesné shody, přibližné překlady a segmenty bez shody, a to pro segmenty, slova a znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151001T173130Z" creationid="Josef" creationdate="20151001T173130Z">
         <seg>Zobrazí Statistiku shody pro každý soubor projektu: počet opakování, přesné shody, přibližné překlady a segmenty bez shody, a to pro segmenty, slova a znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062353Z" creationid="Josef" creationdate="20191005T062353Z">
+        <seg>Zobrazí Statistiku shody pro projekt: počty opakování, přesné shody, shody přibližných překladů a nulové shody pro segmenty, slova a znaky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42241,6 +42273,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T054245Z">
         <seg>Metodu hledání vyberte pomocí přepínacích tlačítek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062607Z" creationid="Josef" creationdate="20191005T062607Z">
+        <seg>Vyberte ty dva soubory, které chcete alignovat / zarovnat (zdrojový soubor a jeho překlad) a klikněte na OK, tím se otevře okno</seg>
       </tuv>
     </tu>
     <tu>
