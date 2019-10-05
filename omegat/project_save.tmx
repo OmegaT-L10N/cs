@@ -2849,8 +2849,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T134615Z" creationid="Josef" creationdate="20190928T134615Z">
-        <seg>--config-dir=/cesta/ke/konfiguracnim-souborum/ \</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064503Z" creationid="Josef" creationdate="20190928T134615Z">
+        <seg>--config-dir=&lt;p1&gt;/cesta/ke/konfiguracnim-souborum/&lt;/p1&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2865,8 +2865,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T134634Z" creationid="Josef" creationdate="20190928T134634Z">
-        <seg>--config-file=/cesta/k/konfiguracnimu-souboru/ \</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064522Z" creationid="Josef" creationdate="20190928T134634Z">
+        <seg>--config-file=&lt;p2&gt;/cesta/k/konfiguracnimu-souboru/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,8 +3138,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T134357Z" creationid="Josef" creationdate="20190928T134357Z">
-        <seg>-Dyandex.api.key=&lt;/p0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064556Z" creationid="Josef" creationdate="20190928T134357Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,8 +4586,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T134234Z" creationid="Josef" creationdate="20190928T134234Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt; &lt;/e0&gt; Adresa IP vašeho proxy serveru, pokud váš systém používá proxy.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064426Z" creationid="Josef" creationdate="20190928T134234Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt; &lt;/e0&gt; Adresa IP vašeho proxy serveru, pokud váš systém používá proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,8 +5010,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T113659Z" creationid="Josef" creationdate="20190928T113659Z">
-        <seg>&lt;e0&gt;Ne / Nevím:&lt;/e0&gt; stáhněte si&lt;e1&gt; OmegaT_4.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064415Z" creationid="Josef" creationdate="20190928T113659Z">
+        <seg>&lt;e0&gt;Ne / Nevím:&lt;/e0&gt; stáhněte si&lt;f1&gt; OmegaT_4.n.n_Windows.exe.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24636,8 +24636,8 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="EN">
         <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T141020Z" creationid="Josef" creationdate="20190928T141020Z">
-        <seg>Pokud je vybráno víc nástrojů strojového překladu, pak se také používá zkratka &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; k přepínání mezi nimi a vložení posledního vybraného.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064629Z" creationid="Josef" creationdate="20190928T141020Z">
+        <seg>Pokud je vybráno víc nástrojů strojového překladu, pak se také používá zkratka &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;k přepínání mezi nimi a vložení posledního vybraného.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26027,8 +26027,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T175257Z" creationid="Josef" creationdate="20191003T175257Z">
-        <seg>Pokud budete chtít obnovit výchozí nastavení filtru, klikněte na &lt;e2&gt;Výchozí nastavení.&lt;/e2&gt; Můžete tedy upravovat název přímo v políčku vzoru pro název cílového souboru nebo v dialogovém okně filtrů souborů.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064513Z" creationid="Josef" creationdate="20191003T175257Z">
+        <seg>Pokud budete chtít obnovit výchozí nastavení filtru, klikněte na &lt;e1&gt;Výchozí nastavení.&lt;/e1&gt; Můžete tedy upravovat název přímo v políčku vzoru pro název cílového souboru nebo v dialogovém okně filtrů souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33912,8 +33912,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T184644Z" creationid="Josef" creationdate="20180308T184609Z">
-        <seg>Poznámka: v tomto případě, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; můžete stále použít k tomu, aby se zaktivoval dotaz na strojový překlad v již přeloženém segmentu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064620Z" creationid="Josef" creationdate="20180308T184609Z">
+        <seg>Poznámka: v tomto případě, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;můžete stále použít k tomu, aby se zaktivoval dotaz na strojový překlad v již přeloženém segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38065,8 +38065,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T183401Z" creationid="Josef" creationdate="20180308T183401Z">
-        <seg>Stisknutí &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; zobrazí poslední již otevřené okno Hledat (místo aby se otevřeno nové).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064542Z" creationid="Josef" creationdate="20180308T183401Z">
+        <seg>Stisknutí &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;zobrazí poslední již otevřené okno Hledat (místo aby se otevřeno nové).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41551,8 +41551,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T135836Z" creationid="Josef" creationdate="20190928T135836Z">
-        <seg>Podívejte se na &lt;m1&gt;&lt;g2&gt;Možnosti&lt;/g2&gt;&lt;g3&gt;Předvolby...&lt;/g3&gt;&lt;/g4&gt;Filtry souborů&lt;/g4&gt;&lt;/m1&gt;, najdete zde seznam formátů souborů, které umí OmegaT zpracovat.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064606Z" creationid="Josef" creationdate="20190928T135836Z">
+        <seg>Podívejte se na &lt;m1&gt;&lt;g2&gt;Možnosti&lt;/g2&gt;&lt;g3&gt;Předvolby...&lt;/g3&gt;&lt;g4&gt;Filtry souborů&lt;/g4&gt;&lt;/m1&gt;, najdete zde seznam formátů souborů, které umí OmegaT zpracovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44445,8 +44445,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T133343Z" creationid="Josef" creationdate="20190928T133343Z">
-        <seg>Další kliknutí na soubor &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zkontroluje, jestli jsou k dispozici aktualizace, a pokud ano, nainstaluje je a posléze program &lt;a4&gt;OmegaT&lt;/a4&gt; spustí.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064533Z" creationid="Josef" creationdate="20190928T133343Z">
+        <seg>Další kliknutí na soubor &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zkontroluje, jestli jsou k dispozici aktualizace, a pokud ano, nainstaluje je a posléze program &lt;a2&gt;OmegaT&lt;/a2&gt; spustí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49352,8 +49352,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T113844Z" creationid="Josef" creationdate="20190928T113844Z">
-        <seg>Nejjednodušším způsobem je ale spouštět program přes &lt;f1&gt;OmegaT.exe&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064436Z" creationid="Josef" creationdate="20190928T113844Z">
+        <seg>Nejjednodušším způsobem je ale spouštět program přes &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50172,8 +50172,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Then you must use &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; a second time, to insert the suggestion.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T184258Z" creationid="Josef" creationdate="20180308T184258Z">
-        <seg>Pak musíte použít &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; podruhé, aby se vložil návrh.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064613Z" creationid="Josef" creationdate="20180308T184258Z">
+        <seg>Pak musíte použít &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt;podruhé, aby se vložil návrh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53189,8 +53189,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T132511Z" creationid="Josef" creationdate="20190928T132511Z">
-        <seg>Více oken pro &lt;f0&gt;OmegaT.app&lt;/f0&gt; spustíte dvojklikem na soubor &lt;e1&gt;OmegaT&lt;/e1&gt; umístěný v &lt;f2&gt;OmegaT&lt;/f2&gt;.app/ Contents/MacOS/&lt;/f2&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064405Z" creationid="Josef" creationdate="20190928T132511Z">
+        <seg>Více oken pro &lt;f0&gt;OmegaT.app&lt;/f0&gt; spustíte dvojklikem na soubor &lt;e1&gt;OmegaT&lt;/e1&gt; umístěný v &lt;f2&gt;OmegaT.app/ Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
