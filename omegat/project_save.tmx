@@ -15892,8 +15892,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20150928T170901Z" creationid="Josef" creationdate="20150928T170901Z">
-        <seg>S&amp;počítat ve statistikách úseky chráněného textu a přizpůsobené tagy</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060707Z" creationid="Josef" creationdate="20150928T170901Z">
+        <seg>S&amp;počítat ve statistikách úseky chráněného textu a vlastní tagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -21270,8 +21270,8 @@ freedoms that you received.</seg>
       <tuv lang="EN">
         <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T180826Z" creationid="Josef" creationdate="20191003T180826Z">
-        <seg>Například, když vložíte &lt;u0&gt;\d+&lt;/u0&gt; do políčka &lt;g1&gt;Regulární výraz pro speciální tagy&lt;/g1&gt;, pak budou všechny čísla pokládána za tagy a umožní Vám zajistit, že čísla během překladu omylem nezměníte.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060717Z" creationid="Josef" creationdate="20191003T180826Z">
+        <seg>Například, když vložíte &lt;u0&gt;\d+&lt;/u0&gt; do políčka &lt;g1&gt;Regulární výraz pro vlastní tagy&lt;/g1&gt;, pak budou všechny čísla pokládána za tagy a umožní Vám zajistit, že čísla během překladu omylem nezměníte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21950,6 +21950,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20150928T171220Z" creationid="Josef" creationdate="20150928T171220Z">
         <seg>Nalezeno v:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060449Z" creationid="Josef" creationdate="20191005T060449Z">
+        <seg>Lze detekovat čtyři typy problémů:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,8 +28204,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T185921Z" creationid="Josef" creationdate="20180308T185921Z">
-        <seg>Taktéž umožňuje definovat různé možnosti vztahujících se k validaci tagů a definování uživatelských tagů.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060723Z" creationid="Josef" creationdate="20180308T185921Z">
+        <seg>Taktéž umožňuje definovat různé možnosti vztahujících se k validaci tagů a definování vlastních tagů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39137,8 +39145,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regular expression for custom tags:</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130423T042329Z">
-        <seg>Regulární výraz pro speciální tagy:</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060656Z">
+        <seg>Regulární výraz pro vlastní tagy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63803,6 +63811,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121016T052103Z">
         <seg>minimalizuje podokno, potom ve spodní čísti okna programu je vidět jen název minimalizovaného podokna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060729Z" creationid="Josef" creationdate="20191005T060544Z">
+        <seg>chybějící nebo chybně umístěné tagy, včetně &lt;l0&gt;vlastních tagů&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
