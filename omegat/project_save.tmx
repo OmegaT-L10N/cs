@@ -2314,6 +2314,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063838Z" creationid="Josef" creationdate="20191005T063838Z">
+        <seg>(extermí příkazy hledání)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(including a physical distribution medium), accompanied by a</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164423Z" creationid="Josef" creationdate="20180317T164423Z">
@@ -11963,6 +11971,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130510T190600Z">
         <seg>V dolní části dialogového okna, vedle Klávesové zkratky, klikněte na Upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063833Z" creationid="Josef" creationdate="20191005T063833Z">
+        <seg>Ve spodní části okna klikněte pravým tlačítkem myši na volné číslo a vyberte možnost &lt;g0&gt;Přidat skript&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24247,6 +24263,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064001Z" creationid="Josef" creationdate="20191005T064001Z">
+        <seg>Pokud byly definovány příkazy k vykonávání externího hledání v &lt;l0&gt;Předvolbách&lt;/l0&gt;, pak jsou tyto příkazy zobrazeny a přístupny na tomto místě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.</seg>
@@ -36128,6 +36152,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063734Z" creationid="Josef" creationdate="20191005T063734Z">
+        <seg>Otevřete okno Skriptování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20151005T182154Z" creationid="Josef" creationdate="20151005T182154Z">
@@ -42289,6 +42321,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121017T054245Z">
         <seg>Metodu hledání vyberte pomocí přepínacích tlačítek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063755Z" creationid="Josef" creationdate="20191005T063755Z">
+        <seg>Vyberte požadovaný skript ze seznamu vlevo</seg>
       </tuv>
     </tu>
     <tu>
@@ -52637,6 +52677,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191005T063205Z" creationid="Josef" creationdate="20190928T185036Z">
         <seg>Jak párovat dva segmenty na stejný řádek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063727Z" creationid="Josef" creationdate="20191005T063727Z">
+        <seg>Jak asociovat skript s číslem:</seg>
       </tuv>
     </tu>
     <tu>
