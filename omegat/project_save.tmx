@@ -35070,6 +35070,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060832Z" creationid="Josef" creationdate="20191005T060832Z">
+        <seg>Týmový projekt v OmegaT musí být nejprve &lt;l0&gt;vytvořen&lt;/l0&gt; na serveru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T190210Z" creationid="Josef" creationdate="20180317T190210Z">
@@ -53295,6 +53303,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061220Z" creationid="Josef" creationdate="20191005T061220Z">
+        <seg>Abyste se mohli pustit do týmového projektu, následujte kroky postupu, které poskytne projektový manager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T112320Z" creationid="Josef" creationdate="20190928T112320Z">
@@ -55102,6 +55118,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T195412Z" creationid="Josef" creationdate="20180307T195412Z">
         <seg>Ve zdrojovém textu zobrazovat pojmy odděleně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060758Z" creationid="Josef" creationdate="20191005T060758Z">
+        <seg>Využití týmového projektu</seg>
       </tuv>
     </tu>
     <tu>
