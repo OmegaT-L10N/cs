@@ -5459,16 +5459,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130523T182936Z">
-        <seg>&lt;e0&gt;odevzdat místní změny na server:&lt;/e0&gt; klikněte pravým tlačítkem na místní adresář získání a vyberte &lt;g1&gt;SVN Odevzdat...&lt;/g1&gt; Otevře se okno pro odevzdání - viz níže.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162215Z">
+        <seg>&lt;e0&gt;zapsat místní změny na server:&lt;/e0&gt; klikněte pravým tlačítkem na místní adresář získání a vyberte &lt;g1&gt;SVN zapsat...&lt;/g1&gt; Otevře se okno pro zápis - viz níže.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130429T180037Z">
-        <seg>&lt;e0&gt;odevzdat / ‚commit‘&lt;/e0&gt;: jakmile je k dispozici nová místní verze materiálu, který je připraven k odeslání, může být odevzdán do úložiště a tím pádem zpřístupněn zbytku týmu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162152Z">
+        <seg>&lt;e0&gt;zapsat / ‚commit‘&lt;/e0&gt;: jakmile je k dispozici nová místní verze materiálu, který je připraven k odeslání, může být zapsán do úložiště a tím pádem zpřístupněn zbytku týmu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,8 +15034,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20120922T080532Z">
-        <seg>Provedení není možné, protože někdo jiný změnil vzdálený překlad.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162112Z">
+        <seg>Zápis není možný, protože někdo jiný změnil vzdálený překlad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29016,8 +29016,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20150929T202524Z" creationid="Josef" creationdate="20150929T202524Z">
-        <seg>V první řadě bude odevzdán obsah serverového úložiště a pak se aktualizuje místní kopie úložiště - tj. obsahy podadresáře .svn - takže bude aktuální a odpovídat poslední verzi úložiště.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162242Z" creationid="Josef" creationdate="20150929T202524Z">
+        <seg>V první řadě bude zapsán obsah serverového úložiště a pak se aktualizuje místní kopie úložiště - tj. obsahy podadresáře .svn - takže bude aktuální a odpovídat poslední verzi úložiště.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46096,8 +46096,8 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130429T172110Z">
-        <seg>Otevře se okno odevzdání a ukáže stav provádění příkazu odevzdání.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162230Z">
+        <seg>Otevře se okno odevzdání a ukáže stav provádění příkazu zápisu.</seg>
       </tuv>
     </tu>
     <tu>
