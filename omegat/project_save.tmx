@@ -5577,6 +5577,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062027Z" creationid="Josef" creationdate="20191005T062027Z">
+        <seg>&lt;g0&gt;Problémy s LanguageTools&lt;/g0&gt; (volitelně).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T183152Z" creationid="Josef" creationdate="20191003T183152Z">
@@ -13828,6 +13836,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180307T191441Z" creationid="Josef" creationdate="20180307T191426Z">
         <seg>Zkontrolovat problémy v a&amp;ktuálním dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062307Z" creationid="Josef" creationdate="20191005T062307Z">
+        <seg>Zkontrolovat problémy v aktuálním dokumentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -48958,6 +48974,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062109Z" creationid="Josef" creationdate="20191005T062109Z">
+        <seg>Okno s výsledky je zobrazeno formou tabulky ve které:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T181704Z">
@@ -60709,6 +60733,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062154Z" creationid="Josef" creationdate="20191005T062154Z">
+        <seg>kliknutí na hlavičku sloupce změní pořadí zobrazení pro daný sloupec,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T185416Z">
@@ -61089,6 +61121,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T122653Z">
         <seg>zdvojený výskyt slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062127Z" creationid="Josef" creationdate="20191005T062127Z">
+        <seg>dvojté kliknutí na řádek aktivuje odpovídající segment v okně Editoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65843,6 +65883,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121002T185441Z">
         <seg>označte zálohovou překladovou paměť, u které je nejpravděpodobnější, že obsahuje vámi hledaná data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062302Z" creationid="Josef" creationdate="20191005T062302Z">
+        <seg>výběr nebo pohyb myší přes řádek zobrazí ikonu vyskakovací nabídky v posledním sloupci obsahující akci pro opravu nebo ignorování dané chyby.</seg>
       </tuv>
     </tu>
     <tu>
