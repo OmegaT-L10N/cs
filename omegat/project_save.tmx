@@ -9901,6 +9901,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061532Z" creationid="Josef" creationdate="20191005T061532Z">
+        <seg>Přidání nových zdrojových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional Terms.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164458Z" creationid="Josef" creationdate="20180317T164458Z">
@@ -10465,6 +10473,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20191003T184219Z" creationid="Josef" creationdate="20191003T184219Z">
         <seg>Všechny ostatní soubory slouží jen ke čtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061522Z" creationid="Josef" creationdate="20191005T061522Z">
+        <seg>Všechny ostatní soubory budou nahrazeny soubory ze vzdáleného repozitáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17148,6 +17164,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061647Z" creationid="Josef" creationdate="20191005T061647Z">
+        <seg>Smazání zdrojových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T063348Z" creationid="Josef" creationdate="20180310T063348Z">
@@ -20027,6 +20051,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061642Z" creationid="Josef" creationdate="20191005T061642Z">
+        <seg>Stávající zdrojové soubory lze upravovat, ale operace zápisu se musí provést před automatickým uložením a před tím, než je projekt znovu načten nebo uzavřen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130423T040741Z">
@@ -20631,6 +20663,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180318T145526Z" creationid="Josef" creationdate="20180318T145526Z">
         <seg>Soubory ze staršího formátu MS Wordu, Excelu a PowerPointu lze překládat až po konverzi na ekvivalentní aktuální formáty Microsoft Office, nebo podobně na formát Office Open XML, což lze provést pomocí OpenOffice.org nebo LibreOffice (tento formát je také svobodný).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061704Z" creationid="Josef" creationdate="20191005T061704Z">
+        <seg>Soubory musí nejdřív smazat projektový manager a pak se mažou lokálně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44463,6 +44503,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061422Z" creationid="Josef" creationdate="20191005T061422Z">
+        <seg>Synchronizované soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T081003Z">
@@ -52377,6 +52425,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061539Z" creationid="Josef" creationdate="20191005T061539Z">
+        <seg>Jak přidat nový zdrojový soubor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130506T151346Z">
@@ -56948,6 +57004,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120927T175139Z">
         <seg>Když se rozhodnete používat filtr znovu, stačí příslušné políčko opět zaškrtnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061459Z" creationid="Josef" creationdate="20191005T061459Z">
+        <seg>Kdykoliv je projekt automaticky uložen, ale také při jeho otevření, zavření a znovu načtení, se ve skutečnosti synchronizují jen dva soubory:</seg>
       </tuv>
     </tu>
     <tu>
