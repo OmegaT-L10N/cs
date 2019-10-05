@@ -12151,6 +12151,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061320Z" creationid="Josef" creationdate="20191005T061320Z">
+        <seg>Automatické ukládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180606T165550Z" creationid="Josef" creationdate="20180606T165550Z">
@@ -19795,6 +19803,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121020T161010Z">
         <seg>Událost: změna projektu – „{0}“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061417Z" creationid="Josef" creationdate="20191005T061417Z">
+        <seg>Každé 3 minuty (ve výchozím nastavení), je místní projekt synchronizován se vzdáleným repozitářem, takže projektový manager a jiní překladatelé mohou vidět a použít překlady vložené během tohoto času.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35564,6 +35580,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130523T182904Z">
         <seg>Jakmile je operace dokončena, můžete zkontrolovat popsaný adresář: měl by nyní obsahovat podadresář .svn a mělo by být zobrazena zelená ikona s nápisem OK, to znamená, že obsah adresáře je aktuální:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061314Z" creationid="Josef" creationdate="20191005T061314Z">
+        <seg>Jakmile se podaří otevřít týmový projekt, pak samotný překlad se uskutečňuje stejným způsobem jako u běžného netýmového projektu, kromě následujících bodů.</seg>
       </tuv>
     </tu>
     <tu>
