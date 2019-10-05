@@ -2912,9 +2912,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T185603Z" creationid="Josef" creationdate="20180307T185603Z">
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064124Z" creationid="Josef" creationdate="20180307T185603Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Zadává jiný než výchozí modus (grafické uživatelské prostředí)</seg>
+		Zadává jiný než výchozí modus (grafické uživatelské prostředí).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5403,8 +5403,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T113653Z" creationid="Josef" creationdate="20190928T113653Z">
-        <seg>&lt;e0&gt;Ano: &lt;/e0&gt;stáhněte si &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064324Z" creationid="Josef" creationdate="20190928T113653Z">
+        <seg>&lt;e0&gt;Ano: &lt;/e0&gt;stáhněte si &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,8 +8803,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T112423Z" creationid="Josef" creationdate="20190928T112423Z">
-        <seg>&lt;u0&gt;Sbírka terminologických slovníčků Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; nabízí ke stažení terminologii v téměř stech jazycích a slouží jako základ IT glosáře.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064301Z" creationid="Josef" creationdate="20190928T112423Z">
+        <seg>&lt;u0&gt;Sbírka terminologických slovníčků Microsoft Terminology Collection&lt;/u0&gt; nabízí ke stažení terminologii v téměř stech jazycích a slouží jako základ IT glosáře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18330,16 +18330,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180310T061959Z" creationid="Josef" creationdate="20180310T061959Z">
-        <seg>Neptát se co kontrolovat první</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064029Z" creationid="Josef" creationdate="20180310T061959Z">
+        <seg>Neptat se co kontrolovat první</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180310T062321Z" creationid="Josef" creationdate="20180310T062321Z">
-        <seg>Neptát se před kontrolou problémů</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064037Z" creationid="Josef" creationdate="20180310T062321Z">
+        <seg>Neptat se před kontrolou problémů</seg>
       </tuv>
     </tu>
     <tu>
@@ -26898,8 +26898,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T175312Z" creationid="Josef" creationdate="20191003T175312Z">
-        <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Projekt&lt;/g2&gt; &lt;g3&gt;Vlastnosti...&lt;/g3&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064315Z" creationid="Josef" creationdate="20191003T175312Z">
+        <seg>Pro výběr typu segmentace, vyberte z hlavní nabídky &lt;m1&gt; &lt;g2&gt;Projekt&lt;/g2&gt; &lt;g3&gt;Vlastnosti...&lt;/g3&gt; &lt;/m1&gt; a zaškrtněte, nebo zrušte zaškrtnutí nabízeného zaškrtávacího políčka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41287,8 +41287,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T112224Z" creationid="Josef" creationdate="20190928T112224Z">
-        <seg>Vyhledejte si požadovanou jazykovou kombinaci – například na zmíněné stránce &lt;u0&gt;&lt;i1/&gt;odkazy na slovníky zveřejněné na stránce OmegaT Wiki&lt;/u0&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064241Z" creationid="Josef" creationdate="20190928T112224Z">
+        <seg>Vyhledejte si požadovanou jazykovou kombinaci – například na zmíněné stránce &lt;u0&gt;odkazy na slovníky zveřejněné na stránce OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54086,8 +54086,9 @@ install.sh.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T170224Z" creationid="Josef" creationdate="20180309T170224Z">
-        <seg>Přeložená cesta k souboru nesmí být stejná jako je výchozí cesta:</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064228Z" creationid="Josef" creationdate="20180309T170224Z">
+        <seg>Přeložená cesta k souboru nesmí být stejná jako je výchozí cesta:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -59364,8 +59365,8 @@ or can get the source code.</seg>
       <tuv lang="EN">
         <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T165057Z" creationid="Josef" creationdate="20191003T165057Z">
-        <seg>Pak musíte použít &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; podruhé, aby se vložil návrh.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064310Z" creationid="Josef" creationdate="20191003T165057Z">
+        <seg>Pak musíte použít &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;podruhé, aby se vložil návrh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67818,8 +67819,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0}_{1}_{2}</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T191525Z" creationid="Josef" creationdate="20180309T191525Z">
-        <seg>O aplikaci OmegaT</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064101Z" creationid="Josef" creationdate="20180309T191525Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
