@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15018,16 +15018,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191038Z" creationid="Josef" creationdate="20180307T191038Z">
-        <seg>Potvrdit zdrojové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T161937Z" creationid="Josef" creationdate="20180307T191038Z">
+        <seg>Zapsat zdrojové soubory</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191043Z" creationid="Josef" creationdate="20180307T191043Z">
-        <seg>Potvrdit cílové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T161941Z" creationid="Josef" creationdate="20180307T191043Z">
+        <seg>Zapsat cílové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -15042,16 +15042,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191957Z" creationid="Josef" creationdate="20180307T191957Z">
-        <seg>Potvrdit zdrojové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162015Z" creationid="Josef" creationdate="20180307T191957Z">
+        <seg>Zapisování zdrojových souborů</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T192017Z" creationid="Josef" creationdate="20180307T192017Z">
-        <seg>Potvrzuji cílové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162031Z" creationid="Josef" creationdate="20180307T192017Z">
+        <seg>Zapisování cílových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -20429,16 +20429,16 @@ Vlákna babího léta brání postupu
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191949Z" creationid="Josef" creationdate="20180307T191949Z">
-        <seg>Potvrzení zdrojových souborů se nezdařilo!</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T161958Z" creationid="Josef" creationdate="20180307T191949Z">
+        <seg>Zápis zdrojových souborů se nezdařil!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T191955Z" creationid="Josef" creationdate="20180307T191955Z">
-        <seg>Potvrzení cílových souborů se nezdařilo!</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162003Z" creationid="Josef" creationdate="20180307T191955Z">
+        <seg>Zápis cílových souborů se nezdařilo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43699,8 +43699,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T192010Z" creationid="Josef" creationdate="20180307T192010Z">
-        <seg>Zdrojové soubory potvrzeny</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162019Z" creationid="Josef" creationdate="20180307T192010Z">
+        <seg>Zdrojové soubory zapsány</seg>
       </tuv>
     </tu>
     <tu>
@@ -45277,8 +45277,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180307T192027Z" creationid="Josef" creationdate="20180307T192027Z">
-        <seg>Cílové soubory potvrzeny</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T162034Z" creationid="Josef" creationdate="20180307T192027Z">
+        <seg>Cílové soubory zapsány</seg>
       </tuv>
     </tu>
     <tu>
