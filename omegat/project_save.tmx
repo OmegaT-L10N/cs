@@ -14906,16 +14906,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T183848Z" creationid="Josef" creationdate="20180307T191038Z">
-        <seg>Zapsat zdrojové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T191038Z" creationid="Josef" creationdate="20180307T191038Z">
+        <seg>Potvrdit zdrojové soubory</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T183853Z" creationid="Josef" creationdate="20180307T191043Z">
-        <seg>Zapsat cílové soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T191043Z" creationid="Josef" creationdate="20180307T191043Z">
+        <seg>Potvrdit cílové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -19095,8 +19095,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191420Z" creationid="Josef" creationdate="20180307T193339Z">
-        <seg>Prázdné URL úložiště při zápisu</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T193339Z" creationid="Josef" creationdate="20180307T193339Z">
+        <seg>V mapování se nachází prázdné URL úložiště</seg>
       </tuv>
     </tu>
     <tu>
@@ -20269,8 +20269,8 @@ Vlákna babího léta brání postupu
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T183906Z" creationid="Josef" creationdate="20180307T191949Z">
-        <seg>Zápis zdrojových souborů se nezdařil!</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T191949Z" creationid="Josef" creationdate="20180307T191949Z">
+        <seg>Potvrzení zdrojových souborů se nezdařilo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20979,8 +20979,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20121002T180855Z">
-        <seg>Podrobnější úvodní poznámky najdete na webu OmegaT &lt;u0&gt;OmegaT pro začátečníky&lt;/u0&gt; </seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060325Z">
+        <seg>Podrobnější úvodní poznámky najdete na webu OmegaT &lt;u0&gt;OmegaT pro začátečníky&lt;/u0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -31133,8 +31133,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191341Z" creationid="Josef" creationdate="20180307T192643Z">
-        <seg>Zapsání místních adresářů na vzdálené adresáře v úložištích</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T193411Z" creationid="Josef" creationdate="20180307T192643Z">
+        <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
       </tuv>
     </tu>
     <tu>
@@ -38693,6 +38693,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T060441Z" creationid="Josef" creationdate="20191005T060441Z">
+        <seg>Přístroj pro zajištění kvality, který provádí všechny automatické kontroly v jednom kroku a zobrazí výsledky v okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102746Z" creationid="Josef" creationdate="20180317T102746Z">
@@ -39827,16 +39835,16 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191326Z" creationid="Josef" creationdate="20180307T192553Z">
-        <seg>Zapsání úložiště...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T193029Z" creationid="Josef" creationdate="20180307T192553Z">
+        <seg>Mapování úložiště...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T191318Z" creationid="Josef" creationdate="20180307T192500Z">
-        <seg>Zapsání úložiště...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20180307T193018Z" creationid="Josef" creationdate="20180307T192500Z">
+        <seg>Mapování úložiště...</seg>
       </tuv>
     </tu>
     <tu>
