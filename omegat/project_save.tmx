@@ -7147,8 +7147,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Miscellanea&lt;/p0&gt; &lt;s1&gt;Automatic aligner for Java properties&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130429T182017Z">
-        <seg>&lt;p0&gt;Různé&lt;/p0&gt; &lt;s1&gt;Automatický aligner pro vlastnosti Java&lt;/s1&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063017Z">
+        <seg>&lt;p0&gt;Různé&lt;/p0&gt; &lt;s1&gt;Automatický párovací nástroj pro vlastnosti Java&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10207,16 +10207,16 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T185909Z" creationid="Josef" creationdate="20190928T185909Z">
-        <seg>Po několika takovýchto krocích vyberte &lt;m0&gt;&lt;g1&gt;Upravit&lt;/g1&gt; &lt;g2&gt;Zarovnat rozpracované&lt;/g2&gt; &lt;/m0&gt;a tím zaktualizujete zarovnání ostatních segmentů.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063226Z" creationid="Josef" creationdate="20190928T185909Z">
+        <seg>Po několika takovýchto krocích vyberte &lt;m0&gt;&lt;g1&gt;Upravit&lt;/g1&gt; &lt;g2&gt;Spárovat rozpracované&lt;/g2&gt; &lt;/m0&gt;a tím zaktualizujete spárování ostatních segmentů.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T185000Z" creationid="Josef" creationdate="20190928T185000Z">
-        <seg>Po skončení automatického zpracování se zpravidla pro zarovnní dvou souborů obecně vyžadují ruční opravy.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063200Z" creationid="Josef" creationdate="20190928T185000Z">
+        <seg>Po skončení automatického zpracování se zpravidla pro párování dvou souborů obecně vyžadují ruční opravy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10367,8 +10367,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Align Files...</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191005T062359Z" creationid="Josef" creationdate="20191005T062359Z">
-        <seg>Zarovnat soubory...</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062955Z" creationid="Josef" creationdate="20191005T062359Z">
+        <seg>Spárovat soubory...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10383,8 +10383,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aligner</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183132Z" creationid="Josef" creationdate="20190928T183132Z">
-        <seg>Aligner</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063101Z" creationid="Josef" creationdate="20190928T183132Z">
+        <seg>Párovací nástroj</seg>
       </tuv>
     </tu>
     <tu>
@@ -10423,8 +10423,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183211Z" creationid="Josef" creationdate="20190928T183211Z">
-        <seg>Alignment / Zarovnávání zahrnuje vytvoření dvoujazyčné překladatelské paměti z jednojazyčných dokumentů, který již byly přeloženy.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063107Z" creationid="Josef" creationdate="20190928T183211Z">
+        <seg>Alignment / Párování zahrnuje vytvoření dvoujazyčné překladatelské paměti z jednojazyčných dokumentů, který již byly přeloženy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24730,8 +24730,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183353Z" creationid="Josef" creationdate="20190928T183353Z">
-        <seg>Pokud se při zarovnání textů vyskytne situace, kdy se nabízí vylepšení, zkuste změnit parametry.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063135Z" creationid="Josef" creationdate="20190928T183353Z">
+        <seg>Pokud se při párování textů vyskytne situace, kdy se nabízí vylepšení, zkuste změnit parametry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26738,8 +26738,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183443Z" creationid="Josef" creationdate="20190928T183443Z">
-        <seg>Ve většině případů je to tak, že čím je &lt;g0&gt;Průměrná hodnota&lt;/g0&gt; nižší, tak o to bude lepší zarovnání.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063143Z" creationid="Josef" creationdate="20190928T183443Z">
+        <seg>Ve většině případů je to tak, že čím je &lt;g0&gt;Průměrná hodnota&lt;/g0&gt; nižší, tak o to bude lepší párování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27440,8 +27440,8 @@ sue for patent infringement).</seg>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T135017Z" creationid="Josef" creationdate="20190928T135017Z">
-        <seg>V tomto režimu, vezme OmegaT soubory Java properties, které nalezne v adresáři &lt;f0&gt;/source/&lt;/f0&gt; a alignuje je s obsahy nalezenými na zadaném umístění.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062936Z" creationid="Josef" creationdate="20190928T135017Z">
+        <seg>V tomto režimu, vezme OmegaT soubory Java properties, které nalezne v adresáři &lt;f0&gt;/source/&lt;/f0&gt; a páruje je s obsahy nalezenými na zadaném umístění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34512,8 +34512,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT can align Java .properties in console mode.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20121002T183948Z">
-        <seg>OmegaT umí v režimu příkazového řádku zarovnat / alignovat Java .properties.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063038Z">
+        <seg>OmegaT umí v režimu příkazového řádku párovat Java .properties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38009,8 +38009,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T185139Z" creationid="Josef" creationdate="20190928T185139Z">
-        <seg>Stiskněte mezerník (zkratka pro &lt;m0&gt; &lt;g1&gt;Editovat&lt;/g1&gt; &lt;g2&gt;Začátek detailního zarovnání&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063211Z" creationid="Josef" creationdate="20190928T185139Z">
+        <seg>Stiskněte mezerník (zkratka pro &lt;m0&gt; &lt;g1&gt;Editovat&lt;/g1&gt; &lt;g2&gt;Začátek detailního párování&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44139,8 +44139,8 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183309Z" creationid="Josef" creationdate="20190928T183309Z">
-        <seg>Krok 1: Přizpůsobit parametry zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063126Z" creationid="Josef" creationdate="20190928T183309Z">
+        <seg>Krok 1: Přizpůsobit parametry párování</seg>
       </tuv>
     </tu>
     <tu>
@@ -44429,8 +44429,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20120929T052436Z">
-        <seg>Takové soubory neobsahují žádné informace k formátování „neviditelných znaků“, kterých se využívá k zarovnání textu, identifikaci odstavců nebo vkládání konce stránek.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062926Z">
+        <seg>Takové soubory neobsahují žádné informace k formátování „neviditelných znaků“, kterých se využívá k párování textu, identifikaci odstavců nebo vkládání konce stránek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52539,8 +52539,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T183256Z" creationid="Josef" creationdate="20190928T183256Z">
-        <seg>Okno otevřete následovně, vyberte &lt;m0&gt; &lt;g1&gt;Nástroje&lt;/g1&gt; &lt;g2&gt;Zarovnat soubory...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063121Z" creationid="Josef" creationdate="20190928T183256Z">
+        <seg>Okno otevřete následovně, vyberte &lt;m0&gt; &lt;g1&gt;Nástroje&lt;/g1&gt; &lt;g2&gt;Párovat soubory...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52603,8 +52603,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To align two segments on the same line:</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T185036Z" creationid="Josef" creationdate="20190928T185036Z">
-        <seg>Jak zarovnat dva segmenty na stejný řádek:</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063205Z" creationid="Josef" creationdate="20190928T185036Z">
+        <seg>Jak párovat dva segmenty na stejný řádek:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55284,8 +55284,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T184209Z" creationid="Josef" creationdate="20190928T184152Z">
-        <seg>V režimu &lt;g0&gt;Porovnání ID&lt;/g0&gt; se zarovnávají texty typu Klíč=Hodnota (Key=Value).</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063151Z" creationid="Josef" creationdate="20190928T184152Z">
+        <seg>V režimu &lt;g0&gt;Porovnání ID&lt;/g0&gt; se párují texty typu Klíč=Hodnota (Key=Value).</seg>
       </tuv>
     </tu>
     <tu>
