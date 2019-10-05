@@ -18,16 +18,16 @@ License by making exceptions from one or more of its conditions.</seg>
       <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20101116T060423Z">
-        <seg>„Aligner“ zarovnávací nástroj</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063249Z">
+        <seg>„Aligner“ párovací nástroj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20101116T060436Z">
-        <seg>„Bligner“ zarovnávací nástroj</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063305Z">
+        <seg>„Bligner“ párovací nástroj</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,8 +11225,8 @@ Soubor TMX nebude načten.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130501T142941Z">
-        <seg>Inteligentní nástroj příkazového řádku pro zarovnávání (alignování) určený k vytváření překladových pamětí ze zdrojových textů a jejich překladů.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063336Z">
+        <seg>Inteligentní nástroj příkazového řádku pro párování (alignování) určený k vytváření překladových pamětí ze zdrojových textů a jejich překladů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22364,8 +22364,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="CS" changeid="josefmlnr" changedate="20130501T142733Z">
-        <seg>Zarovnávací (alignovací) nástroj třetí strany pro vytváření souborů překladových pamětí ze starších textů a jejich překladů</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063320Z">
+        <seg>Párovací (alignovací) nástroj třetí strany pro vytváření souborů překladových pamětí ze starších textů a jejich překladů</seg>
       </tuv>
     </tu>
     <tu>
@@ -29665,8 +29665,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LF Aligner</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180325T111239Z" creationid="Josef" creationdate="20180325T111239Z">
-        <seg>LF Aligner</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063330Z" creationid="Josef" creationdate="20180325T111239Z">
+        <seg>LF Aligner / Párovací nástroj</seg>
       </tuv>
     </tu>
     <tu>
@@ -56872,8 +56872,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T190222Z" creationid="Josef" creationdate="20190928T190222Z">
-        <seg>Jakmile jsou oba sloupce dostatečně zarovnány, klikněte na &lt;g0&gt;Uložit TMX...&lt;/g0&gt; a vytvoříte tak hotovu překladovou paměť.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063237Z" creationid="Josef" creationdate="20190928T190222Z">
+        <seg>Jakmile jsou oba sloupce dostatečně spárovány, klikněte na &lt;g0&gt;Uložit TMX...&lt;/g0&gt; a vytvoříte tak hotovu překladovou paměť.</seg>
       </tuv>
     </tu>
     <tu>
