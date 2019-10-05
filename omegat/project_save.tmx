@@ -4273,8 +4273,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20151007T172800Z">
-        <seg>&lt;b0&gt;Formátování &lt;b1&gt;jedna&lt;/b0&gt; &lt;/b1&gt; je teď zcela špatně.&lt;segment 0001&gt;</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064839Z">
+        <seg>&lt;b0&gt;Formátování &lt;b1&gt;jedna&lt;/b0&gt; &lt;/b1&gt;je teď zcela špatně.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18973,8 +18973,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T191214Z" creationid="Josef" creationdate="20180308T191214Z">
-        <seg>Upravit &gt; Vložit zdroj (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt;): vloží zdrojový text aktuálního segmentu.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064744Z" creationid="Josef" creationdate="20180308T191214Z">
+        <seg>Upravit &gt; Vložit zdroj (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): vloží zdrojový text aktuálního segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20589,8 +20589,8 @@ Vlákna babího léta brání postupu
       <tuv lang="EN">
         <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180308T190937Z" creationid="Josef" creationdate="20180308T190937Z">
-        <seg>Soubor &gt; Hledat výběr (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;): zaměří se na vyhledávací políčko a vybere veškerý obsah.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064736Z" creationid="Josef" creationdate="20180308T190937Z">
+        <seg>Soubor &gt; Hledat výběr (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): zaměří se na vyhledávací políčko a vybere veškerý obsah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25995,8 +25995,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191003T165034Z" creationid="Josef" creationdate="20191003T165034Z">
-        <seg>Při zrušení zatržení této možnosti, se bude strojový překlad chovat tak, že při stistku &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;(&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k1&gt; &lt;k5&gt;M&lt;/k2&gt; &lt;/k3&gt; v OS X) bude přeložen pouze aktuální segment.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064821Z" creationid="Josef" creationdate="20191003T165034Z">
+        <seg>Při zrušení zatržení této možnosti, se bude strojový překlad chovat tak, že při stistku &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;(&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; v OS X) bude přeložen pouze aktuální segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42335,8 +42335,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20191005T062607Z" creationid="Josef" creationdate="20191005T062607Z">
-        <seg>Vyberte ty dva soubory, které chcete alignovat / zarovnat (zdrojový soubor a jeho překlad) a klikněte na OK, tím se otevře okno</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064715Z" creationid="Josef" creationdate="20191005T062607Z">
+        <seg>Vyberte ty dva soubory, které chcete alignovat / zarovnat (zdrojový soubor a jeho překlad) a klikněte na OK, tím se otevře okno &lt;l0&gt;&lt;g1&gt;Párování&lt;/g1&gt; &lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42895,8 +42895,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T142708Z" creationid="Josef" creationdate="20190928T142708Z">
-        <seg>Pokud ztratíte přehled o změnách zobrazení podoken v uživatelském prostředí, můžete použít možnost &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Možnosti → Obnovit hlavní okno&lt;/g0&gt; a kdykoliv tak vrátit původní rozestavění.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064728Z" creationid="Josef" creationdate="20190928T142708Z">
+        <seg>Pokud ztratíte přehled o změnách zobrazení podoken v uživatelském prostředí, můžete použít možnost &lt;g0&gt;Možnosti → Obnovit hlavní okno&lt;/g0&gt; a kdykoliv tak vrátit původní rozestavění.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55349,8 +55349,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20190928T190530Z" creationid="Josef" creationdate="20190928T190530Z">
-        <seg>Dialogové okno otevřete stiskem &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; a přes klávesu &lt;k1&gt;Esc&lt;/k1&gt; jej zavřete.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T064804Z" creationid="Josef" creationdate="20190928T190530Z">
+        <seg>Dialogové okno otevřete stiskem &lt;g0&gt;Ctrl+L&lt;/g0&gt; a přes klávesu &lt;k1&gt;Esc&lt;/k1&gt; jej zavřete.</seg>
       </tuv>
     </tu>
     <tu>
