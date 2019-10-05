@@ -30089,6 +30089,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063720Z" creationid="Josef" creationdate="20191005T063720Z">
+        <seg>Spouští skripty, které byly asociovány s číslem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -36332,6 +36340,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T142410Z" creationid="Josef" creationdate="20190928T142410Z">
         <seg>Otevře projektový balíček ve formátu MED, který je definován směrnicemi EU Directorate-General for Translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063701Z" creationid="Josef" creationdate="20191005T063701Z">
+        <seg>Otevře dialogové okno &lt;l0&gt;&lt;g1&gt;Skriptování&lt;/g1&gt; &lt;/l0&gt;, kde lze nastavit umístění skriptů a kde můžete skripty zapisovat, spouštět a přiřazovat jim zkratky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49326,6 +49342,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063611Z" creationid="Josef" creationdate="20191005T063611Z">
+        <seg>Soubory zdroje a překladu mohou mít různé formáty (například soubor &lt;f0&gt;.docx&lt;/f0&gt; lze párovat se souborem &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120922T054049Z">
@@ -49458,6 +49482,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121004T101235Z">
         <seg>Stavová lišta zobrazuje zprávy vztahující se k běhu práce ve spodní části hlavního okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063528Z" creationid="Josef" creationdate="20191005T063528Z">
+        <seg>Podporované formáty souborů jsou uvedeny v &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Vlastnosti&lt;/g2&gt; &lt;g3&gt;Filtry souborů&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64299,6 +64331,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T102220Z" creationid="Josef" creationdate="20180317T102220Z">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T063706Z" creationid="Josef" creationdate="20191005T063706Z">
+        <seg>n - (název skriptu)</seg>
       </tuv>
     </tu>
     <tu>
