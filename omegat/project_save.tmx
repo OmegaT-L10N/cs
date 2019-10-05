@@ -10351,16 +10351,16 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190919Z" creationid="Josef" creationdate="20180309T190919Z">
-        <seg>Zarovnat</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062839Z" creationid="Josef" creationdate="20180309T190919Z">
+        <seg>Spárovat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190437Z" creationid="Josef" creationdate="20180309T190437Z">
-        <seg>Zarovnat soubory</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062800Z" creationid="Josef" creationdate="20180309T190437Z">
+        <seg>Spárovat soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -10375,8 +10375,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="CS" changeid="josef" changedate="20120922T080056Z">
-        <seg>Alignovat projekt s {0}</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062658Z">
+        <seg>Spárovat projekt s {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,16 +10391,16 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T185811Z" creationid="Josef" creationdate="20180309T185811Z">
-        <seg>Skupina "Akceptováno" pro zarovnávací nástroj Aligner</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062708Z" creationid="Josef" creationdate="20180309T185811Z">
+        <seg>Skupina "Akceptováno" pro párovací nástroj Aligner</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190642Z" creationid="Josef" creationdate="20180309T185833Z">
-        <seg>Skupina "Potřebuje kontrolu" pro zarovnávací nástroj Aligner</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062730Z" creationid="Josef" creationdate="20180309T185833Z">
+        <seg>Skupina "Potřebuje kontrolu" pro párovací nástroj Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -10415,8 +10415,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T185906Z" creationid="Josef" creationdate="20180309T185906Z">
-        <seg>Zvýraznění řádku tabulky pro zarovnávací nástroj Aligner</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062751Z" creationid="Josef" creationdate="20180309T185906Z">
+        <seg>Zvýraznění řádku tabulky pro párovací nástroj Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -13410,8 +13410,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190905Z" creationid="Josef" creationdate="20180309T190905Z">
-        <seg>Zrušit detailní zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062824Z" creationid="Josef" creationdate="20180309T190905Z">
+        <seg>Zrušit detailní párování</seg>
       </tuv>
     </tu>
     <tu>
@@ -19343,8 +19343,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190901Z" creationid="Josef" creationdate="20180309T190901Z">
-        <seg>Konec detailního zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062820Z" creationid="Josef" creationdate="20180309T190901Z">
+        <seg>Konec detailního párování</seg>
       </tuv>
     </tu>
     <tu>
@@ -37309,8 +37309,8 @@ puls se zběsile zrychluje</seg>
       <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T191032Z" creationid="Josef" creationdate="20180309T191032Z">
-        <seg>Detailní zarovnání: Vybrat odpovídající buňku</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062852Z" creationid="Josef" creationdate="20180309T191032Z">
+        <seg>Detailní párování: Vybrat odpovídající buňku</seg>
       </tuv>
     </tu>
     <tu>
@@ -39089,8 +39089,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190736Z" creationid="Josef" creationdate="20180309T190736Z">
-        <seg>Znovu seřadit nezařazené</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062808Z" creationid="Josef" creationdate="20180309T190736Z">
+        <seg>Znovu spárovat nezařazené</seg>
       </tuv>
     </tu>
     <tu>
@@ -40781,8 +40781,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180310T061245Z" creationid="Josef" creationdate="20180310T061245Z">
-        <seg>Uložit výsledky zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062857Z" creationid="Josef" creationdate="20180310T061245Z">
+        <seg>Uložit výsledky párování</seg>
       </tuv>
     </tu>
     <tu>
@@ -43327,8 +43327,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180310T061453Z" creationid="Josef" creationdate="20180310T061453Z">
-        <seg>Některé zarovníní stále potřebují zkontrolovat.</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062915Z" creationid="Josef" creationdate="20180310T061453Z">
+        <seg>Některá párování stále potřebují zkontrolovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44021,8 +44021,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T190856Z" creationid="Josef" creationdate="20180309T190844Z">
-        <seg>Začátek detailního zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062816Z" creationid="Josef" creationdate="20180309T190844Z">
+        <seg>Začátek detailního párování</seg>
       </tuv>
     </tu>
     <tu>
@@ -44131,8 +44131,8 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="CS" changeid="Josef" changedate="20180309T191014Z" creationid="Josef" creationdate="20180309T191014Z">
-        <seg>Krok 1: Přizpůsobit parametry zarovnání</seg>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062846Z" creationid="Josef" creationdate="20180309T191014Z">
+        <seg>Krok 1: Přizpůsobit parametry párování</seg>
       </tuv>
     </tu>
     <tu>
