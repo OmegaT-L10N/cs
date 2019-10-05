@@ -5585,6 +5585,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061944Z" creationid="Josef" creationdate="20191005T061944Z">
+        <seg>&lt;g0&gt;Problémy s pravopisem&lt;/g0&gt; (volitelně).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T062012Z" creationid="Josef" creationdate="20191005T062012Z">
+        <seg>&lt;g0&gt;Problémy s terminologií&lt;/g0&gt; (volitelně).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180310T061950Z" creationid="Josef" creationdate="20180310T061804Z">
@@ -9335,6 +9351,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061748Z" creationid="Josef" creationdate="20191005T061748Z">
+        <seg>Týmový projekt lze otevřít a překládat offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120928T180712Z">
@@ -10527,6 +10551,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20121003T190814Z">
         <seg>Všechny sady pravidel segmentace pro odpovídající vzor jazyka jsou použité v daném pořadí priority, takže pravidla pro konkrétní jazyk by měla být vyšší než ta z výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061814Z" creationid="Josef" creationdate="20191005T061814Z">
+        <seg>Všechny změny budou synchronizovány při dalším připojení se k projektu online.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13620,6 +13652,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="CS" changeid="josefmlnr" changedate="20130511T044835Z">
         <seg>Změny v tomto segmentu neovlivní obsah jiných identických segmentů, ani jej neovlivní změny ve „výchozím překladu“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061714Z" creationid="Josef" creationdate="20191005T061714Z">
+        <seg>Změnit pravidla segmentace a filtry souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -17668,6 +17708,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T164610Z" creationid="Josef" creationdate="20180317T164610Z">
         <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061831Z" creationid="Josef" creationdate="20191005T061831Z">
+        <seg>Odpojte se od sítě před otevřením projektu,</seg>
       </tuv>
     </tu>
     <tu>
@@ -35864,6 +35912,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061959Z" creationid="Josef" creationdate="20191005T061959Z">
+        <seg>Funguje jen tehdy, když je instalován slovník pro kontrolu pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T172756Z">
@@ -38517,6 +38573,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CS" changeid="josef" changedate="20120924T181446Z">
         <seg>Nabídka ‚Projekt‛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061729Z" creationid="Josef" creationdate="20191005T061729Z">
+        <seg>Parametry projektu mění pouze projektový manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -45842,6 +45906,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20190928T184821Z" creationid="Josef" creationdate="20190928T184420Z">
         <seg>Algoritmy &lt;g0&gt;Viterbiho&lt;/g0&gt; a &lt;g1&gt;Forward-Backward&lt;/g1&gt; představují dvě odlišné metody výpočtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061930Z" creationid="Josef" creationdate="20191005T061930Z">
+        <seg>Možnost &lt;g1&gt;Problémy s tagy&lt;/g1&gt; je vybrána vždy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53459,6 +53531,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061822Z" creationid="Josef" creationdate="20191005T061822Z">
+        <seg>Jak pracovat offline:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180309T190808Z" creationid="Josef" creationdate="20180309T190808Z">
@@ -57594,6 +57674,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180325T105958Z" creationid="Josef" creationdate="20180325T105958Z">
         <seg>Pracuje s více než 30 souborovými formáty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061732Z" creationid="Josef" creationdate="20191005T061732Z">
+        <seg>Práce offline</seg>
       </tuv>
     </tu>
     <tu>
@@ -64739,6 +64827,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="CS" changeid="Josef" changedate="20180317T103709Z" creationid="Josef" creationdate="20180317T103709Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Josef" changedate="20191005T061856Z" creationid="Josef" creationdate="20191005T061856Z">
+        <seg>nebo otevřete projekt pomocí příkazového řádku za použití možnosti &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
