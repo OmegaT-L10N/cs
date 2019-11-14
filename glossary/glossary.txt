@@ -6,3 +6,4 @@ cutting-edge	nejvyspělejší
 versioning systems	systémy sloužící ke správě verzí projektu
 Align Files	Spárovat soubory	zarovna, alignovat
 Aligner	párovací nástroj
+versioning system	systém správy verzí
