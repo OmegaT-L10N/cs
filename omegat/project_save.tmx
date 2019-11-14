@@ -55461,8 +55461,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T183633Z" creationid="Josef" creationdate="20191003T183633Z">
-        <seg>Použijte klienta SVN nebo Git na přidání souborů pro překlad</seg>
+      <tuv lang="cs" changeid="Josef" changedate="20191114T160506Z" creationid="Josef" creationdate="20191003T183633Z">
+        <seg>Použijte klienta SVN nebo Git na přidání souborů k překladu.</seg>
       </tuv>
     </tu>
     <tu>
