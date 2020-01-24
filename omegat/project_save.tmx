@@ -41860,7 +41860,7 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
     </tu>
     <tu>
-      <note>{0,number,#} in translation should remain without as is</note>
+      <note>{0,number,#} in translation should remain as is</note>
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
