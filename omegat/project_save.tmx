@@ -12367,6 +12367,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160550Z" creationid="pavreh" creationdate="20240216T160550Z">
+        <seg>P&amp;rocházet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152133Z" creationid="Josef" creationdate="20180318T152133Z">
@@ -12923,10 +12931,26 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160535Z" creationid="pavreh" creationdate="20240216T160535Z">
+        <seg>Prochá&amp;zet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T053923Z">
         <seg>Procház&amp;et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160603Z" creationid="pavreh" creationdate="20240216T160603Z">
+        <seg>Procház&amp;et...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12949,8 +12973,8 @@ kup si další drink kámo.</seg>
       <tuv lang="en">
         <seg>Browse&amp;...</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240216T160310Z" creationid="pavreh" creationdate="20240216T160310Z">
-        <seg>Procháze&amp;t...</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160510Z" creationid="pavreh" creationdate="20240216T160310Z">
+        <seg>Procházet&amp;...</seg>
       </tuv>
     </tu>
     <tu>
