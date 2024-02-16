@@ -30683,6 +30683,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T155857Z" creationid="pavreh" creationdate="20240216T155857Z">
+        <seg>Místní filtry souborů...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192651Z" creationid="Josef" creationdate="20180307T192651Z">
