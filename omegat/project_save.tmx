@@ -55444,6 +55444,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T200233Z" creationid="pavreh" creationdate="20240216T200233Z">
+        <seg>Použít &amp;přibližné shody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191715Z" creationid="Josef" creationdate="20180307T191715Z">
