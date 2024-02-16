@@ -30699,6 +30699,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T153933Z" creationid="pavreh" creationdate="20240216T153933Z">
+        <seg>Místní pravidla segmentace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T171741Z" creationid="Josef" creationdate="20180309T171741Z">
