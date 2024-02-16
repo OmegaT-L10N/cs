@@ -606,6 +606,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T161054Z" creationid="pavreh" creationdate="20240216T161054Z">
+        <seg>Přid&amp;at soubory...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T182003Z">
@@ -54330,6 +54338,22 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T180327Z">
         <seg>Překladové paměti tedy mohou obsahovat referenční překlady: typickým příkladem je mezinárodní legislativa Evropského společenství. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160902Z" creationid="pavreh" creationdate="20240216T160902Z">
+        <seg>Překladové paměti pro export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160851Z" creationid="pavreh" creationdate="20240216T160851Z">
+        <seg>Překladové paměti pro export:</seg>
       </tuv>
     </tu>
     <tu>
