@@ -9805,6 +9805,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T161116Z" creationid="pavreh" creationdate="20240216T161116Z">
+        <seg>Přidat soubory...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170909Z" creationid="Josef" creationdate="20180309T170909Z">
@@ -34038,6 +34046,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T161410Z" creationid="pavreh" creationdate="20240216T161410Z">
+        <seg>Poznámkový blok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072104Z">
@@ -42218,6 +42234,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184100Z" creationid="Josef" creationdate="20180309T184100Z">
         <seg>Označit adresář skriptů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Source Text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T161212Z" creationid="pavreh" creationdate="20240216T161212Z">
+        <seg>Vybrat zdrojový text</seg>
       </tuv>
     </tu>
     <tu>
