@@ -67970,6 +67970,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T194108Z" creationid="pavreh" creationdate="20240216T194108Z">
+        <seg>{0} shod(y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072640Z">
