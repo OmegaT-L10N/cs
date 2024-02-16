@@ -27716,8 +27716,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T190826Z" creationid="Josef" creationdate="20180307T190826Z">
-        <seg>Zahájem  {0}-{1} týmový projekt.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T162302Z" creationid="Josef" creationdate="20180307T190826Z">
+        <seg>Zahájen  {0}-{1} týmový projekt.</seg>
       </tuv>
     </tu>
     <tu>
