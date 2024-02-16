@@ -35245,6 +35245,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T162531Z" creationid="pavreh" creationdate="20240216T162531Z">
+        <seg>OmegaT nemá dostatek dostupné paměti, po kliknutí na OK se zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T182021Z">
