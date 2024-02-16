@@ -998,6 +998,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T193444Z" creationid="pavreh" creationdate="20240216T193444Z">
+        <seg>&amp;Exportované TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T075026Z">
