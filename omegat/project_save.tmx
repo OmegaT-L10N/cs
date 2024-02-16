@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_cd437983a" segtype="sentence" srclang="en"/>
+  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30687,6 +30687,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192651Z" creationid="Josef" creationdate="20180307T192651Z">
         <seg>Místní soubor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavre" changedate="20240216T151628Z" creationid="pavre" creationdate="20240216T151628Z">
+        <seg>Místní pravidla segmentace</seg>
       </tuv>
     </tu>
     <tu>
