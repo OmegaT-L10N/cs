@@ -12915,6 +12915,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160330Z" creationid="pavreh" creationdate="20240216T160330Z">
+        <seg>Pro&amp;cházet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T053923Z">
@@ -12935,6 +12943,14 @@ kup si další drink kámo.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T173200Z" creationid="Josef" creationdate="20191003T173200Z">
         <seg>Procházet kolekce TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T160310Z" creationid="pavreh" creationdate="20240216T160310Z">
+        <seg>Procháze&amp;t...</seg>
       </tuv>
     </tu>
     <tu>
