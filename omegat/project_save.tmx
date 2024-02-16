@@ -12345,8 +12345,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Average Score: {0}</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190949Z" creationid="Josef" creationdate="20180309T190949Z">
-        <seg>Průvěrný stav: {0}</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T195232Z" creationid="Josef" creationdate="20180309T190949Z">
+        <seg>Průměrný stav: {0}</seg>
       </tuv>
     </tu>
     <tu>
