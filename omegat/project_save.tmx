@@ -31957,6 +31957,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240216T163359Z" creationid="pavreh" creationdate="20240216T163359Z">
+        <seg>Sloučit alternativní definice stejného termínu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121020T155714Z">
