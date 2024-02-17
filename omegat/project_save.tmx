@@ -15762,6 +15762,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T155641Z" creationid="pavreh" creationdate="20240217T155641Z">
+        <seg>Zkopírujte adresář na vhodné místo (např. &lt;c3&gt;Aplikace&lt;/c3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144620Z" creationid="Josef" creationdate="20180318T144620Z">
@@ -20051,6 +20059,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121020T161010Z">
         <seg>Událost: změna projektu – „{0}“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T155914Z" creationid="pavreh" creationdate="20240217T155914Z">
+        <seg>Nakonec přetáhněte &lt;c0&gt;OmegaT.app&lt;/c0&gt; na Dock, abyste k ní měli snadný přístup.</seg>
       </tuv>
     </tu>
     <tu>
