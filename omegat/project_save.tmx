@@ -19377,6 +19377,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230802Z" creationid="pavreh" creationdate="20240217T230802Z">
+        <seg>E&amp;xportovat segment do textového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170740Z" creationid="Josef" creationdate="20180309T170740Z">
@@ -34069,6 +34077,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230729Z" creationid="pavreh" creationdate="20240217T230729Z">
+        <seg>Nový jazyk a země</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130507T145349Z">
@@ -38370,6 +38386,14 @@ puls se zběsile zrychluje</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T111655Z" creationid="Josef" creationdate="20190928T111655Z">
         <seg>Formát oddělovačů odstavců:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230922Z" creationid="pavreh" creationdate="20240217T230922Z">
+        <seg>Oddělovač odstavců</seg>
       </tuv>
     </tu>
     <tu>
