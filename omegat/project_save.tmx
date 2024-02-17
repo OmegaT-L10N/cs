@@ -16186,6 +16186,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194448Z" creationid="pavreh" creationdate="20240217T194448Z">
+        <seg>Vytvořit aktuálně př&amp;eložený soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150929T201750Z" creationid="Josef" creationdate="20150928T162626Z">
@@ -43754,6 +43762,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151001T161815Z" creationid="Josef" creationdate="20151001T161815Z">
         <seg>Takže vložený výraz „pojavni menu“ ve tvaru nominativu musí být změněno na „pojavnem meniju“, tj. tvar lokativu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194637Z" creationid="pavreh" creationdate="20240217T194637Z">
+        <seg>Zdrojové &amp;soubory...</seg>
       </tuv>
     </tu>
     <tu>
