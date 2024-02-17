@@ -29816,6 +29816,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215747Z" creationid="pavreh" creationdate="20240217T215747Z">
+        <seg>JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T063645Z">
@@ -31364,6 +31372,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215835Z" creationid="pavreh" creationdate="20240217T215835Z">
+        <seg>Místní &amp;filtry souborů...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240216T155922Z" creationid="pavreh" creationdate="20240216T155922Z">
@@ -31384,6 +31400,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192651Z" creationid="Josef" creationdate="20180307T192651Z">
         <seg>Místní soubor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215935Z" creationid="pavreh" creationdate="20240217T215849Z">
+        <seg>Místní pravidla segmenta&amp;ce...</seg>
       </tuv>
     </tu>
     <tu>
@@ -59365,6 +59389,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151146Z" creationid="Josef" creationdate="20180318T151146Z">
         <seg>XLIFF je průmyslový standardní formát pro dvoujazyčné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215745Z" creationid="pavreh" creationdate="20240217T215745Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
