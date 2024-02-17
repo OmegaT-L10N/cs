@@ -14954,6 +14954,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194117Z" creationid="pavreh" creationdate="20240217T194117Z">
+        <seg>Zapsat z&amp;drojové soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -14984,6 +14992,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144649Z" creationid="Josef" creationdate="20180318T144649Z">
         <seg>Kombinuje funkce nahrazení a zvýraznění skriptů  te-gloss-subst a te-gloss-highlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194150Z" creationid="pavreh" creationdate="20240217T194150Z">
+        <seg>Zapsat &amp;cílové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -16150,6 +16166,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T123522Z">
         <seg>Vytvořit &amp;přeložené dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194223Z" creationid="pavreh" creationdate="20240217T194223Z">
+        <seg>Vytvořit &amp;přeložené soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -39467,6 +39491,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180323T152541Z" creationid="Josef" creationdate="20180323T152541Z">
         <seg>Raději vytvořte dva oddělené archivy, buď .zip nebo tar.gz, jeden, který obsahuje cílové soubory a druhý, který obsahuje soubory TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194007Z" creationid="pavreh" creationdate="20240217T194007Z">
+        <seg>Znovu &amp;načíst</seg>
       </tuv>
     </tu>
     <tu>
