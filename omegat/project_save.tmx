@@ -1470,6 +1470,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195035Z" creationid="pavreh" creationdate="20240217T195035Z">
+        <seg>&amp;Obnovit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T183438Z">
@@ -1570,6 +1578,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T184953Z" creationid="Josef" creationdate="20150928T184953Z">
         <seg>Z&amp;rušit tuto barvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194949Z" creationid="pavreh" creationdate="20240217T194949Z">
+        <seg>&amp;Restart</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1854,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195015Z" creationid="pavreh" creationdate="20240217T195015Z">
+        <seg>&amp;Zpět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062552Z" creationid="Josef" creationdate="20180310T062552Z">
@@ -1890,6 +1914,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T122031Z">
         <seg>Zo&amp;brazit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194930Z" creationid="pavreh" creationdate="20240217T194930Z">
+        <seg>Zapisovatelný &amp;Glosář</seg>
       </tuv>
     </tu>
     <tu>
@@ -41649,6 +41681,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T143001Z">
         <seg>Skripty / postupy pomohou při provádění následujících kroků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195155Z" creationid="pavreh" creationdate="20240217T195155Z">
+        <seg>Vybrat zdro&amp;jový text</seg>
       </tuv>
     </tu>
     <tu>
