@@ -18040,6 +18040,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210432Z" creationid="pavreh" creationdate="20240217T210432Z">
+        <seg>Zobrazit netis&amp;knutelný znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185026Z" creationid="Josef" creationdate="20180309T185026Z">
@@ -18052,6 +18060,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T173340Z" creationid="Josef" creationdate="20150928T173340Z">
         <seg>Zobrazit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210528Z" creationid="pavreh" creationdate="20240217T210528Z">
+        <seg>Zobrazit kontrolní znaky &amp;Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210351Z" creationid="pavreh" creationdate="20240217T210351Z">
+        <seg>Zobrazit &amp;nezlomitelné mezery</seg>
       </tuv>
     </tu>
     <tu>
@@ -23640,6 +23664,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190909Z" creationid="Josef" creationdate="20180309T190909Z">
         <seg>Zvýraznit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210551Z" creationid="pavreh" creationdate="20240217T210551Z">
+        <seg>Zvýraznit &amp;automaticky vyplněné segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -31899,6 +31931,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210800Z" creationid="pavreh" creationdate="20240217T210800Z">
+        <seg>Označit problémy v &amp;jazykové korektuře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T073308Z">
@@ -31951,6 +31991,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T182747Z">
         <seg>Označit řídicí znak bidirekcionálního algoritmu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210615Z" creationid="pavreh" creationdate="20240217T210615Z">
+        <seg>Označit záznamy gl&amp;osáře</seg>
       </tuv>
     </tu>
     <tu>
