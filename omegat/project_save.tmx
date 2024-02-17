@@ -37387,6 +37387,14 @@ puls se zběsile zrychluje</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T172125Z" creationid="pavreh" creationdate="20240217T172125Z">
+        <seg>Soubory parametrů, které jsou obsaženy ve staženém balíčku OmegaT (obvzláště &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; pro Windows a soubory &lt;c1&gt;Configuration.properties&lt;/c1&gt; a &lt;c2&gt;Info.plist&lt;/c2&gt; v balíčku pro macOS) mohou být přepsány nebo smazány, takže je můžete chtít před aktualizací zazálohovat, jestliže jste tyto soubory používali k modifikování parametrů spouštění OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055902Z">
