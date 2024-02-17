@@ -16746,6 +16746,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215348Z" creationid="pavreh" creationdate="20240217T215348Z">
+        <seg>Vytvářejí se přeložené soubory: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T174136Z" creationid="Josef" creationdate="20150928T174136Z">
@@ -55277,6 +55285,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215448Z" creationid="pavreh" creationdate="20240217T215448Z">
+        <seg>Přeložený soubor vytvořen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -55291,6 +55307,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T175216Z" creationid="Josef" creationdate="20191003T175216Z">
         <seg>Název přeloženého souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215419Z" creationid="pavreh" creationdate="20240217T215419Z">
+        <seg>Přeložené soubory vytvořeny</seg>
       </tuv>
     </tu>
     <tu>
