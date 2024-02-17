@@ -35269,6 +35269,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130516Z" creationid="pavreh" creationdate="20240217T130516Z">
+        <seg>OmegaT balíčky jsou dostupné v obou verzích, s přibalenou Javou i bez Javy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT preferences</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T173837Z">
@@ -37116,6 +37124,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130424T180045Z">
         <seg>Jestliže je tato možnost zaznačena, tak hlavička PO bude přeskočena a ponechána beze změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130702Z" creationid="pavreh" creationdate="20240217T130702Z">
+        <seg>Balčky bez Javy závisí na Java {{site.data.versions.standard.java_version}} Runtime Environment nainstalované v systému.</seg>
       </tuv>
     </tu>
     <tu>
