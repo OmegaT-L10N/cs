@@ -1662,6 +1662,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195313Z" creationid="pavreh" creationdate="20240217T195313Z">
+        <seg>&amp;Hledat...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T183636Z">
@@ -1689,6 +1697,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T183611Z" creationid="Josef" creationdate="20151130T172547Z">
+        <seg>Velké písmeno na začátku vě&amp;ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195440Z" creationid="pavreh" creationdate="20240217T195440Z">
         <seg>Velké písmeno na začátku vě&amp;ty</seg>
       </tuv>
     </tu>
@@ -1854,6 +1870,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195426Z" creationid="pavreh" creationdate="20240217T195426Z">
+        <seg>&amp;VELKÁ PÍSMENA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T195015Z" creationid="pavreh" creationdate="20240217T195015Z">
@@ -1930,6 +1954,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T162954Z" creationid="Josef" creationdate="20150928T162954Z">
         <seg>&amp;Zapisovatelný Glosář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195412Z" creationid="pavreh" creationdate="20240217T195412Z">
+        <seg>ma&amp;lá písmena</seg>
       </tuv>
     </tu>
     <tu>
@@ -28026,6 +28058,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195214Z" creationid="pavreh" creationdate="20240217T195214Z">
+        <seg>Vložit chybějící &amp;tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T095322Z">
@@ -28046,6 +28086,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T110654Z" creationid="Josef" creationdate="20190928T110654Z">
         <seg>Režim vkládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195234Z" creationid="pavreh" creationdate="20240217T195234Z">
+        <seg>Vložit další chybějící t&amp;ag</seg>
       </tuv>
     </tu>
     <tu>
@@ -40505,6 +40553,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195325Z" creationid="pavreh" creationdate="20240217T195325Z">
+        <seg>Nahradit...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T055959Z">
@@ -41148,6 +41204,14 @@ These words: 'Page not found'</seg>
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072916Z">
+        <seg>Přepnout veliko&amp;st písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T195401Z" creationid="pavreh" creationdate="20240217T195401Z">
         <seg>Přepnout veliko&amp;st písma</seg>
       </tuv>
     </tu>
