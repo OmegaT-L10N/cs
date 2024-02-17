@@ -35770,8 +35770,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On Windows</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T131347Z">
-        <seg>Pod Windows</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T132053Z">
+        <seg>Ve Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -43578,6 +43578,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151137Z" creationid="Josef" creationdate="20180318T151137Z">
         <seg>Některé CAT nástroje, zejména TRADOS, jsou schopné importovat širokou škálu souborových formátů, včetně formátů desktop publishing, a připravit je na překlad v příslušném nástroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T132140Z" creationid="pavreh" creationdate="20240217T132140Z">
+        <seg>Některé Linuxové distribuce nabízejí OmegaT v jejich správci balíčků.</seg>
       </tuv>
     </tu>
     <tu>
