@@ -16258,6 +16258,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204629Z" creationid="pavreh" creationdate="20240217T204629Z">
+        <seg>Vytvořit a&amp;lternativní překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T074738Z">
@@ -30593,6 +30601,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204515Z" creationid="pavreh" creationdate="20240217T204515Z">
+        <seg>Vnoření zleva doprava (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191255Z" creationid="Josef" creationdate="20180307T191225Z">
@@ -38356,6 +38372,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204544Z" creationid="pavreh" creationdate="20240217T204544Z">
+        <seg>Formátování Pop Directional (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191322Z" creationid="Josef" creationdate="20180307T191322Z">
@@ -40095,6 +40119,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204843Z" creationid="pavreh" creationdate="20240217T204843Z">
+        <seg>Odstranit pře&amp;klad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T171730Z" creationid="Josef" creationdate="20180309T171730Z">
@@ -41025,10 +41057,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204529Z" creationid="pavreh" creationdate="20240217T204529Z">
+        <seg>Vnoření zprava doleva (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191304Z" creationid="Josef" creationdate="20180307T191251Z">
         <seg>Vnoření zprava doleva (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204457Z" creationid="pavreh" creationdate="20240217T204457Z">
+        <seg>Značka zápisu zprava doleva (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56280,6 +56328,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191114T160506Z" creationid="Josef" creationdate="20191003T183633Z">
         <seg>Použijte klienta SVN nebo Git na přidání souborů k překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204608Z" creationid="pavreh" creationdate="20240217T204608Z">
+        <seg>Použít jako vých&amp;ozí překlad</seg>
       </tuv>
     </tu>
     <tu>
