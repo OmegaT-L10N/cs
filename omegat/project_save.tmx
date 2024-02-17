@@ -40344,6 +40344,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T214327Z" creationid="pavreh" creationdate="20240217T214327Z">
+        <seg>Znovu načíst projekt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130504T044945Z">
