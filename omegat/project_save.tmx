@@ -10947,6 +10947,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T133737Z" creationid="pavreh" creationdate="20240217T133737Z">
+        <seg>Ačkoliv můžete spustit OmegaT přímo z dostupných souborů, můžete také spustit skript &lt;c0&gt;linux-install.sh&lt;/c0&gt; ve stejné složce, aby se OmegaT nainstaloval na vhodnější místa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T180233Z">
