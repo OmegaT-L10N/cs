@@ -12,3 +12,4 @@ folder	adresář
 directory	adresář
 tag	tag
 options	možnosti
+settings	nastavení
