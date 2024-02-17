@@ -28933,6 +28933,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130100Z" creationid="pavreh" creationdate="20240217T130100Z">
+        <seg>Používá se k testování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064556Z">
@@ -35636,6 +35644,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T165452Z" creationid="Josef" creationdate="20180606T165452Z">
         <seg>Omega {0} není k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130318Z" creationid="pavreh" creationdate="20240217T130318Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} vyžaduje ke spuštění Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47687,6 +47703,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130148Z" creationid="pavreh" creationdate="20240217T130148Z">
+        <seg>Soubory lze stáhnout přímo z &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120927T055809Z">
@@ -51476,8 +51500,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This edition is recommended for everyday use.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T125628Z" creationid="pavreh" creationdate="20240217T125628Z">
-        <seg>Tato edice je doporučena pro každodenní používání.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T130006Z" creationid="pavreh" creationdate="20240217T125628Z">
+        <seg>Tato edice se doporučuje pro každodenní používání.</seg>
       </tuv>
     </tu>
     <tu>
