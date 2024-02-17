@@ -20899,10 +20899,27 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212823Z" creationid="pavreh" creationdate="20240217T212823Z">
+        <seg>Nepodařilo se načíst zadaný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184332Z">
         <seg>Nepodařilo se načíst překladovou paměť {0} projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212749Z" creationid="pavreh" creationdate="20240217T212749Z">
+        <seg>Nepodařilo se načíst překladovou paměť: {0} Některé atributy mají neplatné hodnoty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40259,6 +40276,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T172805Z">
         <seg>Znovu načíst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212521Z" creationid="pavreh" creationdate="20240217T212521Z">
+        <seg>Znovu načíst projekt?</seg>
       </tuv>
     </tu>
     <tu>
