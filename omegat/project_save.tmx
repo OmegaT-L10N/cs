@@ -13155,6 +13155,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230548Z" creationid="pavreh" creationdate="20240217T230548Z">
+        <seg>Zlom/výjimka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163705Z">
@@ -15516,6 +15524,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T042140Z">
         <seg>V přeloženém dokumentu komprimovat netisknutelné znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230437Z" creationid="pavreh" creationdate="20240217T230437Z">
+        <seg>V přeloženém souboru komprimovat netisknutelné znaky</seg>
       </tuv>
     </tu>
     <tu>
@@ -23317,6 +23333,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230630Z" creationid="pavreh" creationdate="20240217T230630Z">
+        <seg>Obecná pravidla segmentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T172856Z" creationid="Josef" creationdate="20151007T172856Z">
@@ -30706,6 +30730,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230535Z" creationid="pavreh" creationdate="20240217T230535Z">
+        <seg>Vzor jazyka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103115Z" creationid="Josef" creationdate="20180317T103115Z">
@@ -33168,6 +33200,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230704Z" creationid="pavreh" creationdate="20240217T230704Z">
+        <seg>Přes&amp;unout nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T111837Z" creationid="Josef" creationdate="20190928T111837Z">
@@ -33544,6 +33584,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190555Z" creationid="Josef" creationdate="20180309T190548Z">
         <seg>Přesunout dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230656Z" creationid="pavreh" creationdate="20240217T230656Z">
+        <seg>Přesunout na p&amp;rvní</seg>
       </tuv>
     </tu>
     <tu>
@@ -38486,6 +38534,22 @@ puls se zběsile zrychluje</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230559Z" creationid="pavreh" creationdate="20240217T230559Z">
+        <seg>Vzor za</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230554Z" creationid="pavreh" creationdate="20240217T230554Z">
+        <seg>Vzor před</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T191000Z" creationid="Josef" creationdate="20180309T191000Z">
@@ -41014,6 +41078,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170700Z" creationid="Josef" creationdate="20180309T170700Z">
         <seg>Odstrani&amp;t úvodní a koncové tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230449Z" creationid="pavreh" creationdate="20240217T230449Z">
+        <seg>Odstranit HTML komentáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -45763,6 +45835,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064257Z">
         <seg>Začít nový odstavec od:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230513Z" creationid="pavreh" creationdate="20240217T230513Z">
+        <seg>Začít nový segment od:</seg>
       </tuv>
     </tu>
     <tu>
