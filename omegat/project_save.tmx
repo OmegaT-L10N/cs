@@ -28042,6 +28042,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204422Z" creationid="pavreh" creationdate="20240217T204422Z">
+        <seg>Vložit kontrolní znak &amp;Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T195045Z" creationid="Josef" creationdate="20180307T195045Z">
@@ -30589,6 +30597,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191255Z" creationid="Josef" creationdate="20180307T191225Z">
         <seg>Vnoření zleva doprava (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204441Z" creationid="pavreh" creationdate="20240217T204441Z">
+        <seg>Značka zápisu zleva doprava (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
