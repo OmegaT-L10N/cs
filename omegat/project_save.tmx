@@ -14480,6 +14480,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213053Z" creationid="pavreh" creationdate="20240217T213053Z">
+        <seg>Zkontrolujte adresář omegat v projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120926T195839Z">
@@ -20895,6 +20903,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184337Z">
         <seg>Nepodařilo se načíst zadaný projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212919Z" creationid="pavreh" creationdate="20240217T212919Z">
+        <seg>Nepodařilo se načíst projekt, protože je soubor poškozen.</seg>
       </tuv>
     </tu>
     <tu>
