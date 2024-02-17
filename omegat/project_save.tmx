@@ -10277,6 +10277,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T135858Z" creationid="pavreh" creationdate="20240217T135858Z">
+        <seg>Jakmile je rozbalení nebo instalace hotová, můžete smazat stažený soubor, protože již není potřeba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130525T062525Z">
