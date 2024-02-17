@@ -36048,6 +36048,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T160120Z" creationid="pavreh" creationdate="20240217T160120Z">
+        <seg>Jakmile je to provedeno, můžete smazat soubor, který jste stáhli, protože již není potřeba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T104319Z" creationid="Josef" creationdate="20180325T104319Z">
