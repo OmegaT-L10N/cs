@@ -20907,6 +20907,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213438Z" creationid="pavreh" creationdate="20240217T213438Z">
+        <seg>Nepodařilo se načíst projekt kvůli problémům s přístupem k souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to file corruption.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T212919Z" creationid="pavreh" creationdate="20240217T212919Z">
