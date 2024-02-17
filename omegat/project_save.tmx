@@ -9847,8 +9847,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T192953Z" creationid="pavreh" creationdate="20240217T192953Z">
-        <seg>Přidat stránku &amp;MediaWiki...</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T193734Z" creationid="pavreh" creationdate="20240217T192953Z">
+        <seg>Přidat stránku Media&amp;Wiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20631,6 +20631,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185232Z">
         <seg>Nepodařilo se vytvořit projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T193844Z" creationid="pavreh" creationdate="20240217T193844Z">
+        <seg>Nepodařilo se stáhnout stránku</seg>
       </tuv>
     </tu>
     <tu>
@@ -39165,6 +39173,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T193815Z" creationid="pavreh" creationdate="20240217T193815Z">
+        <seg>Poskytnutý odkaz URL je neplatný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T184358Z" creationid="Josef" creationdate="20180308T184358Z">
@@ -55140,6 +55156,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063342Z" creationid="Josef" creationdate="20180310T063342Z">
         <seg>Odkazy URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T193822Z" creationid="pavreh" creationdate="20240217T193822Z">
+        <seg>Chyba URL</seg>
       </tuv>
     </tu>
     <tu>
