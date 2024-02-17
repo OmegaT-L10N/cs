@@ -10279,8 +10279,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T135858Z" creationid="pavreh" creationdate="20240217T135858Z">
-        <seg>Jakmile je rozbalení nebo instalace hotová, můžete smazat stažený soubor, protože již není potřeba.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T160149Z" creationid="pavreh" creationdate="20240217T135858Z">
+        <seg>Jakmile je rozbalení nebo instalace hotová, můžete smazat soubor, který jste stáhli, protože již není potřeba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35840,6 +35840,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T160304Z" creationid="pavreh" creationdate="20240217T160304Z">
+        <seg>Na ostatních platformách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130510T184530Z">
@@ -51878,6 +51886,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T140827Z">
         <seg>Tato informace platí jen pro „tradiční“ verze OmegaT pod Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T160452Z" creationid="pavreh" creationdate="20240217T160452Z">
+        <seg>Tyto informace se vztahují na všechny systémy, které mají verzi Java kompatibilní s Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
