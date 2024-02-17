@@ -1376,8 +1376,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T211010Z" creationid="pavreh" creationdate="20240217T211010Z">
-        <seg>&amp;Nezobrazovat žádné</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211118Z" creationid="pavreh" creationdate="20240217T211010Z">
+        <seg>Žád&amp;né</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1618,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184129Z">
         <seg>Obnovit &amp;Hlavní okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211425Z" creationid="pavreh" creationdate="20240217T211425Z">
+        <seg>O&amp;bnovit okno OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -62855,6 +62863,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211208Z" creationid="pavreh" creationdate="20240217T211208Z">
+        <seg>pro &amp;všechny segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T104025Z" creationid="Josef" creationdate="20180317T104025Z">
@@ -62867,6 +62883,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T104026Z" creationid="Josef" creationdate="20180317T104026Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211134Z" creationid="pavreh" creationdate="20240217T211134Z">
+        <seg>u otevřeného &amp;segmentu</seg>
       </tuv>
     </tu>
     <tu>
