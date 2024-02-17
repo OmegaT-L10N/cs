@@ -55289,6 +55289,14 @@ documentation file and the OmegaT application.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T133049Z" creationid="pavreh" creationdate="20240217T133049Z">
+        <seg>Rozbalte soubor, který jste stáhli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
