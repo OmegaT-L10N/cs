@@ -27081,6 +27081,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225345Z" creationid="pavreh" creationdate="20240217T225345Z">
+        <seg>Ignorovat hlavičku &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072742Z">
@@ -48014,6 +48022,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225447Z" creationid="pavreh" creationdate="20240217T225447Z">
+        <seg>Vyskytla se chyba PO filtru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060821Z">
@@ -55727,6 +55743,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225317Z" creationid="pavreh" creationdate="20240217T225317Z">
+        <seg>Překládat práz&amp;dné zdrojové segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T113601Z" creationid="Josef" creationdate="20190928T113601Z">
@@ -59967,6 +59991,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121020T155909Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) – typy source=target (zdroj=cíl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225456Z" creationid="pavreh" creationdate="20240217T225456Z">
+        <seg>XLIFF 1</seg>
       </tuv>
     </tu>
     <tu>
