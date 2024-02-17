@@ -21187,6 +21187,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162837Z" creationid="pavreh" creationdate="20240217T162837Z">
+        <seg>Postupujte podle instrukcí svého systému pro instalaci zástupců OmegaT na příhodném místě vaší volby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T081433Z">
@@ -55616,6 +55624,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T075340Z">
         <seg>Aktualizace glosáře je tedy zcela jednoduchá: stiskněte &lt;k0&gt;Ctrl+Shift+G &lt;/k0&gt; a zadejte nový termín, jeho překlad a příslušný komentář (ujistěte se, že jste stiskli tabulátor pro přechod mezi jednotlivými poli) a soubor uložte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162850Z" creationid="pavreh" creationdate="20240217T162850Z">
+        <seg>Aktualizace</seg>
       </tuv>
     </tu>
     <tu>
