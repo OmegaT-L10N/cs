@@ -18472,6 +18472,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T140035Z" creationid="pavreh" creationdate="20240217T140035Z">
+        <seg>Dvojklikněte na balíček, který jste stáhli, a tím ho rozbalte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T165530Z">
@@ -18498,8 +18506,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-click on the package you downloaded.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T131513Z" creationid="pavreh" creationdate="20240217T131433Z">
-        <seg>Dvojklikněte na stažený balíček.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T140049Z" creationid="pavreh" creationdate="20240217T131433Z">
+        <seg>Dvojklikněte na balíček, který jste stáhli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35810,8 +35818,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T133552Z" creationid="Josef" creationdate="20190928T133552Z">
-        <seg>Na macOS</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T135911Z" creationid="Josef" creationdate="20190928T133552Z">
+        <seg>V macOS</seg>
       </tuv>
     </tu>
     <tu>
