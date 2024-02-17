@@ -23796,6 +23796,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162436Z" creationid="pavreh" creationdate="20240217T162436Z">
+        <seg>IBM poskytuje JRE pro Linux PowerPC na &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T133008Z" creationid="Josef" creationdate="20190928T133008Z">
@@ -46453,6 +46461,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162338Z" creationid="pavreh" creationdate="20240217T162338Z">
+        <seg>The Eclipse Foundation poskytuje OpenJDK Runtime Environments JRE pro mnoho systémů na &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T105714Z">
@@ -51578,6 +51594,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162659Z" creationid="pavreh" creationdate="20240217T162659Z">
+        <seg>To vytvoří adresář se všemi soubory porřebnými ke spuštění OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a new folder named after the package you downloaded.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T133143Z" creationid="pavreh" creationdate="20240217T133143Z">
@@ -55413,6 +55437,14 @@ documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165052Z" creationid="Josef" creationdate="20180309T165052Z">
         <seg>Rozbalte archív OmegaT.zip a získáte tak adresář, který obsahuje soubor s dokumentací a aplikací OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T162508Z" creationid="pavreh" creationdate="20240217T162508Z">
+        <seg>Rozbalte soubor, který jste stáhli.</seg>
       </tuv>
     </tu>
     <tu>
