@@ -17556,6 +17556,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125710Z" creationid="pavreh" creationdate="20240217T125710Z">
+        <seg>Vývojová: OmegaT týdenní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T182152Z" creationid="Josef" creationdate="20180317T182152Z">
@@ -51454,6 +51462,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T111643Z">
         <seg>Tato dokumentace má posloužit jako výukový materiál a zároveň referenční příručka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125952Z" creationid="pavreh" creationdate="20240217T125952Z">
+        <seg>Tato edice se automaticky generuje pokaždé, když se do OmegaT přidá nový kód.</seg>
       </tuv>
     </tu>
     <tu>
