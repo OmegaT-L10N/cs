@@ -726,6 +726,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220810Z" creationid="pavreh" creationdate="20240217T220810Z">
+        <seg>Automatické upřednostnění jednoho překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T172656Z" creationid="Josef" creationdate="20151130T172656Z">
@@ -31460,6 +31468,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220922Z" creationid="pavreh" creationdate="20240217T220922Z">
+        <seg>Místní příkazy pro dodatečné zpracování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T193148Z">
@@ -40744,6 +40760,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220818Z" creationid="pavreh" creationdate="20240217T220818Z">
+        <seg>Odstranit ta&amp;gy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170008Z" creationid="Josef" creationdate="20180606T170008Z">
@@ -44819,10 +44843,26 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220550Z" creationid="pavreh" creationdate="20240217T220550Z">
+        <seg>Jazyk zdrojových souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080130Z">
         <seg>Adresář zdroje {0} neexistuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220616Z" creationid="pavreh" creationdate="20240217T220616Z">
+        <seg>Tokenizer zdrojového jazyka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46409,6 +46449,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080142Z">
         <seg>Adresář překladu {0} neexistuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220632Z" creationid="pavreh" creationdate="20240217T220632Z">
+        <seg>Tokenizer cílového jazyka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55387,6 +55435,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T220451Z" creationid="pavreh" creationdate="20240217T220451Z">
         <seg>Adresář s přeloženými soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220601Z" creationid="pavreh" creationdate="20240217T220601Z">
+        <seg>Jazyk přeložených souborů:</seg>
       </tuv>
     </tu>
     <tu>
