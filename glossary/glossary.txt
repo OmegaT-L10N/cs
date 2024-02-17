@@ -9,3 +9,4 @@ Align Files	Spárovat soubory	zarovna, alignovat
 Aligner	párovací nástroj
 versioning system	systém správy verzí
 folder	adresář
+directory	adresář
