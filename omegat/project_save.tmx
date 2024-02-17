@@ -35397,6 +35397,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T170658Z" creationid="pavreh" creationdate="20240217T170658Z">
+        <seg>Projekty OmegaT &lt;s2&gt; &lt;e3&gt;nejsou&lt;/e3&gt; &lt;/s2&gt; uloženy v OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240216T162531Z" creationid="pavreh" creationdate="20240216T162531Z">
