@@ -20185,6 +20185,22 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224231Z" creationid="pavreh" creationdate="20240217T224231Z">
+        <seg>Chyba při nahrávání : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224146Z" creationid="pavreh" creationdate="20240217T224146Z">
+        <seg>Chyba při nahrávání pluginu ze třídy '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T040857Z">
@@ -47952,6 +47968,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224036Z" creationid="pavreh" creationdate="20240217T224036Z">
+        <seg>TMX soubor se i tak načte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T223954Z" creationid="pavreh" creationdate="20240217T223954Z">
@@ -61260,6 +61284,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060312Z">
+        <seg>Váš aktuální projekt používá větnou segmentaci, ale soubor TMX byl vytvořen pomocí segmentace podle odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224109Z" creationid="pavreh" creationdate="20240217T224109Z">
         <seg>Váš aktuální projekt používá větnou segmentaci, ale soubor TMX byl vytvořen pomocí segmentace podle odstavců.</seg>
       </tuv>
     </tu>
