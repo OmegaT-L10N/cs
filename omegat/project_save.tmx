@@ -39041,6 +39041,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T165946Z" creationid="pavreh" creationdate="20240217T165946Z">
+        <seg>Projekty, které jste vytvořili v minulosti nebo je nyní používáte &lt;s0&gt; &lt;e1&gt;nebudou&lt;/e1&gt; &lt;/s0&gt; modifikovány nebo smazány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Propagation</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130511T042505Z">
