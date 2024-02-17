@@ -21454,6 +21454,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230330Z" creationid="pavreh" creationdate="20240217T230330Z">
+        <seg>Proměnné názvu souboru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T124905Z">
@@ -23301,6 +23309,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230134Z" creationid="pavreh" creationdate="20240217T230134Z">
+        <seg>Obecné filtry souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T172856Z" creationid="Josef" creationdate="20151007T172856Z">
@@ -23757,6 +23773,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230355Z" creationid="pavreh" creationdate="20240217T230355Z">
+        <seg>Soubor HTML je příliš velký!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML user manual online</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T185219Z" creationid="Josef" creationdate="20180317T185219Z">
@@ -24043,6 +24067,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T223129Z" creationid="pavreh" creationdate="20240217T223129Z">
         <seg>Skrýt m&amp;ožnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230238Z" creationid="pavreh" creationdate="20240217T230238Z">
+        <seg>Skrýt úvodní a koncové &amp;tagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -39257,6 +39289,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230258Z" creationid="pavreh" creationdate="20240217T230258Z">
+        <seg>Zachovat mezery pr&amp;o všechny tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170652Z" creationid="Josef" creationdate="20180309T170652Z">
@@ -39776,6 +39816,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185316Z">
         <seg>Statistika projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230340Z" creationid="pavreh" creationdate="20240217T230340Z">
+        <seg>Projekt automaticky uložen v {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -45221,6 +45269,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230318Z" creationid="pavreh" creationdate="20240217T230318Z">
+        <seg>Kódování zdrojového souboru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185219Z">
@@ -45241,6 +45297,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T224323Z" creationid="pavreh" creationdate="20240217T224323Z">
         <seg>Vzor názvu zdrojového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230311Z" creationid="pavreh" creationdate="20240217T230311Z">
+        <seg>Vzor názvu zdrojového souboru:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55947,6 +56011,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T224338Z" creationid="pavreh" creationdate="20240217T224338Z">
         <seg>Kódování přeloženého souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230325Z" creationid="pavreh" creationdate="20240217T230325Z">
+        <seg>Kódování přeloženého souboru:</seg>
       </tuv>
     </tu>
     <tu>
