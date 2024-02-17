@@ -15196,6 +15196,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224308Z" creationid="pavreh" creationdate="20240217T224308Z">
+        <seg>Index sloupce se musí rovnat 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144649Z" creationid="Josef" creationdate="20180318T144649Z">
@@ -31318,6 +31326,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224446Z" creationid="pavreh" creationdate="20240217T224446Z">
+        <seg>Délka řádku v cílových souborech (0 = bez omezení)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165110Z" creationid="Josef" creationdate="20150928T165110Z">
@@ -44997,6 +45013,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224331Z" creationid="pavreh" creationdate="20240217T224331Z">
+        <seg>Kódování zdrojového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185219Z">
@@ -45009,6 +45033,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T104558Z">
         <seg>Typ zdrojového souboru, vzor názvu souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224323Z" creationid="pavreh" creationdate="20240217T224323Z">
+        <seg>Vzor názvu zdrojového souboru</seg>
       </tuv>
     </tu>
     <tu>
@@ -55687,6 +55719,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224338Z" creationid="pavreh" creationdate="20240217T224338Z">
+        <seg>Kódování přeloženého souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -55701,6 +55741,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T175216Z" creationid="Josef" creationdate="20191003T175216Z">
         <seg>Název přeloženého souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224347Z" creationid="pavreh" creationdate="20240217T224347Z">
+        <seg>Vzor názvu přeloženého souboru</seg>
       </tuv>
     </tu>
     <tu>
@@ -56375,6 +56423,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060440Z">
         <seg>Nelze zpracovat soubor konfigurace filtrů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T224532Z" creationid="pavreh" creationdate="20240217T224532Z">
+        <seg>Nelze zpracovat XML zdrojový soubor</seg>
       </tuv>
     </tu>
     <tu>
