@@ -9813,6 +9813,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T192748Z" creationid="pavreh" creationdate="20240217T192748Z">
+        <seg>Přid&amp;at soubory...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T192845Z" creationid="pavreh" creationdate="20240217T192845Z">
+        <seg>Přidat soubory do zdrojového adresáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Files...</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240216T161116Z" creationid="pavreh" creationdate="20240216T161116Z">
@@ -18314,8 +18330,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T192446Z" creationid="pavreh" creationdate="20240217T192446Z">
-        <seg>&amp;Stáhnout týmový projekt...</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T192658Z" creationid="pavreh" creationdate="20240217T192446Z">
+        <seg>Stáhnout &amp;týmový projekt...</seg>
       </tuv>
     </tu>
     <tu>
