@@ -16258,6 +16258,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225852Z" creationid="pavreh" creationdate="20240217T225852Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk a další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163923Z">
@@ -18652,6 +18660,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184418Z">
         <seg>Opravdu chcete skončit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230040Z" creationid="pavreh" creationdate="20240217T230040Z">
+        <seg>Opravdu chcete odstranit vzor {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21254,6 +21270,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230106Z" creationid="pavreh" creationdate="20240217T230106Z">
+        <seg>&amp;Formát souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T191055Z" creationid="Josef" creationdate="20180308T191055Z">
@@ -21490,6 +21514,14 @@ Some attributes have invalid values.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060453Z">
         <seg>Soubor ‚{0}‘ nemohl být načten z ‚{1}‘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230004Z" creationid="pavreh" creationdate="20240217T230004Z">
+        <seg>Nastavení filtrů</seg>
       </tuv>
     </tu>
     <tu>
@@ -41074,6 +41106,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T230050Z" creationid="pavreh" creationdate="20240217T230050Z">
+        <seg>Odstranit vzor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T063733Z">
@@ -42860,6 +42900,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170415Z" creationid="Josef" creationdate="20180309T170415Z">
         <seg>Viz /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225932Z" creationid="pavreh" creationdate="20240217T225932Z">
+        <seg>Viz /docs/libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
