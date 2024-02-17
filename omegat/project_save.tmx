@@ -21574,6 +21574,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T222819Z" creationid="pavreh" creationdate="20240217T222819Z">
+        <seg>Adresář existuje a není prázdný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192321Z" creationid="Josef" creationdate="20180307T192321Z">
@@ -35513,6 +35521,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T222859Z" creationid="pavreh" creationdate="20240217T222859Z">
+        <seg>OmegaT nemá práva pro čtení a zápis do tohoto adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T165127Z" creationid="Josef" creationdate="20180606T165127Z">
@@ -43369,6 +43385,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T222835Z" creationid="pavreh" creationdate="20240217T222835Z">
+        <seg>Vyberte jiný adresář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T165336Z" creationid="Josef" creationdate="20191003T165336Z">
@@ -46039,6 +46063,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223100Z" creationid="pavreh" creationdate="20240217T223100Z">
+        <seg>Možnosti pr&amp;ohledávání TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060309Z">
@@ -48582,6 +48614,14 @@ instead.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T181643Z">
         <seg>Dialogové okno pro vytvoření projektu je stejné jako u Vlastnosti projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T222745Z" creationid="pavreh" creationdate="20240217T222745Z">
+        <seg>Adresář se soubory slovníků neexistuje!</seg>
       </tuv>
     </tu>
     <tu>
