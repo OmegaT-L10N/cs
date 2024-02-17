@@ -23115,6 +23115,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220121Z" creationid="pavreh" creationdate="20240217T220121Z">
+        <seg>Adresář glosářů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T074529Z">
@@ -44787,6 +44795,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220044Z" creationid="pavreh" creationdate="20240217T220044Z">
+        <seg>Adresář se zdrojovými soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080130Z">
@@ -55483,6 +55499,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T095751Z">
         <seg>Překladové paměti mohou být velmi užitečné u takového překladu, ve kterém se části textu často opakují nebo je zde množství přiměřeně podobných segmentů textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220109Z" creationid="pavreh" creationdate="20240217T220109Z">
+        <seg>Adresář překladových pamětí:</seg>
       </tuv>
     </tu>
     <tu>
