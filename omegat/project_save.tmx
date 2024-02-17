@@ -37160,6 +37160,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T172401Z" creationid="pavreh" creationdate="20240217T172401Z">
+        <seg>Přes stávající verzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T160201Z">
@@ -53456,6 +53464,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152245Z" creationid="Josef" creationdate="20180318T152245Z">
         <seg>To učiníte tak, že otevřete terminál (také známý jako konzola nebo příkazový řádek; běžné programy jsou v prostředí KDE ‚konsole‘ a v prostředí GNOME ‚gnome-terminal‘) a napište:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T172449Z" creationid="pavreh" creationdate="20240217T172449Z">
+        <seg>To se dělá tak, že při instalování nové verze jednoduše vyberete stejný adresář pro instalaci jako je ten, kde je umístěna stávající instalace.</seg>
       </tuv>
     </tu>
     <tu>
