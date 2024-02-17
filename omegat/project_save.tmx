@@ -51060,6 +51060,14 @@ Jste obětí jedné z nich.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T170950Z" creationid="pavreh" creationdate="20240217T170950Z">
+        <seg>Jsou to samostané objekty, které nemají žádnou fyzickou spojitost se samotnou aplikací OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are the files you deal with on a daily basis while translating.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T164603Z">
