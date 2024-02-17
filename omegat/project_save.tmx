@@ -22970,6 +22970,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211926Z" creationid="pavreh" creationdate="20240217T211926Z">
+        <seg>Obecná pravidla &amp;segmentace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211806Z" creationid="pavreh" creationdate="20240217T211806Z">
+        <seg>Obecné &amp;filtry souborů...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T172856Z" creationid="Josef" creationdate="20151007T172856Z">
@@ -23808,6 +23824,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191840Z" creationid="Josef" creationdate="20180307T191840Z">
         <seg>Historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211713Z" creationid="pavreh" creationdate="20240217T211713Z">
+        <seg>&amp;Doplnění historie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211727Z" creationid="pavreh" creationdate="20240217T211727Z">
+        <seg>&amp;Prognóza historie</seg>
       </tuv>
     </tu>
     <tu>
