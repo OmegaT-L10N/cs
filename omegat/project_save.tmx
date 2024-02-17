@@ -25171,6 +25171,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T135705Z" creationid="pavreh" creationdate="20240217T135705Z">
+        <seg>Jestliže žádná není, skript nainstaluje program do &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; a nastaví ho jako výchozí verzi (v &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T085552Z">
@@ -49395,6 +49403,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T075155Z">
         <seg>Skript „{0}“ právě běží...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T135444Z" creationid="pavreh" creationdate="20240217T135444Z">
+        <seg>Skript zkontroluje stávající instalaci stejné verze OmegaT v &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
