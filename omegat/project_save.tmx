@@ -25750,6 +25750,14 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T165531Z" creationid="pavreh" creationdate="20240217T165531Z">
+        <seg>Jestliže jste se rozhodli nainstalovat novou verzi, mějte na paměti následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -35812,6 +35820,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T112007Z" creationid="Josef" creationdate="20180325T112007Z">
         <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T165738Z" creationid="pavreh" creationdate="20240217T165738Z">
+        <seg>Předvolby OmegaT jsou uloženy v adresáři konfigurace a &lt;s0&gt; &lt;e1&gt;nebudou&lt;/e1&gt; &lt;/s0&gt; modifikovány novou verzí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47201,6 +47217,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T190234Z" creationid="Josef" creationdate="20180308T190234Z">
         <seg>Změny jsou zobrazeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T165441Z" creationid="pavreh" creationdate="20240217T165441Z">
+        <seg>Změny mezi vaší verzí a současnou verzí jsou zdokumentovány v souboru &lt;a0&gt;changes.txt&lt;/a0&gt; na vývojářské stránce.</seg>
       </tuv>
     </tu>
     <tu>
