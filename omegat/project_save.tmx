@@ -20859,10 +20859,26 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213842Z" creationid="pavreh" creationdate="20240217T213842Z">
+        <seg>Zápis zdrojových souborů se nezdařil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T162003Z" creationid="Josef" creationdate="20180307T191955Z">
         <seg>Zápis cílových souborů se nezdařilo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213945Z" creationid="pavreh" creationdate="20240217T213945Z">
+        <seg>Zápis cílových souborů se nezdařil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23263,6 +23279,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063049Z" creationid="Josef" creationdate="20180310T063049Z">
         <seg>Jděte na Předvolby &gt; Externí hledání a zde je zapněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T214022Z" creationid="pavreh" creationdate="20240217T214022Z">
+        <seg>Přejít na segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -56623,8 +56647,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T213714Z" creationid="pavreh" creationdate="20240217T213714Z">
-        <seg>Použijte Nástroje </seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213822Z" creationid="pavreh" creationdate="20240217T213714Z">
+        <seg>Použijte Nástroje &gt; Zkontrolovat problémy..., abyste opravili chyby tagů, a zkuste to znovu.</seg>
       </tuv>
     </tu>
     <tu>
