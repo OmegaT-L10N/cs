@@ -47919,6 +47919,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;c1&gt;index.html&lt;/c1&gt; (the user guide index) and &lt;c2&gt;OmegaT.app&lt;/c2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T140359Z" creationid="pavreh" creationdate="20240217T140359Z">
+        <seg>Tento adresář obsahuje dva soubory: &lt;c1&gt;index.html&lt;/c1&gt; (index uživatelské příručky) a &lt;c2&gt;OmegaT.app&lt;/c2&gt; (aplikaci).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T182634Z">
@@ -51494,6 +51502,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T102414Z">
         <seg>Tímto zkopírujete vybrané soubory do adresáře &lt;f3&gt;source&lt;/f3&gt;, projekt bude znovu načten a je možno importovat nové soubory. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T140217Z" creationid="pavreh" creationdate="20240217T140217Z">
+        <seg>Tak vytvoříte adresář nazvaný &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
