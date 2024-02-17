@@ -630,6 +630,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225226Z" creationid="pavreh" creationdate="20240217T225226Z">
+        <seg>Povolit prázdné &amp;cílové segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T041533Z">
@@ -45587,6 +45595,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T170242Z" creationid="Josef" creationdate="20150928T170242Z">
         <seg>Začít Nový &amp;odstavec při značce Word Soft Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225054Z" creationid="pavreh" creationdate="20240217T225054Z">
+        <seg>Začít nový &amp;odstavec po měkkém enteru</seg>
       </tuv>
     </tu>
     <tu>
