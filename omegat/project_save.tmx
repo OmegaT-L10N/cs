@@ -27994,6 +27994,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125438Z" creationid="pavreh" creationdate="20240217T125438Z">
+        <seg>Instalovat OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152334Z" creationid="Josef" creationdate="20180318T152334Z">
@@ -34690,6 +34698,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151132Z" creationid="Josef" creationdate="20180318T151132Z">
         <seg>OmegaT nemůže importovat nebo číst soubory glosáře v proprietárních binárních formátech, jako je např. Trados Multiterm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125504Z" creationid="pavreh" creationdate="20240217T125504Z">
+        <seg>OmegaT je ve dvou edicích:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44186,6 +44202,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125519Z" creationid="pavreh" creationdate="20240217T125519Z">
+        <seg>Standardní: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -51430,6 +51454,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T111643Z">
         <seg>Tato dokumentace má posloužit jako výukový materiál a zároveň referenční příručka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T125628Z" creationid="pavreh" creationdate="20240217T125628Z">
+        <seg>Tato edice je doporučena pro každodenní používání.</seg>
       </tuv>
     </tu>
     <tu>
