@@ -19949,6 +19949,16 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T222130Z" creationid="pavreh" creationdate="20240217T222130Z">
+        <seg>Zadejte kód jazyka ve tvaru xx-YY, xxx-YY, xx_YY nebo xxx_YY, kde xx nebo xxx představuje 
+kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T065921Z">
@@ -20599,6 +20609,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T171117Z" creationid="Josef" creationdate="20151130T171117Z">
         <seg>Vyloučit nespárované segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221940Z" creationid="pavreh" creationdate="20240217T221940Z">
+        <seg>Vyřadit vzor</seg>
       </tuv>
     </tu>
     <tu>
@@ -28207,6 +28225,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221950Z" creationid="pavreh" creationdate="20240217T221950Z">
+        <seg>Začlenit vzor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170819Z" creationid="Josef" creationdate="20180309T170819Z">
@@ -31468,6 +31494,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221927Z" creationid="pavreh" creationdate="20240217T221927Z">
+        <seg>Místní soubor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T171741Z" creationid="Josef" creationdate="20180309T171741Z">
@@ -32127,6 +32161,14 @@ permissions.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T193411Z" creationid="Josef" creationdate="20180307T192643Z">
+        <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221918Z" creationid="pavreh" creationdate="20240217T221918Z">
         <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
       </tuv>
     </tu>
@@ -40608,10 +40650,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221934Z" creationid="pavreh" creationdate="20240217T221934Z">
+        <seg>Vzdálený sobor/adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T190114Z" creationid="Josef" creationdate="20191003T185844Z">
         <seg>URL repozitáře je vzdálené umístění souborů překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221853Z" creationid="pavreh" creationdate="20240217T221853Z">
+        <seg>Vzdálená úložiště</seg>
       </tuv>
     </tu>
     <tu>
