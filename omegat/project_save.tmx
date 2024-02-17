@@ -944,8 +944,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T102413Z" creationid="Josef" creationdate="20180317T102413Z">
-        <seg>V Editoru</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211949Z" creationid="Josef" creationdate="20180317T102413Z">
+        <seg>&amp;Editor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +1962,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072921Z">
         <seg>&amp;VELKÁ PÍSMENA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212047Z" creationid="pavreh" creationdate="20240217T212047Z">
+        <seg>&amp;Uživatelská příručka...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9731,6 +9739,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T164536Z" creationid="Josef" creationdate="20180317T164536Z">
         <seg>Acceptance Not Required for Having Copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212028Z" creationid="pavreh" creationdate="20240217T212028Z">
+        <seg>Zpřístupn&amp;it adresář nastavení</seg>
       </tuv>
     </tu>
     <tu>
