@@ -45898,6 +45898,14 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T133425Z" creationid="pavreh" creationdate="20240217T133425Z">
+        <seg>Tato složka obsahuje všechny soubory, které jsou potřeba ke spuštění OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T185944Z">
@@ -51454,6 +51462,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T124251Z" creationid="Josef" creationdate="20190928T124251Z">
         <seg>Tak vytvoříte adresář nazvaný &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T133143Z" creationid="pavreh" creationdate="20240217T133143Z">
+        <seg>To vytvoří novou složku nazvanou stejně, jako se jmenuje balíček, který jste stáhli.</seg>
       </tuv>
     </tu>
     <tu>
