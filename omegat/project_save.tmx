@@ -19733,6 +19733,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221404Z" creationid="pavreh" creationdate="20240217T221404Z">
+        <seg>Povolte je v Předvolby &gt; Uložení a výstup...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060459Z">
