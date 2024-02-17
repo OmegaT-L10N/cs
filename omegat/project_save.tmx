@@ -40104,6 +40104,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221539Z" creationid="pavreh" creationdate="20240217T221539Z">
+        <seg>Ma&amp;pování úložiště...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T131211Z">
@@ -59301,6 +59309,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T062656Z">
         <seg>Práce s prostým textem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221516Z" creationid="pavreh" creationdate="20240217T221516Z">
+        <seg>Zapisovatelný soubor glosáře</seg>
       </tuv>
     </tu>
     <tu>
