@@ -20883,6 +20883,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213537Z" creationid="pavreh" creationdate="20240217T213537Z">
+        <seg>Nepodařilo se vytvořit přeložené soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download page</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T193844Z" creationid="pavreh" creationdate="20240217T193844Z">
@@ -55817,6 +55825,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213653Z" creationid="pavreh" creationdate="20240217T213653Z">
+        <seg>Nelze vytvořit přeložené soubory kvůli chybějícím nebo poškozeným tagům. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192552Z" creationid="Josef" creationdate="20180307T192552Z">
@@ -56601,6 +56617,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T195412Z" creationid="Josef" creationdate="20180307T195412Z">
         <seg>Ve zdrojovém textu zobrazovat pojmy odděleně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T213714Z" creationid="pavreh" creationdate="20240217T213714Z">
+        <seg>Použijte Nástroje </seg>
       </tuv>
     </tu>
     <tu>
