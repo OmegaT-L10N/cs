@@ -44643,6 +44643,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215129Z" creationid="pavreh" creationdate="20240217T215129Z">
+        <seg>Zdrojové soubory ({0}) z {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T215045Z" creationid="pavreh" creationdate="20240217T215045Z">
+        <seg>Zdrojové soubory ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T053927Z">
