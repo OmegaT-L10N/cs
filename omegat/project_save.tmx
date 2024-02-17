@@ -12439,6 +12439,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223419Z" creationid="pavreh" creationdate="20240217T223419Z">
+        <seg>Automatická synchronizace s editorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T173339Z" creationid="Josef" creationdate="20150928T173339Z">
@@ -15110,6 +15118,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121016T060559Z">
         <seg>zavřete projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223533Z" creationid="pavreh" creationdate="20240217T223533Z">
+        <seg>Zavřete okno hledání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20220,6 +20236,14 @@ No one hears your screams</seg>
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055102Z">
+        <seg>Chyba při prohledávání adresářového stromu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223448Z" creationid="pavreh" creationdate="20240217T223448Z">
         <seg>Chyba při prohledávání adresářového stromu!</seg>
       </tuv>
     </tu>
@@ -32642,6 +32666,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T131848Z">
         <seg>Nastavení Podokna Přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223608Z" creationid="pavreh" creationdate="20240217T223608Z">
+        <seg>Shodující se segmenty: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56278,6 +56310,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055335Z">
+        <seg>Nelze inicializovat načtení souboru XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223642Z" creationid="pavreh" creationdate="20240217T223642Z">
         <seg>Nelze inicializovat načtení souboru XML!</seg>
       </tuv>
     </tu>
