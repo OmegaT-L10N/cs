@@ -22869,6 +22869,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223226Z" creationid="pavreh" creationdate="20240217T223226Z">
+        <seg>Nezohledňovat &amp;plnou/poloviční šíři znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151116Z" creationid="Josef" creationdate="20180318T151116Z">
@@ -23883,6 +23891,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T164315Z">
         <seg>Hererština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223129Z" creationid="pavreh" creationdate="20240217T223129Z">
+        <seg>Skrýt m&amp;ožnosti</seg>
       </tuv>
     </tu>
     <tu>
@@ -31930,6 +31946,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T184724Z" creationid="Josef" creationdate="20180317T182417Z">
         <seg>Emailové diskuzní skupiny / mailing list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T223258Z" creationid="pavreh" creationdate="20240217T223258Z">
+        <seg>Hlavní &amp;paměť</seg>
       </tuv>
     </tu>
     <tu>
