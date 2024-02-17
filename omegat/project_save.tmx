@@ -18482,8 +18482,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-click on the package you downloaded.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T131433Z" creationid="pavreh" creationdate="20240217T131433Z">
-        <seg>Dvojklikem se spustí stažený balíček.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T131513Z" creationid="pavreh" creationdate="20240217T131433Z">
+        <seg>Dvojklikněte na stažený balíček.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58580,6 +58580,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T132048Z" creationid="pavreh" creationdate="20240217T132048Z">
+        <seg>Toto nastavení také můžete změnit později editováním &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T180637Z" creationid="Josef" creationdate="20191003T180637Z">
@@ -58773,6 +58781,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152010Z" creationid="Josef" creationdate="20180318T152010Z">
         <seg>Přes svůj Google účet můžete kontrolovat své denní využití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T131743Z" creationid="pavreh" creationdate="20240217T131743Z">
+        <seg>Můžete si vybrat jazyk, který se použije během instalace, a jakzyk, který použije program OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
