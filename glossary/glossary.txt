@@ -11,3 +11,4 @@ versioning system	systém správy verzí
 folder	adresář
 directory	adresář
 tag	tag
+options	možnosti
