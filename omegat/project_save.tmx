@@ -1454,6 +1454,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205457Z" creationid="pavreh" creationdate="20240217T205457Z">
+        <seg>&amp;Předchozí segment z tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T183101Z">
@@ -23628,6 +23636,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205646Z" creationid="pavreh" creationdate="20240217T205646Z">
+        <seg>Zvýraznit přeložené segmen&amp;ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205713Z" creationid="pavreh" creationdate="20240217T205713Z">
+        <seg>&amp;Zvýraznit nepřeložené segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190913Z" creationid="Josef" creationdate="20180309T190913Z">
@@ -33114,6 +33138,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205534Z" creationid="pavreh" creationdate="20240217T205534Z">
+        <seg>Další segm&amp;ent z tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151006T201124Z" creationid="Josef" creationdate="20151006T201124Z">
@@ -37412,6 +37444,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T110650Z" creationid="Josef" creationdate="20190928T110650Z">
         <seg>Režim přepisování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205612Z" creationid="pavreh" creationdate="20240217T205612Z">
+        <seg>Pře&amp;dchozí segment z tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
