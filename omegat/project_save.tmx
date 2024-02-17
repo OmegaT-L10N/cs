@@ -46327,6 +46327,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T172324Z" creationid="pavreh" creationdate="20240217T172324Z">
+        <seg>Složky &lt;c0&gt;plugins&lt;/c0&gt; a &lt;c1&gt;scripts&lt;/c1&gt; mohou být přepsány, takže je můžete chtít před aktualizací zazálohovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T195659Z">
