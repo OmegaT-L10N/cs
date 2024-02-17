@@ -35765,6 +35765,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T212502Z" creationid="pavreh" creationdate="20240217T212502Z">
+        <seg>OmegaT musí znovu načíst projekt, aby se změny vzaly v úvahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101116T062048Z">
