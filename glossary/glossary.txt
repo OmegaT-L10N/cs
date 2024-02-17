@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 tutorial	návod
 sign up	zaregistrovat se
 Neural Machine Translation	Neurální strojový překlad
@@ -7,3 +8,4 @@ versioning systems	systémy sloužící ke správě verzí projektu
 Align Files	Spárovat soubory	zarovna, alignovat
 Aligner	párovací nástroj
 versioning system	systém správy verzí
+folder	adresář
