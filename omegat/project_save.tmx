@@ -31476,6 +31476,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221041Z" creationid="pavreh" creationdate="20240217T221041Z">
+        <seg>Místní příkazy pro dodatečné zpracování (vypnuto):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T221210Z" creationid="pavreh" creationdate="20240217T221210Z">
+        <seg>Místní příkazy pro dodatečné zpracování jsou vypnuty a nebudou prováděny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T193148Z">
