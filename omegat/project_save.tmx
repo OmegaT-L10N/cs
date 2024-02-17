@@ -30074,6 +30074,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225643Z" creationid="pavreh" creationdate="20240217T225643Z">
+        <seg>Zdrojové balíčky Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165141Z" creationid="Josef" creationdate="20150928T165141Z">
@@ -33060,6 +33068,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T094638Z">
         <seg>Chybějící</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225526Z" creationid="pavreh" creationdate="20240217T225526Z">
+        <seg>Chybějící atribut '{0}' v &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42028,6 +42044,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225530Z" creationid="pavreh" creationdate="20240217T225530Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
@@ -42042,6 +42066,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170447Z" creationid="Josef" creationdate="20180309T170447Z">
         <seg>SQLJet (Licence GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225735Z" creationid="pavreh" creationdate="20240217T225735Z">
+        <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -59739,6 +59771,14 @@ Stránka nenalezena.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225804Z" creationid="pavreh" creationdate="20240217T225804Z">
+        <seg>Export Wordpress XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185319Z">
@@ -59995,10 +60035,26 @@ Stránka nenalezena.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225553Z" creationid="pavreh" creationdate="20240217T225553Z">
+        <seg>XLIFF (zastaralý filtr)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF 1</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T225456Z" creationid="pavreh" creationdate="20240217T225456Z">
         <seg>XLIFF 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T225500Z" creationid="pavreh" creationdate="20240217T225500Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
