@@ -38420,6 +38420,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T205156Z" creationid="pavreh" creationdate="20240217T205156Z">
+        <seg>Př&amp;edchozí poznámka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145705Z" creationid="Josef" creationdate="20180318T145705Z">
@@ -39931,6 +39939,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T122348Z">
         <seg>Nástroje regex a příklady použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204925Z" creationid="pavreh" creationdate="20240217T204925Z">
+        <seg>Zapsat i&amp;dentický překlad</seg>
       </tuv>
     </tu>
     <tu>
@@ -43242,6 +43258,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062821Z" creationid="Josef" creationdate="20180310T062821Z">
         <seg>Nastaveno &amp; uloženo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T204906Z" creationid="pavreh" creationdate="20240217T204906Z">
+        <seg>Použít prázdný překlad</seg>
       </tuv>
     </tu>
     <tu>
