@@ -17928,6 +17928,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220439Z" creationid="pavreh" creationdate="20240217T220439Z">
+        <seg>Adresář slovníků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130424T173951Z">
@@ -20687,6 +20695,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130504T044447Z">
         <seg>Exportujte text z PDF do XML formátu programu Infix přes nabídku Document &gt; Translate &gt; Export XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220520Z" creationid="pavreh" creationdate="20240217T220520Z">
+        <seg>Adresář exportovaných překladových pamětí:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36979,8 +36995,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T170943Z" creationid="Josef" creationdate="20180309T170943Z">
-        <seg>Otevříž zapisovatelný soubor glosáře</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220412Z" creationid="Josef" creationdate="20180309T170943Z">
+        <seg>Otevřít zapisovatelný soubor glosáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -55367,6 +55383,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220451Z" creationid="pavreh" creationdate="20240217T220451Z">
+        <seg>Adresář s přeloženými soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080038Z">
@@ -59197,6 +59221,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T062656Z">
         <seg>Práce s prostým textem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T220356Z" creationid="pavreh" creationdate="20240217T220356Z">
+        <seg>Zapisovatelný soubor glosáře:</seg>
       </tuv>
     </tu>
     <tu>
