@@ -9845,6 +9845,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T192953Z" creationid="pavreh" creationdate="20240217T192953Z">
+        <seg>Přidat stránku &amp;MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T193011Z" creationid="pavreh" creationdate="20240217T193011Z">
+        <seg>Přidat stránku MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064006Z">
