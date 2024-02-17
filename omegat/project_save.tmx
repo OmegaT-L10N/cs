@@ -694,6 +694,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211608Z" creationid="pavreh" creationdate="20240217T211608Z">
+        <seg>A&amp;utomatické doplnění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T041118Z">
@@ -1274,6 +1282,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072919Z">
         <seg>ma&amp;lá písmena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211529Z" creationid="pavreh" creationdate="20240217T211529Z">
+        <seg>Strojový překla&amp;d</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,6 +14116,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191441Z" creationid="Josef" creationdate="20180307T191426Z">
         <seg>Zkontrolovat problémy v a&amp;ktuálním dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T211449Z" creationid="pavreh" creationdate="20240217T211449Z">
+        <seg>Zkontrolovat problémy v a&amp;ktuálním souboru</seg>
       </tuv>
     </tu>
     <tu>
