@@ -862,6 +862,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194827Z" creationid="pavreh" creationdate="20240217T194827Z">
+        <seg>&amp;Aktuální zdrojový soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072930Z">
@@ -13484,6 +13492,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T162940Z" creationid="Josef" creationdate="20150928T162940Z">
         <seg>A&amp;ktuální cílový dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194853Z" creationid="pavreh" creationdate="20240217T194853Z">
+        <seg>A&amp;ktuální cílový soubor</seg>
       </tuv>
     </tu>
     <tu>
@@ -37268,6 +37284,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T110650Z" creationid="Josef" creationdate="20190928T110650Z">
         <seg>Režim přepisování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T194742Z" creationid="pavreh" creationdate="20240217T194742Z">
+        <seg>Ad&amp;resář projektu</seg>
       </tuv>
     </tu>
     <tu>
