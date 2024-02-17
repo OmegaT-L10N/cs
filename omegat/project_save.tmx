@@ -40817,6 +40817,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T133845Z" creationid="pavreh" creationdate="20240217T133845Z">
+        <seg>Spuštění skriptu bude vyžadovat, abyste zadali vaše heslo &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130424T184648Z">
