@@ -23676,6 +23676,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T210330Z" creationid="pavreh" creationdate="20240217T210330Z">
+        <seg>Zvýraznit segmenty s &amp;Poznámkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T091039Z">
