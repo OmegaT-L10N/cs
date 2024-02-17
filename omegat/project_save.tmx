@@ -686,6 +686,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T214649Z" creationid="pavreh" creationdate="20240217T214649Z">
+        <seg>Použít tento font pro t&amp;abulková data (seznam zdrojových souborů, statistiky, atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190022Z" creationid="Josef" creationdate="20180309T190022Z">
@@ -44815,6 +44823,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101006T132659Z">
         <seg>Zdrojové texty (soubory na překlad)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240217T214516Z" creationid="pavreh" creationdate="20240217T214516Z">
+        <seg>Délka (znaky) ve zdroji/překladu</seg>
       </tuv>
     </tu>
     <tu>
