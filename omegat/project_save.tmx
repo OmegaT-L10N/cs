@@ -1846,6 +1846,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T065733Z" creationid="pavreh" creationdate="20240218T065733Z">
+        <seg>&amp;Jednoduché proměnné (např. %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T162453Z" creationid="Josef" creationdate="20150928T162453Z">
@@ -10879,6 +10887,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T203202Z">
         <seg>Všechny překlady ze zdrojových dokumentů jsou také zobrazeny v podokně Komentáře, a navíc v podokně Přibližné překlady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T065808Z" creationid="pavreh" creationdate="20240218T065808Z">
+        <seg>Všechny proměnné (např. %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
