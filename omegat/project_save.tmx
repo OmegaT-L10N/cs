@@ -32174,6 +32174,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T070625Z" creationid="pavreh" creationdate="20240218T070625Z">
+        <seg>Strojové překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T080346Z">
@@ -35353,6 +35361,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T171043Z" creationid="Josef" creationdate="20180309T171043Z">
         <seg>Upozorni mě, když jsou pro segment dostupné poznámky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T070502Z" creationid="pavreh" creationdate="20240218T070502Z">
+        <seg>Upozorni mě, když jsou pro segment dostuné přibližné překlady</seg>
       </tuv>
     </tu>
     <tu>
@@ -58704,6 +58720,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T063927Z">
         <seg>Zobrazit nebo editovat filtry souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T070841Z" creationid="pavreh" creationdate="20240218T070841Z">
+        <seg>Zobrazit, přidat, odstranit nebo upravit poznámku v aktivním segmentu.</seg>
       </tuv>
     </tu>
     <tu>
