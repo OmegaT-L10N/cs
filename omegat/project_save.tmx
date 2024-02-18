@@ -23413,6 +23413,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073822Z" creationid="pavreh" creationdate="20240218T073822Z">
+        <seg>Oznámení Git: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access to the five last edited projects.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151001T171127Z" creationid="Josef" creationdate="20151001T171127Z">
