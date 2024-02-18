@@ -46806,6 +46806,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074757Z" creationid="pavreh" creationdate="20240218T074757Z">
+        <seg>Synchronizace úložišť</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145523Z" creationid="Josef" creationdate="20180318T145523Z">
