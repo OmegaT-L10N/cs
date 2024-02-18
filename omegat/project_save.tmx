@@ -21718,6 +21718,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071022Z" creationid="pavreh" creationdate="20240218T071022Z">
+        <seg>Začínáme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130429T164641Z">
@@ -36703,6 +36711,16 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144722Z" creationid="Josef" creationdate="20180318T144722Z">
         <seg>Videa o OmegaT na YouTube kanálu, autor Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071102Z" creationid="pavreh" creationdate="20240218T071102Z">
+        <seg>Programu OmegaT byl odmítnut přístup do systémové oblasti obsahující název vašeho OS anebo do systémové oblasti obsahující váš domovský adresář.</seg>
       </tuv>
     </tu>
     <tu>
