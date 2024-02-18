@@ -54513,6 +54513,15 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071250Z" creationid="pavreh" creationdate="20240218T071250Z">
+        <seg>To obnoví veškeré nastavení na výchozí hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152637Z" creationid="Josef" creationdate="20180318T152637Z">
@@ -61675,6 +61684,15 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T181416Z">
         <seg>Můžete vybrat další překlad stiskem &lt;g0&gt;Ctrl+2, 3, 4, nebo 5&lt;/g0&gt;.&lt;i1/&gt; Nicméně pokud není dostupný návrh č. 5, stiskem &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; ničeho nedocílíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071343Z" creationid="pavreh" creationdate="20240218T071343Z">
+        <seg>Z toho důvodu se můžete setkat s neočekávaným, ale správným chováním.</seg>
       </tuv>
     </tu>
     <tu>
