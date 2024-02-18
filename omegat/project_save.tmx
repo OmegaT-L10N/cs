@@ -20216,6 +20216,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074444Z" creationid="pavreh" creationdate="20240218T074444Z">
+        <seg>Zadejte heslo pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184354Z">
@@ -20453,6 +20461,14 @@ No one hears your screams</seg>
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184937Z" creationid="Josef" creationdate="20180309T184937Z">
+        <seg>Vyskytla se chyba {0} jako soubor vzdáleného projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074744Z" creationid="pavreh" creationdate="20240218T074744Z">
         <seg>Vyskytla se chyba {0} jako soubor vzdáleného projektu</seg>
       </tuv>
     </tu>
@@ -28694,6 +28710,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074510Z" creationid="pavreh" creationdate="20240218T074510Z">
+        <seg>Nesprávné heslo pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect username/password for {0}</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T074301Z" creationid="pavreh" creationdate="20240218T074301Z">
@@ -34578,6 +34602,14 @@ measures.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T072718Z" creationid="pavreh" creationdate="20240218T072718Z">
         <seg>Na vzdáleném serveru nejsou dostupné žádné nové jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074650Z" creationid="pavreh" creationdate="20240218T074650Z">
+        <seg>Nepodařilo se ověřit přihlašovací údaje.</seg>
       </tuv>
     </tu>
     <tu>
