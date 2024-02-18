@@ -22158,6 +22158,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T092841Z" creationid="pavreh" creationdate="20240218T092841Z">
+        <seg>Pro co nejlepší výsledek instalujte odpovídající slovníky přes Předvolby &gt; Kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185433Z" creationid="Josef" creationdate="20180309T185433Z">
@@ -60937,6 +60945,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T173709Z" creationid="Josef" creationdate="20150928T173709Z">
         <seg>Pokoušíte se použít tokenizer HunspellTokenizer s jazykem {0}, ale pro tento jazyk nemáte instalované pravopisné slovníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T092453Z" creationid="pavreh" creationdate="20240218T092453Z">
+        <seg>Pokoušíte se použít tokenizer HunspellTokenizer s {0}, ale pro tento jazyk nemáte instalované pravopisné slovníky.</seg>
       </tuv>
     </tu>
     <tu>
