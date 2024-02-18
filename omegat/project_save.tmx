@@ -1238,6 +1238,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071802Z" creationid="pavreh" creationdate="20240218T071802Z">
+        <seg>&amp;Instalovat nový jazyk...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T061639Z" creationid="Josef" creationdate="20180310T061639Z">
@@ -12603,6 +12611,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072912Z">
         <seg>Dostupné slovníky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T071722Z" creationid="pavreh" creationdate="20240218T071722Z">
+        <seg>Dostupné jazyky:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60538,6 +60554,14 @@ Stránka nenalezena.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T081525Z">
         <seg>Jste uživatelem OmegaT a klient po vás vyžaduje odevzdat překlad v souborovém formátu Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072000Z" creationid="pavreh" creationdate="20240218T072000Z">
+        <seg>Chystáte se odstranit slovník kontroly pravopisu, který váš projekt právě používá.</seg>
       </tuv>
     </tu>
     <tu>
