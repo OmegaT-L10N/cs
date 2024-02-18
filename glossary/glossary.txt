@@ -14,3 +14,4 @@ tag	tag
 options	možnosti
 settings	nastavení
 spellchecking dictionary	slovník kontroly pravopisu
+repeated segment	opakující se segment
