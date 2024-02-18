@@ -39636,6 +39636,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074035Z" creationid="pavreh" creationdate="20240218T074035Z">
+        <seg>Stiskněte 'OK' pro převod projektu do týmového projektu 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184631Z" creationid="Josef" creationdate="20180309T184631Z">
@@ -40178,6 +40186,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170021Z" creationid="Josef" creationdate="20180606T170021Z">
         <seg>Projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074126Z" creationid="pavreh" creationdate="20240218T074126Z">
+        <seg>Převod projektu byl úspěšný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50988,6 +51004,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073856Z" creationid="pavreh" creationdate="20240218T073856Z">
+        <seg>Projekt je v režimu offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T165836Z" creationid="Josef" creationdate="20151130T165836Z">
@@ -51632,6 +51656,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190506Z" creationid="Josef" creationdate="20180309T190506Z">
         <seg>Zadané soubory nejsou podporovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073935Z" creationid="pavreh" creationdate="20240218T073935Z">
+        <seg>Zadaný projekt je týmový projekt OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54597,6 +54629,16 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101116T061421Z">
         <seg>Tyto webové stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074055Z" creationid="pavreh" creationdate="20240218T074055Z">
+        <seg>Toto smaže lokální data a znovu nahraje obsah projektu ze serveru.</seg>
       </tuv>
     </tu>
     <tu>
