@@ -34485,6 +34485,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072718Z" creationid="pavreh" creationdate="20240218T072718Z">
+        <seg>Na vzdáleném serveru nejsou dostupné žádné nové jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170014Z" creationid="Josef" creationdate="20180606T170014Z">
@@ -43971,6 +43979,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072907Z" creationid="pavreh" creationdate="20240218T072907Z">
+        <seg>Vyberte soubor s pluginem (*.jar, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T165336Z" creationid="Josef" creationdate="20191003T165336Z">
@@ -44071,6 +44087,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121016T060609Z">
         <seg>označte takovou zálohu překladové paměti, třeba tu nejnovější, nebo poslední z předchozího dne, která nejvíce pravděpodobně obsahuje hledaná data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072643Z" creationid="pavreh" creationdate="20240218T072643Z">
+        <seg>Vyberte požadované jazyky a klikněte na instalovat.</seg>
       </tuv>
     </tu>
     <tu>
