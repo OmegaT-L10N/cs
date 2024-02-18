@@ -15788,6 +15788,15 @@ Výstupem je soubor pseudopřekladu překladové paměti TMX.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074155Z" creationid="pavreh" creationdate="20240218T074155Z">
+        <seg>Kontaktujte svého administrátora projektu pro zjištění, jestli bude nutno provést dodatečné kroky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T175915Z">
@@ -20211,6 +20220,22 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184354Z">
         <seg>Vložte číslo segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074434Z" creationid="pavreh" creationdate="20240218T074434Z">
+        <seg>Zadejte uživatelské jméno pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074404Z" creationid="pavreh" creationdate="20240218T074404Z">
+        <seg>Zadejte své přihlašovací údaje pro {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28665,6 +28690,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T171726Z" creationid="Josef" creationdate="20151007T171726Z">
         <seg>Nestejná čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect username/password for {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074301Z" creationid="pavreh" creationdate="20240218T074301Z">
+        <seg>Nesprávné uživatelské jméno/heslo pro {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40186,6 +40219,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170021Z" creationid="Josef" creationdate="20180606T170021Z">
         <seg>Projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T074224Z" creationid="pavreh" creationdate="20240218T074224Z">
+        <seg>Převod projektu selhal.</seg>
       </tuv>
     </tu>
     <tu>
