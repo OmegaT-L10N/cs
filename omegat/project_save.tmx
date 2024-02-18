@@ -32686,6 +32686,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T065503Z" creationid="pavreh" creationdate="20240218T065503Z">
+        <seg>Označit všechny opakující se segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130510T183012Z">
@@ -45805,6 +45813,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T065546Z" creationid="pavreh" creationdate="20240218T065546Z">
+        <seg>Standardní šablona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T125519Z" creationid="pavreh" creationdate="20240217T125519Z">
@@ -57483,6 +57499,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T065234Z">
         <seg>Použít &amp;XML pro nepárové tagy (např. &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T065358Z" creationid="pavreh" creationdate="20240218T065358Z">
+        <seg>Použít zápis &amp;XML pro nepárové tagy (např. &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
