@@ -14064,6 +14064,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T070305Z" creationid="pavreh" creationdate="20240218T070305Z">
+        <seg>Změna pořadí tagů může poškodit přeložený soubor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T054734Z">
@@ -18579,6 +18587,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T071423Z">
+        <seg>Zde se zobrazí segmenty překladové paměti, které odpovídají zdrojovému segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T070434Z" creationid="pavreh" creationdate="20240218T070434Z">
         <seg>Zde se zobrazí segmenty překladové paměti, které odpovídají zdrojovému segmentu.</seg>
       </tuv>
     </tu>
