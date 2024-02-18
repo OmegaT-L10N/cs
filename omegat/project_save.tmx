@@ -15624,6 +15624,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072048Z" creationid="pavreh" creationdate="20240218T072048Z">
+        <seg>Potvrďte odstranění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T063732Z">
@@ -17548,6 +17556,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072023Z" creationid="pavreh" creationdate="20240218T072023Z">
+        <seg>&amp;Odstranit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T062807Z">
@@ -17744,6 +17760,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T061647Z" creationid="Josef" creationdate="20191005T061647Z">
         <seg>Smazání zdrojových souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072145Z" creationid="pavreh" creationdate="20240218T072129Z">
+        <seg>Odstraňování selhalo</seg>
       </tuv>
     </tu>
     <tu>
@@ -28961,6 +28985,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152334Z" creationid="Josef" creationdate="20180318T152334Z">
         <seg>Instalujte druhou, ne-výchozí verzi Javy na systémové úrovni, spusťte OmegaT přímo za použití této verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072156Z" creationid="pavreh" creationdate="20240218T072156Z">
+        <seg>Instalace selhala</seg>
       </tuv>
     </tu>
     <tu>
@@ -51500,6 +51532,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072303Z" creationid="pavreh" creationdate="20240218T072303Z">
+        <seg>Zadaný adresář slovníků kontroly pravopisu nemůže být použit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T171507Z" creationid="Josef" creationdate="20150928T171507Z">
@@ -56906,6 +56946,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T213653Z" creationid="pavreh" creationdate="20240217T213653Z">
         <seg>Nelze vytvořit přeložené soubory kvůli chybějícím nebo poškozeným tagům. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072108Z" creationid="pavreh" creationdate="20240218T072108Z">
+        <seg>Nelze odstranit vybraný slovník</seg>
       </tuv>
     </tu>
     <tu>
