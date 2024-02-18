@@ -13,3 +13,4 @@ directory	adresář
 tag	tag
 options	možnosti
 settings	nastavení
+spellchecking dictionary	slovník kontroly pravopisu
