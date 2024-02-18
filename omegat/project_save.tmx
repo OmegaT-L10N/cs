@@ -9491,6 +9491,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072521Z" creationid="pavreh" creationdate="20240218T072521Z">
+        <seg>Pravidlo ID smí obsahovat pouze písmena latinské abecedy, podrtržítka a tečky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130506T153843Z">
@@ -11347,6 +11355,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T171042Z" creationid="Josef" creationdate="20150928T171042Z">
         <seg>Během stahování slovníku se vyskytla chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072445Z" creationid="pavreh" creationdate="20240218T072445Z">
+        <seg>Během stahování slovníku kontroly pravopisu se vyskytla chyba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51540,6 +51556,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072348Z" creationid="pavreh" creationdate="20240218T072348Z">
+        <seg>Zadaný adresář slovníků kontroly pravopisu neexistuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T171507Z" creationid="Josef" creationdate="20150928T171507Z">
@@ -56648,6 +56672,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145707Z" creationid="Josef" creationdate="20180318T145707Z">
         <seg>Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T072458Z" creationid="pavreh" creationdate="20240218T072458Z">
+        <seg>Zkuste to později.</seg>
       </tuv>
     </tu>
     <tu>
