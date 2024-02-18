@@ -20191,6 +20191,14 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073309Z" creationid="pavreh" creationdate="20240218T073309Z">
+        <seg>Zadejte název této sady:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151006T050552Z" creationid="Josef" creationdate="20151006T050552Z">
@@ -20485,6 +20493,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T112010Z" creationid="Josef" creationdate="20190928T112010Z">
         <seg>Při aktualizaci repozitáře se vyskytla chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073604Z" creationid="pavreh" creationdate="20240218T073604Z">
+        <seg>Během automatického ukládání se vyskytla chyba: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20985,6 +21001,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T220520Z" creationid="pavreh" creationdate="20240217T220520Z">
         <seg>Adresář exportovaných překladových pamětí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073427Z" creationid="pavreh" creationdate="20240218T073427Z">
+        <seg>Adresář pro exportované překladové paměti {0} neexistuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34557,6 +34581,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073458Z" creationid="pavreh" creationdate="20240218T073458Z">
+        <seg>Zapisovatelný soubor glosáře není v adresáři glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063000Z" creationid="Josef" creationdate="20180310T063000Z">
@@ -42298,6 +42330,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T200900Z">
         <seg>Spusťte aplikaci &lt;a0&gt;OmegaT&lt;/a0&gt; běžným způsobem (přes grafické uživatelské prostředí / GUI) a zvolte vhodné nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073251Z" creationid="pavreh" creationdate="20240218T073251Z">
+        <seg>Spustit skript ve slotu #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56270,6 +56310,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151235Z" creationid="Josef" creationdate="20180318T151232Z">
         <seg>Přeložte tento soubor běžným způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240218T073341Z" creationid="pavreh" creationdate="20240218T073341Z">
+        <seg>Přeložte tento výskyt plurálu jako plurál #{0}.</seg>
       </tuv>
     </tu>
     <tu>
