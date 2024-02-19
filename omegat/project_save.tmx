@@ -16747,6 +16747,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T162307Z" creationid="pavreh" creationdate="20240219T162307Z">
+        <seg>Vytvořte adresář projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T055444Z">
