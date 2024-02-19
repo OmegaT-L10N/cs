@@ -20434,8 +20434,8 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T170930Z" creationid="Josef" creationdate="20150928T170930Z">
-        <seg>Záznamy ze zapisovatelného glosáře jsou zobrazeny tučně</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T160540Z" creationid="Josef" creationdate="20150928T170930Z">
+        <seg>Záznamy ze zapisovatelného glosáře jsou zobrazeny tučně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58401,6 +58401,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T210824Z" creationid="pavreh" creationdate="20240217T210824Z">
         <seg>Použít nucené záložní &amp;fonty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T160742Z" creationid="pavreh" creationdate="20240219T160742Z">
+        <seg>Použijte Vytvořit nový záznam Glosáře v nabídce Upravit, abyste přidali nový záznam.</seg>
       </tuv>
     </tu>
     <tu>
