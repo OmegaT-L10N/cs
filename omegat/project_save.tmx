@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18661,6 +18661,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T054814Z">
         <seg>Zobrazí informace o autorských právech, poděkování a licenci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T160526Z" creationid="pavreh" creationdate="20240219T160526Z">
+        <seg>Zde se zobrazí záznamy ze souborů glosářů uložených v adresáři /glossary/, jestliže jsou nalezeny ve zdrojovém segmentu.</seg>
       </tuv>
     </tu>
     <tu>
