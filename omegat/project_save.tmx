@@ -21222,6 +21222,22 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155042Z" creationid="pavreh" creationdate="20240219T155042Z">
+        <seg>Příkaz externího hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T154935Z" creationid="pavreh" creationdate="20240219T154935Z">
+        <seg>URL externího hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192505Z" creationid="Josef" creationdate="20180307T192505Z">
@@ -33143,6 +33159,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155105Z" creationid="pavreh" creationdate="20240219T155105Z">
+        <seg>Hlavní heslo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185452Z">
@@ -35078,6 +35102,14 @@ measures.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151122Z" creationid="Josef" creationdate="20180318T151122Z">
         <seg>Ne všechny CAT nástroje poskytují stejnou míru tolerance a některé proto nezobrazí očekávané shody, pokud jazykové kódy nejsou dostatečně vyhovující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155100Z" creationid="pavreh" creationdate="20240219T155100Z">
+        <seg>Nepřiřazeno</seg>
       </tuv>
     </tu>
     <tu>
@@ -44831,6 +44863,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062821Z" creationid="Josef" creationdate="20180310T062821Z">
+        <seg>Nastaveno &amp; uloženo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155111Z" creationid="pavreh" creationdate="20240219T155111Z">
         <seg>Nastaveno &amp; uloženo</seg>
       </tuv>
     </tu>
