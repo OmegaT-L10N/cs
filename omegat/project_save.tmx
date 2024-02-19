@@ -62810,14 +62810,6 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Your project does not seem to contain translatable files.</seg>
-      </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240219T162615Z" creationid="pavreh" creationdate="20240219T162615Z">
-        <seg>ZVáš projekt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151001T164100Z" creationid="Josef" creationdate="20151001T164100Z">
