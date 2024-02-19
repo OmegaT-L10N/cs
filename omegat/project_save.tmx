@@ -22730,6 +22730,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T162039Z" creationid="pavreh" creationdate="20240219T162039Z">
+        <seg>V případě formátů souborů a filtrů, které podporují komentáře (např. PO-filtr), se zde zobrazí komentáře pro překladatele, které se týkají aktivního segmentu, jsou-li nějaké.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145034Z" creationid="Josef" creationdate="20180318T145034Z">
