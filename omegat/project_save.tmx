@@ -5849,6 +5849,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141746Z" creationid="pavreh" creationdate="20240219T141746Z">
+        <seg>&lt;html&gt;Můžete přidat vzory za použití zástupných znaků (Apache Ant formát): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Příklad: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185639Z" creationid="Josef" creationdate="20180309T185639Z">
@@ -23686,6 +23694,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141917Z" creationid="pavreh" creationdate="20240219T141917Z">
+        <seg>Shody z glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T185531Z" creationid="Josef" creationdate="20180308T185531Z">
@@ -30971,6 +30987,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141910Z" creationid="pavreh" creationdate="20240219T141910Z">
+        <seg>Jazyková korektura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163327Z">
@@ -33135,6 +33159,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141927Z" creationid="pavreh" creationdate="20240219T141927Z">
+        <seg>Změněné přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T084626Z">
@@ -33147,6 +33179,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T131848Z">
         <seg>Nastavení Podokna Přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141934Z" creationid="pavreh" creationdate="20240219T141934Z">
+        <seg>Nezměněné přibližné překlady</seg>
       </tuv>
     </tu>
     <tu>
@@ -41681,6 +41721,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T130055Z">
         <seg>Za použití funkce Ověření tagů je oprava tagů a opětovné vytvoření cílových dokumentů opravdu jednoduché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141819Z" creationid="pavreh" creationdate="20240219T141819Z">
+        <seg>Opakující se segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141839Z" creationid="pavreh" creationdate="20240219T141839Z">
+        <seg>Pozadí opakujících se segmentů</seg>
       </tuv>
     </tu>
     <tu>
