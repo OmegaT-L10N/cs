@@ -33367,6 +33367,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T161004Z" creationid="pavreh" creationdate="20240219T161004Z">
+        <seg>Shody pocházejí z vašeho současného překladu nebo ze souborů umístěných v adresáři /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches deleted active</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240219T142003Z" creationid="pavreh" creationdate="20240219T142003Z">
