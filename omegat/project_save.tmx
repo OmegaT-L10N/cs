@@ -9471,6 +9471,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T161229Z" creationid="pavreh" creationdate="20240219T161229Z">
+        <seg>Poznámka je jen komentářem ke zdrojovému textu nebo jeho překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T122351Z">
@@ -30205,6 +30213,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120927T180346Z">
         <seg>Někdy se to totiž může hodit, když je možno definovat tagy podle hodnoty jejich atributů, a tyto tagy pak nepřekládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T161248Z" creationid="pavreh" creationdate="20240219T161248Z">
+        <seg>Je uležena v souboru TMX.</seg>
       </tuv>
     </tu>
     <tu>
