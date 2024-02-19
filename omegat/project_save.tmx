@@ -10709,10 +10709,26 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142113Z" creationid="pavreh" creationdate="20240219T142113Z">
+        <seg>Skupina „Akceptováno“ pro párovací nástroj Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T062730Z" creationid="Josef" creationdate="20180309T185833Z">
         <seg>Skupina "Potřebuje kontrolu" pro párovací nástroj Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142129Z" creationid="pavreh" creationdate="20240219T142129Z">
+        <seg>Skupina „Potřebuje kontrolu“ pro párovací nástroj Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -10728,6 +10744,22 @@ the above requirements apply either way.</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T062751Z" creationid="Josef" creationdate="20180309T185906Z">
+        <seg>Zvýraznění řádku tabulky pro párovací nástroj Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142233Z" creationid="pavreh" creationdate="20240219T142233Z">
+        <seg>Zvýraznění pro párovací nástroj Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142243Z" creationid="pavreh" creationdate="20240219T142243Z">
         <seg>Zvýraznění řádku tabulky pro párovací nástroj Aligner</seg>
       </tuv>
     </tu>
@@ -33167,6 +33199,38 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142003Z" creationid="pavreh" creationdate="20240219T142003Z">
+        <seg>Aktivní smazané přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142008Z" creationid="pavreh" creationdate="20240219T142008Z">
+        <seg>Neaktivní smazané přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141942Z" creationid="pavreh" creationdate="20240219T141942Z">
+        <seg>Aktivní vložené přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141956Z" creationid="pavreh" creationdate="20240219T141956Z">
+        <seg>Neaktivní vložené přibližné překlady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T084626Z">
@@ -43307,6 +43371,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142032Z" creationid="pavreh" creationdate="20240219T142032Z">
+        <seg>Hledat značku nalezeného</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T094159Z">
@@ -43343,6 +43415,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T060038Z">
         <seg>Hledat v projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142041Z" creationid="pavreh" creationdate="20240219T142041Z">
+        <seg>Hledat značku nahrazeného</seg>
       </tuv>
     </tu>
     <tu>
