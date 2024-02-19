@@ -34622,6 +34622,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153905Z" creationid="pavreh" creationdate="20240219T153905Z">
+        <seg>Ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170117Z" creationid="Josef" creationdate="20180606T170117Z">
@@ -56879,6 +56887,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153839Z" creationid="pavreh" creationdate="20240219T153814Z">
+        <seg>Překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190343Z" creationid="Josef" creationdate="20180309T190343Z">
@@ -61009,6 +61025,14 @@ Stránka nenalezena.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153751Z" creationid="pavreh" creationdate="20240219T153751Z">
+        <seg>Ano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T170150Z">
@@ -64802,6 +64826,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153841Z" creationid="pavreh" creationdate="20240219T153827Z">
+        <seg>je přibližný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fy</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103911Z" creationid="Josef" creationdate="20180317T103911Z">
@@ -67470,8 +67502,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>no</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T103650Z" creationid="Josef" creationdate="20180317T103650Z">
-        <seg>no</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153800Z" creationid="Josef" creationdate="20180317T103650Z">
+        <seg>ne</seg>
       </tuv>
     </tu>
     <tu>
@@ -67496,6 +67528,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103651Z" creationid="Josef" creationdate="20180317T103651Z">
         <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T153851Z" creationid="pavreh" creationdate="20240219T153851Z">
+        <seg>není přibližný</seg>
       </tuv>
     </tu>
     <tu>
