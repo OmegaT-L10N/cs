@@ -1182,6 +1182,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155626Z" creationid="pavreh" creationdate="20240219T155626Z">
+        <seg>Přejít na &amp;Stahování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184134Z">
@@ -1258,6 +1266,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T071802Z" creationid="pavreh" creationdate="20240218T071802Z">
         <seg>&amp;Instalovat nový jazyk...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155545Z" creationid="pavreh" creationdate="20240219T155545Z">
+        <seg>&amp;Instalovat pluginy z disku</seg>
       </tuv>
     </tu>
     <tu>
@@ -21066,6 +21082,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T185408Z">
         <seg>Spusťte tento soubor a OmegaT bude nyní spuštěna s funkcí tokenizeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155844Z" creationid="pavreh" creationdate="20240219T155844Z">
+        <seg>Vykonává se příkaz: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46224,6 +46248,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155812Z" creationid="pavreh" creationdate="20240219T155812Z">
+        <seg>Zdrojový tokenizer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T214516Z" creationid="pavreh" creationdate="20240217T214516Z">
@@ -47798,6 +47830,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T132124Z">
         <seg>Cílový text přibližného překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155823Z" creationid="pavreh" creationdate="20240219T155823Z">
+        <seg>Cílový tokenizer: {0}</seg>
       </tuv>
     </tu>
     <tu>
