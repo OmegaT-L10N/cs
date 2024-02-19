@@ -12495,6 +12495,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155529Z" creationid="pavreh" creationdate="20240219T155529Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match when the match was created</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T163740Z" creationid="Josef" creationdate="20180308T163740Z">
@@ -14932,6 +14940,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163913Z">
         <seg>Čuvaština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155519Z" creationid="pavreh" creationdate="20240219T155519Z">
+        <seg>Třída</seg>
       </tuv>
     </tu>
     <tu>
@@ -29314,6 +29330,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T045756Z">
         <seg>Instalace a použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T155501Z" creationid="pavreh" creationdate="20240219T155501Z">
+        <seg>Nainstalované pluginy:</seg>
       </tuv>
     </tu>
     <tu>
