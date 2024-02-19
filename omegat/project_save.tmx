@@ -33267,8 +33267,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T173825Z" creationid="Josef" creationdate="20150928T173825Z">
-        <seg>Sločit</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141441Z" creationid="Josef" creationdate="20150928T173825Z">
+        <seg>Sloučit</seg>
       </tuv>
     </tu>
     <tu>
@@ -42075,6 +42075,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T190035Z" creationid="Josef" creationdate="20180309T190035Z">
         <seg>Rozřešit konflikty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T141636Z" creationid="pavreh" creationdate="20240219T141636Z">
+        <seg>Vyřešte konflikt výběrem překladu pro každý z níže uvedených segmentů.</seg>
       </tuv>
     </tu>
     <tu>
