@@ -1654,6 +1654,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142339Z" creationid="pavreh" creationdate="20240219T142339Z">
+        <seg>Z&amp;rušit barvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062736Z" creationid="Josef" creationdate="20180310T062736Z">
@@ -5844,6 +5852,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185948Z" creationid="Josef" creationdate="20180309T185948Z">
+        <seg>&lt;html&gt;&lt;i&gt;Předvolby&lt;/i&gt; &amp;gt; &lt;i&gt;Obecné&lt;/i&gt; &amp;gt; &lt;i&gt;Použít TAB pro postup&lt;/i&gt; musí být aktivní&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T142543Z" creationid="pavreh" creationdate="20240219T142543Z">
         <seg>&lt;html&gt;&lt;i&gt;Předvolby&lt;/i&gt; &amp;gt; &lt;i&gt;Obecné&lt;/i&gt; &amp;gt; &lt;i&gt;Použít TAB pro postup&lt;/i&gt; musí být aktivní&lt;/html&gt;</seg>
       </tuv>
     </tu>
