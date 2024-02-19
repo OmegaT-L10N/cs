@@ -15933,6 +15933,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T154911Z" creationid="pavreh" creationdate="20240219T154911Z">
+        <seg>Priorita kontextové nabídky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T191002Z" creationid="Josef" creationdate="20180309T191002Z">
@@ -27980,6 +27988,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T154856Z" creationid="pavreh" creationdate="20240219T154856Z">
+        <seg>V Editoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151015Z" creationid="Josef" creationdate="20180318T151015Z">
@@ -32163,6 +32179,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T221210Z" creationid="pavreh" creationdate="20240217T221210Z">
         <seg>Místní příkazy pro dodatečné zpracování jsou vypnuty a nebudou prováděny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T154750Z" creationid="pavreh" creationdate="20240219T154750Z">
+        <seg>Z bezpečnostních důvodů jsou příkazy místního projektu vypnuty.</seg>
       </tuv>
     </tu>
     <tu>
