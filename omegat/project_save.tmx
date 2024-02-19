@@ -17661,6 +17661,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T162536Z" creationid="pavreh" creationdate="20240219T162536Z">
+        <seg>Vlastní větev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom colours...</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151004T102905Z" creationid="Josef" creationdate="20151004T102905Z">
@@ -17809,6 +17817,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064344Z">
         <seg>Výchozí nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T162323Z" creationid="pavreh" creationdate="20240219T162323Z">
+        <seg>Výchozí větev</seg>
       </tuv>
     </tu>
     <tu>
@@ -62790,6 +62806,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T182352Z">
         <seg>Váš projekt neobsahuje žádné soubory v podporovaném formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240219T162615Z" creationid="pavreh" creationdate="20240219T162615Z">
+        <seg>ZVáš projekt</seg>
       </tuv>
     </tu>
     <tu>
