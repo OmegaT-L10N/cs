@@ -48258,6 +48258,16 @@ this License.</seg>
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T065330Z" creationid="pavreh" creationdate="20240220T065330Z">
+        <seg>Nahrazení textu:
+Nahrazení platí pro cílové segmenty projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T171805Z" creationid="Josef" creationdate="20151130T171805Z">
