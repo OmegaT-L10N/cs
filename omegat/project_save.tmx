@@ -57910,6 +57910,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T072612Z" creationid="pavreh" creationdate="20240220T072612Z">
+        <seg>Odškrtněte políčko, abyste ho zakázali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T165533Z" creationid="Josef" creationdate="20191003T165533Z">
