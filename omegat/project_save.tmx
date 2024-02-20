@@ -43393,6 +43393,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T063635Z" creationid="pavreh" creationdate="20240220T063635Z">
+        <seg>Rozsah:
+Hledání platí pro projekt a ve výchozím nastavení pokrývá jeho zdrojový a cílový text, jeho překladové paměti, glosáře, poznámky a komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T171239Z" creationid="Josef" creationdate="20151130T171239Z">
