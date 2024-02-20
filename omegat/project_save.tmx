@@ -2150,6 +2150,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T065117Z" creationid="pavreh" creationdate="20240220T065117Z">
+        <seg>Znak '*' představuje nula nebo více znaků ('run*' najde 'run', 'runs', 'running', atd.)
+znak '?'  představuje přesně jeden znak ('run?' najde 'runs' a 'rung', ale ne 'run' nebo 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -60629,6 +60639,16 @@ technological measures.</seg>
     <tu>
       <tuv lang="en">
         <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T064848Z" creationid="pavreh" creationdate="20240220T064848Z">
+        <seg>Zástupné znaky:
+Jak přesné vyhledávání, tak vyhledávání podle klíčových slov podporuje užití zástupných znaků * a ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T171548Z" creationid="Josef" creationdate="20151130T171506Z">
@@ -70834,6 +70854,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121020T160055Z">
         <seg>kde &lt;e0&gt;{adresář}&lt;/e0&gt; představuje název adresáře s kompletní cestou, ve kterém je program &lt;a1&gt;OmegaT&lt;/a1&gt; umístěn – doslova tedy, kde je umístěn soubor &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T064852Z" creationid="pavreh" creationdate="20240220T064852Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
