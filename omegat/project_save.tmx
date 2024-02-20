@@ -44655,6 +44655,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T071813Z" creationid="pavreh" creationdate="20240220T071813Z">
+        <seg>Vyberte filtr a klikněte na Editovat... nebo Možnosti..., abyste ho přizpůsobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T072907Z" creationid="pavreh" creationdate="20240218T072907Z">
