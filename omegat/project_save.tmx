@@ -3018,6 +3018,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T055420Z" creationid="pavreh" creationdate="20240220T055420Z">
+        <seg>- přetáhněte soubory do tohoto podokna;
+- použijte Projekt &gt; Přidat soubory...;
+- použijte Projekt &gt; Zdrojové soubory... a klikněte na Přidat soubory...;
+- použijte váš správce souborů a zkopírujte soubory do adresáře 'source',
+a poté použijte Projekt &gt; Znovu načíst, aby se znovu načetl projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T060332Z">
@@ -55523,6 +55539,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T054627Z" creationid="pavreh" creationdate="20240220T054627Z">
+        <seg>Abyste přidali soubory do projektu, můžete:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T184023Z" creationid="Josef" creationdate="20191003T184023Z">
@@ -62806,6 +62830,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T182352Z">
         <seg>Váš projekt neobsahuje žádné soubory v podporovaném formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T054607Z" creationid="pavreh" creationdate="20240220T054607Z">
+        <seg>Zdá se, že váš projekt neobsahuje přeložitelné soubory.</seg>
       </tuv>
     </tu>
     <tu>
