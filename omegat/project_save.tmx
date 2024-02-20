@@ -20039,8 +20039,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Editor</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T101732Z" creationid="Josef" creationdate="20180317T101732Z">
-        <seg>V Editoru</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T070527Z" creationid="Josef" creationdate="20180317T101732Z">
+        <seg>Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -28159,8 +28159,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In editor</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240220T065711Z" creationid="pavreh" creationdate="20240219T154856Z">
-        <seg>Do Editoru</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T070408Z" creationid="pavreh" creationdate="20240219T154856Z">
+        <seg>V Editoru</seg>
       </tuv>
     </tu>
     <tu>
