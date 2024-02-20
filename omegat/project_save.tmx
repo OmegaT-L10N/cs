@@ -43788,6 +43788,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T064009Z" creationid="pavreh" creationdate="20240220T064009Z">
+        <seg>Hledání lze také provést na určité adresářové struktuře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T182111Z">
@@ -55440,6 +55448,14 @@ your copyrighted material outside their relationship with you.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T164937Z">
         <seg>Tibetština standardní, centrální tibetština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T063826Z" creationid="pavreh" creationdate="20240220T063826Z">
+        <seg>Zaškrtněte nebo odškrtněte příslušná políčka, abyste změnili toto nastavení.</seg>
       </tuv>
     </tu>
     <tu>
