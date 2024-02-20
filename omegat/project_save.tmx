@@ -16282,6 +16282,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T062141Z" creationid="pavreh" creationdate="20240220T062141Z">
+        <seg>Chyba kopírování do schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121016T060614Z">
@@ -51584,6 +51592,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T083322Z">
         <seg>Projekt ukázaný v příkladě je zjevně již kompletní, protože ukazuje, že všechny jedinečné segmenty byly přeloženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T062101Z" creationid="pavreh" creationdate="20240220T062101Z">
+        <seg>Projekt je prázdný</seg>
       </tuv>
     </tu>
     <tu>
