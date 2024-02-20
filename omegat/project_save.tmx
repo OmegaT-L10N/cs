@@ -3058,6 +3058,21 @@ a poté použijte Projekt &gt; Znovu načíst, aby se znovu načetl projekt.</se
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T060034Z" creationid="pavreh" creationdate="20240220T055716Z">
+        <seg>- ověřte, že je jejich formát podporován aplikací OmegaT:
+jestliže jsou povolena nastavení místního filtru, použijte Projekt &gt; Vlastnosti... &gt; Místní filtry souborů...;
+jinak použijte Možnosti &gt; Obecné filtry souborů...;
+- otevřete je v jejich původní aplikaci a ověřte, že nejsou prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T172101Z" creationid="Josef" creationdate="20151130T172101Z">
@@ -26323,6 +26338,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T165752Z" creationid="Josef" creationdate="20180317T165420Z">
         <seg>Pokud je program interaktivní, zařiďte, aby se při startu v interaktivním módu vypsalo hlášení podobné tomuto: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T055524Z" creationid="pavreh" creationdate="20240220T055524Z">
+        <seg>Jestliže projekt obsahuje soubory, ale jejich obsah není zobrazen zde:</seg>
       </tuv>
     </tu>
     <tu>
