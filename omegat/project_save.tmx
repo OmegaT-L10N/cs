@@ -1600,8 +1600,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Redo</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T195035Z" creationid="pavreh" creationdate="20240217T195035Z">
-        <seg>&amp;Obnovit</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240220T062426Z" creationid="pavreh" creationdate="20240217T195035Z">
+        <seg>&amp;Znovu</seg>
       </tuv>
     </tu>
     <tu>
