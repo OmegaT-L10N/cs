@@ -31614,8 +31614,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T171522Z" creationid="Josef" creationdate="20180309T171522Z">
-        <seg>LanguageTool: server vrátilXML, zatímco bylo očekáváno JSON</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051746Z" creationid="Josef" creationdate="20180309T171522Z">
+        <seg>LanguageTool: server vrátil XML, zatímco bylo očekáváno JSON.</seg>
       </tuv>
     </tu>
     <tu>
