@@ -912,8 +912,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T170549Z" creationid="Josef" creationdate="20180309T170549Z">
-        <seg>&amp;Zkopírovat informace o podpoře</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051308Z" creationid="Josef" creationdate="20180309T170549Z">
+        <seg>&amp;Zkopírovat informace pro podporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -30976,6 +30976,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T165904Z" creationid="Josef" creationdate="20180606T165904Z">
         <seg>Jean-Christophe Helary (vlastník skupiny podpory, správce lokalizace)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051129Z" creationid="pavreh" creationdate="20240221T051129Z">
+        <seg>Projektový manažer OmegaT je Jean-Christophe Helary.</seg>
       </tuv>
     </tu>
     <tu>
