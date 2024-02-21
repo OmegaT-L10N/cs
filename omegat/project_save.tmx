@@ -42864,6 +42864,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124614Z" creationid="pavreh" creationdate="20240221T124614Z">
+        <seg>Restartujte OmegaT, aby se tyto změny projevily</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072517Z">
