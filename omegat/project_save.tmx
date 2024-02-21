@@ -2040,8 +2040,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164446Z" creationid="Josef" creationdate="20150928T164446Z">
-        <seg>Přeložen&amp;o</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T065841Z" creationid="Josef" creationdate="20150928T164446Z">
+        <seg>Pře&amp;loženo</seg>
       </tuv>
     </tu>
     <tu>
@@ -57182,8 +57182,8 @@ install.sh.</seg>
       <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164510Z" creationid="Josef" creationdate="20150928T164510Z">
-        <seg>Pře&amp;loženo nebo nepřeloženo</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T065832Z" creationid="Josef" creationdate="20150928T164510Z">
+        <seg>Přeloženo ne&amp;bo nepřeloženo</seg>
       </tuv>
     </tu>
     <tu>
