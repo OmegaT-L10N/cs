@@ -44582,6 +44582,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T170925Z" creationid="pavreh" creationdate="20240221T170925Z">
+        <seg>Instrukce naleznete v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T052853Z">
