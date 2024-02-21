@@ -14417,6 +14417,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T113937Z" creationid="pavreh" creationdate="20240221T113937Z">
+        <seg>Znaky (s mezerami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T113838Z" creationid="pavreh" creationdate="20240221T113838Z">
@@ -41918,6 +41926,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114127Z" creationid="pavreh" creationdate="20240221T114127Z">
+        <seg>Zbývající znaky (s mezerami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114021Z" creationid="pavreh" creationdate="20240221T114021Z">
+        <seg>Zbývající znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185425Z">
@@ -57084,6 +57108,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114059Z" creationid="pavreh" creationdate="20240221T114059Z">
+        <seg>Znaky celkem (s mezerami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114007Z" creationid="pavreh" creationdate="20240221T114007Z">
+        <seg>Znaky celkem (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185415Z">
@@ -58328,6 +58368,22 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114147Z" creationid="pavreh" creationdate="20240221T114147Z">
+        <seg>Jedinečné znaky (s mezerami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114032Z" creationid="pavreh" creationdate="20240221T114032Z">
+        <seg>Jedinečné znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185427Z">
@@ -58340,6 +58396,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185449Z">
         <seg>Jedinečné zbývající znaky (včetně mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114044Z" creationid="pavreh" creationdate="20240221T114044Z">
+        <seg>Zbývající jedinečné znaky (bez mezer)</seg>
       </tuv>
     </tu>
     <tu>
