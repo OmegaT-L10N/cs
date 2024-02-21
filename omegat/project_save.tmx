@@ -31324,6 +31324,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T042143Z" creationid="pavreh" creationdate="20240221T042143Z">
+        <seg>Jazykové sady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103115Z" creationid="Josef" creationdate="20180317T103115Z">
@@ -46503,6 +46511,16 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T183437Z" creationid="Josef" creationdate="20191003T183437Z">
         <seg>Specifické parametry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T042450Z" creationid="pavreh" creationdate="20240221T042450Z">
+        <seg>Konkrétní sady by se měly dát nad obecné sady:
+„FR-CA“ by mělo být nad „FR.*“, a to by mělo být nad „.*“.</seg>
       </tuv>
     </tu>
     <tu>
