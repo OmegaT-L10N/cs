@@ -55241,6 +55241,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T050155Z" creationid="pavreh" creationdate="20240221T050155Z">
+        <seg>Tato volba nastavuje interval ukládání dat projektu, který také platí pro synchronizaci týmových dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T183953Z">
