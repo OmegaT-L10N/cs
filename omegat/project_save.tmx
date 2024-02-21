@@ -16804,6 +16804,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T170623Z" creationid="pavreh" creationdate="20240221T170623Z">
+        <seg>Nelze odstranit {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T060357Z">
