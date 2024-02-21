@@ -36859,6 +36859,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T172959Z" creationid="pavreh" creationdate="20240221T172959Z">
+        <seg>OmegaT nemá přístup ke vzdálenému repozitáři: ověřte připojení nebo vaše přihlašovací údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130506T150621Z">
@@ -47881,8 +47889,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T171936Z" creationid="Josef" creationdate="20180309T171936Z">
-        <seg>Monžosti shody TM</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T172723Z" creationid="Josef" creationdate="20180309T171936Z">
+        <seg>Možnosti shody TM</seg>
       </tuv>
     </tu>
     <tu>
