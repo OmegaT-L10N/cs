@@ -13382,8 +13382,8 @@ kup si další drink kámo.</seg>
       <tuv lang="en">
         <seg>Break/exception</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T230548Z" creationid="pavreh" creationdate="20240217T230548Z">
-        <seg>Zlom/výjimka</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T042848Z" creationid="pavreh" creationdate="20240217T230548Z">
+        <seg>Zalomení/výjimka</seg>
       </tuv>
     </tu>
     <tu>
@@ -45139,6 +45139,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T192009Z">
         <seg>segmentovat po „。“ (japonská tečka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T042702Z" creationid="pavreh" creationdate="20240221T042702Z">
+        <seg>Nastavit obsah</seg>
       </tuv>
     </tu>
     <tu>
