@@ -11092,6 +11092,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043635Z" creationid="pavreh" creationdate="20240221T043635Z">
+        <seg>Povolit místní příkazy pro externí hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T094516Z">
@@ -12404,6 +12412,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163548Z">
         <seg>Asámština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043808Z" creationid="pavreh" creationdate="20240221T043726Z">
+        <seg>Přiř&amp;adit zkratku</seg>
       </tuv>
     </tu>
     <tu>
@@ -21379,6 +21395,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240219T155042Z" creationid="pavreh" creationdate="20240219T155042Z">
         <seg>Příkaz externího hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043700Z" creationid="pavreh" creationdate="20240221T043700Z">
+        <seg>Sada externího hledání</seg>
       </tuv>
     </tu>
     <tu>
@@ -45401,8 +45425,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Shortcut:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062902Z" creationid="Josef" creationdate="20180310T062902Z">
-        <seg>Zkratka:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043755Z" creationid="Josef" creationdate="20180310T062902Z">
+        <seg>Klávesová zkratka:</seg>
       </tuv>
     </tu>
     <tu>
