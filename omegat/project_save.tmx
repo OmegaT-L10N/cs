@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10104,8 +10104,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T171113Z" creationid="Josef" creationdate="20180309T171113Z">
-        <seg>Akce &amp; Nastavení</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T064715Z" creationid="Josef" creationdate="20180309T171113Z">
+        <seg>Akce a nastavení</seg>
       </tuv>
     </tu>
     <tu>
