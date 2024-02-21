@@ -28535,8 +28535,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20130314T080714Z">
-        <seg>Ve zdro&amp;ji</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T083528Z">
+        <seg>Ve zdroj&amp;i</seg>
       </tuv>
     </tu>
     <tu>
@@ -43162,8 +43162,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164437Z" creationid="Josef" creationdate="20150928T164437Z">
-        <seg>Shody &amp;mezer nbsp</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T081656Z" creationid="Josef" creationdate="20150928T164437Z">
+        <seg>Shody mezer nbs&amp;p</seg>
       </tuv>
     </tu>
     <tu>
