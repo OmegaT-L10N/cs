@@ -17838,6 +17838,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T050031Z" creationid="pavreh" creationdate="20240221T050031Z">
+        <seg>Přizpůsobit &amp;informace o úpravě segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T131633Z">
@@ -45699,6 +45707,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170826Z" creationid="Josef" creationdate="20180309T170826Z">
         <seg>Zjednoduši&amp;t kontextovoou nápovědu u chráněných částí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T045842Z" creationid="pavreh" creationdate="20240221T045842Z">
+        <seg>Zjednoduši&amp;t kontextovou nápovědu tagů</seg>
       </tuv>
     </tu>
     <tu>
