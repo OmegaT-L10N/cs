@@ -6004,8 +6004,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193205Z" creationid="Josef" creationdate="20180307T193205Z">
-        <seg>&lt;html&gt;URL úložiště:&lt;/html&gt;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052057Z" creationid="Josef" creationdate="20180307T193205Z">
+        <seg>&lt;html&gt;URL repozitáře:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20233,8 +20233,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193339Z" creationid="Josef" creationdate="20180307T193339Z">
-        <seg>V mapování se nachází prázdné URL úložiště</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052047Z" creationid="Josef" creationdate="20180307T193339Z">
+        <seg>V mapování se nachází prázdné URL repozitáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -20669,8 +20669,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193239Z">
-        <seg>Chyba kontroly projektu ze vzdáleného úložiště:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052110Z">
+        <seg>Chyba kontroly projektu ze vzdáleného repozitáře:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29897,8 +29897,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193254Z" creationid="Josef" creationdate="20180307T192748Z">
-        <seg>Neplatný typ úložiště: {0}</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052003Z" creationid="Josef" creationdate="20180307T192748Z">
+        <seg>Neplatný typ repozitáře: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41968,8 +41968,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remote file/folder</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T221934Z" creationid="pavreh" creationdate="20240217T221934Z">
-        <seg>Vzdálený sobor/adresář</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051952Z" creationid="pavreh" creationdate="20240217T221934Z">
+        <seg>Vzdálený soubor/adresář</seg>
       </tuv>
     </tu>
     <tu>
@@ -42530,8 +42530,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193404Z" creationid="Josef" creationdate="20180307T192645Z">
-        <seg>Úložiště</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051941Z" creationid="Josef" creationdate="20180307T192645Z">
+        <seg>Repozitář</seg>
       </tuv>
     </tu>
     <tu>
@@ -42562,16 +42562,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193304Z" creationid="Josef" creationdate="20180307T193304Z">
-        <seg>Úložiště {0} je již přítomno</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052018Z" creationid="Josef" creationdate="20180307T193304Z">
+        <seg>Repozitář {0} je již přítomen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193318Z" creationid="Josef" creationdate="20180307T193318Z">
-        <seg>Úložiště {0} není známo</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052029Z" creationid="Josef" creationdate="20180307T193318Z">
+        <seg>Repozitář {0} není znám</seg>
       </tuv>
     </tu>
     <tu>
