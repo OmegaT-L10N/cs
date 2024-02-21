@@ -58400,6 +58400,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T114202Z" creationid="pavreh" creationdate="20240221T114202Z">
+        <seg>Zbývající jedinečné znaky (s mezerami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T114044Z" creationid="pavreh" creationdate="20240221T114044Z">
