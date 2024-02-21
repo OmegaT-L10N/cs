@@ -17774,8 +17774,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T162608Z" creationid="Josef" creationdate="20150928T162608Z">
-        <seg>Množství právě použité paměti podle VM: {0}MB; z toho volné paměti: {1}MB; maximálně k dispozici: {2}MB;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T121917Z" creationid="Josef" creationdate="20150928T162608Z">
+        <seg>Množství právě použité paměti podle VM: {0} MB; z toho volné paměti: {1} MB; maximálně k dispozici: {2} MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58880,7 +58880,7 @@ on line {1}, column {2}.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240221T121713Z" creationid="pavreh" creationdate="20240221T121713Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T121849Z" creationid="pavreh" creationdate="20240221T121713Z">
         <seg>Zadejte „java -Xmx&lt;velikost-v-MB&gt;M -jar OmegaT.jar“ v příkazovém řádku nebo ve spouštěcím skriptu aplikace OmegaT; 
 Současné nastavení je {0} MB;</seg>
       </tuv>
