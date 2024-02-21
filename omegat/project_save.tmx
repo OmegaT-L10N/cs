@@ -23807,6 +23807,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043520Z" creationid="pavreh" creationdate="20240221T043520Z">
+        <seg>Obecné externí hledání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T211806Z" creationid="pavreh" creationdate="20240217T211806Z">
@@ -46613,6 +46621,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043236Z" creationid="pavreh" creationdate="20240221T043236Z">
+        <seg>Kontrolov&amp;at pravopis překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T172903Z" creationid="Josef" creationdate="20151007T172903Z">
@@ -46641,6 +46657,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T185833Z" creationid="Josef" creationdate="20180317T185833Z">
         <seg>Kontrola pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043305Z" creationid="pavreh" creationdate="20240221T043305Z">
+        <seg>Umístění slovníků kontroly pravopisu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57764,6 +57788,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063151Z" creationid="Josef" creationdate="20180310T063151Z">
         <seg>URL nemá cíl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043437Z" creationid="pavreh" creationdate="20240221T043437Z">
+        <seg>URL stažitelných slovníků kontroly pravopisu:</seg>
       </tuv>
     </tu>
     <tu>
