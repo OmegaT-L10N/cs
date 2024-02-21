@@ -21735,6 +21735,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T122208Z" creationid="pavreh" creationdate="20240221T122208Z">
+        <seg>Nepodařilo se zkopírovat soubory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185232Z">
