@@ -14417,6 +14417,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T113838Z" creationid="pavreh" creationdate="20240221T113838Z">
+        <seg>Znaky (bez mezer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185321Z">
