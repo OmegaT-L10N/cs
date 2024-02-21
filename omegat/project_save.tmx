@@ -45415,6 +45415,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T045732Z" creationid="pavreh" creationdate="20240221T045732Z">
+        <seg>Nastavení tagů ze souborů překladových pamětí nepocházejících z OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130424T175956Z">
