@@ -958,6 +958,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043936Z" creationid="pavreh" creationdate="20240221T043936Z">
+        <seg>Nevklá&amp;dat zdrojový text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T172316Z" creationid="Josef" creationdate="20151130T172316Z">
@@ -12556,6 +12564,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120927T054317Z">
         <seg>Pokusit se převést čísla při vkládání přibližného překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044147Z" creationid="pavreh" creationdate="20240221T044147Z">
+        <seg>Pokusit se &amp;nahradit přibližné shody čísel</seg>
       </tuv>
     </tu>
     <tu>
@@ -60212,6 +60228,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T134728Z">
         <seg>Pokud je aktivováno, všechny formátovací tagy budou ze zdrojových segmentů odstraněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043900Z" creationid="pavreh" creationdate="20240221T043900Z">
+        <seg>Při vkládání prázdného segmentu:</seg>
       </tuv>
     </tu>
     <tu>
