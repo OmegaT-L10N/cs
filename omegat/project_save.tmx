@@ -36949,6 +36949,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T051029Z" creationid="pavreh" creationdate="20240221T051029Z">
+        <seg>OmegaT je svobodný multiplatformní nástroj na počítačem asistovaný překlad (CAT) s otevřeným zdrojovým kódem, který nabízí přibližné překlady, překladovou paměť, vyhledávání klíčových slov, glosáře a využívá překlady v aktualizovaných projektech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180323T151340Z" creationid="Josef" creationdate="20180323T151340Z">
@@ -38979,6 +38987,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T054623Z">
         <seg>Pro aplikaci OmegaT jsou vhodné i jiné souborové formáty prostého nebo formátovaného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T050502Z" creationid="pavreh" creationdate="20240221T050502Z">
+        <seg>Další pluginy jsou dostupné online.</seg>
       </tuv>
     </tu>
     <tu>
