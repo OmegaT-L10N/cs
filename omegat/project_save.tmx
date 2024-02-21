@@ -30023,6 +30023,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T171908Z" creationid="pavreh" creationdate="20240221T171908Z">
+        <seg>Neplatný jazyk přeloženého souboru!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invantive</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111325Z" creationid="Josef" creationdate="20180325T111325Z">
