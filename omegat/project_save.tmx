@@ -33914,6 +33914,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T045415Z" creationid="pavreh" creationdate="20240221T045415Z">
+        <seg>Minimální práh pro zobrazení přibližných překladů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072516Z">
@@ -63093,6 +63101,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T150153Z" creationid="Josef" creationdate="20180318T150153Z">
         <seg>Vaše dokumenty a překladové paměti zůstávají na vašem počítači a projekt OmegaT nemá žádný přístup k vaší práci nebo informacím. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T045300Z" creationid="pavreh" creationdate="20240221T045300Z">
+        <seg>Vaše jméno/ID se používá k identifikování vašich překladů.</seg>
       </tuv>
     </tu>
     <tu>
