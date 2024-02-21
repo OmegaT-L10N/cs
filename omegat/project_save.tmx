@@ -870,6 +870,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044410Z" creationid="pavreh" creationdate="20240221T044410Z">
+        <seg>Při opouštění segmentu &amp;zkontrolovat problémy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T164942Z" creationid="Josef" creationdate="20180606T164942Z">
@@ -1970,6 +1978,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T183755Z">
         <seg>&amp;Statistika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044249Z" creationid="pavreh" creationdate="20240221T044249Z">
+        <seg>Zastavit na segmentech, které nejsou přeloženy nebo mají alternativní překlady</seg>
       </tuv>
     </tu>
     <tu>
