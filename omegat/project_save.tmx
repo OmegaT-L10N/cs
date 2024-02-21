@@ -1240,8 +1240,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164503Z" creationid="Josef" creationdate="20150928T164503Z">
-        <seg>V př&amp;ekladu</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T081620Z" creationid="Josef" creationdate="20150928T164503Z">
+        <seg>V překla&amp;du</seg>
       </tuv>
     </tu>
     <tu>
