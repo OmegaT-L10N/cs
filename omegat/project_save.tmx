@@ -12182,6 +12182,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T170422Z" creationid="pavreh" creationdate="20240221T170422Z">
+        <seg>Jste si jisti, že chcete odstranit sadu pravidel segmentace {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064539Z">
