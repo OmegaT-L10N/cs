@@ -14697,6 +14697,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044611Z" creationid="pavreh" creationdate="20240221T044611Z">
+        <seg>Zkontrolovat proměnné printf funkcí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T171839Z" creationid="Josef" creationdate="20151007T171839Z">
@@ -29199,6 +29207,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044523Z" creationid="pavreh" creationdate="20240221T044523Z">
+        <seg>Výchozí počet nahraných segmentů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240216T162302Z" creationid="Josef" creationdate="20180307T190826Z">
@@ -43374,6 +43390,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T061429Z" creationid="Josef" creationdate="20180310T061429Z">
         <seg>Uložit změny pravidel segmentace?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044434Z" creationid="pavreh" creationdate="20240221T044434Z">
+        <seg>Uloži&amp;t původ překladu</seg>
       </tuv>
     </tu>
     <tu>
