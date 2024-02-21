@@ -17974,6 +17974,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T123856Z" creationid="pavreh" creationdate="20240221T123856Z">
+        <seg>Tmavý motiv:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Data exported from Trados MultiTerm can be used as &lt;a0&gt;OmegaT&lt;/a0&gt; glossaries without further modification, provided they are given the file extension &lt;f1&gt;.tab&lt;/f1&gt; and the source and target term fields are the first two fields respectively.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T094518Z">
@@ -32268,6 +32276,14 @@ permissions.</seg>
       <tuv lang="cs" changeid="Josef" changedate="20180309T164552Z" creationid="Josef" creationdate="20180309T164543Z">
         <seg>Licenční informace
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T123853Z" creationid="pavreh" creationdate="20240221T123853Z">
+        <seg>Světlý motiv:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47667,6 +47683,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T123954Z" creationid="pavreh" creationdate="20240221T123954Z">
+        <seg>Synchronizovat s nastavením barev v OS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronisation of repositories</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184954Z" creationid="Josef" creationdate="20180309T184954Z">
@@ -53328,6 +53352,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T123845Z" creationid="pavreh" creationdate="20240221T123845Z">
+        <seg>Motiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151005T182222Z" creationid="Josef" creationdate="20151005T182222Z">
@@ -58036,6 +58068,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T164454Z" creationid="Josef" creationdate="20150928T164454Z">
         <seg>&amp;Nepřeloženo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T123842Z" creationid="pavreh" creationdate="20240221T123842Z">
+        <seg>Styl UI</seg>
       </tuv>
     </tu>
     <tu>
