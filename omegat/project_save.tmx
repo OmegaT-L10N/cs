@@ -46103,6 +46103,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124811Z" creationid="pavreh" creationdate="20240221T124811Z">
+        <seg>Přeskočen zdrojový soubor {0}, protože ho nelze načíst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T111545Z" creationid="Josef" creationdate="20190928T111545Z">
@@ -59155,6 +59163,14 @@ Současné nastavení je {0} MB;</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T213822Z" creationid="pavreh" creationdate="20240217T213714Z">
         <seg>Použijte Nástroje &gt; Zkontrolovat problémy..., abyste opravili chyby tagů, a zkuste to znovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124934Z" creationid="pavreh" creationdate="20240221T124934Z">
+        <seg>Použijte nějaký TMX validátor, abyste je našli a opravili.</seg>
       </tuv>
     </tu>
     <tu>
