@@ -15599,8 +15599,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T063235Z" creationid="Josef" creationdate="20180310T063235Z">
-        <seg>Príkaz nemá oddělovací znak</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052519Z" creationid="Josef" creationdate="20180310T063235Z">
+        <seg>Příkaz nemá oddělovací znak</seg>
       </tuv>
     </tu>
     <tu>
@@ -33170,8 +33170,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping of local folders to remote folders in repositories</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T221918Z" creationid="pavreh" creationdate="20240217T221918Z">
-        <seg>Mapování místních adresářů na vzdálené adresáře v úložištích</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052327Z" creationid="pavreh" creationdate="20240217T221918Z">
+        <seg>Mapování místních adresářů na vzdálené adresáře v repozitářich</seg>
       </tuv>
     </tu>
     <tu>
@@ -41984,8 +41984,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remote repositories</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T221853Z" creationid="pavreh" creationdate="20240217T221853Z">
-        <seg>Vzdálená úložiště</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052303Z" creationid="pavreh" creationdate="20240217T221853Z">
+        <seg>Vzdálené repozitáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -42538,8 +42538,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T184948Z" creationid="Josef" creationdate="20180309T184948Z">
-        <seg>Přihlašovací údaje k úložišti</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052201Z" creationid="Josef" creationdate="20180309T184948Z">
+        <seg>Přihlašovací údaje k repozitáři</seg>
       </tuv>
     </tu>
     <tu>
@@ -47565,8 +47565,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Synchronization of repositories</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240218T074757Z" creationid="pavreh" creationdate="20240218T074757Z">
-        <seg>Synchronizace úložišť</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052225Z" creationid="pavreh" creationdate="20240218T074757Z">
+        <seg>Synchronizace repozitářů</seg>
       </tuv>
     </tu>
     <tu>
@@ -54721,16 +54721,16 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193130Z" creationid="Josef" creationdate="20150928T172422Z">
-        <seg>Toto je úložiště Git.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052141Z" creationid="Josef" creationdate="20150928T172422Z">
+        <seg>Toto je Git repozitář.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T193113Z" creationid="Josef" creationdate="20150928T172430Z">
-        <seg>Toto je úložiště nižší verze.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T052152Z" creationid="Josef" creationdate="20150928T172430Z">
+        <seg>Toto je repozitář nižší verze.</seg>
       </tuv>
     </tu>
     <tu>
