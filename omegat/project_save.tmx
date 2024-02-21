@@ -19170,6 +19170,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124305Z" creationid="pavreh" creationdate="20240221T124305Z">
+        <seg>Nepoužívat název souboru k &amp;identifikování alternativních překladů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T183714Z">
@@ -36615,6 +36623,22 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T105820Z" creationid="Josef" creationdate="20180318T144548Z">
         <seg>OmegaT, &lt;s0&gt;svobodný nástroj využívající technologie překladových pamětí&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124225Z" creationid="pavreh" creationdate="20240221T124225Z">
+        <seg>OmegaT klasický</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T124043Z" creationid="pavreh" creationdate="20240221T124043Z">
+        <seg>OmegaT výchozí</seg>
       </tuv>
     </tu>
     <tu>
