@@ -11020,6 +11020,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T042536Z" creationid="pavreh" creationdate="20240221T042536Z">
+        <seg>Použijí se všechny sady, které odpovídají zdrojovému jazyku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T061814Z" creationid="Josef" creationdate="20191005T061814Z">
