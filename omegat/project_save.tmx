@@ -3750,6 +3750,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T121517Z" creationid="pavreh" creationdate="20240221T121451Z">
+        <seg>2) zvyšte velikost paměti dostupné pro OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121016T060733Z">
@@ -58864,6 +58872,17 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T153348Z" creationid="Josef" creationdate="20150928T153348Z">
         <seg>Použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T121713Z" creationid="pavreh" creationdate="20240221T121713Z">
+        <seg>Zadejte „java -Xmx&lt;velikost-v-MB&gt;M -jar OmegaT.jar“ v příkazovém řádku nebo ve spouštěcím skriptu aplikace OmegaT; 
+Současné nastavení je {0} MB;</seg>
       </tuv>
     </tu>
     <tu>
