@@ -19258,6 +19258,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T043147Z" creationid="pavreh" creationdate="20240221T043147Z">
+        <seg>Abyste přidali znak do vlastní tabulky, dvojklikněte na něj nebo znak vyberte a stiskněte klávesu Insert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T131659Z" creationid="Josef" creationdate="20190928T131659Z">
