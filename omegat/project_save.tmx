@@ -1072,8 +1072,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T054204Z">
-        <seg>Přesné vyhl&amp;edávání</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T064917Z">
+        <seg>Př&amp;esné vyhledávání</seg>
       </tuv>
     </tu>
     <tu>
@@ -36107,6 +36107,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185725Z" creationid="Josef" creationdate="20180309T185725Z">
         <seg>Oznámení (neměnný)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T064801Z" creationid="pavreh" creationdate="20240221T064801Z">
+        <seg>Upozorni mě, i když nejsou žádné výsledky hledání</seg>
       </tuv>
     </tu>
     <tu>
