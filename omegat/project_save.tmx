@@ -13340,6 +13340,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T044913Z" creationid="pavreh" creationdate="20240221T044913Z">
+        <seg>Blokovat vytváření přeložených dokumentů, pokud se vyskytují ch&amp;yby tagů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144916Z" creationid="Josef" creationdate="20180318T144916Z">
@@ -17802,6 +17810,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T072606Z">
         <seg>Přizpůsobit regulární výraz tagu/tagů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240221T045052Z" creationid="pavreh" creationdate="20240221T045052Z">
+        <seg>Vlastní tagy (regulární výrazy):</seg>
       </tuv>
     </tu>
     <tu>
