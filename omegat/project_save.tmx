@@ -40089,6 +40089,14 @@ puls se zběsile zrychluje</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175821Z" creationid="pavreh" creationdate="20240222T175746Z">
+        <seg>Pravidelná sestavení jsou dostupná na SourceForge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T164709Z" creationid="Josef" creationdate="20191003T164709Z">
@@ -54133,6 +54141,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175709Z" creationid="pavreh" creationdate="20240222T175709Z">
+        <seg>Při vydávání podepsaných verzí může docházet ke zpožděním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151006T201925Z" creationid="Josef" creationdate="20151006T201925Z">
@@ -60166,6 +60182,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151255Z" creationid="Josef" creationdate="20180318T151255Z">
         <seg>Uživatelé proto sami nepotřebují kompilovat OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175735Z" creationid="pavreh" creationdate="20240222T175735Z">
+        <seg>Uživatelé, kteří nechtějí čekat mohou nepodepsanou verzi také použít; pokud máte potíře se spouštěním aplikace, hledejte v nápovědě &lt;a0&gt;jak otevřít aplikaci od neznámého vývojáře&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68570,6 +68594,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T102926Z" creationid="Josef" creationdate="20180317T102926Z">
         <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175838Z" creationid="pavreh" creationdate="20240222T175838Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
