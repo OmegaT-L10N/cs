@@ -2362,6 +2362,16 @@ ale své jméno nevidíte v těchto záznamech, klidně nás kontaktujte.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051221Z" creationid="pavreh" creationdate="20240222T051221Z">
+        <seg>(Pokud si myslíte, že jste významně přispěli k projektu OmegaT,
+ale své jméno nevidíte v těchto záznamech, klidně nás kontaktujte.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180324T110011Z" creationid="Josef" creationdate="20180324T110011Z">
@@ -36767,6 +36777,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Contribution Guide</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051425Z" creationid="pavreh" creationdate="20240222T051425Z">
+        <seg>Průvodce přispěvatele OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Default</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T124043Z" creationid="pavreh" creationdate="20240221T124043Z">
@@ -59820,6 +59838,14 @@ Současné nastavení je {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051304Z" creationid="pavreh" creationdate="20240222T051304Z">
+        <seg>Zdroje uživatelské podpory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -66903,6 +66929,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051228Z" creationid="pavreh" creationdate="20240222T051228Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T164256Z" creationid="Josef" creationdate="20180317T164256Z">
@@ -66915,6 +66949,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T163559Z" creationid="Josef" creationdate="20180317T163559Z">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051310Z" creationid="pavreh" creationdate="20240222T051310Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051430Z" creationid="pavreh" creationdate="20240222T051430Z">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
       </tuv>
     </tu>
     <tu>
