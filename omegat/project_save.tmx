@@ -16308,6 +16308,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173443Z" creationid="pavreh" creationdate="20240222T173443Z">
+        <seg>Průvodce přispěvatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173518Z" creationid="pavreh" creationdate="20240222T173518Z">
+        <seg>Zdrojový text průvodce přispěvatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165823Z" creationid="Josef" creationdate="20180309T165823Z">
@@ -49550,6 +49566,14 @@ Pavel Rehak © 2024</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173537Z" creationid="pavreh" creationdate="20240222T173537Z">
+        <seg>Zdrojový text průvodce přispěvatele v repozitáři OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Corresponding Source for a work in source code form is that
 same work.</seg>
       </tuv>
@@ -49814,6 +49838,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T172049Z" creationid="Josef" creationdate="20151130T172049Z">
         <seg>Filtr Mozilla DTD ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173450Z" creationid="pavreh" creationdate="20240222T173450Z">
+        <seg>Průvodce přispěvatele OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56793,6 +56825,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173320Z" creationid="pavreh" creationdate="20240222T173320Z">
+        <seg>Pokud chcete zjistit, jak pomoci, podívejte se na naši dokumentaci pro vývojáře:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180324T105918Z" creationid="Josef" creationdate="20180324T105918Z">
@@ -60762,6 +60802,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T053550Z">
         <seg>Záruka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173233Z" creationid="pavreh" creationdate="20240222T173233Z">
+        <seg>Vždy vítáme nové přispěvatele!</seg>
       </tuv>
     </tu>
     <tu>
