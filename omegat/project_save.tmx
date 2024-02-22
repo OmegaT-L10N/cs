@@ -9136,6 +9136,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T203747Z" creationid="pavreh" creationdate="20240222T203747Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; je aplikace překladové paměti, která funguje v operačních systémech Windows, macOS,Linux... Je to nástroj určený pro profesionální překladatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T110029Z" creationid="Josef" creationdate="20180325T110029Z">
