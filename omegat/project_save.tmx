@@ -49230,6 +49230,14 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T204516Z" creationid="pavreh" creationdate="20240222T204516Z">
+        <seg>To znamená, že uživatelé jako Vy ho mohou stáhnout a používat bez omezení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T190059Z">
@@ -62595,6 +62603,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T165443Z" creationid="Josef" creationdate="20180606T165443Z">
         <seg>Už máte nejnovější verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T204718Z" creationid="pavreh" creationdate="20240222T204718Z">
+        <seg>Můžete jej též svobodně kopírovat a poskytovat dalším uživatelům a dokonce program OmegaT smíte upravovat tak, aby vyhovoval Vašim vlastním požadavkům.</seg>
       </tuv>
     </tu>
     <tu>
