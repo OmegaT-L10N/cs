@@ -6152,6 +6152,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174406Z" creationid="pavreh" creationdate="20240222T174406Z">
+        <seg>&lt;i1&gt;OmegaT lze instalovat na různé operační systémy, které jsou schopny zprovoznit prostředí Java runtime environment ve verzi 11&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T175039Z">
@@ -17900,6 +17908,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174316Z" creationid="pavreh" creationdate="20240222T174316Z">
+        <seg>V současné době nabízíme pouze standardní verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T163545Z" creationid="Josef" creationdate="20160221T162449Z">
@@ -23166,6 +23182,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145030Z" creationid="Josef" creationdate="20180318T145030Z">
         <seg>Pro instalaci na systému Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174325Z" creationid="pavreh" creationdate="20240222T174325Z">
+        <seg>Pro instalaci na macOS.</seg>
       </tuv>
     </tu>
     <tu>
