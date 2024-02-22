@@ -37237,8 +37237,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T164527Z" creationid="Josef" creationdate="20180309T164527Z">
-        <seg>OmegaT je volný, open source multiplatformový nástroj na překlad podporovaný počítačem (Computer Assisted Translation) s vyhledáváním přibližných překladů, překladovou pamětí, vyhledáváním klíčových slov, používá vaše vlastní glosáře a využívá překlady pro aktualizované projekty.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T052306Z" creationid="Josef" creationdate="20180309T164527Z">
+        <seg>OmegaT je svobodný multiplatformní nástroj na počítačem asistovaný překlad s vyhledáváním přibližných překladů, překladovou pamětí, vyhledáváním klíčových slov, glosáři a využívá překlady v aktualizovaných projektech.</seg>
       </tuv>
     </tu>
     <tu>
