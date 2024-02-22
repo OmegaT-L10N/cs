@@ -17,3 +17,5 @@ spellchecking dictionary	slovník kontroly pravopisu
 repeated segment	opakující se segment
 global	obecný
 pane	podokno
+configuration folder	konfigurační adresář
+project folder	adresář projektu
