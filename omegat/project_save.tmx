@@ -39736,8 +39736,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="en">
         <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T130702Z" creationid="pavreh" creationdate="20240217T130702Z">
-        <seg>Balčky bez Javy závisí na Java {{site.data.versions.standard.java_version}} Runtime Environment nainstalované v systému.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T211431Z" creationid="pavreh" creationdate="20240217T130702Z">
+        <seg>Balíčky bez Javy závisí na Java {{site.data.versions.standard.java_version}} Runtime Environment nainstalované v systému.</seg>
       </tuv>
     </tu>
     <tu>
