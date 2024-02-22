@@ -13218,6 +13218,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174543Z" creationid="pavreh" creationdate="20240222T174543Z">
+        <seg>Na základě vašich voleb doporučujeme použít:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163639Z">
@@ -37097,6 +37105,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174429Z" creationid="pavreh" creationdate="20240222T174429Z">
+        <seg>OmegaT v současnosti vyžaduje verzi JRE 11 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T182154Z">
@@ -37285,6 +37301,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145525Z" creationid="Josef" creationdate="20180318T145525Z">
         <seg>Program OmegaT byl úspěšně instalován na systémech Windows (všechny verze od 98), Macintosh OS X a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174725Z" creationid="pavreh" creationdate="20240222T174725Z">
+        <seg>Program OmegaT byl úspěšně instalován na systémech Windows (všechny verze od Windows 8), macOS a Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49259,6 +49283,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T152531Z" creationid="Josef" creationdate="20150928T152531Z">
         <seg>Klávesa „Shift“ sama o sobě nevyvolá žádné speciální reakce pohybu kurzoru: když je stisknuta klávesa „Shift“, všechny klávesy pohybují kurzorem obvyklým způsobem, kromě případu kombinace kláves &lt;l0&gt;Shift+Enter&lt;/l0&gt;, pomocí které se do textu vloží zalomení řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174528Z" creationid="pavreh" creationdate="20240222T174528Z">
+        <seg>„Standardní“ verze OmegaT obsahuje kompletní uživatelskou příručku (minimálně anglicky) a zpravidla byla již nějaký čas testována, aby se vychytaly chyby.</seg>
       </tuv>
     </tu>
     <tu>
