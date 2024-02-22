@@ -51402,6 +51402,16 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045232Z" creationid="pavreh" creationdate="20240222T045232Z">
+        <seg>Licence ke každé knihovně je uvedena v 
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -60450,6 +60460,15 @@ searchable without subscription:</seg>
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165003Z" creationid="Josef" creationdate="20180309T165003Z">
+        <seg>Doporučujeme použít instalační balíček OmegaT, který obsahuje JRE, a tak si ušetříte možné potíže s výběrem, získáním a instalací programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045300Z" creationid="pavreh" creationdate="20240222T045300Z">
         <seg>Doporučujeme použít instalační balíček OmegaT, který obsahuje JRE, a tak si ušetříte možné potíže s výběrem, získáním a instalací programu.</seg>
       </tuv>
     </tu>
