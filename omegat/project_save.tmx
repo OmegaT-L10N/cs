@@ -27854,6 +27854,15 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045832Z" creationid="pavreh" creationdate="20240222T045832Z">
+        <seg>Pokud jste během instalace vytvořili odkaz na ploše, stačí dvojklik na tento odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
@@ -29768,8 +29777,8 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T045726Z" creationid="pavreh" creationdate="20240222T045726Z">
-        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045814Z" creationid="pavreh" creationdate="20240222T045726Z">
+        <seg>Instalace OmegaT (Solaris, FreeBSD, atd.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -51308,6 +51317,15 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045902Z" creationid="pavreh" creationdate="20240222T045902Z">
+        <seg>Instalátor může vytvořit zkratky v menu start, na ploše a v panelu rychlého spuštění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T132954Z" creationid="pavreh" creationdate="20240217T132954Z">
@@ -62369,6 +62387,15 @@ OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165451Z" creationid="Josef" creationdate="20180309T165451Z">
+        <seg>Stejně tak můžete ručně přetáhnout soubor OmegaT.exe do menu Start, na Plochu nebo na panel Snadné spuštění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045923Z" creationid="pavreh" creationdate="20240222T045923Z">
         <seg>Stejně tak můžete ručně přetáhnout soubor OmegaT.exe do menu Start, na Plochu nebo na panel Snadné spuštění.</seg>
       </tuv>
     </tu>
