@@ -19642,8 +19642,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Download</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T145501Z" creationid="Josef" creationdate="20180318T145501Z">
-        <seg>Stažení</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175003Z" creationid="Josef" creationdate="20180318T145501Z">
+        <seg>Stáhnout</seg>
       </tuv>
     </tu>
     <tu>
@@ -60968,6 +60968,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130424T174117Z">
         <seg>Slovník Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T174946Z" creationid="pavreh" creationdate="20240222T174946Z">
+        <seg>Weekly Builds</seg>
       </tuv>
     </tu>
     <tu>
