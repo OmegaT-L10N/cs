@@ -11218,6 +11218,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T213202Z" creationid="pavreh" creationdate="20240222T213202Z">
+        <seg>Všechny parametry umístěné v adresáři projektu budou platit pro daný projekt bez ohledu na to, která verze OmegaT ho otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240222T212907Z" creationid="pavreh" creationdate="20240222T212907Z">
