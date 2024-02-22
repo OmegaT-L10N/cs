@@ -45664,8 +45664,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T144837Z" creationid="Josef" creationdate="20180318T144837Z">
-        <seg>Tréninkový kurz, který si online projdete sami, v angličtině (k zakoupení)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173952Z" creationid="Josef" creationdate="20180318T144837Z">
+        <seg>Výcvikový kurz, který si online projdete sami, v angličtině (k zakoupení)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57765,8 +57765,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Training</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T173746Z" creationid="Josef" creationdate="20180318T144747Z">
-        <seg>Výuka</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T173920Z" creationid="Josef" creationdate="20180318T144747Z">
+        <seg>Školení</seg>
       </tuv>
     </tu>
     <tu>
