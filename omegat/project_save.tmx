@@ -2932,6 +2932,28 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050655Z" creationid="pavreh" creationdate="20240222T050655Z">
+        <seg>- Marco Cevoli (správce komunity Telegram)
+- Jean-Christophe Helary (správce komunity Twitter)
+- Kos Ivantsov (správce lokalizací)
+- Concepción Martin (správce komunity Facebook)
+- Hiroshi Miura (vedoucí vývojář)
+- Briac Pilpré (správce webu)
+- Philippe Tourigny (správce dokumentace)
+- Lucie Vecerova (správce komunity Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180324T064507Z" creationid="Josef" creationdate="20180324T064507Z">
@@ -22583,6 +22605,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050040Z" creationid="pavreh" creationdate="20240222T050040Z">
+        <seg>Přívětivější způsob spouštění OmegaT nabízí skript Kaptain (omegat.kaptn), který je součástí staženého balíčku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
@@ -25490,6 +25521,16 @@ SUCH DAMAGES.</seg>
     <tu>
       <tuv lang="en">
         <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050121Z" creationid="pavreh" creationdate="20240222T050121Z">
+        <seg>Pokud je Java instalována na úrovni systému, a když je také zadaná cesta v příkazu pro spouštění, nemusíte vkládat úplnou cestu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
@@ -27108,6 +27149,15 @@ where to find the applicable terms.</seg>
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165452Z" creationid="Josef" creationdate="20180309T165452Z">
+        <seg>Pokud ve vašem Správci souborů vidíte soubor OmegaT a ne OmegaT.exe (Průzkumník Windows), změňte nastavení tak, aby byly zobrazovány přípony souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045948Z" creationid="pavreh" creationdate="20240222T045948Z">
         <seg>Pokud ve vašem Správci souborů vidíte soubor OmegaT a ne OmegaT.exe (Průzkumník Windows), změňte nastavení tak, aby byly zobrazovány přípony souborů.</seg>
       </tuv>
     </tu>
@@ -57185,6 +57235,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050050Z" creationid="pavreh" creationdate="20240222T050050Z">
+        <seg>Aby šlo tento skript spouštět, je nutno první instalovat Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -62137,6 +62195,15 @@ Stránka nenalezena.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050101Z" creationid="pavreh" creationdate="20240222T050101Z">
+        <seg>Pak můžete spustit spouštěcí skript Kaptain pomocí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120927T053903Z">
@@ -62377,6 +62444,15 @@ for enforcing compliance by third parties with this License.</seg>
 it from the Spotlight search field.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165608Z" creationid="Josef" creationdate="20180309T165608Z">
+        <seg>Také můžete spouštět program z políčka vyhledávání Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050024Z" creationid="pavreh" creationdate="20240222T050024Z">
         <seg>Také můžete spouštět program z políčka vyhledávání Spotlight.</seg>
       </tuv>
     </tu>
@@ -63228,6 +63304,15 @@ recipients a copy of this License along with the Program.</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165553Z" creationid="Josef" creationdate="20180309T165553Z">
+        <seg>Můžete přetáhnout aplikaci OmegaT na dock nebo lištu nástrojů v okně Finderu a umožnit tak spuštění OmegaT z libovolného umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T050014Z" creationid="pavreh" creationdate="20240222T050014Z">
         <seg>Můžete přetáhnout aplikaci OmegaT na dock nebo lištu nástrojů v okně Finderu a umožnit tak spuštění OmegaT z libovolného umístění.</seg>
       </tuv>
     </tu>
