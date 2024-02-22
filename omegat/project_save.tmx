@@ -35841,6 +35841,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175202Z" creationid="pavreh" creationdate="20240222T175202Z">
+        <seg>Podepsané a Nepodepsané</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T191745Z">
@@ -68570,6 +68578,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T132649Z" creationid="Josef" creationdate="20190928T132649Z">
         <seg>goodies macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T175318Z" creationid="pavreh" creationdate="20240222T175318Z">
+        <seg>macOS se pokouší zvýšit bezpečnost tak, že je obtížné spouštět neověřené programy.</seg>
       </tuv>
     </tu>
     <tu>
