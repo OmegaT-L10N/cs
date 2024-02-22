@@ -34271,6 +34271,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T210834Z" creationid="pavreh" creationdate="20240222T210834Z">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 nebo novější)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T102817Z" creationid="Josef" creationdate="20180317T102817Z">
