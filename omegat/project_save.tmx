@@ -29765,6 +29765,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045726Z" creationid="pavreh" creationdate="20240222T045726Z">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -34575,6 +34585,15 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045353Z" creationid="pavreh" creationdate="20240222T045353Z">
+        <seg>Přesuňte adresář na vhodné místo jako je adresář s aplikacemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T060309Z">
@@ -37301,6 +37320,15 @@ your home folder.</seg>
 to be launched.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165144Z" creationid="Josef" creationdate="20180309T165144Z">
+        <seg>OmegaT je připravena ke spuštění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045404Z" creationid="pavreh" creationdate="20240222T045404Z">
         <seg>OmegaT je připravena ke spuštění.</seg>
       </tuv>
     </tu>
@@ -57150,6 +57178,16 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045457Z" creationid="pavreh" creationdate="20240222T045457Z">
+        <seg>Abyste spustili tento skript, otevřete okno terminálu (konzole), změňte aktivní adresář na adresář, který obsahuje OmegaT.jar a skript linux-install.sh, a spusťe skript příkazem ./linux-install.sh. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To work offline:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T061822Z" creationid="Josef" creationdate="20191005T061822Z">
@@ -58702,6 +58740,15 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
 documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165052Z" creationid="Josef" creationdate="20180309T165052Z">
+        <seg>Rozbalte archív OmegaT.zip a získáte tak adresář, který obsahuje soubor s dokumentací a aplikací OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045335Z" creationid="pavreh" creationdate="20240222T045335Z">
         <seg>Rozbalte archív OmegaT.zip a získáte tak adresář, který obsahuje soubor s dokumentací a aplikací OmegaT.</seg>
       </tuv>
     </tu>
@@ -62672,6 +62719,15 @@ your programs, too.</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T165200Z" creationid="Josef" creationdate="20180309T165200Z">
+        <seg>Nicméně úhlednější a přívětivější instalaci spustíte použitím instalačního skriptu (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T045421Z" creationid="pavreh" creationdate="20240222T045421Z">
         <seg>Nicméně úhlednější a přívětivější instalaci spustíte použitím instalačního skriptu (linux-install.sh).</seg>
       </tuv>
     </tu>
