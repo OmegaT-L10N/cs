@@ -11378,6 +11378,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T212020Z" creationid="pavreh" creationdate="20240222T212020Z">
+        <seg>Vedle stávající verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130429T180838Z">
@@ -56300,6 +56308,14 @@ the server.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T055102Z">
         <seg>To je prakticky navrátí do „nepřeloženého“ stavu, protože neodpovídají segmentům uloženým v paměti projektu, dokonce i přesto, že dřívější a teď nekorespondující překlad tam stále je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T212221Z" creationid="pavreh" creationdate="20240222T212221Z">
+        <seg>Tímto způsobem je možno zachovat libovolný počet verzí vedle sebe, což se může hodit tehdy, pokud si starou verzi chcete nechat, než se sžijete s tou novou.</seg>
       </tuv>
     </tu>
     <tu>
