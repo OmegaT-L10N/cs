@@ -13706,6 +13706,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054449Z" creationid="pavreh" creationdate="20240222T054449Z">
+        <seg>Chyby, návrhy na funkce a problémy v dokumentaci se projednávají v tzv. tracking systému umístěném na Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T184634Z" creationid="Josef" creationdate="20180317T184634Z">
@@ -21773,6 +21781,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054516Z" creationid="pavreh" creationdate="20240222T054516Z">
+        <seg>Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook group</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T163315Z" creationid="Josef" creationdate="20191003T163315Z">
@@ -25444,6 +25460,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055455Z">
         <seg>Vyskytla se výjimka IO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IRC</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054545Z" creationid="pavreh" creationdate="20240222T054545Z">
+        <seg>IRC</seg>
       </tuv>
     </tu>
     <tu>
@@ -32493,6 +32517,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LinkedIn</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054538Z" creationid="pavreh" creationdate="20240222T054538Z">
+        <seg>LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T061733Z">
@@ -33741,6 +33773,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mastodon</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054522Z" creationid="pavreh" creationdate="20240222T054522Z">
+        <seg>Mastodon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185452Z">
@@ -33953,6 +33993,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T223608Z" creationid="pavreh" creationdate="20240217T223608Z">
         <seg>Shodující se segmenty: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matrix</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054549Z" creationid="pavreh" creationdate="20240222T054549Z">
+        <seg>Matrix</seg>
       </tuv>
     </tu>
     <tu>
@@ -36889,6 +36937,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054425Z" creationid="pavreh" creationdate="20240222T054425Z">
+        <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T184733Z" creationid="Josef" creationdate="20180317T182447Z">
@@ -37123,8 +37179,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT has a presence on various social networks.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T163307Z" creationid="Josef" creationdate="20191003T163307Z">
-        <seg>OmegaT je přítomna v různých sociálních sítítch.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054506Z" creationid="Josef" creationdate="20191003T163307Z">
+        <seg>OmegaT je přítomna v různých sociálních sítích.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41881,6 +41937,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111428Z" creationid="Josef" creationdate="20180325T111428Z">
         <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reddit</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T054543Z" creationid="pavreh" creationdate="20240222T054543Z">
+        <seg>Reddit</seg>
       </tuv>
     </tu>
     <tu>
