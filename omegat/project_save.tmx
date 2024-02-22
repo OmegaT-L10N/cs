@@ -2804,6 +2804,36 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T051203Z" creationid="pavreh" creationdate="20240222T051203Z">
+        <seg>- Anthony Baldwin (správce lokalizací)
+- Vincent Bidaux (správce dokumentace)
+- Didier Briel (správce projektu)
+- Alex Buloichik (vedoucí vývojář)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (správce projektu)
+- Maxym Mykhalchuk (vedoucí vývojář)
+- Samuel Murray
+- Henry Pijffers (správce vydání)
+- Marc Prior (koordinátor projektu, správce webu)
+- Vito Smolej (správce dokumentace)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180324T064602Z" creationid="Josef" creationdate="20180324T064602Z">
