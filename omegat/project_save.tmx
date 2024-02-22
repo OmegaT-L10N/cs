@@ -37155,16 +37155,16 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T055113Z" creationid="pavreh" creationdate="20240222T055113Z">
-        <seg>OmegaT pro CAT začátečníky (2020, v japonštině)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T172812Z" creationid="pavreh" creationdate="20240222T055113Z">
+        <seg>OmegaT for CAT beginners (2020, japonsky)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T054912Z" creationid="pavreh" creationdate="20240222T054912Z">
-        <seg>Návod OmegaT pro CAT začátečníky (edice 2020)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T172742Z" creationid="pavreh" creationdate="20240222T054912Z">
+        <seg>OmegaT for CAT beginners tutorial (edice 2020, anglicky)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37790,6 +37790,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T190210Z" creationid="Josef" creationdate="20180317T190210Z">
         <seg>Funkce OmegaT pro export textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T172850Z" creationid="pavreh" creationdate="20240222T172850Z">
+        <seg>OmegaT the CAT power tools (anglicky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T172923Z" creationid="pavreh" creationdate="20240222T172923Z">
+        <seg>OmegaT the CAT power tools (japonsky)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64920,6 +64936,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T164942Z" creationid="Josef" creationdate="20180317T164942Z">
         <seg>ale BEZ JAKÉKOLIV ZÁRUKY; dokonce bez jakéhokoliv náznaku záruky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T172900Z" creationid="pavreh" creationdate="20240222T172900Z">
+        <seg>autor Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
