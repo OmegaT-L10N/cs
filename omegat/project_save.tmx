@@ -9606,6 +9606,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T204910Z" creationid="pavreh" creationdate="20240222T204910Z">
+        <seg>Podrobnější &lt;a0&gt;vysvětlení svobodného softwaru&lt;/a0&gt; můžete najít na stránkách Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130525T050140Z">
