@@ -10096,8 +10096,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>Access &amp;Configuration Folder</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T212028Z" creationid="pavreh" creationdate="20240217T212028Z">
-        <seg>Zpřístupn&amp;it adresář nastavení</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T212552Z" creationid="pavreh" creationdate="20240217T212028Z">
+        <seg>Zpřístupn&amp;it konfigurační adresář</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11214,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T081104Z">
         <seg>Všechny jazyky mají přístup do objektového modelu OmegaT, kde projekt představuje hlavní objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T212907Z" creationid="pavreh" creationdate="20240222T212907Z">
+        <seg>Všechny parametry umístěné v konfiguračním adresáři se budou sdílet, pokud nespecifikujete jiný konfigurační adresář pomocí volby &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; v možnostech OmegaT z příkazového řádku.</seg>
       </tuv>
     </tu>
     <tu>
