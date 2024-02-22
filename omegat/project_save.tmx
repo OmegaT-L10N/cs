@@ -39867,8 +39867,8 @@ puls se zběsile zrychluje</seg>
       <tuv lang="en">
         <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T172125Z" creationid="pavreh" creationdate="20240217T172125Z">
-        <seg>Soubory parametrů, které jsou obsaženy ve staženém balíčku OmegaT (obvzláště &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; pro Windows a soubory &lt;c1&gt;Configuration.properties&lt;/c1&gt; a &lt;c2&gt;Info.plist&lt;/c2&gt; v balíčku pro macOS) mohou být přepsány nebo smazány, takže je můžete chtít před aktualizací zazálohovat, jestliže jste tyto soubory používali k modifikování parametrů spouštění OmegaT.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T211614Z" creationid="pavreh" creationdate="20240217T172125Z">
+        <seg>Soubory parametrů, které jsou obsaženy ve staženém balíčku OmegaT (obzvláště &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; pro Windows a soubory &lt;c1&gt;Configuration.properties&lt;/c1&gt; a &lt;c2&gt;Info.plist&lt;/c2&gt; v balíčku pro macOS) mohou být přepsány nebo smazány, takže je můžete chtít před aktualizací zazálohovat, jestliže jste tyto soubory používali k modifikování parametrů spouštění OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53881,6 +53881,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T062316Z">
         <seg>Zapisovatelný soubor glosáře musí být uvnitř adresáře glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240222T211845Z" creationid="pavreh" creationdate="20240222T211845Z">
+        <seg>„Stará“ verze OmegaT bude přepsána, ale nastavení vytvořená přes OmegaT rozhraní zůstanou zachována v různých konfiguračních adresářích (viz výše).</seg>
       </tuv>
     </tu>
     <tu>
