@@ -43047,6 +43047,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240224T094006Z" creationid="pavreh" creationdate="20240224T094006Z">
+        <seg>Nahradit shody při vkládání zdrojového textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T170501Z" creationid="Josef" creationdate="20151130T170501Z">
