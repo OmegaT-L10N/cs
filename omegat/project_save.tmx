@@ -1238,6 +1238,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240224T094033Z" creationid="pavreh" creationdate="20240224T094033Z">
+        <seg>&amp;Ignorovat shody s velmi rozlišnou velikostí písmen (např. FOO vs. foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T170040Z" creationid="Josef" creationdate="20150928T170001Z">
