@@ -14631,6 +14631,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240225T205032Z" creationid="pavreh" creationdate="20240225T205032Z">
+        <seg>Zkontrolovat zástupný symboly &amp;Java MessageFormat (např. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T124433Z">
