@@ -16994,6 +16994,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240225T205802Z" creationid="pavreh" creationdate="20240225T205802Z">
+        <seg>Za&amp;počítat označený text a vlastní tagy do statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T060707Z" creationid="Josef" creationdate="20150928T170901Z">
@@ -22570,6 +22578,14 @@ Some attributes have invalid values.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T181919Z">
         <seg>Opravy představují jednoduché operace a OmegaT vám pomůže pomocí příslušné chybové zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240225T205614Z" creationid="pavreh" creationdate="20240225T205614Z">
+        <seg>Označený text (regulární výrazy):</seg>
       </tuv>
     </tu>
     <tu>
