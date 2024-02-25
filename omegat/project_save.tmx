@@ -1952,8 +1952,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Simple variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240218T065733Z" creationid="pavreh" creationdate="20240218T065733Z">
-        <seg>&amp;Jednoduché proměnné (např. %s, %d)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240225T205915Z" creationid="pavreh" creationdate="20240218T065733Z">
+        <seg>Je&amp;dnoduché proměnné (např. %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
