@@ -40186,6 +40186,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T161730Z" creationid="pavreh" creationdate="20240226T161730Z">
+        <seg>Textový obsah PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111348Z" creationid="Josef" creationdate="20180325T111348Z">
