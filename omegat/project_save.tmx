@@ -63028,6 +63028,14 @@ Stránka nenalezena.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155942Z" creationid="pavreh" creationdate="20240226T155932Z">
+        <seg>Linkifier detekoval nesprávnou URL: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong authentication</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080820Z">
@@ -69296,6 +69304,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055756Z">
         <seg>načteno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T160007Z" creationid="pavreh" creationdate="20240226T160007Z">
+        <seg>načteno {0} atributů.</seg>
       </tuv>
     </tu>
     <tu>
