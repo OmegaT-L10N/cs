@@ -3651,6 +3651,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152040Z" creationid="pavreh" creationdate="20240226T152040Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Stanoví výstupní formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -25978,6 +25988,16 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152147Z" creationid="pavreh" creationdate="20240226T152147Z">
+        <seg>Jestliže --stats-type není stanoven, formát se
+	    určí z přípony souboru.</seg>
       </tuv>
     </tu>
     <tu>
