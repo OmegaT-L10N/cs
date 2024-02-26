@@ -42285,6 +42285,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T111739Z" creationid="pavreh" creationdate="20240226T111739Z">
+        <seg>Referenční T&amp;M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T055214Z">
