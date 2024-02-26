@@ -3295,8 +3295,8 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T145821Z" creationid="pavreh" creationdate="20240226T145821Z">
-        <seg>--config-dir=&lt;path&gt;
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145959Z" creationid="pavreh" creationdate="20240226T145821Z">
+        <seg>--config-dir=&lt;cesta&gt;
 	  Adresář, který se použije ke čtení nebo zápisu konfiguračních souborů OmegaT.</seg>
       </tuv>
     </tu>
@@ -3331,8 +3331,8 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T145707Z" creationid="pavreh" creationdate="20240226T145707Z">
-        <seg>--config-file=&lt;path&gt;
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150018Z" creationid="pavreh" creationdate="20240226T145707Z">
+        <seg>--config-file=&lt;cesta&gt;
 	  Soubor Java .properties, ze kterého se načte výchozí nastavení.</seg>
       </tuv>
     </tu>
@@ -3523,6 +3523,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
 		Soubor Java .properties se používá pro text prostředí
 --config-dir=&lt;path&gt;
 		Adresář pro čtení/zápis konfiguračních souborů OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145942Z" creationid="pavreh" creationdate="20240226T145942Z">
+        <seg>--resource-bundle=&lt;cesta&gt;
+	  Soubor Java .properties, který se použije pro texty rozhraní.</seg>
       </tuv>
     </tu>
     <tu>
