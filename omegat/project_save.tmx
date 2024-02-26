@@ -3386,6 +3386,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150257Z" creationid="pavreh" creationdate="20240226T150257Z">
+        <seg>--mode=[název režimu konzole] &lt;cesta k projektu&gt; &lt;volby režimu&gt;
+	  Stanoví jiný režim, než výchozí GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -16315,6 +16325,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111229Z" creationid="Josef" creationdate="20180325T111229Z">
         <seg>Sestává z modelového studentského manuálu s instrukcemi na použití pro školitele, a z ukázkových zdrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150418Z" creationid="pavreh" creationdate="20240226T150418Z">
+        <seg>Názvy režimů konzole a jejich volby:</seg>
       </tuv>
     </tu>
     <tu>
