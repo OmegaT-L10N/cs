@@ -22223,8 +22223,8 @@ Vlákna babího léta brání postupu
       <tuv lang="en">
         <seg>Failed to commit source files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T213842Z" creationid="pavreh" creationdate="20240217T213842Z">
-        <seg>Zápis zdrojových souborů se nezdařil.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T154011Z" creationid="pavreh" creationdate="20240217T213842Z">
+        <seg>Zápis (commit) zdrojových souborů se nezdařil.</seg>
       </tuv>
     </tu>
     <tu>
