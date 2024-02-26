@@ -46746,6 +46746,14 @@ který odkazuje sám na sebe nebo na jednu z jeho podsložek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T112244Z" creationid="pavreh" creationdate="20240226T112244Z">
+        <seg>Přeskočeny překladové jednotky, pro které nebyl nalezen žádný zdrojový segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T111545Z" creationid="Josef" creationdate="20190928T111545Z">
