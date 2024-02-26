@@ -3392,6 +3392,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T142028Z" creationid="pavreh" creationdate="20240226T142028Z">
+        <seg>--no-team
+	  Zakázat funkce týmového projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T202756Z">
