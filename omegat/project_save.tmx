@@ -15963,8 +15963,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T194117Z" creationid="pavreh" creationdate="20240217T194117Z">
-        <seg>Zapsat z&amp;drojové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155057Z" creationid="pavreh" creationdate="20240217T194117Z">
+        <seg>Zapsat (co&amp;mmit) zdrojové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -16013,8 +16013,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T194150Z" creationid="pavreh" creationdate="20240217T194150Z">
-        <seg>Zapsat &amp;cílové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155124Z" creationid="pavreh" creationdate="20240217T194150Z">
+        <seg>Zapsat (comm&amp;it) cílové soubory</seg>
       </tuv>
     </tu>
     <tu>
@@ -16275,6 +16275,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151255Z" creationid="Josef" creationdate="20180318T151255Z">
         <seg>Kompilování OmegaT má své opodstatnění pro vývojáře, kteří chtějí dělat vlastní úpravy v kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155233Z" creationid="pavreh" creationdate="20240226T155233Z">
+        <seg>Dokončeno a současné překlady uloženy jako {0}</seg>
       </tuv>
     </tu>
     <tu>
