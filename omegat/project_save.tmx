@@ -29952,8 +29952,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240216T162302Z" creationid="Josef" creationdate="20180307T190826Z">
-        <seg>Zahájen  {0}-{1} týmový projekt.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T153037Z" creationid="Josef" creationdate="20180307T190826Z">
+        <seg>Zahájen týmový projekt {0}-{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40635,6 +40635,18 @@ everything.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T190928Z" creationid="Josef" creationdate="20180307T190928Z">
         <seg>Umístěte zdrojové soubory do adresáře ./source a dodatečný materiál do adresářů ./tm, ./glossary a ./dictionary tak, jak je to vyžadování a pak volbu potvrďte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T153915Z" creationid="pavreh" creationdate="20240226T153915Z">
+        <seg>Umístěte zdrojové soubory do ./source a dodatečný
+materiál podle potřeby do ./tm, ./glossary, a ./dictionary, poté vše zapište 
+(commit).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60112,6 +60124,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T141225Z" creationid="pavreh" creationdate="20240226T141225Z">
         <seg>Použití: java -jar [&lt;volby javy&gt;] OmegaT.jar [&lt;volby OmegaT&gt;] [&lt;cesta k projektu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152955Z" creationid="pavreh" creationdate="20240226T152955Z">
+        <seg>Použití: team init &lt;zdrojový jazyk&gt; &lt;cílový jazyk&gt;
+	Vizte --help.</seg>
       </tuv>
     </tu>
     <tu>
