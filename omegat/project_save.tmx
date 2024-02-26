@@ -46958,6 +46958,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T112840Z" creationid="pavreh" creationdate="20240226T112840Z">
+        <seg>Některé filtry neumožňují úpravy kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152147Z" creationid="Josef" creationdate="20180318T152147Z">
@@ -60079,6 +60087,14 @@ Současné nastavení je {0} MB;</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T103857Z" creationid="pavreh" creationdate="20240226T103857Z">
         <seg>Použít místní pravidla &amp;segmentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T113200Z" creationid="pavreh" creationdate="20240226T113200Z">
+        <seg>Použít místní nastavení fil&amp;trů souborů</seg>
       </tuv>
     </tu>
     <tu>
