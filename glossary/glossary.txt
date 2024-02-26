@@ -27,3 +27,4 @@ options	možnosti	GUI
 options	volby	konzole
 source language	zdrojový jazyk
 target language	cílový jazyk
+executing	provádí se
