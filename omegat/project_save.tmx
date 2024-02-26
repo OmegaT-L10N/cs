@@ -17986,6 +17986,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T110304Z" creationid="pavreh" creationdate="20240226T110304Z">
+        <seg>Aktuální nastavení projektu bude přepsáno nastavením vzdáleného projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -58685,6 +58693,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T072458Z" creationid="pavreh" creationdate="20240218T072458Z">
         <seg>Zkuste to později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T105946Z" creationid="pavreh" creationdate="20240226T105946Z">
+        <seg>Zkouší se záložní soubor</seg>
       </tuv>
     </tu>
     <tu>
