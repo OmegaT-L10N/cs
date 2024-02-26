@@ -30300,6 +30300,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T102705Z" creationid="pavreh" creationdate="20240226T102705Z">
+        <seg>Neplatný odkaz: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T052003Z" creationid="Josef" creationdate="20180307T192748Z">
@@ -33449,6 +33457,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121002T185504Z">
         <seg>Pravidelně si pořizujte kopii souboru /omegat/project_save.tmx na záložní médium, jako je CD nebo DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T102651Z" creationid="pavreh" creationdate="20240226T102651Z">
+        <seg>Ujistěte se, že všechny odkazy jsou mimo zdrojový adresář a podsložky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46638,6 +46654,14 @@ that points back to itself or one of its subfolders.</seg>
         <seg>Přeskočen jeden nebo více zdrojových souborů,
 protože zadaný zdrojový adresář obsahuje symbolický nebo pevný odkaz
 který odkazuje sám na sebe nebo na jednu z jeho podsložek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T102840Z" creationid="pavreh" creationdate="20240226T102840Z">
+        <seg>Přeskočen jeden nebo více zdrojových souborů kvůli chybě přístupového oprávnění ve zdrojovém adresáři.</seg>
       </tuv>
     </tu>
     <tu>
