@@ -21,3 +21,5 @@ configuration folder	konfigurační adresář
 project folder	adresář projektu
 user manual	uživatelská příručka
 source folder	zdrojový adresář
+translation unit	překladová jednotka
+source segment	zdrojový segment
