@@ -3562,6 +3562,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152400Z" creationid="pavreh" creationdate="20240226T152400Z">
+        <seg>--quiet
+	  Výstup omezí na zobrazení v příkazovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -3615,6 +3625,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
       <tuv lang="cs" changeid="Josef" changedate="20180307T190118Z" creationid="Josef" creationdate="20180307T190118Z">
         <seg>--script=&lt;cesta&gt;
 		Soubor skriptu, který se má provést při událostech projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152521Z" creationid="pavreh" creationdate="20240226T152521Z">
+        <seg>--script=&lt;cesta&gt;
+	  Soubor skriptu, který se má provést při událostech projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16409,6 +16429,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152240Z" creationid="pavreh" creationdate="20240226T152240Z">
+        <seg>Volby pouze pro konzoli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -18482,6 +18510,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T172721Z">
         <seg>Výchozí klávesová zkratka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152209Z" creationid="pavreh" creationdate="20240226T152209Z">
+        <seg>Výchozí je xml.</seg>
       </tuv>
     </tu>
     <tu>
