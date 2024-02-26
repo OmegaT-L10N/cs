@@ -840,8 +840,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T171334Z" creationid="Josef" creationdate="20180309T171334Z">
-        <seg>&amp;Procházet</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T124142Z" creationid="Josef" creationdate="20180309T171334Z">
+        <seg>&amp;Procházet...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32913,6 +32913,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T105740Z" creationid="pavreh" creationdate="20240226T105740Z">
         <seg>Místní externí &amp;hledání...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T124101Z" creationid="pavreh" creationdate="20240226T124101Z">
+        <seg>Místní externí hledání</seg>
       </tuv>
     </tu>
     <tu>
