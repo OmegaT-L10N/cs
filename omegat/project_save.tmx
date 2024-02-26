@@ -32885,6 +32885,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T105740Z" creationid="pavreh" creationdate="20240226T105740Z">
+        <seg>Místní externí &amp;hledání...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T215835Z" creationid="pavreh" creationdate="20240217T215835Z">
