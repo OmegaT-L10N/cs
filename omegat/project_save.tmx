@@ -3314,12 +3314,32 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145235Z" creationid="pavreh" creationdate="20240226T145235Z">
+        <seg>--disable-location-save
+	  Nepamatovat si poslední adresář otevřený ve výběru souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T185638Z" creationid="Josef" creationdate="20180307T185638Z">
         <seg>--disable-project-locking
 		Nebude se zamykat projektový soubor omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T144946Z" creationid="pavreh" creationdate="20240226T144946Z">
+        <seg>--disable-project-locking
+	  Nepokoušet se zamknout soubor omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
