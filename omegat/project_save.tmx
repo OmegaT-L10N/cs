@@ -46630,6 +46630,18 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T102530Z" creationid="pavreh" creationdate="20240226T102530Z">
+        <seg>Přeskočen jeden nebo více zdrojových souborů,
+protože zadaný zdrojový adresář obsahuje symbolický nebo pevný odkaz
+který odkazuje sám na sebe nebo na jednu z jeho podsložek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped source file {0} because it could not be loaded.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T124811Z" creationid="pavreh" creationdate="20240221T124811Z">
