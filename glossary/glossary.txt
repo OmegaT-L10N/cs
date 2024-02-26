@@ -19,3 +19,4 @@ global	obecný
 pane	podokno
 configuration folder	konfigurační adresář
 project folder	adresář projektu
+user manual	uživatelská příručka
