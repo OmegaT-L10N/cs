@@ -21869,6 +21869,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T160530Z" creationid="pavreh" creationdate="20240226T160530Z">
+        <seg>Vyřazuje se stará verze '{0}' ({1}), ponechává se {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185550Z" creationid="Josef" creationdate="20180309T185550Z">
