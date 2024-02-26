@@ -3691,6 +3691,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152558Z" creationid="pavreh" creationdate="20240226T152558Z">
+        <seg>--tag-validation=[abort|warn]
+	  Ověří tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[block|warn]</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T180521Z" creationid="Josef" creationdate="20180317T180521Z">
@@ -10248,6 +10258,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163448Z">
         <seg>Abcházština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152732Z" creationid="pavreh" creationdate="20240226T152732Z">
+        <seg>Abort [zrušit]: ukončit chybou, jestliže jsou tagy nesprávné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61502,8 +61520,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20160221T161827Z" creationid="Josef" creationdate="20160221T161827Z">
-        <seg>Warn [upozornit]: Upozornit na nevalidní tagy ve výstupu.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T152804Z" creationid="Josef" creationdate="20160221T161827Z">
+        <seg>Warn [upozornit]: Upozornit na nesprávně tagy ve výstupu.</seg>
       </tuv>
     </tu>
     <tu>
