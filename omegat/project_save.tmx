@@ -3292,6 +3292,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145821Z" creationid="pavreh" creationdate="20240226T145821Z">
+        <seg>--config-dir=&lt;path&gt;
+	  Adresář, který se použije ke čtení nebo zápisu konfiguračních souborů OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T164151Z" creationid="Josef" creationdate="20180317T164151Z">
@@ -3314,6 +3324,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
       <tuv lang="cs" changeid="Josef" changedate="20180307T185613Z" creationid="Josef" creationdate="20180307T185613Z">
         <seg>--config-file=&lt;path&gt;
 		Ze souboru Java .properties se načítá výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145707Z" creationid="pavreh" creationdate="20240226T145707Z">
+        <seg>--config-file=&lt;path&gt;
+	  Soubor Java .properties, ze kterého se načte výchozí nastavení.</seg>
       </tuv>
     </tu>
     <tu>
