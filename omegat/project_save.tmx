@@ -43357,6 +43357,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T154623Z" creationid="pavreh" creationdate="20240226T154623Z">
+        <seg>Opakující se segmenty: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T164312Z" creationid="Josef" creationdate="20150928T164308Z">
