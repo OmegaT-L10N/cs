@@ -44997,6 +44997,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141359Z" creationid="pavreh" creationdate="20240226T141359Z">
+        <seg>Více informací včetně dostupných voleb Javy naleznete v Nápověda &gt; Uživatelská příručka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20160221T162416Z" creationid="Josef" creationdate="20160221T162416Z">
