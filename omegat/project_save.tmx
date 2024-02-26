@@ -3246,6 +3246,20 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T145530Z" creationid="pavreh" creationdate="20240226T145530Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Tokenizer zdrojového nebo cílového jazyka, který se použije (přepíše nastavení
+	  projektu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T135030Z" creationid="Josef" creationdate="20190928T135030Z">
