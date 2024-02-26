@@ -22134,6 +22134,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T112118Z" creationid="pavreh" creationdate="20240226T112118Z">
+        <seg>Kritická chyba při parsování souboru „project_save.tmx“ (řádek {0}, sloupec {1}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Feature HowTos</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T185832Z" creationid="Josef" creationdate="20180317T185832Z">
