@@ -16185,7 +16185,7 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T162015Z" creationid="Josef" creationdate="20180307T191957Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T154150Z" creationid="Josef" creationdate="20180307T191957Z">
         <seg>Zapisování zdrojových souborů</seg>
       </tuv>
     </tu>
@@ -22239,8 +22239,8 @@ Vlákna babího léta brání postupu
       <tuv lang="en">
         <seg>Failed to commit target files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T213945Z" creationid="pavreh" creationdate="20240217T213945Z">
-        <seg>Zápis cílových souborů se nezdařil.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T154133Z" creationid="pavreh" creationdate="20240217T213945Z">
+        <seg>Zápis (commit) cílových souborů se nezdařil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37473,6 +37473,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T184733Z" creationid="Josef" creationdate="20180317T182447Z">
         <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T154321Z" creationid="pavreh" creationdate="20240226T154321Z">
+        <seg>OmegaT automaticky vybere volbu 'Yes'.</seg>
       </tuv>
     </tu>
     <tu>
