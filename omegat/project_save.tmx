@@ -3426,10 +3426,10 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T150753Z" creationid="pavreh" creationdate="20240226T150753Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150930Z" creationid="pavreh" creationdate="20240226T150753Z">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;cesta&gt;
-	    Výstupem je TMX soubor pseudopřekladu.</seg>
+	    Výstupem je pseudopřeložený soubor TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,6 +3520,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
       <tuv lang="cs" changeid="Josef" changedate="20180307T190202Z" creationid="Josef" creationdate="20180307T190202Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Čím se má zaplnit pseudopřeklad TMX (vložit zdrojový text nebo segment nechat prázdný).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150907Z" creationid="pavreh" creationdate="20240226T150907Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Čím naplnit pseudopřeložený TMX.</seg>
       </tuv>
     </tu>
     <tu>
