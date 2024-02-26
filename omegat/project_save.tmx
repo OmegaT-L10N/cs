@@ -58995,6 +58995,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T105826Z" creationid="pavreh" creationdate="20240226T105826Z">
+        <seg>Nelze vytvořit záložní soubor pro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T213653Z" creationid="pavreh" creationdate="20240217T213653Z">
