@@ -44477,6 +44477,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103752Z" creationid="pavreh" creationdate="20240226T103752Z">
+        <seg>Segmentace na úrovni vět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063450Z" creationid="Josef" creationdate="20180310T063450Z">
@@ -47266,6 +47274,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T220550Z" creationid="pavreh" creationdate="20240217T220550Z">
         <seg>Jazyk zdrojových souborů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103631Z" creationid="pavreh" creationdate="20240226T103631Z">
+        <seg>Zdrojové soubory se načteny, ale byl přeskočen soubor (soubory) kvůli chybě (chybám) filtru</seg>
       </tuv>
     </tu>
     <tu>
