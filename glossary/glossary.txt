@@ -11,7 +11,6 @@ versioning system	systém správy verzí
 folder	adresář
 directory	adresář
 tag	tag
-options	možnosti
 settings	nastavení
 spellchecking dictionary	slovník kontroly pravopisu
 repeated segment	opakující se segment
@@ -24,3 +23,5 @@ source folder	zdrojový adresář
 translation unit	překladová jednotka
 source segment	zdrojový segment
 project path	cesta k projektu
+options	možnosti	GUI
+options	volby	konzole
