@@ -3422,10 +3422,34 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150753Z" creationid="pavreh" creationdate="20240226T150753Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;cesta&gt;
+	    Výstupem je TMX soubor pseudopřekladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111416Z" creationid="Josef" creationdate="20180325T111416Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T150600Z" creationid="pavreh" creationdate="20240226T150600Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    Seznam výjimek (whitelist) regulárních výrazů zdrojových souborů, které se mají zpracovat.</seg>
       </tuv>
     </tu>
     <tu>
