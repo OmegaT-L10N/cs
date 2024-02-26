@@ -59808,6 +59808,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141225Z" creationid="pavreh" creationdate="20240226T141225Z">
+        <seg>Použití: java -jar [&lt;volby javy&gt;] OmegaT.jar [&lt;volby OmegaT&gt;] [&lt;cesta k projektu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T153348Z" creationid="Josef" creationdate="20150928T153348Z">
