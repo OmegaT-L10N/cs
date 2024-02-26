@@ -21441,6 +21441,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155632Z" creationid="pavreh" creationdate="20240226T155632Z">
+        <seg>Chyba při spuštění příkazů pro dodatečné zpracování: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T181340Z">
@@ -21881,6 +21889,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T040641Z">
         <seg>Vykonává se externí příkaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155440Z" creationid="pavreh" creationdate="20240226T155440Z">
+        <seg>Provádějí se příkazy pro dodatečné zpracování...</seg>
       </tuv>
     </tu>
     <tu>
