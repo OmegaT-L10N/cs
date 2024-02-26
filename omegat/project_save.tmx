@@ -3437,6 +3437,18 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141926Z" creationid="pavreh" creationdate="20240226T141926Z">
+        <seg>--remote-project
+	  Stáhnout soubor omegat.project z URL zadané jako &lt;cesta k
+	  projektu&gt; a nahrát zadaný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -3573,6 +3585,16 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
       <tuv lang="cs" changeid="Josef" changedate="20180307T185443Z" creationid="Josef" creationdate="20180307T185443Z">
         <seg>-h, --help
 		Ukázat informace k použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141628Z" creationid="pavreh" creationdate="20240226T141628Z">
+        <seg>-h, --help
+	  Zobrazit tuto nápovědu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35741,6 +35763,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141429Z" creationid="pavreh" creationdate="20240226T141429Z">
+        <seg>Žádné volby: Spustit GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No predefined credentials passed.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T074650Z" creationid="pavreh" creationdate="20240218T074650Z">
@@ -37909,6 +37939,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T073202Z">
         <seg>OmegaT na webu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141406Z" creationid="pavreh" creationdate="20240226T141406Z">
+        <seg>Volby OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41739,6 +41777,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191005T061729Z" creationid="Josef" creationdate="20191005T061729Z">
         <seg>Parametry projektu mění pouze projektový manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T141532Z" creationid="pavreh" creationdate="20240226T141532Z">
+        <seg>Pouze cesta k projektu: Spustit GUI a nahrát zadaný projekt.</seg>
       </tuv>
     </tu>
     <tu>
