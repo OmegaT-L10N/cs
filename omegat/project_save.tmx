@@ -15143,6 +15143,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103253Z" creationid="pavreh" creationdate="20240226T103253Z">
+        <seg>Zkontrolujte, zda se jedná o záměr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T171737Z" creationid="Josef" creationdate="20151007T171737Z">
@@ -54229,6 +54237,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062701Z" creationid="Josef" creationdate="20180310T062701Z">
         <seg>Online je dostupné množství pluginů pro OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103232Z" creationid="pavreh" creationdate="20240226T103232Z">
+        <seg>V souboru vzdáleného projektu nejsou žádná nastavení systému Git.</seg>
       </tuv>
     </tu>
     <tu>
