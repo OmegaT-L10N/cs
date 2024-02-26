@@ -17490,6 +17490,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T161235Z" creationid="pavreh" creationdate="20240226T161235Z">
+        <seg>Vytvořit odstavce při:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080021Z">
