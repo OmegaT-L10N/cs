@@ -26330,6 +26330,16 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T142344Z" creationid="pavreh" creationdate="20240226T142344Z">
+        <seg>Pokud je spuštěno v prostředí git working tree nebo svn,
+	  pak se výsledky přidají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062308Z" creationid="Josef" creationdate="20180310T062308Z">
@@ -29710,6 +29720,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T044523Z" creationid="pavreh" creationdate="20240221T044523Z">
         <seg>Výchozí počet nahraných segmentů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T142213Z" creationid="pavreh" creationdate="20240226T142213Z">
+        <seg>Zahájit minimální týmový projekt se zadanými jazyky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71582,6 +71600,16 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144633Z" creationid="Josef" creationdate="20180318T144633Z">
         <seg>te-warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T142144Z" creationid="pavreh" creationdate="20240226T142144Z">
+        <seg>team init &lt;zdrojový jazyk&gt; &lt;cílový jazyk&gt;
+	  Nástroj týmového projektu.</seg>
       </tuv>
     </tu>
     <tu>
