@@ -23,3 +23,4 @@ user manual	uživatelská příručka
 source folder	zdrojový adresář
 translation unit	překladová jednotka
 source segment	zdrojový segment
+project path	cesta k projektu
