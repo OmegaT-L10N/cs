@@ -43743,6 +43743,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T102015Z" creationid="pavreh" creationdate="20240226T102015Z">
+        <seg>Spustit OmegaT“ v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T073251Z" creationid="pavreh" creationdate="20240218T073251Z">
