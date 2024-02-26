@@ -21693,6 +21693,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T104257Z" creationid="pavreh" creationdate="20240226T104257Z">
+        <seg>Adresář se soubory exportovaných překladových pamětí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064703Z">
@@ -44479,8 +44487,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T103752Z" creationid="pavreh" creationdate="20240226T103752Z">
-        <seg>Segmentace na úrovni vět</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103820Z" creationid="pavreh" creationdate="20240226T103752Z">
+        <seg>Segme&amp;ntace na úrovni vět</seg>
       </tuv>
     </tu>
     <tu>
@@ -59991,6 +59999,14 @@ Současné nastavení je {0} MB;</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T112601Z">
         <seg>Použijete jej tehdy, když OmegaT nemá synchronizovat obsah projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T103857Z" creationid="pavreh" creationdate="20240226T103857Z">
+        <seg>Použít místní pravidla &amp;segmentace</seg>
       </tuv>
     </tu>
     <tu>
