@@ -21369,6 +21369,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155830Z" creationid="pavreh" creationdate="20240226T155830Z">
+        <seg>Chyba při monitorování příkazů pro dodatečné zpracování!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T073512Z">
@@ -41174,6 +41182,38 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T121340Z" creationid="pavreh" creationdate="20240221T121340Z">
         <seg>Možná řešení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155744Z" creationid="pavreh" creationdate="20240226T155744Z">
+        <seg>Příkaz pro dodatečné zpracování selhal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155717Z" creationid="pavreh" creationdate="20240226T155717Z">
+        <seg>Příkazy pro dodatečné zpracování dokončeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155732Z" creationid="pavreh" creationdate="20240226T155732Z">
+        <seg>Příkazy pro dodatečné zpracování selhaly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T155759Z" creationid="pavreh" creationdate="20240226T155759Z">
+        <seg>Příkazy pro dodatečné zpracování byly přerušeny.</seg>
       </tuv>
     </tu>
     <tu>
