@@ -22333,6 +22333,14 @@ Vlákna babího léta brání postupu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T160950Z" creationid="pavreh" creationdate="20240226T160950Z">
+        <seg>Selhalo vytváření instance filtru: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T184337Z">
@@ -46918,6 +46926,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T160646Z" creationid="pavreh" creationdate="20240226T160646Z">
+        <seg>Jsou přítomny podobné verze '{0}' ({1} a {2}), ponechává se nejnovější</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T180930Z" creationid="Josef" creationdate="20191003T180930Z">
@@ -52046,6 +52062,14 @@ instead.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T165206Z" creationid="Josef" creationdate="20180606T165206Z">
         <seg>Následující možnosti se netýkají situace kdy je zatržena možnost "Kompatibilita s OmegaT 2.6".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T160740Z" creationid="pavreh" creationdate="20240226T160740Z">
+        <seg>Následující pluginy se nenačtou, protože jsou nainstalovány novější verze, zvažte jejich odstranění: {0}</seg>
       </tuv>
     </tu>
     <tu>
