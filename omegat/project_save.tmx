@@ -752,8 +752,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Auto-propagation of translations</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T220810Z" creationid="pavreh" creationdate="20240217T220810Z">
-        <seg>Automatické upřednostnění jednoho překladu</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T124306Z" creationid="pavreh" creationdate="20240217T220810Z">
+        <seg>&amp;Automatické upřednostnění jednoho překladu</seg>
       </tuv>
     </tu>
     <tu>
@@ -48534,6 +48534,22 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T223100Z" creationid="pavreh" creationdate="20240217T223100Z">
         <seg>Možnosti pr&amp;ohledávání TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T124226Z" creationid="pavreh" creationdate="20240226T124226Z">
+        <seg>TMX Level 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T124229Z" creationid="pavreh" creationdate="20240226T124229Z">
+        <seg>TMX Level 2</seg>
       </tuv>
     </tu>
     <tu>
