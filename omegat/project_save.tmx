@@ -18140,6 +18140,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T112822Z" creationid="pavreh" creationdate="20240226T112822Z">
+        <seg>Přizpůsobit zpracovávané vzory názvů zdrojových souborů, názvů přeložených souborů a jejich příslušná kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T131633Z">
