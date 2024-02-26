@@ -49138,6 +49138,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T123823Z" creationid="pavreh" creationdate="20240226T123823Z">
+        <seg>Mapování úložiště v týmovém režimu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064545Z">
