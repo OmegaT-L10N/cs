@@ -52487,6 +52487,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T110331Z" creationid="pavreh" creationdate="20240226T110331Z">
+        <seg>Původní soubor je zazálohován jako: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.</seg>
