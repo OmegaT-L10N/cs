@@ -25,3 +25,5 @@ source segment	zdrojový segment
 project path	cesta k projektu
 options	možnosti	GUI
 options	volby	konzole
+source language	zdrojový jazyk
+target language	cílový jazyk
