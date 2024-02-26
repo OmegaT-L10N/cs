@@ -44717,6 +44717,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T101845Z" creationid="pavreh" creationdate="20240226T101845Z">
+        <seg>Viz „Jak na to...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See /docs/contributors.txt</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T170415Z" creationid="Josef" creationdate="20180309T170415Z">
