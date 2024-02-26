@@ -3414,6 +3414,18 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T151011Z" creationid="pavreh" creationdate="20240226T151011Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;cesta&gt;
+	    Adresář obsahující přeložené soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T111417Z" creationid="Josef" creationdate="20180325T111417Z">
@@ -3430,6 +3442,20 @@ jinak použijte Možnosti &gt; Obecné filtry souborů...;
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;cesta&gt;
 	    Výstupem je pseudopřeložený soubor TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240226T151425Z" creationid="pavreh" creationdate="20240226T151425Z">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Uložit do zadaného souboru nebo zobrazit ve standardním výstupu,
+	    jestliže soubor není zadán nebo se volba nepoužije.</seg>
       </tuv>
     </tu>
     <tu>
