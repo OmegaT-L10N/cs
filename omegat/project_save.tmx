@@ -60179,6 +60179,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T224824Z" creationid="pavreh" creationdate="20240227T224824Z">
+        <seg>Neznámý/Manuální</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144643Z" creationid="Josef" creationdate="20180318T144643Z">
