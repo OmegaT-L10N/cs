@@ -37179,8 +37179,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190242Z" creationid="Josef" creationdate="20180309T190242Z">
-        <seg>Upozorni mě, když jsou pro segment dostupné "{0}"</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T224743Z" creationid="Josef" creationdate="20180309T190242Z">
+        <seg>Upozorni mě, když segment obsahuje „{0}“</seg>
       </tuv>
     </tu>
     <tu>
