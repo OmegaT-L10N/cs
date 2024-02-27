@@ -13038,6 +13038,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041132Z" creationid="pavreh" creationdate="20240227T041132Z">
+        <seg>Automaticky nah&amp;radit označení množného čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T041607Z">
@@ -38684,8 +38692,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180606T165452Z" creationid="Josef" creationdate="20180606T165452Z">
-        <seg>Omega {0} není k dispozici.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T040725Z" creationid="Josef" creationdate="20180606T165452Z">
+        <seg>Omega {0} je nyní k dispozici.</seg>
       </tuv>
     </tu>
     <tu>
