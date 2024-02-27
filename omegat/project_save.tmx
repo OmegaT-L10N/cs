@@ -28666,6 +28666,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T210947Z" creationid="pavreh" creationdate="20240227T210947Z">
+        <seg>Ignorovaný atribut "content" &lt;meta&gt; tagů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240227T205231Z" creationid="pavreh" creationdate="20240227T205231Z">
@@ -41228,8 +41236,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164935Z" creationid="Josef" creationdate="20150928T164935Z">
-        <seg>Plugin úspěšně nahrán ze skupiny ‚{0}‘</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T210447Z" creationid="Josef" creationdate="20150928T164935Z">
+        <seg>Plugin úspěšně nahrán ze skupiny '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -49382,6 +49390,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T121511Z">
         <seg>Operace s tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T210705Z" creationid="pavreh" creationdate="20240227T210705Z">
+        <seg>Zkratky tagů (nevztahují se na soubory kompatibilní s OmegaT 2.6):</seg>
       </tuv>
     </tu>
     <tu>
