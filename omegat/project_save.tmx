@@ -19226,8 +19226,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185026Z" creationid="Josef" creationdate="20180309T185026Z">
-        <seg>Zobraz&amp;it pojmy zdroje</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T221554Z" creationid="Josef" creationdate="20180309T185026Z">
+        <seg>Zobraz&amp;it zdrojové termíny</seg>
       </tuv>
     </tu>
     <tu>
@@ -47704,8 +47704,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185155Z" creationid="Josef" creationdate="20180309T185155Z">
-        <seg>Třídit pod&amp;le plného textu, nezkracovat</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T221320Z" creationid="Josef" creationdate="20180309T185155Z">
+        <seg>Seřadit pod&amp;le plného textu, nezkracovat</seg>
       </tuv>
     </tu>
     <tu>
@@ -47728,8 +47728,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185144Z" creationid="Josef" creationdate="20180309T185144Z">
-        <seg>Třidit podle &amp;délky</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T221309Z" creationid="Josef" creationdate="20180309T185144Z">
+        <seg>Seřadit podle &amp;délky</seg>
       </tuv>
     </tu>
     <tu>
