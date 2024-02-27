@@ -13448,8 +13448,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T064117Z">
-        <seg>Chybný regulární výraz!</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T205351Z">
+        <seg>Chybný regulární výraz</seg>
       </tuv>
     </tu>
     <tu>
@@ -50044,8 +50044,8 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T181023Z">
-        <seg>Díky práci překladatelů v minulosti, bylo uživatelské rozhraní OmegaT anebo texty Nápovědy přeložené do několika jazyků. </seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T205818Z">
+        <seg>Díky práci překladatelů v minulosti bylo uživatelské rozhraní OmegaT anebo texty Nápovědy přeloženy do několika jazyků.</seg>
       </tuv>
     </tu>
     <tu>
