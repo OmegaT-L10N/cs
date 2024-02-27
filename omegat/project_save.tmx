@@ -62228,8 +62228,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T165733Z" creationid="Josef" creationdate="20150928T165733Z">
-        <seg>Pokud není dostupný žádný, bude jako posledn možnost použito ID.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T042145Z" creationid="Josef" creationdate="20150928T165733Z">
+        <seg>Pokud není dostupný žádný, bude jako poslední možnost použito ID.</seg>
       </tuv>
     </tu>
     <tu>
