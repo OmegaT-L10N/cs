@@ -21137,8 +21137,8 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T065921Z">
-        <seg>Vložte termín ze zdroje, překlad a komentář.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T215304Z">
+        <seg>Zadejte zdrojový termín, překlad termínu a komentář:</seg>
       </tuv>
     </tu>
     <tu>
