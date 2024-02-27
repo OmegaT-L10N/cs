@@ -1256,8 +1256,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T170040Z" creationid="Josef" creationdate="20150928T170001Z">
-        <seg>Ignoruj atributy type a ctype, když se vytváří zkratka tagu &lt;ph&gt;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T201751Z" creationid="Josef" creationdate="20150928T170001Z">
+        <seg>&amp;Ignorovat atributy type a ctype, když se vytváří zkratka tagu &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28620,8 +28620,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T170100Z" creationid="Josef" creationdate="20150928T170100Z">
-        <seg>Ignoruj atributy type a ctype, když se vytváří zkratky tagů &lt;&amp;bpt&gt; a &lt;ept&gt;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T201810Z" creationid="Josef" creationdate="20150928T170100Z">
+        <seg>Ignorovat atributy type a ctype, když se vytváří zkratky tagů &lt;&amp;bpt&gt; a &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
