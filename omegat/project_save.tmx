@@ -760,8 +760,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20151130T172656Z" creationid="Josef" creationdate="20151130T172656Z">
-        <seg>&amp;Automaticky doplnit překlady</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041653Z" creationid="Josef" creationdate="20151130T172656Z">
+        <seg>&amp;Automaticky stáhnout překlady</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180308T184344Z" creationid="Josef" creationdate="20180308T184344Z">
-        <seg>&amp;Automaticky doplnit překlady</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041705Z" creationid="Josef" creationdate="20180308T184344Z">
+        <seg>&amp;Automaticky stáhnout překlady</seg>
       </tuv>
     </tu>
     <tu>
