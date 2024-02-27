@@ -45871,8 +45871,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Segment Properties</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190113Z" creationid="Josef" creationdate="20180309T190113Z">
-        <seg>Předvolby segmentu</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231129Z" creationid="Josef" creationdate="20180309T190113Z">
+        <seg>Vlastnosti segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -46322,6 +46322,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130504T081027Z">
         <seg>Vyberte existující filtr s formátem podobným tomu, který bude v novém filtru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231410Z" creationid="pavreh" creationdate="20240227T231410Z">
+        <seg>Vyberte patřičnou verzi</seg>
       </tuv>
     </tu>
     <tu>
