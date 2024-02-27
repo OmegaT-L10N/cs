@@ -49562,6 +49562,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T202047Z" creationid="pavreh" creationdate="20240227T202047Z">
+        <seg>Stav cílového segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target shorter</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T171618Z" creationid="Josef" creationdate="20151007T171618Z">
@@ -60337,6 +60345,14 @@ The current setting is {0}MB;</seg>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T121849Z" creationid="pavreh" creationdate="20240221T121713Z">
         <seg>Zadejte „java -Xmx&lt;velikost-v-MB&gt;M -jar OmegaT.jar“ v příkazovém řádku nebo ve spouštěcím skriptu aplikace OmegaT; 
 Současné nastavení je {0} MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T202111Z" creationid="pavreh" creationdate="20240227T202111Z">
+        <seg>Použít „needs-review-translation“ namísto „translated“</seg>
       </tuv>
     </tu>
     <tu>
