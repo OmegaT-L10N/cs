@@ -28658,6 +28658,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T205231Z" creationid="pavreh" creationdate="20240227T205231Z">
+        <seg>Ignorované odstavce (regulární výraz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T145716Z" creationid="Josef" creationdate="20180308T145716Z">
@@ -35039,6 +35047,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151006T203235Z" creationid="Josef" creationdate="20151006T203235Z">
         <seg>Upravené segmenty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T205032Z" creationid="pavreh" creationdate="20240227T205032Z">
+        <seg>Upravit deklaraci kódování</seg>
       </tuv>
     </tu>
     <tu>
