@@ -35027,6 +35027,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041337Z" creationid="pavreh" creationdate="20240227T041337Z">
+        <seg>&amp;Jednojazyčně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165012Z" creationid="Josef" creationdate="20150928T165012Z">
@@ -44399,6 +44407,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041510Z" creationid="pavreh" creationdate="20240227T041510Z">
+        <seg>SDL projekt (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
@@ -48180,6 +48196,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101002T033444Z">
         <seg>Sponzoři</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041216Z" creationid="pavreh" creationdate="20240227T041216Z">
+        <seg>Standar&amp;dně</seg>
       </tuv>
     </tu>
     <tu>
