@@ -47736,8 +47736,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185037Z" creationid="Josef" creationdate="20180309T185037Z">
-        <seg>Třídit &amp;abecedně podle zdrojvých pojmů</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T220603Z" creationid="Josef" creationdate="20180309T185037Z">
+        <seg>Seřadit &amp;abecedně podle zdrojových termínů</seg>
       </tuv>
     </tu>
     <tu>
@@ -48056,8 +48056,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T065928Z">
-        <seg>Termín zdroje:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T220410Z">
+        <seg>Zdrojový termín:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49732,8 +49732,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T065951Z">
-        <seg>Překlad:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T220418Z">
+        <seg>Překlad termínu:</seg>
       </tuv>
     </tu>
     <tu>
