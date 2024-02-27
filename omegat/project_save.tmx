@@ -36965,6 +36965,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211255Z" creationid="pavreh" creationdate="20240227T211255Z">
+        <seg>Poznámka: Nastavení kódování zdrojového souboru ovlivňuje jen HHC a HHK soubory, které neobsahují žádnou deklaraci kódování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240227T204709Z" creationid="pavreh" creationdate="20240227T204709Z">
@@ -50674,6 +50682,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T090045Z">
         <seg>Podokno Glosář umožňuje přístup k vlastní, soukromé sbírce výrazů a zvláštní terminologie, kterou jste si vytvořili v souborech glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211152Z" creationid="pavreh" creationdate="20240227T211152Z">
+        <seg>Při zpracování souboru se vyskytla chyba HTML parseru:</seg>
       </tuv>
     </tu>
     <tu>
