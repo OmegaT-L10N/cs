@@ -24094,6 +24094,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T202655Z" creationid="pavreh" creationdate="20240227T202655Z">
+        <seg>Vynutit kompatibilitu Unicode literálů s Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165007Z" creationid="Josef" creationdate="20150928T165007Z">
@@ -50586,6 +50594,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20191003T163545Z" creationid="Josef" creationdate="20180318T145524Z">
         <seg>Prostředí JRE je dodáváno s OmegaT a nemusíte jej stahovat zvlášť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T202850Z" creationid="pavreh" creationdate="20240227T202850Z">
+        <seg>Ve filtru zdrojových balíčků Java došlo k chybě:</seg>
       </tuv>
     </tu>
     <tu>
