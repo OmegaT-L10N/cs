@@ -18252,8 +18252,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240221T121917Z" creationid="Josef" creationdate="20150928T162608Z">
-        <seg>Množství právě použité paměti podle VM: {0} MB; z toho volné paměti: {1} MB; maximálně k dispozici: {2} MB;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T215459Z" creationid="Josef" creationdate="20150928T162608Z">
+        <seg>Množství právě použité paměti podle VM: {0} MB; z toho volné paměti: {1} MB; maximálně k dispozici: {2} MB</seg>
       </tuv>
     </tu>
     <tu>
