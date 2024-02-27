@@ -36421,6 +36421,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T204143Z" creationid="pavreh" creationdate="20240227T204143Z">
+        <seg>Není nastaveno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192946Z">
@@ -46544,8 +46552,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Set</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062824Z" creationid="Josef" creationdate="20180310T062824Z">
-        <seg>Nastavit</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T204137Z" creationid="Josef" creationdate="20180310T062824Z">
+        <seg>Nastaveno</seg>
       </tuv>
     </tu>
     <tu>
