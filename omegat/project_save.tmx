@@ -47710,6 +47710,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T212742Z" creationid="pavreh" creationdate="20240227T212742Z">
+        <seg>Seřadit podle délky zdrojového termínu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T185144Z" creationid="Josef" creationdate="20180309T185144Z">
