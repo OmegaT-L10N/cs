@@ -31957,6 +31957,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T202608Z" creationid="pavreh" creationdate="20240227T202608Z">
+        <seg>Ponechat Unico&amp;de literály (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T155941Z">
