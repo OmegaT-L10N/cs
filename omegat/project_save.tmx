@@ -47024,16 +47024,16 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185031Z" creationid="Josef" creationdate="20180309T185031Z">
-        <seg>Zobrazit nejprve delší cí&amp;lové pojmy</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T221953Z" creationid="Josef" creationdate="20180309T185031Z">
+        <seg>Zobrazit nejprve de&amp;lší překlady termínů</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185118Z" creationid="Josef" creationdate="20180309T185118Z">
-        <seg>Uká&amp;zat nejprve zdrojový pojem</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T221646Z" creationid="Josef" creationdate="20180309T185118Z">
+        <seg>Uká&amp;zat nejprve zdrojový termín</seg>
       </tuv>
     </tu>
     <tu>
