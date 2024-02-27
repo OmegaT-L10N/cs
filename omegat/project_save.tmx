@@ -46560,8 +46560,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Set &amp; stored</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240219T155111Z" creationid="pavreh" creationdate="20240219T155111Z">
-        <seg>Nastaveno &amp; uloženo</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203717Z" creationid="pavreh" creationdate="20240219T155111Z">
+        <seg>Nastaveno a uloženo</seg>
       </tuv>
     </tu>
     <tu>
