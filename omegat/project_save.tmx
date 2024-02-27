@@ -16614,8 +16614,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101115T190151Z">
-        <seg>Současným trendem je stálý profesní vývoj.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T210107Z">
+        <seg>Současným trendem je neustálý profesní vývoj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50092,8 +50092,8 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
       <tuv lang="en">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101115T190059Z">
-        <seg>To znamená, že jich zůstalo už jen několik tisíc.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T205920Z">
+        <seg>To znamená, že jich zůstalo už jen několik tisíc!</seg>
       </tuv>
     </tu>
     <tu>
