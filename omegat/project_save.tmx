@@ -28682,6 +28682,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211014Z" creationid="pavreh" creationdate="20240227T211014Z">
+        <seg>Ignorované tagy (atribut=hodnota)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T145716Z" creationid="Josef" creationdate="20180308T145716Z">
