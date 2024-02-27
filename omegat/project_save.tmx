@@ -25214,6 +25214,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230024Z" creationid="pavreh" creationdate="20240227T230024Z">
+        <seg>Má komentář, viz podokno Komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has Note, see Notes Tab</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240227T225748Z" creationid="pavreh" creationdate="20240227T225748Z">
@@ -30818,8 +30826,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Is alternative</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190429Z" creationid="Josef" creationdate="20180309T190429Z">
-        <seg>Je alternativa</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230127Z" creationid="Josef" creationdate="20180309T190429Z">
+        <seg>Je alternativní</seg>
       </tuv>
     </tu>
     <tu>
@@ -36077,6 +36085,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170117Z" creationid="Josef" creationdate="20180606T170117Z">
         <seg>Nejsou tu žádné soubory .DOCX k vyčištění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230035Z" creationid="pavreh" creationdate="20240227T230035Z">
+        <seg>Žádný komentář</seg>
       </tuv>
     </tu>
     <tu>
