@@ -31,3 +31,4 @@ executing	provádí se
 Java Resource Bundles	Zdrojové balíčky Java
 specified	zadaný
 source term	zdrojový termín
+target term	překlad termínu
