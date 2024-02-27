@@ -47040,8 +47040,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185111Z" creationid="Josef" creationdate="20180309T185111Z">
-        <seg>Ukáza&amp;t nejprve cílový pojem</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T222053Z" creationid="Josef" creationdate="20180309T185111Z">
+        <seg>Zobrazi&amp;t nejprve překlad termínu</seg>
       </tuv>
     </tu>
     <tu>
