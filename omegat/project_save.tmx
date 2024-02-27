@@ -1150,6 +1150,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T201714Z" creationid="pavreh" creationdate="20240227T201714Z">
+        <seg>&amp;Vynutit zkratku tagů &lt;it pos="end"&gt; na "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165854Z" creationid="Josef" creationdate="20150928T165854Z">
