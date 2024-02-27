@@ -32045,10 +32045,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231614Z" creationid="pavreh" creationdate="20240227T231614Z">
+        <seg>Ponechat vzdálenou verzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240227T202608Z" creationid="pavreh" creationdate="20240227T202608Z">
         <seg>Ponechat Unico&amp;de literály (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231600Z" creationid="pavreh" creationdate="20240227T231600Z">
+        <seg>Ponechat vaši verzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -40066,6 +40082,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231527Z" creationid="pavreh" creationdate="20240227T231527Z">
+        <seg>Původní verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151134Z" creationid="Josef" creationdate="20180318T151134Z">
@@ -43381,6 +43405,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231550Z" creationid="pavreh" creationdate="20240227T231550Z">
+        <seg>Vzdálená verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removal of these codes is described below.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151604Z" creationid="Josef" creationdate="20180318T151604Z">
@@ -46498,6 +46530,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130510T190859Z">
         <seg>Vyberte své makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231516Z" creationid="pavreh" creationdate="20240227T231516Z">
+        <seg>Vyberte svou verzi, původní verzi nebo vzdálenou verzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65278,6 +65318,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240220T054607Z" creationid="pavreh" creationdate="20240220T054607Z">
         <seg>Zdá se, že váš projekt neobsahuje přeložitelné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T231534Z" creationid="pavreh" creationdate="20240227T231534Z">
+        <seg>Vaše verze</seg>
       </tuv>
     </tu>
     <tu>
