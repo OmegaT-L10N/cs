@@ -29,3 +29,4 @@ source language	zdrojový jazyk
 target language	cílový jazyk
 executing	provádí se
 Java Resource Bundles	Zdrojové balíčky Java
+specified	zadaný
