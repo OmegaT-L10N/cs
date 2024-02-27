@@ -73383,6 +73383,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T204419Z" creationid="pavreh" creationdate="20240227T204419Z">
+        <seg>{0} verze {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T204532Z" creationid="pavreh" creationdate="20240227T204532Z">
+        <seg>{0} verze {1}, aktualizace {2} ({3})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} x{1}</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103316Z" creationid="Josef" creationdate="20180317T103316Z">
