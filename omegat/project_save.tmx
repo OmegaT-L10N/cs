@@ -25288,8 +25288,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Help &amp; Manual</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T165236Z" creationid="Josef" creationdate="20150928T165236Z">
-        <seg>Soubory Nápovědy &amp; Příručky</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203644Z" creationid="Josef" creationdate="20150928T165236Z">
+        <seg>Nápovědy a Příručky</seg>
       </tuv>
     </tu>
     <tu>
@@ -35507,8 +35507,24 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T170254Z" creationid="Josef" creationdate="20180309T170254Z">
-        <seg>Možnosti filtrů Mozilla DTD</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203326Z" creationid="Josef" creationdate="20180309T170254Z">
+        <seg>Možnosti filtru Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203224Z" creationid="pavreh" creationdate="20240227T203224Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203304Z" creationid="pavreh" creationdate="20240227T203304Z">
+        <seg>Možnosti filtru Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -50734,6 +50750,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203144Z" creationid="pavreh" creationdate="20240227T203144Z">
+        <seg>V Moodle PHP filtru došlo k chybě:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T111607Z" creationid="Josef" creationdate="20190928T111607Z">
@@ -50750,10 +50774,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203209Z" creationid="pavreh" creationdate="20240227T203209Z">
+        <seg>V Mozilla DTD filtru došlo k chybě:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151130T172049Z" creationid="Josef" creationdate="20151130T172049Z">
         <seg>Filtr Mozilla DTD ukazuje výjimku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T203356Z" creationid="pavreh" creationdate="20240227T203356Z">
+        <seg>V Mozilla FTL filtru došlo k chybě:</seg>
       </tuv>
     </tu>
     <tu>
