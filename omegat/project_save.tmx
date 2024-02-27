@@ -36089,6 +36089,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230000Z" creationid="pavreh" creationdate="20240227T230000Z">
+        <seg>Žádná poznámka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T072741Z">
