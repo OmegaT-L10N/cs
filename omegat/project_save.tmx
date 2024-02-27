@@ -33227,8 +33227,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>List View</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T174111Z" creationid="Josef" creationdate="20150928T174111Z">
-        <seg>Náhled seznamu</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T224243Z" creationid="Josef" creationdate="20150928T174111Z">
+        <seg>Zobrazit jako seznam</seg>
       </tuv>
     </tu>
     <tu>
@@ -49292,8 +49292,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Table View</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190116Z" creationid="Josef" creationdate="20180309T190116Z">
-        <seg>Zobrazení tabulky</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T224152Z" creationid="Josef" creationdate="20180309T190116Z">
+        <seg>Zobrazit jako tabulku</seg>
       </tuv>
     </tu>
     <tu>
