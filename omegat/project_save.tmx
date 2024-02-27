@@ -13014,6 +13014,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T212328Z" creationid="pavreh" creationdate="20240227T212328Z">
+        <seg>Přihlašovací údaje autentizovaného proxy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080747Z">
@@ -36113,6 +36121,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No active spell checker engine found</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211740Z" creationid="pavreh" creationdate="20240227T211740Z">
+        <seg>Nebyl nalezen žádný aktivní nástroj pro kontrolu pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T180303Z">
@@ -49866,6 +49882,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211841Z" creationid="pavreh" creationdate="20240227T211841Z">
+        <seg>Šablona pro segmenty bez data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T194618Z">
@@ -60119,6 +60143,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185327Z">
         <seg>Jedinečné segmenty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T211656Z" creationid="pavreh" creationdate="20240227T211656Z">
+        <seg>Byl zadán neznámý kód jazyka {0}</seg>
       </tuv>
     </tu>
     <tu>
