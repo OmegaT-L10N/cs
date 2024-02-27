@@ -13208,8 +13208,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Automatically fetch translations</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T164916Z" creationid="Josef" creationdate="20191003T164916Z">
-        <seg>Automaticky doplnit překlady</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041809Z" creationid="Josef" creationdate="20191003T164916Z">
+        <seg>Automaticky stáhnout překlady</seg>
       </tuv>
     </tu>
     <tu>
@@ -49246,6 +49246,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T125810Z">
         <seg>Ověření skupiny tagů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T041938Z" creationid="pavreh" creationdate="20240227T041938Z">
+        <seg>Kompatibilita zpracování tagů</seg>
       </tuv>
     </tu>
     <tu>
