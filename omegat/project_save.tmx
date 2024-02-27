@@ -48530,8 +48530,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T170615Z" creationid="Josef" creationdate="20150928T170615Z">
-        <seg>Podle základního tvaru, žádné tagy a čísla</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T222915Z" creationid="Josef" creationdate="20150928T170615Z">
+        <seg>Základního tvaru, žádné tagy a čísla</seg>
       </tuv>
     </tu>
     <tu>
