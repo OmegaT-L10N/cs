@@ -11690,6 +11690,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230202Z" creationid="pavreh" creationdate="20240227T230202Z">
+        <seg>Alternativní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T171941Z" creationid="Josef" creationdate="20180309T171941Z">
@@ -36461,6 +36469,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230211Z" creationid="pavreh" creationdate="20240227T230211Z">
+        <seg>Není alternativní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062828Z" creationid="Josef" creationdate="20180310T062828Z">
@@ -40030,6 +40046,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20190928T133022Z" creationid="Josef" creationdate="20190928T132930Z">
         <seg>Zde poskytkuje Oracle své JRE pro systémy Solaris SPARC/x86 (Java 8) a pro Linux x64, Solaris x64, Windows x64 (Java 8)&lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T230258Z" creationid="pavreh" creationdate="20240227T230258Z">
+        <seg>Původ</seg>
       </tuv>
     </tu>
     <tu>
