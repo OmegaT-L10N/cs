@@ -21505,6 +21505,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T210418Z" creationid="pavreh" creationdate="20240227T210418Z">
+        <seg>Chyba při odebírání pluginu ze třídy '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error updating glossary file</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T174539Z" creationid="Josef" creationdate="20150928T174539Z">
