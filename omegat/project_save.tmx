@@ -25214,6 +25214,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T225748Z" creationid="pavreh" creationdate="20240227T225748Z">
+        <seg>Má poznámku, viz podokno Poznámkový blok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has been tested on Linux.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101116T061129Z">
@@ -43593,6 +43601,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121001T130055Z">
         <seg>Za použití funkce Ověření tagů je oprava tagů a opětovné vytvoření cílových dokumentů opravdu jednoduché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T225333Z" creationid="pavreh" creationdate="20240227T225333Z">
+        <seg>Opakující se</seg>
       </tuv>
     </tu>
     <tu>
