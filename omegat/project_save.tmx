@@ -17564,8 +17564,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Created by</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190359Z" creationid="Josef" creationdate="20180309T190359Z">
-        <seg>Vytvořil/a:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T223712Z" creationid="Josef" creationdate="20180309T190359Z">
+        <seg>Vytvořil(a)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17580,8 +17580,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Created on</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T190403Z" creationid="Josef" creationdate="20180309T190403Z">
-        <seg>Vytvořeno kdy</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240227T223726Z" creationid="Josef" creationdate="20180309T190403Z">
+        <seg>Vytvořeno dne</seg>
       </tuv>
     </tu>
     <tu>
