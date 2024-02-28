@@ -33,3 +33,4 @@ specified	zadaný
 source term	zdrojový termín
 target term	překlad termínu
 spelling dictionary	slovník pro kontrolu pravopisu
+segmentation rules	pravidla segmentace
