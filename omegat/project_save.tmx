@@ -1366,6 +1366,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133514Z" creationid="pavreh" creationdate="20240228T133514Z">
+        <seg>&amp;Rozvržení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T064631Z">
@@ -60705,6 +60713,14 @@ Současné nastavení je {0} MB;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T102550Z" creationid="Josef" creationdate="20180317T102550Z">
         <seg>Použijte $n jako odkaz na skupinu nth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133551Z" creationid="pavreh" creationdate="20240228T133551Z">
+        <seg>Použít z&amp;huštěné zobrazení</seg>
       </tuv>
     </tu>
     <tu>
