@@ -60773,6 +60773,14 @@ Současné nastavení je {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133430Z" creationid="pavreh" creationdate="20240228T133430Z">
+        <seg>Použít zá&amp;kladní tvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T191634Z" creationid="Josef" creationdate="20180307T191634Z">
