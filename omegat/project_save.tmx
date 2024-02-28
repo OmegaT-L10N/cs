@@ -1056,8 +1056,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T191821Z" creationid="Josef" creationdate="20180307T191821Z">
-        <seg>Povolit doplnění histori&amp;e</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T194556Z" creationid="Josef" creationdate="20180307T191821Z">
+        <seg>Povolit dokončování dle histori&amp;e</seg>
       </tuv>
     </tu>
     <tu>
@@ -13104,8 +13104,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180307T191739Z" creationid="Josef" creationdate="20180307T191739Z">
-        <seg>Automatické doplnění</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T194530Z" creationid="Josef" creationdate="20180307T191739Z">
+        <seg>Automatické dokončování</seg>
       </tuv>
     </tu>
     <tu>
@@ -25834,8 +25834,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T185017Z" creationid="Josef" creationdate="20180309T185017Z">
-        <seg>Doplnění historie</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T194816Z" creationid="Josef" creationdate="20180309T185017Z">
+        <seg>Dokončování dle historie</seg>
       </tuv>
     </tu>
     <tu>
