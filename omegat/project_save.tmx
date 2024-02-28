@@ -33499,8 +33499,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240219T154750Z" creationid="pavreh" creationdate="20240219T154750Z">
-        <seg>Z bezpečnostních důvodů jsou příkazy místního projektu vypnuty.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133953Z" creationid="pavreh" creationdate="20240219T154750Z">
+        <seg>Z bezpečnostních důvodů jsou místní příkazy projektu vypnuty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37861,6 +37861,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133637Z" creationid="pavreh" creationdate="20240228T133637Z">
+        <seg>OmegaT klasický motiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT comes in two editions:</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T125504Z" creationid="pavreh" creationdate="20240217T125504Z">
@@ -37897,6 +37905,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240222T174429Z" creationid="pavreh" creationdate="20240222T174429Z">
         <seg>OmegaT v současnosti vyžaduje verzi JRE 11 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T133609Z" creationid="pavreh" creationdate="20240228T133609Z">
+        <seg>OmegaT výchozí motiv</seg>
       </tuv>
     </tu>
     <tu>
