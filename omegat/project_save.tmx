@@ -25150,6 +25150,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141314Z" creationid="pavreh" creationdate="20240228T141314Z">
+        <seg>Získána neočekávaná odpověď HTTP {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141246Z" creationid="pavreh" creationdate="20240228T141246Z">
+        <seg>Získán neočekávaný MIME TYPE {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184228Z" creationid="Josef" creationdate="20180309T184228Z">
