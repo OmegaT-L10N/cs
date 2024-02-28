@@ -36517,6 +36517,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T170741Z" creationid="pavreh" creationdate="20240228T170741Z">
+        <seg>Nebyla nalezena žádná konzole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
@@ -54721,6 +54729,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T170642Z" creationid="pavreh" creationdate="20240228T170642Z">
+        <seg>Zadaná složka není projekt OmegaT nebo je soubor projektu poškozen nebo neexistuje platná záloha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T073935Z" creationid="pavreh" creationdate="20240218T073935Z">
@@ -60319,6 +60335,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171401Z" creationid="pavreh" creationdate="20240228T171401Z">
+        <seg>Nelze provést commit, protože se změnil vzdálený překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192544Z" creationid="Josef" creationdate="20180307T192544Z">
@@ -60355,6 +60379,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180307T192552Z" creationid="Josef" creationdate="20180307T192552Z">
         <seg>Nelze stáhnout týmový projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T170717Z" creationid="pavreh" creationdate="20240228T170717Z">
+        <seg>Nelze získat exkluzivní zámek pro automatické ukládání.</seg>
       </tuv>
     </tu>
     <tu>
