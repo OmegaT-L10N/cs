@@ -16527,6 +16527,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142818Z" creationid="pavreh" creationdate="20240228T142818Z">
+        <seg>Režim konzole párování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T150418Z" creationid="pavreh" creationdate="20240226T150418Z">
@@ -16547,6 +16555,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T142226Z" creationid="pavreh" creationdate="20240228T142226Z">
         <seg>Režim konzole statistiky projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142437Z" creationid="pavreh" creationdate="20240228T142437Z">
+        <seg>Režim konzole pseudopřeklad</seg>
       </tuv>
     </tu>
     <tu>
@@ -19948,6 +19964,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120927T054916Z">
         <seg>Překládaný dokument může obsahovat obchodní značky, označení nebo vlastní jména, která zůstanou ve stejném tvaru v přeloženém dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142352Z" creationid="pavreh" creationdate="20240228T142352Z">
+        <seg>Existuje zadaný adresář?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25178,6 +25202,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151744Z" creationid="Josef" creationdate="20180318T151744Z">
         <seg>Google vygeneruje váš API klíč, což je řetězec s průměrně 39 znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142342Z" creationid="pavreh" creationdate="20240228T142342Z">
+        <seg>Došlo k chybě při otevření adresáře/souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48628,6 +48660,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142245Z" creationid="pavreh" creationdate="20240228T142245Z">
+        <seg>Zadaný NEZNÁMÝ typ souboru pro statistiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T063434Z" creationid="Josef" creationdate="20180310T063434Z">
@@ -66222,6 +66262,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T102111Z" creationid="Josef" creationdate="20180317T102103Z">
         <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142257Z" creationid="pavreh" creationdate="20240228T142257Z">
+        <seg>přerušeno.“</seg>
       </tuv>
     </tu>
     <tu>
