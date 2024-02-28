@@ -16043,8 +16043,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T155057Z" creationid="pavreh" creationdate="20240217T194117Z">
-        <seg>Zapsat (co&amp;mmit) zdrojové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171655Z" creationid="pavreh" creationdate="20240217T194117Z">
+        <seg>Provést co&amp;mmit zdrojových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -16093,8 +16093,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T155124Z" creationid="pavreh" creationdate="20240217T194150Z">
-        <seg>Zapsat (comm&amp;it) cílové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171719Z" creationid="pavreh" creationdate="20240217T194150Z">
+        <seg>Provést comm&amp;it cílových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -16265,8 +16265,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T154150Z" creationid="Josef" creationdate="20180307T191957Z">
-        <seg>Zapisování zdrojových souborů</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171812Z" creationid="Josef" creationdate="20180307T191957Z">
+        <seg>Probíhá commit zdrojových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -22487,8 +22487,8 @@ Vlákna babího léta brání postupu
       <tuv lang="en">
         <seg>Failed to commit source files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T154011Z" creationid="pavreh" creationdate="20240217T213842Z">
-        <seg>Zápis (commit) zdrojových souborů se nezdařil.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171534Z" creationid="pavreh" creationdate="20240217T213842Z">
+        <seg>Commit zdrojových souborů se nezdařil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22503,8 +22503,8 @@ Vlákna babího léta brání postupu
       <tuv lang="en">
         <seg>Failed to commit target files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T154133Z" creationid="pavreh" creationdate="20240217T213945Z">
-        <seg>Zápis (commit) cílových souborů se nezdařil.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171548Z" creationid="pavreh" creationdate="20240217T213945Z">
+        <seg>Commit cílových souborů se nezdařil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48435,8 +48435,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T162019Z" creationid="Josef" creationdate="20180307T192010Z">
-        <seg>Zdrojové soubory zapsány</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171749Z" creationid="Josef" creationdate="20180307T192010Z">
+        <seg>Proveden commit zdrojových souborů</seg>
       </tuv>
     </tu>
     <tu>
