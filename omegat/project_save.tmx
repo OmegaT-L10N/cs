@@ -35529,8 +35529,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T184530Z" creationid="Josef" creationdate="20150928T184530Z">
-        <seg>Text informací k úpravám</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T213503Z" creationid="Josef" creationdate="20150928T184530Z">
+        <seg>Text informací o úpravách</seg>
       </tuv>
     </tu>
     <tu>
@@ -63629,8 +63629,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T184636Z" creationid="Josef" creationdate="20150928T184636Z">
-        <seg>Netisknutelný znak</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T213527Z" creationid="Josef" creationdate="20150928T184636Z">
+        <seg>Netisknutelné znaky</seg>
       </tuv>
     </tu>
     <tu>
