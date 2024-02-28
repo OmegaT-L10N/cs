@@ -736,8 +736,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Auto-Completion</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T211608Z" creationid="pavreh" creationdate="20240217T211608Z">
-        <seg>A&amp;utomatické doplnění</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T183454Z" creationid="pavreh" creationdate="20240217T211608Z">
+        <seg>A&amp;utomatické dokončování</seg>
       </tuv>
     </tu>
     <tu>
