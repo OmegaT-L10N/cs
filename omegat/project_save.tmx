@@ -14060,8 +14060,8 @@ kup si další drink kámo.</seg>
       <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T054449Z" creationid="pavreh" creationdate="20240222T054449Z">
-        <seg>Chyby, návrhy na funkce a problémy v dokumentaci se projednávají v tzv. tracking systému umístěném na Sourceforge.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T214845Z" creationid="pavreh" creationdate="20240222T054449Z">
+        <seg>Chyby, návrhy na funkce a problémy v dokumentaci se projednávají v tzv. tracking systému umístěném na SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38219,8 +38219,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T054425Z" creationid="pavreh" creationdate="20240222T054425Z">
-        <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na Sourceforge:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T214830Z" creationid="pavreh" creationdate="20240222T054425Z">
+        <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
