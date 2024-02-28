@@ -14495,6 +14495,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135645Z" creationid="pavreh" creationdate="20240228T135645Z">
+        <seg>Nelze přečíst slovník pro kontrolu pravopisu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T183922Z" creationid="Josef" creationdate="20180309T183922Z">
@@ -21453,6 +21461,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T135432Z" creationid="pavreh" creationdate="20240228T135432Z">
         <seg>Chyba při nahrávání hunspell: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135515Z" creationid="pavreh" creationdate="20240228T135515Z">
+        <seg>Chyba při nahrávání jmyspell: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30194,6 +30210,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T142213Z" creationid="pavreh" creationdate="20240226T142213Z">
         <seg>Zahájit minimální týmový projekt se zadanými jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135457Z" creationid="pavreh" creationdate="20240228T135457Z">
+        <seg>Inicializovaná kontrola pravopisu JMySpell pro jazyk '{0}' slovník {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46734,6 +46758,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135741Z" creationid="pavreh" creationdate="20240228T135741Z">
+        <seg>Vybraný zdrojový jazyk LanguageTool: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected options:</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170036Z" creationid="Josef" creationdate="20180606T170036Z">
@@ -48596,6 +48628,22 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T142607Z">
         <seg>Slovníky kontroly pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135658Z" creationid="pavreh" creationdate="20240228T135658Z">
+        <seg>Slovník pro kontrolu pravopisu se zdá být prázdný: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135600Z" creationid="pavreh" creationdate="20240228T135600Z">
+        <seg>Slovník pro kontrolu pravopisu existuje, ale není to soubor: {0}</seg>
       </tuv>
     </tu>
     <tu>
