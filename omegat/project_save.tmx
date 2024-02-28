@@ -19038,8 +19038,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T172121Z" creationid="Josef" creationdate="20150928T172121Z">
-        <seg>Detekce ...</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T200402Z" creationid="Josef" creationdate="20150928T172121Z">
+        <seg>Detekuje se...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20124,6 +20124,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T132455Z" creationid="pavreh" creationdate="20240228T132455Z">
         <seg>Překontrolujte a zkuste to znovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T200429Z" creationid="pavreh" creationdate="20240228T200417Z">
+        <seg>Překontrolujte ho a zkuste to znovu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43860,6 +43868,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T052303Z" creationid="pavreh" creationdate="20240217T221853Z">
         <seg>Vzdálené repozitáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T200323Z" creationid="pavreh" creationdate="20240228T200323Z">
+        <seg>Chyba v přihlašovacích údajích pro vzdálený repozitář git+ssh: {0}</seg>
       </tuv>
     </tu>
     <tu>
