@@ -15447,6 +15447,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195814Z" creationid="pavreh" creationdate="20240228T195814Z">
+        <seg>Zkontrolujte, zda má váš repozitář správné revize a soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T171737Z" creationid="Josef" creationdate="20151007T171737Z">
@@ -44374,6 +44382,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240221T051941Z" creationid="Josef" creationdate="20180307T192645Z">
         <seg>Repozitář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195755Z" creationid="pavreh" creationdate="20240228T195755Z">
+        <seg>Repozitář (typ: {0}) URL není definováno v cestě: {1}</seg>
       </tuv>
     </tu>
     <tu>
