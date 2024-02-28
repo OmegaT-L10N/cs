@@ -32035,8 +32035,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T054056Z" creationid="Josef" creationdate="20180317T181920Z">
-        <seg>Podstatou této skupiny je vyvíjet, šířit a podporovat používání OmegaT, open-source programu, který pracuje za využití překladové paměti.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T214735Z" creationid="Josef" creationdate="20180317T181920Z">
+        <seg>Podstatou této skupiny je vyvíjet, šířit a podporovat používání OmegaT, programu s otevřeným zdrojovým kódem, který pracuje za využití překladové paměti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65076,8 +65076,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T181731Z" creationid="Josef" creationdate="20180317T181731Z">
-        <seg>Můžete přejít na &lt;a0&gt;domovskoustránku&lt;/a0&gt; a snad tam najít potřebné informace.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T214642Z" creationid="Josef" creationdate="20180317T181731Z">
+        <seg>Můžete přejít na &lt;a0&gt;domovskou stránku&lt;/a0&gt; a snad tam najít potřebné informace.</seg>
       </tuv>
     </tu>
     <tu>
