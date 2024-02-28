@@ -21537,6 +21537,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140128Z" creationid="pavreh" creationdate="20240228T140128Z">
+        <seg>Chyba při ukládání ignorovaných slov“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T185133Z">
@@ -66474,6 +66482,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T102152Z" creationid="Josef" creationdate="20180317T102152Z">
         <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140245Z" creationid="pavreh" creationdate="20240228T140245Z">
+        <seg>výjimka špatného umístění při změně velikosti písma</seg>
       </tuv>
     </tu>
     <tu>
