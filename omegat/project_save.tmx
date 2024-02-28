@@ -25094,6 +25094,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T203234Z" creationid="pavreh" creationdate="20240228T203234Z">
+        <seg>Poznámka glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T090333Z">
@@ -25114,6 +25122,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T203214Z" creationid="pavreh" creationdate="20240228T203214Z">
         <seg>Zdroj glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T203222Z" creationid="pavreh" creationdate="20240228T203222Z">
+        <seg>Překlad glosáře</seg>
       </tuv>
     </tu>
     <tu>
@@ -34241,6 +34257,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T080346Z">
         <seg>Podokno Strojový překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T203333Z" creationid="pavreh" creationdate="20240228T203333Z">
+        <seg>Zvýraznění strojového překladu</seg>
       </tuv>
     </tu>
     <tu>
