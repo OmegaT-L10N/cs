@@ -6218,8 +6218,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T132712Z" creationid="Josef" creationdate="20190928T132712Z">
-        <seg>&lt;f0&gt;OmegaT.ap&lt;/f0&gt; zpřístupní služby macOS</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220715Z" creationid="Josef" creationdate="20190928T132712Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; zpřístupní služby macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36175,8 +36175,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T190147Z" creationid="Josef" creationdate="20191003T190147Z">
-        <seg>Určení jména místního adresáře nebo souboru, odpovídající kořenovému adresáři projektu OmegaT</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220924Z" creationid="Josef" creationdate="20191003T190147Z">
+        <seg>Určení jména místního adresáře nebo souboru, odpovídající kořenovému adresáři projektu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47027,8 +47027,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T175508Z" creationid="Josef" creationdate="20191003T175508Z">
-        <seg>Vyberte umístění nástroje kontroly pravopisu</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220955Z" creationid="Josef" creationdate="20191003T175508Z">
+        <seg>Vyberte umístění nástroje kontroly pravopisu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72357,7 +72357,7 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T190051Z" creationid="Josef" creationdate="20191003T185812Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220846Z" creationid="pavreh" creationdate="20240228T220846Z">
         <seg>repository type</seg>
       </tuv>
     </tu>
