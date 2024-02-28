@@ -21449,6 +21449,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135432Z" creationid="pavreh" creationdate="20240228T135432Z">
+        <seg>Chyba při nahrávání hunspell: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T224146Z" creationid="pavreh" creationdate="20240217T224146Z">
@@ -22153,6 +22161,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T183423Z">
         <seg>Exportuje aktuální výběr do textového souboru k dalšímu zpracování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135244Z" creationid="pavreh" creationdate="20240228T135244Z">
+        <seg>Externí GPG nevrátil platný podpis; dostal: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30182,6 +30198,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135415Z" creationid="pavreh" creationdate="20240228T135415Z">
+        <seg>Inicializovaná kontrola pravopisu LanguageTool Hunspell pro jazyk '{0}' slovník {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T153037Z" creationid="Josef" creationdate="20180307T190826Z">
@@ -36413,6 +36437,14 @@ measures.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T075559Z">
         <seg>Není zvolen žádný skript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135313Z" creationid="pavreh" creationdate="20240228T135313Z">
+        <seg>Pro jazyk {0} nebyla nalezena žádná kontrola pravopisu</seg>
       </tuv>
     </tu>
     <tu>
