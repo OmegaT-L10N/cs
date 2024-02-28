@@ -10870,8 +10870,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20151001T162847Z" creationid="Josef" creationdate="20151001T162847Z">
-        <seg>Tip: pokud OmegaT pracuje pomalu při použití vzdáleného připojení na plochu (‚Remote Desktop Sessions‘) v systému Widnows, můžete pak použít tuto možnost:</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220641Z" creationid="Josef" creationdate="20151001T162847Z">
+        <seg>Tip: pokud OmegaT pracuje pomalu při použití vzdáleného připojení na plochu ve Windows, můžete pak použít tuto možnost:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50871,8 +50871,8 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
       <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T133425Z" creationid="pavreh" creationdate="20240217T133425Z">
-        <seg>Tato složka obsahuje všechny soubory, které jsou potřeba ke spuštění OmegaT.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220442Z" creationid="pavreh" creationdate="20240217T133425Z">
+        <seg>Tento adresář obsahuje všechny soubory, které jsou potřeba ke spuštění OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
