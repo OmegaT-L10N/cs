@@ -41311,10 +41311,9 @@ everything.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240226T153915Z" creationid="pavreh" creationdate="20240226T153915Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171519Z" creationid="pavreh" creationdate="20240226T153915Z">
         <seg>Umístěte zdrojové soubory do ./source a dodatečný
-materiál podle potřeby do ./tm, ./glossary, a ./dictionary, poté vše zapište 
-(commit).</seg>
+materiál podle potřeby do ./tm, ./glossary, a ./dictionary, poté proveďte commit.</seg>
       </tuv>
     </tu>
     <tu>
