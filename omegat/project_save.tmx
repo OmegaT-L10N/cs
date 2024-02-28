@@ -23214,6 +23214,14 @@ Some attributes have invalid values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T203031Z" creationid="pavreh" creationdate="20240228T203031Z">
+        <seg>Označený text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240225T205614Z" creationid="pavreh" creationdate="20240225T205614Z">
@@ -25098,6 +25106,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T162325Z" creationid="Josef" creationdate="20180308T162325Z">
         <seg>Podokno Glosář: Když sem přesunete soubory s rozeznatelnou koncovkou glosáře (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, atd.) pak budou tyto nakopírovány do adresáře glosáře &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T203214Z" creationid="pavreh" creationdate="20240228T203214Z">
+        <seg>Zdroj glosáře</seg>
       </tuv>
     </tu>
     <tu>
