@@ -14471,6 +14471,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134853Z" creationid="pavreh" creationdate="20240228T134853Z">
+        <seg>Volání externího programu bylo přerušeno: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T165242Z" creationid="Josef" creationdate="20150928T165242Z">
@@ -14563,6 +14571,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T055451Z">
         <seg>Nelze načíst zadaný XML soubor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134837Z" creationid="pavreh" creationdate="20240228T134837Z">
+        <seg>Nelze správně připravit prostředí GPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -22265,6 +22281,14 @@ Vlákna babího léta brání postupu
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T224813Z" creationid="pavreh" creationdate="20240217T224813Z">
         <seg>Externí od&amp;kazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134907Z" creationid="pavreh" creationdate="20240228T134907Z">
+        <seg>Externí program selhal({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33681,6 +33705,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135029Z" creationid="pavreh" creationdate="20240228T135029Z">
+        <seg>Hledá se spustitelný soubor GPG: cesta {0} z $PATH není přístupná; přeskakuje se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120928T164456Z">
@@ -36181,6 +36213,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240227T230035Z" creationid="pavreh" creationdate="20240227T230035Z">
         <seg>Žádný komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135229Z" creationid="pavreh" creationdate="20240228T135229Z">
+        <seg>Nebyl nalezen žádný spustitelný soubor GPG; nastavte jej v předvolbách Git v části „Committing“ nebo jej definujte v git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135008Z" creationid="pavreh" creationdate="20240228T135008Z">
+        <seg>Pro klíč ID „{0}“ nebyl nalezen žádný klíč GPG; zkontrolujte nebo nastavte git config user.signingKey</seg>
       </tuv>
     </tu>
     <tu>
@@ -61343,6 +61391,14 @@ Současné nastavení je {0} MB;</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120924T180622Z">
         <seg>Uživatelská příručka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135104Z" creationid="pavreh" creationdate="20240228T135104Z">
+        <seg>Uživatel zrušil podepisování (nebyla poskytnuta přístupová fráze)</seg>
       </tuv>
     </tu>
     <tu>
