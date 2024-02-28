@@ -6394,8 +6394,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T174406Z" creationid="pavreh" creationdate="20240222T174406Z">
-        <seg>&lt;i1&gt;OmegaT lze instalovat na různé operační systémy, které jsou schopny zprovoznit prostředí Java runtime environment ve verzi 11&lt;/i1&gt;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221414Z" creationid="pavreh" creationdate="20240222T174406Z">
+        <seg>&lt;i1&gt;OmegaT lze instalovat na různé operační systémy, které jsou schopny zprovoznit prostředí Java runtime environment ve verzi 11.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24536,8 +24536,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T144725Z" creationid="Josef" creationdate="20180318T144725Z">
-        <seg>Ze série videí na YouTube o OmegaT, autor Miguel Navarro (španělsky)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221325Z" creationid="Josef" creationdate="20180318T144725Z">
+        <seg>Ze série videí na YouTube o OmegaT, autor Miguel Navarro (španělsky).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27955,8 +27955,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T144950Z" creationid="Josef" creationdate="20180318T144950Z">
-        <seg>Pokud si nejste jisti, kterou verzi stáhnout, můžete využít &lt;a0&gt;Průvodce stažením&lt;/a0&gt;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221338Z" creationid="Josef" creationdate="20180318T144950Z">
+        <seg>Pokud si nejste jisti, kterou verzi stáhnout, můžete využít &lt;a0&gt;Průvodce stažením&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41387,8 +41387,8 @@ puls se zběsile zrychluje</seg>
       <tuv lang="en">
         <seg>Periodic builds are available on SourceForge.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T175821Z" creationid="pavreh" creationdate="20240222T175746Z">
-        <seg>Pravidelná sestavení jsou dostupná na SourceForge</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221507Z" creationid="pavreh" creationdate="20240222T175746Z">
+        <seg>Pravidelná sestavení jsou dostupná na SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53364,8 +53364,8 @@ parts of the General Public License.</seg>
       <tuv lang="en">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T145431Z" creationid="Josef" creationdate="20180318T145431Z">
-        <seg>Obsažená verze JRE je verze 64-bitová</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221439Z" creationid="Josef" creationdate="20180318T145431Z">
+        <seg>Obsažená verze JRE je verze 64-bitová.</seg>
       </tuv>
     </tu>
     <tu>
