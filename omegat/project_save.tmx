@@ -16543,6 +16543,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142226Z" creationid="pavreh" creationdate="20240228T142226Z">
+        <seg>Režim konzole statistiky projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console translation mode</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T141818Z" creationid="pavreh" creationdate="20240228T141818Z">
