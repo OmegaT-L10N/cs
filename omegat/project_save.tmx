@@ -30588,8 +30588,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="cs" changeid="josefmlnr" changedate="20130501T093947Z">
-        <seg>Vložit Tag {0}</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T201754Z">
+        <seg>Vložit tag {0}</seg>
       </tuv>
     </tu>
     <tu>
