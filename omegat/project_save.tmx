@@ -14543,6 +14543,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134825Z" creationid="pavreh" creationdate="20240228T134825Z">
+        <seg>Nelze najít spustitelný soubor GPG na bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T170941Z" creationid="Josef" creationdate="20150928T170941Z">
@@ -21565,6 +21573,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T073604Z" creationid="pavreh" creationdate="20240218T073604Z">
         <seg>Během automatického ukládání se vyskytla chyba: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134755Z" creationid="pavreh" creationdate="20240228T134755Z">
+        <seg>Chyba při získávání výstupu externího programu</seg>
       </tuv>
     </tu>
     <tu>
@@ -30474,6 +30490,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T134211Z" creationid="pavreh" creationdate="20240228T134211Z">
         <seg>Nainstalovat soubor pluginu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134710Z" creationid="pavreh" creationdate="20240228T134710Z">
+        <seg>Nainstalovat plugin {0} {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41398,6 +41422,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120920T183244Z">
         <seg>Prosím napište nebo vložte URL stránky MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134717Z" creationid="pavreh" creationdate="20240228T134717Z">
+        <seg>Instalace pluginu se nezdařila.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56420,6 +56452,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151216Z" creationid="Josef" creationdate="20180318T151216Z">
         <seg>Tento formát umožňuje uživatelům OmegaT odevzdávat dvoujazyčné soubory uživatelům Déjà Vu DVX, kteří pak mohou nadále tyto soubory upravovat nebo je začlenit do svého automatického pracovního postupu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134734Z" creationid="pavreh" creationdate="20240228T134734Z">
+        <seg>Tento soubor není archiv pluginu.</seg>
       </tuv>
     </tu>
     <tu>
