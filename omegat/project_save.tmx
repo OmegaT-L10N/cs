@@ -24942,6 +24942,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134120Z" creationid="pavreh" creationdate="20240228T134120Z">
+        <seg>Jděte na Předvolby &gt; Obecné externí hledání, a zde je zapněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T214022Z" creationid="pavreh" creationdate="20240217T214022Z">
@@ -30458,6 +30466,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240218T072156Z" creationid="pavreh" creationdate="20240218T072156Z">
         <seg>Instalace selhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T134211Z" creationid="pavreh" creationdate="20240228T134211Z">
+        <seg>Nainstalovat soubor pluginu</seg>
       </tuv>
     </tu>
     <tu>
