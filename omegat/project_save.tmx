@@ -33465,6 +33465,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140341Z" creationid="pavreh" creationdate="20240228T140341Z">
+        <seg>Načíst zdrojové soubory projektu: {0} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loaded dictionary from '{0}': {1} ms</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T140017Z" creationid="pavreh" creationdate="20240228T140017Z">
@@ -48822,6 +48830,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240217T230513Z" creationid="pavreh" creationdate="20240217T230513Z">
         <seg>Začít nový segment od:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140745Z" creationid="pavreh" creationdate="20240228T140745Z">
+        <seg>Začít nový projekt.</seg>
       </tuv>
     </tu>
     <tu>
