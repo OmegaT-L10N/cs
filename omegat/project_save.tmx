@@ -49179,6 +49179,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T201546Z" creationid="pavreh" creationdate="20240228T201546Z">
+        <seg>Výstupní formáty statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics window</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T081013Z">
