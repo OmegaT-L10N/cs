@@ -33973,6 +33973,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142903Z" creationid="pavreh" creationdate="20240228T142903Z">
+        <seg>Došlo k chybě MT enginu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T142832Z" creationid="pavreh" creationdate="20240228T142832Z">
+        <seg>MT({0}) hlásí chybu {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T145031Z" creationid="Josef" creationdate="20180318T145031Z">
