@@ -21441,6 +21441,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140036Z" creationid="pavreh" creationdate="20240228T140036Z">
+        <seg>Chyba při nahrávání slovníku z '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130523T181328Z">
@@ -33449,6 +33457,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T140017Z" creationid="pavreh" creationdate="20240228T140017Z">
+        <seg>Nahraný slovník z '{0}': {1} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T080100Z">
@@ -36013,6 +36029,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180323T152100Z" creationid="Josef" creationdate="20180323T152100Z">
         <seg>Není třeba připomínat, že bychom byli raději, kdyby jste pro práci na lokalizaci OmegaT používali právě OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135840Z" creationid="pavreh" creationdate="20240228T135821Z">
+        <seg>Vyjednaný zdrojový jazyk LanguageTool: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135835Z" creationid="pavreh" creationdate="20240228T135835Z">
+        <seg>Vyjednaný cílový jazyk LanguageTool: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46762,6 +46794,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T135741Z" creationid="pavreh" creationdate="20240228T135741Z">
         <seg>Vybraný zdrojový jazyk LanguageTool: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135753Z" creationid="pavreh" creationdate="20240228T135753Z">
+        <seg>Vybraný cílový jazyk LanguageTool: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73335,6 +73375,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T163817Z">
         <seg>Výchozí segmentační pravidla uživatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T135953Z" creationid="pavreh" creationdate="20240228T135953Z">
+        <seg>používají se pravidla segmentace z {0}</seg>
       </tuv>
     </tu>
     <tu>
