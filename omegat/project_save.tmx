@@ -16806,6 +16806,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195521Z" creationid="pavreh" creationdate="20240228T195521Z">
+        <seg>Převod do nového formátu týmového projektu nelze provést v režimu konzole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180606T170251Z" creationid="Josef" creationdate="20180606T170251Z">
@@ -24618,6 +24626,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T165041Z" creationid="Josef" creationdate="20180317T165041Z">
         <seg>licenci GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195449Z" creationid="pavreh" creationdate="20240228T195449Z">
+        <seg>Přejít</seg>
       </tuv>
     </tu>
     <tu>
@@ -39950,6 +39966,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195630Z" creationid="pavreh" creationdate="20240228T195630Z">
+        <seg>Otevřete jej v GUI OmegaT a převeďte jej do nového formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open project</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T055329Z">
@@ -42654,6 +42678,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120925T060340Z">
         <seg>Seznam souborů projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195456Z" creationid="pavreh" creationdate="20240228T195456Z">
+        <seg>Soubory projektu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46605,6 +46637,14 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20150928T161433Z" creationid="Josef" creationdate="20150928T161433Z">
         <seg>Označit předchozí přibližný překlad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T195437Z" creationid="pavreh" creationdate="20240228T195437Z">
+        <seg>Vybrat projekt</seg>
       </tuv>
     </tu>
     <tu>
