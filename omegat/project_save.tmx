@@ -48941,8 +48941,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Spellcheck - errors found:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20151007T172934Z" creationid="Josef" creationdate="20151007T172934Z">
-        <seg>Kontrola pravopisu - nalezené chyby.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221140Z" creationid="Josef" creationdate="20151007T172934Z">
+        <seg>Kontrola pravopisu - nalezené chyby:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50335,8 +50335,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180606T170135Z" creationid="Josef" creationdate="20180606T170135Z">
-        <seg>Tagwipe je dokončeno, projekt bude znovu nahrán....</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221216Z" creationid="Josef" creationdate="20180606T170135Z">
+        <seg>Tagwipe je dokončeno, projekt bude znovu nahrán...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51475,8 +51475,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T185229Z" creationid="Josef" creationdate="20180317T185229Z">
-        <seg>Uživatelská příručka v HTML pro standardní verzi OmegaT</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221248Z" creationid="Josef" creationdate="20180317T185229Z">
+        <seg>Uživatelská příručka v HTML pro standardní verzi OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54602,8 +54602,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The script will quit now.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T170010Z" creationid="Josef" creationdate="20180309T170010Z">
-        <seg>Skript teď bude ukončen</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221159Z" creationid="Josef" creationdate="20180309T170010Z">
+        <seg>Skript teď bude ukončen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69371,8 +69371,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191003T162954Z" creationid="Josef" creationdate="20180317T104018Z">
-        <seg>https://sourceforge.net/projects/macsvnhttps://sourceforge.net/projects/omegatscripts/</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T221038Z" creationid="Josef" creationdate="20180317T104018Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
