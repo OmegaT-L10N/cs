@@ -16241,16 +16241,16 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T161937Z" creationid="Josef" creationdate="20180307T191038Z">
-        <seg>Zapsat zdrojové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T172014Z" creationid="Josef" creationdate="20180307T191038Z">
+        <seg>Provést commit zdrojových souborů</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T161941Z" creationid="Josef" creationdate="20180307T191043Z">
-        <seg>Zapsat cílové soubory</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T172032Z" creationid="Josef" creationdate="20180307T191043Z">
+        <seg>Provést commit cílových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -16273,8 +16273,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T162031Z" creationid="Josef" creationdate="20180307T192017Z">
-        <seg>Zapisování cílových souborů</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171829Z" creationid="Josef" creationdate="20180307T192017Z">
+        <seg>Probíhá commit cílových souborů</seg>
       </tuv>
     </tu>
     <tu>
@@ -50215,8 +50215,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T162034Z" creationid="Josef" creationdate="20180307T192027Z">
-        <seg>Cílové soubory zapsány</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T171922Z" creationid="Josef" creationdate="20180307T192027Z">
+        <seg>Proveden commit cílových souborů</seg>
       </tuv>
     </tu>
     <tu>
