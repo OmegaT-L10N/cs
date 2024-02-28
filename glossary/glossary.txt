@@ -32,3 +32,4 @@ Java Resource Bundles	Zdrojové balíčky Java
 specified	zadaný
 source term	zdrojový termín
 target term	překlad termínu
+spelling dictionary	slovník pro kontrolu pravopisu
