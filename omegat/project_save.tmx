@@ -40238,6 +40238,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T215249Z" creationid="pavreh" creationdate="20240228T215249Z">
+        <seg>Formát OpenDocument (nativní formát souboru pro LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening a command line window</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121003T194619Z">
@@ -60774,6 +60782,14 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T215406Z" creationid="pavreh" creationdate="20240228T215406Z">
+        <seg>Podpora Unicode: lze použít s různými abecedami a skripty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling OmegaT</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T152559Z" creationid="Josef" creationdate="20180318T152559Z">
@@ -74786,6 +74802,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103319Z" creationid="Josef" creationdate="20180317T103319Z">
         <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T215318Z" creationid="pavreh" creationdate="20240228T215318Z">
+        <seg>...a přibližně dalších 30 formátů souborů</seg>
       </tuv>
     </tu>
     <tu>
