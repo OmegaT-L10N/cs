@@ -15407,6 +15407,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T202224Z" creationid="pavreh" creationdate="20240228T202224Z">
+        <seg>Znovu zkontrolujte problémy s tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120926T195839Z">
@@ -50769,6 +50777,14 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130423T181048Z">
         <seg>Text, který má být odstraněn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T202151Z" creationid="pavreh" creationdate="20240228T202151Z">
+        <seg>Text k odstranění</seg>
       </tuv>
     </tu>
     <tu>
