@@ -26529,6 +26529,18 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141215Z" creationid="pavreh" creationdate="20240228T141215Z">
+        <seg>Jestliže bude přístup do požadovaného umístění 
+umožněn později, použije se toto umístění a všechna 
+nastavení se vrátí do výchozího nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
