@@ -10278,6 +10278,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141456Z" creationid="pavreh" creationdate="20240228T141456Z">
+        <seg>Přerušit restart, protože nebyl nalezen spouštěč nebo spustitelný soubor Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags are invalid.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240226T152732Z" creationid="pavreh" creationdate="20240226T152732Z">
@@ -15721,8 +15729,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T072643Z">
-        <seg>Klikněte na položku nabídky ‚{0}‘</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141520Z">
+        <seg>Klikněte na položku nabídky '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -32509,6 +32517,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121017T181128Z">
         <seg>Jazyková korektura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T141620Z" creationid="pavreh" creationdate="20240228T141620Z">
+        <seg>Instalátor jazyků</seg>
       </tuv>
     </tu>
     <tu>
