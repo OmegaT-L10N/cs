@@ -20981,8 +20981,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Editor...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T141537Z" creationid="Josef" creationdate="20190928T141537Z">
-        <seg>Editor</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220310Z" creationid="Josef" creationdate="20190928T141537Z">
+        <seg>Editor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -56805,8 +56805,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This creates a new folder named after the package you downloaded.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T133143Z" creationid="pavreh" creationdate="20240217T133143Z">
-        <seg>To vytvoří novou složku nazvanou stejně, jako se jmenuje balíček, který jste stáhli.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T220414Z" creationid="pavreh" creationdate="20240217T133143Z">
+        <seg>To vytvoří nový adresář nazvaný stejně, jako se jmenuje balíček, který jste stáhli.</seg>
       </tuv>
     </tu>
     <tu>
