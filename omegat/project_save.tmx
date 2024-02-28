@@ -42722,6 +42722,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T200556Z" creationid="pavreh" creationdate="20240228T200556Z">
+        <seg>Interval ukládání dat projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T184836Z" creationid="Josef" creationdate="20180309T184836Z">
@@ -56469,8 +56477,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T172453Z" creationid="Josef" creationdate="20150928T172453Z">
-        <seg>Zadaný link URL se zdá být neplatný</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240228T200448Z" creationid="Josef" creationdate="20150928T172453Z">
+        <seg>Zadané URL se zdá být neplatné.</seg>
       </tuv>
     </tu>
     <tu>
