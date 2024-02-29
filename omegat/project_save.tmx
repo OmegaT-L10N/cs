@@ -55421,6 +55421,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translatable data (ie.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131838Z" creationid="pavreh" creationdate="20240229T131838Z">
+        <seg>Přeložitelná data (tj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T054129Z">
@@ -73414,6 +73422,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130511T094442Z">
         <seg>instalovaný nástroj pro konverzi souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132030Z" creationid="pavreh" creationdate="20240229T132030Z">
+        <seg>soubory, které překládáte) jsou přístupné pro zobrazení přeložitelného obsahu uživateli.</seg>
       </tuv>
     </tu>
     <tu>
