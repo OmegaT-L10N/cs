@@ -51000,6 +51000,14 @@ Rozsah nahrazování textu platí pro cílové segmenty projektu, a to ať už j
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That file is compliant with the TMX specification, which is a standard used by most tools of the same category.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132402Z" creationid="pavreh" creationdate="20240229T132402Z">
+        <seg>Tento soubor vyhovuje TMX specifikaci, což je standard používaný většinou nástrojů v této kategorii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T220442Z" creationid="pavreh" creationdate="20240217T133425Z">
@@ -55425,6 +55433,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240229T131838Z" creationid="pavreh" creationdate="20240229T131838Z">
         <seg>Přeložitelná data (tj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated data is stored in a file called project_save.tmx located in the omegat/ folder of any translation project.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132246Z" creationid="pavreh" creationdate="20240229T132246Z">
+        <seg>Přeložená data jsou uložena v souboru nazvaném project_save.tmx, který je umístěn v adresáři omegat/ každého překladatelského projektu.</seg>
       </tuv>
     </tu>
     <tu>
