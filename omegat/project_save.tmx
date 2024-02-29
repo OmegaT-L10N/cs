@@ -35865,8 +35865,10 @@ your receipt of the notice.</seg>
 404 not with us now
 Lost to paradise</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T111510Z" creationid="Josef" creationdate="20190928T111510Z">
-        <seg>Smutek a nářky 404 už tu s námi není stránka se odebrala do věčných lovišť.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T121933Z" creationid="Josef" creationdate="20190928T111510Z">
+        <seg>Smutek a nářky 
+404 už tu s námi není 
+Odebrala se do věčných lovišť</seg>
       </tuv>
     </tu>
     <tu>
@@ -43391,8 +43393,10 @@ public, and in some countries other activities as well.</seg>
 Or a rude error message
 These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T111458Z" creationid="Josef" creationdate="20190928T111458Z">
-        <seg>Místo pípnutí nebo drsné chybové hlášky čtěte: 'Stránka nenalezena'</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T121853Z" creationid="Josef" creationdate="20190928T111458Z">
+        <seg>Místo pípnutí 
+Nebo drsné chybové hlášky 
+Čtěte: 'Stránka nenalezena'</seg>
       </tuv>
     </tu>
     <tu>
