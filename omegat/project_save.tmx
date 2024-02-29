@@ -13546,9 +13546,9 @@ may experience unexpected, but correct behaviour.</seg>
 Your page cannot be found, boy
 Buy another drink</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T111037Z" creationid="Josef" creationdate="20190928T111037Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T102347Z" creationid="Josef" creationdate="20190928T111037Z">
         <seg>Barman hlasitě zvolal:
-Vaše stránka nenalzenea,
+Tvoje stránka nenalezena,
 kup si další drink kámo.</seg>
       </tuv>
     </tu>
@@ -22135,9 +22135,9 @@ Nikdo tě neuslyší křičet</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T110843Z" creationid="Josef" creationdate="20190928T110832Z">
-        <seg>Zajímavá stránka nápovědy
-Vlákna babího léta brání postupu
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T102512Z" creationid="Josef" creationdate="20190928T110832Z">
+        <seg>Vzrušující stránka nápovědy
+Babí léto brání postupu
 404 nenalezeno</seg>
       </tuv>
     </tu>
@@ -41084,9 +41084,10 @@ free programs, and that you know you can do these things.</seg>
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T111156Z" creationid="Josef" creationdate="20190928T111156Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T102630Z" creationid="Josef" creationdate="20190928T111156Z">
         <seg>Stránka proklouzla mezi prsty
-puls se zběsile zrychluje</seg>
+Puls se zběsile zrychluje
+Zmizela jak mlha</seg>
       </tuv>
     </tu>
     <tu>
