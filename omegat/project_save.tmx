@@ -21475,8 +21475,10 @@ kód jazyka a YY je kódem oblasti nebo země (nepovinný údaj).</seg>
 I am the Blue Screen of Death
 No one hears your screams</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20190928T111437Z" creationid="Josef" creationdate="20190928T111437Z">
-        <seg>Stránka nenalezena. Já jsem Modrá obrazovka smrti. Nikdo tě neuslyší křičet.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T101554Z" creationid="Josef" creationdate="20190928T111437Z">
+        <seg>Jepičí stránka
+Já jsem modrá obrazovka smrti
+Nikdo tě neuslyší křičet</seg>
       </tuv>
     </tu>
     <tu>
