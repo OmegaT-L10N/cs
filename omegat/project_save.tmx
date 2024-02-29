@@ -52211,6 +52211,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T095809Z" creationid="pavreh" creationdate="20240229T095809Z">
+        <seg>Nejlepším způsobem pro vývojáře, jak zajistit bezproblémový zážitek při navrhování takových změn, je řídit se pokyny uvedenými na &lt;a0&gt;stránce Přispívání do OmegaT&lt;/a0&gt;, která je součástí větší &lt;a1&gt;Dokumentace pro vývojáře&lt;/a1&gt;, kterou OmegaT nabízí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20121004T121253Z">
