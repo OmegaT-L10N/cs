@@ -17006,6 +17006,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132509Z" creationid="pavreh" creationdate="20240229T132509Z">
+        <seg>Cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130501T095250Z">
@@ -38533,6 +38541,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132504Z" creationid="pavreh" creationdate="20240229T132504Z">
+        <seg>OmegaT neukládá Vaše informace online (toto není produkt „založený na cloudu“).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101006T133848Z">
@@ -40966,6 +40982,14 @@ have the freedom to distribute copies of free software (and charge for
 them if you wish), that you receive source code or can get it if you
 want it, that you can change the software or use pieces of it in new
 free programs, and that you know you can do these things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our website only uses cookies that are strictly necessary cookies for its operation.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132606Z" creationid="pavreh" creationdate="20240229T132606Z">
+        <seg>Naše webové stránky používají pouze soubory cookie, které jsou nezbytně nutné pro jejich provoz.</seg>
       </tuv>
     </tu>
     <tu>
