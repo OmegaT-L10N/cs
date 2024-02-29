@@ -66131,8 +66131,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>Your project does not seem to contain translatable files.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240220T054607Z" creationid="pavreh" creationdate="20240220T054607Z">
-        <seg>Zdá se, že váš projekt neobsahuje přeložitelné soubory.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T101131Z" creationid="pavreh" creationdate="20240220T054607Z">
+        <seg>Zdá se, že Váš projekt neobsahuje přeložitelné soubory.</seg>
       </tuv>
     </tu>
     <tu>
