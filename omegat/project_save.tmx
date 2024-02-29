@@ -39934,6 +39934,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only if these changes are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T095930Z" creationid="pavreh" creationdate="20240229T095930Z">
+        <seg>Pokud jsou tyto změny shledány za prospěšné, tak teprve pak je vývojářský tým zahrne do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T192112Z">
@@ -57015,6 +57023,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180325T112436Z" creationid="Josef" creationdate="20180325T112436Z">
         <seg>Toto zajišťuje zachování zájmů uživatelů a také ústí v zachování záruky aplikace OmegaT: &lt;a0&gt;Softpedia „100% zdrama“&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100406Z" creationid="pavreh" creationdate="20240229T100406Z">
+        <seg>Toto zajišťuje zachování zájmů uživatelů a také vedlo k tomu, že OmegaT je oceněna &lt;a2&gt;Softpedia záruka „100% zdarma“&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
