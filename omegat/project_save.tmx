@@ -20703,6 +20703,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T133041Z" creationid="pavreh" creationdate="20240229T133041Z">
+        <seg>plugin EPWING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T075350Z">
@@ -52114,6 +52122,14 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T164908Z" creationid="Josef" creationdate="20151007T164908Z">
         <seg>Služba TaaS na adrese https://demo.taas-project.eu/info poskytuje terminologický servis pro evropské jazyky (plus ruštinu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T133032Z" creationid="pavreh" creationdate="20240229T133032Z">
+        <seg>TexTra API je volně poskytováno NICT, japonskou vládní výzkumnou agenturou.</seg>
       </tuv>
     </tu>
     <tu>
