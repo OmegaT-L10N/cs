@@ -16367,6 +16367,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T062830Z" creationid="pavreh" creationdate="20240229T062830Z">
+        <seg>Kompatibilní s jinými aplikacemi pracujícími s překladovou pamětí prostřednictvím výměnných formátů, jako jsou TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180324T110026Z" creationid="Josef" creationdate="20180324T110026Z">
@@ -20965,8 +20973,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Editor pane</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20121004T080226Z">
-        <seg>Podokno Editoru</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T062521Z">
+        <seg>Podokno Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -31016,6 +31024,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101115T190452Z">
         <seg>Vestavěná kontrola pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T062709Z" creationid="pavreh" creationdate="20240229T062709Z">
+        <seg>Vestavěná kontrola pravopisu, která používá slovníky Hunspell (stejně jako v jiných softwarech, jako je LibreOffice nebo Mozilla FireFox)</seg>
       </tuv>
     </tu>
     <tu>
