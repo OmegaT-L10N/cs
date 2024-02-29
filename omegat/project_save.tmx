@@ -38439,8 +38439,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240221T172959Z" creationid="pavreh" creationdate="20240221T172959Z">
-        <seg>OmegaT nemá přístup ke vzdálenému repozitáři: ověřte připojení nebo vaše přihlašovací údaje.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T124659Z" creationid="pavreh" creationdate="20240221T172959Z">
+        <seg>OmegaT nemá přístup ke vzdálenému repozitáři: ověřte připojení nebo své přihlašovací údaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39112,8 +39112,8 @@ be launched.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T164929Z" creationid="Josef" creationdate="20180309T164929Z">
-        <seg>OmegaT požaduje k instalaci na váš systém prostředí Java Runtime Environment (JRE) ve verzi 1.8 a novější.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125139Z" creationid="Josef" creationdate="20180309T164929Z">
+        <seg>OmegaT požaduje k instalaci na Váš systém Java Runtime Environment (JRE) ve verzi 1.8 nebo novější.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47446,8 +47446,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062332Z" creationid="Josef" creationdate="20180310T062332Z">
-        <seg>Nastavit hlavní heslo pro ochranu soukromých dat.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T124823Z" creationid="Josef" creationdate="20180310T062332Z">
+        <seg>Nastavit hlavní heslo pro ochranu Vašich soukromých dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58056,8 +58056,8 @@ protecting users' freedom to change the software.</seg>
 delete your local data and re-download the project contents from
 the server.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240218T074055Z" creationid="pavreh" creationdate="20240218T074055Z">
-        <seg>Toto smaže lokální data a znovu nahraje obsah projektu ze serveru.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T124744Z" creationid="pavreh" creationdate="20240218T074055Z">
+        <seg>Toto smaže Vaše lokální data a znovu nahraje obsah projektu ze serveru.</seg>
       </tuv>
     </tu>
     <tu>
