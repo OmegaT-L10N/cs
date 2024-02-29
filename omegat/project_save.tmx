@@ -29146,6 +29146,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T133323Z" creationid="pavreh" creationdate="20240229T133323Z">
+        <seg>Důležité: uvedené pluginy fungují s OmegaT verze 4 a novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20101116T194756Z">
@@ -43245,6 +43253,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130508T175320Z">
         <seg>Poskytuje filtry pro zpracování dalších souborových formátů, včetně Trados TTX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T133247Z" creationid="pavreh" creationdate="20240229T133247Z">
+        <seg>Poskytuje funkcionalitu pro čtení formátu slovníku EPWING.</seg>
       </tuv>
     </tu>
     <tu>
