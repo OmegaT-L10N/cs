@@ -13594,6 +13594,14 @@ kup si další drink kámo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100541Z" creationid="pavreh" creationdate="20240229T100541Z">
+        <seg>V podstatě to znamená, že máte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basque</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120922T163641Z">
@@ -33515,6 +33523,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100427Z" creationid="pavreh" creationdate="20240229T100427Z">
+        <seg>Licence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License to anyone who comes into possession of a copy.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T175936Z" creationid="Josef" creationdate="20180317T175936Z">
@@ -38801,6 +38817,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T151013Z" creationid="Josef" creationdate="20180318T151013Z">
         <seg>Aplikace OmegaT je schopná pracovat s aktuálními formáty Microsoft Office přímo, a to bez konverze z nebo do jiných formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100519Z" creationid="pavreh" creationdate="20240229T100519Z">
+        <seg>OmegaT je distribuován pod licenční smlouvou GPL v3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73329,6 +73353,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130511T094442Z">
         <seg>instalovaný nástroj pro konverzi souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to change the software to suit your needs,</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100919Z" creationid="pavreh" creationdate="20240229T100919Z">
+        <seg>svobodu měnit tento software, aby vyhovoval Vašim potřebám,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to use the software for any purpose,</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T100559Z" creationid="pavreh" creationdate="20240229T100559Z">
+        <seg>svobodu používat tento software k libovolnému účelu,</seg>
       </tuv>
     </tu>
     <tu>
