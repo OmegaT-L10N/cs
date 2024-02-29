@@ -10476,6 +10476,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131159Z" creationid="pavreh" creationdate="20240229T131159Z">
+        <seg>Přístup ke službám strojového překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131230Z" creationid="pavreh" creationdate="20240229T131230Z">
+        <seg>Přístup k týmovým projektům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20151007T165504Z" creationid="Josef" creationdate="20151007T165504Z">
@@ -29828,6 +29844,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that case, OmegaT shares information with online services:</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131105Z" creationid="pavreh" creationdate="20240229T131105Z">
+        <seg>V takovém případě OmegaT sdílí informace s online službami:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T162505Z" creationid="Josef" creationdate="20180308T162505Z">
@@ -38289,6 +38313,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T184733Z" creationid="Josef" creationdate="20180317T182447Z">
         <seg>Projekt OmegaT spravuje také následující emailové diskuzní skupiny, které jsou hostovány na Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131355Z" creationid="pavreh" creationdate="20240229T131355Z">
+        <seg>OmegaT automaticky kontroluje dostupnost novějších verzí na svém vývojářském serveru bez přenosu jakýchkoli informací o uživateli a uživatel se může snadno odhlásit v nastavení.</seg>
       </tuv>
     </tu>
     <tu>
