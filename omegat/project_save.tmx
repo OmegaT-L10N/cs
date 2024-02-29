@@ -31112,6 +31112,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132929Z" creationid="pavreh" creationdate="20240229T132929Z">
+        <seg>Integruje do OmegaT nástroj neurálního strojového překladu TexTra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T182124Z" creationid="Josef" creationdate="20180317T182124Z">
@@ -42000,6 +42008,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132627Z" creationid="pavreh" creationdate="20240229T132627Z">
+        <seg>Pluginy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin Installer</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240228T141640Z" creationid="pavreh" creationdate="20240228T141640Z">
@@ -43205,6 +43221,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180308T184358Z" creationid="Josef" creationdate="20180308T184358Z">
         <seg>Poskytovatel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132800Z" creationid="pavreh" creationdate="20240229T132800Z">
+        <seg>Poskytuje filtry pro zpracování dalších souborových formátů, včetně Trados TTX a Markdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50888,6 +50912,14 @@ this License.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180309T183756Z" creationid="Josef" creationdate="20180309T183756Z">
         <seg>Testování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T132825Z" creationid="pavreh" creationdate="20240229T132825Z">
+        <seg>Plugin TexTra</seg>
       </tuv>
     </tu>
     <tu>
