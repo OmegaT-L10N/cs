@@ -73354,6 +73354,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T130108Z" creationid="pavreh" creationdate="20240229T130108Z">
+        <seg>svobodu sdílet změny, které jste udělali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the freedom to share the software with your friends and neighbors, and</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240229T125906Z" creationid="pavreh" creationdate="20240229T125906Z">
