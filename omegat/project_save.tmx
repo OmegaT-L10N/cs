@@ -28185,8 +28185,8 @@ where to find the applicable terms.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240222T045948Z" creationid="pavreh" creationdate="20240222T045948Z">
-        <seg>Pokud ve vašem Správci souborů vidíte soubor OmegaT a ne OmegaT.exe (Průzkumník Windows), změňte nastavení tak, aby byly zobrazovány přípony souborů.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125342Z" creationid="pavreh" creationdate="20240222T045948Z">
+        <seg>Pokud ve svém správci souborů (Průzkumník Windows) vidíte soubor OmegaT, ale ne OmegaT.exe, změňte nastavení tak, aby se zobrazovaly přípony souborů.</seg>
       </tuv>
     </tu>
     <tu>
