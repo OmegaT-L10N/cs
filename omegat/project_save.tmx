@@ -12656,8 +12656,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T062335Z" creationid="Josef" creationdate="20191005T062335Z">
-        <seg>Jak bylo popsáno výše, ale jen platí jen pro dokument, který je aktuálně zobrazen v okně Editoru.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T062509Z" creationid="Josef" creationdate="20191005T062335Z">
+        <seg>Stejně jako výše, ale platí jen pro dokument, který je aktuálně zobrazen v podokně Editor.</seg>
       </tuv>
     </tu>
     <tu>
