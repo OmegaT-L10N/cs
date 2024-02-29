@@ -28403,6 +28403,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T131743Z" creationid="pavreh" creationdate="20240229T131743Z">
+        <seg>Pokud byste na základě své analýzy zjistili, že OmegaT komunikuje s online službou, kterou jste nenastavili, byla by to chyba, a požádali bychom vás, abyste to nahlásili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130427T131124Z">
