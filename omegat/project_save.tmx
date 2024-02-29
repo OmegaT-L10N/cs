@@ -3176,12 +3176,12 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240220T055420Z" creationid="pavreh" creationdate="20240220T055420Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T101414Z" creationid="pavreh" creationdate="20240220T055420Z">
         <seg>- přetáhněte soubory do tohoto podokna;
-- použijte Projekt &gt; Přidat soubory...;
-- použijte Projekt &gt; Zdrojové soubory... a klikněte na Přidat soubory...;
-- použijte váš správce souborů a zkopírujte soubory do adresáře 'source',
-a poté použijte Projekt &gt; Znovu načíst, aby se znovu načetl projekt.</seg>
+	- použijte Projekt &gt; Přidat soubory...;
+	- použijte Projekt &gt; Zdrojové soubory... a klikněte na Přidat soubory...;
+	- použijte svůj správce souborů a zkopírujte soubory do adresáře 'source',
+	  a poté použijte Projekt &gt; Znovu načíst, aby se znovu načetl projekt.</seg>
       </tuv>
     </tu>
     <tu>
