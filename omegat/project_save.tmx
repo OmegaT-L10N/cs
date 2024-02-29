@@ -23348,8 +23348,8 @@ Some attributes have invalid values.</seg>
       <tuv lang="en">
         <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T162837Z" creationid="pavreh" creationdate="20240217T162837Z">
-        <seg>Postupujte podle instrukcí svého systému pro instalaci zástupců OmegaT na příhodném místě vaší volby.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125714Z" creationid="pavreh" creationdate="20240217T162837Z">
+        <seg>Postupujte podle instrukcí svého systému pro instalaci zástupců OmegaT na příhodném místě Vaší volby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45199,8 +45199,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T133845Z" creationid="pavreh" creationdate="20240217T133845Z">
-        <seg>Spuštění skriptu bude vyžadovat, abyste zadali vaše heslo &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125700Z" creationid="pavreh" creationdate="20240217T133845Z">
+        <seg>Spuštění skriptu bude vyžadovat, abyste zadali své heslo &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52280,8 +52280,8 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       <tuv lang="en">
         <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T165441Z" creationid="pavreh" creationdate="20240217T165441Z">
-        <seg>Změny mezi vaší verzí a současnou verzí jsou zdokumentovány v souboru &lt;a0&gt;changes.txt&lt;/a0&gt; na vývojářské stránce.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125823Z" creationid="pavreh" creationdate="20240217T165441Z">
+        <seg>Změny mezi Vaší verzí a současnou verzí jsou zdokumentovány v souboru &lt;a0&gt;changes.txt&lt;/a0&gt; na vývojářské stránce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73350,6 +73350,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="cs" changeid="pavreh" changedate="20240229T100919Z" creationid="pavreh" creationdate="20240229T100919Z">
         <seg>svobodu měnit tento software, aby vyhovoval Vašim potřebám,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the software with your friends and neighbors, and</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T125906Z" creationid="pavreh" creationdate="20240229T125906Z">
+        <seg>svobodu sdílet tento software se svými přáteli a sousedy a</seg>
       </tuv>
     </tu>
     <tu>
