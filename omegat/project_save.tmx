@@ -41643,8 +41643,8 @@ materiál podle potřeby do ./tm, ./glossary, a ./dictionary, poté proveďte co
       <tuv lang="en">
         <seg>Please check your project configuration and translations.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240221T121257Z" creationid="pavreh" creationdate="20240221T121257Z">
-        <seg>Prosím zkontrolujte nastavení vašeho projektu a překlady.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T124436Z" creationid="pavreh" creationdate="20240221T121257Z">
+        <seg>Prosím zkontrolujte nastavení svého projektu a překlady.</seg>
       </tuv>
     </tu>
     <tu>
