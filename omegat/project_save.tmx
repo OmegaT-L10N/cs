@@ -9320,6 +9320,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T063028Z" creationid="pavreh" creationdate="20240229T063028Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Nejnovější verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180318T144545Z" creationid="Josef" creationdate="20180318T144545Z">
@@ -31076,6 +31084,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T063004Z" creationid="pavreh" creationdate="20240229T063004Z">
+        <seg>Rozhraní pro strojový překlad / neurální strojový překlad / webové služby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180317T103448Z" creationid="Josef" creationdate="20180317T103448Z">
@@ -39824,8 +39840,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101115T190113Z">
-        <seg>Jednou z nejužitečnějších věcí, které mohou uživatelé OmegaT udělat je ... používat OmegaT.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240229T063055Z">
+        <seg>Jednou z nejužitečnějších věcí, které mohou uživatelé OmegaT udělat je... používat OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
