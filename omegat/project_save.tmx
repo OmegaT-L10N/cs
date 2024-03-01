@@ -38640,8 +38640,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062729Z" creationid="Josef" creationdate="20180310T062729Z">
-        <seg>OmegaT šifruje citlivá hesla a API klíče pomocí hlavního hesla</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T132737Z" creationid="Josef" creationdate="20180310T062729Z">
+        <seg>OmegaT šifruje citlivá hesla a API klíče pomocí hlavního hesla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58151,8 +58151,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T170452Z" creationid="Josef" creationdate="20150928T170452Z">
-        <seg>Tento program představuje svobodný software; můžete ho šířit anebo upravovat za podmínek uvedených v licenci GNU General Public Licence jak ji uveřejnila Free Software Foundation: buď verze 3 této Licence, nebo (dle vaší volby) jakékoliv novější verze.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T132639Z" creationid="Josef" creationdate="20150928T170452Z">
+        <seg>Tento program představuje svobodný software; můžete ho šířit anebo upravovat za podmínek uvedených v licenci GNU General Public Licence jak ji uveřejnila Free Software Foundation, buď verze 3 této Licence, nebo (dle vaší volby) jakékoliv novější verze.</seg>
       </tuv>
     </tu>
     <tu>
