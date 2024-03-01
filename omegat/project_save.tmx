@@ -13137,8 +13137,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T054511Z">
-        <seg>&amp;Autor</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103005Z">
+        <seg>&amp;Autor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23069,8 +23069,8 @@ Some attributes have invalid values.</seg>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T164106Z" creationid="Josef" creationdate="20150928T164106Z">
-        <seg>Soubor: jedinečné přeložené % (jedinečné zbývá) / projekt jedinečné přeložené % (jedinečné zbývá), celkový počet segmentů</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T102918Z" creationid="Josef" creationdate="20150928T164106Z">
+        <seg>Soubor: jedinečné přeložené % (jedinečné zbývá) / projekt: jedinečné přeložené % (jedinečné zbývá), celkový počet segmentů</seg>
       </tuv>
     </tu>
     <tu>
@@ -45974,8 +45974,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20121015T062506Z">
-        <seg>Sk&amp;riptování</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T102813Z">
+        <seg>Sk&amp;riptování...</seg>
       </tuv>
     </tu>
     <tu>
