@@ -190,10 +190,34 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T100800Z" creationid="pavreh" creationdate="20240301T100800Z">
+        <seg>„Tato aplikace vyžaduje, aby ve vašem počítači bylo nainstalované prostředí Java %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T091939Z">
         <seg>"Toto je zdrojový výraz, který obsahuje čárku","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T100525Z" creationid="pavreh" creationdate="20240301T100525Z">
+        <seg>„Nelze načíst Java Runtime Environment.“;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T100549Z" creationid="pavreh" creationdate="20240301T100549Z">
+        <seg>„Nelze načíst Java %d Runtime Environment.“;</seg>
       </tuv>
     </tu>
     <tu>
