@@ -232,8 +232,8 @@ License.</seg>
       <tuv lang="en">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240301T101439Z" creationid="pavreh" creationdate="20240301T101439Z">
-        <seg>„Nelze vypočítat obsah složky Java.“;</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101551Z" creationid="pavreh" creationdate="20240301T101439Z">
+        <seg>„Nelze vypočítat obsah adresáře Java.“;</seg>
       </tuv>
     </tu>
     <tu>
