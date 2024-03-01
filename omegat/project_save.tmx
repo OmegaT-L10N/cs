@@ -1632,8 +1632,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Prefix:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T064656Z">
-        <seg>&amp;Předpona</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103149Z">
+        <seg>&amp;Předpona:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41303,8 +41303,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Paragraph delimiter:</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T230922Z" creationid="pavreh" creationdate="20240217T230922Z">
-        <seg>Oddělovač odstavců</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103404Z" creationid="pavreh" creationdate="20240217T230922Z">
+        <seg>Oddělovač odstavců:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63395,8 +63395,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20160221T162834Z" creationid="Josef" creationdate="20160221T162834Z">
-        <seg>Pokud má jeden soubor více segmentů než zadáno, pak budou další segmenty nahrány až při požadavku jejich zobrazení, tj. rolováním dolů.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103355Z" creationid="Josef" creationdate="20160221T162834Z">
+        <seg>Pokud má jeden soubor více segmentů než je zde zadáno, pak budou další segmenty nahrány na vyžádání při rolování dolů.</seg>
       </tuv>
     </tu>
     <tu>
