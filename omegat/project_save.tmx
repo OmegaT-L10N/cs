@@ -192,8 +192,16 @@ License.</seg>
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240301T100800Z" creationid="pavreh" creationdate="20240301T100800Z">
-        <seg>„Tato aplikace vyžaduje, aby ve vašem počítači bylo nainstalované prostředí Java %d.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101159Z" creationid="pavreh" creationdate="20240301T100800Z">
+        <seg>„Tato aplikace vyžaduje, aby ve vašem počítači bylo nainstalované prostředí Java %d nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101142Z" creationid="pavreh" creationdate="20240301T101142Z">
+        <seg>„Tato aplikace vyžaduje, aby ve vašem počítači bylo nainstalované prostředí Java %d JDK nebo novější.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41884,6 +41892,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="cs" changeid="Josef" changedate="20180310T062444Z" creationid="Josef" creationdate="20180310T062444Z">
         <seg>Prosím zkontrolujte správnost ještě jednou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101239Z" creationid="pavreh" creationdate="20240301T101239Z">
+        <seg>Prosím stáhněte a nainstalujte nejnovější Java JDK z Oracle.com a zkuste to znovu.“;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101054Z" creationid="pavreh" creationdate="20240301T101054Z">
+        <seg>Prosím stáhněte a nainstalujte nejnovější verzi Javy z www.java.com a zkuste to znovu.“;</seg>
       </tuv>
     </tu>
     <tu>
