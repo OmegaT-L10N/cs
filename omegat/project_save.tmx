@@ -32,6 +32,14 @@ License by making exceptions from one or more of its conditions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101544Z" creationid="pavreh" creationdate="20240301T101544Z">
+        <seg>„Nelze spustit z adresáře, který ve svém názvu obsahuje \"/\".“;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.</seg>
       </tuv>
@@ -138,6 +146,14 @@ country that you have reason to believe are valid.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101357Z" creationid="pavreh" creationdate="20240301T101357Z">
+        <seg>„Je vyžadován název hlavní třídy.“;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
       <tuv lang="cs" changeid="josefmlnr" changedate="20130511T045731Z">
@@ -210,6 +226,14 @@ License.</seg>
       </tuv>
       <tuv lang="cs" changeid="josef" changedate="20120929T091939Z">
         <seg>"Toto je zdrojový výraz, který obsahuje čárku","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101439Z" creationid="pavreh" creationdate="20240301T101439Z">
+        <seg>„Nelze vypočítat obsah složky Java.“;</seg>
       </tuv>
     </tu>
     <tu>
