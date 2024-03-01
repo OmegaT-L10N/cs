@@ -14250,8 +14250,8 @@ been installed in ROM).</seg>
       <tuv lang="en">
         <seg>By Asier Sarasua Garmendia (in Basque).</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101127T202814Z">
-        <seg>Autor: Asier Sarasua Garmendia (baskicky)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133719Z">
+        <seg>Autor: Asier Sarasua Garmendia (baskicky).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19085,8 +19085,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T061712Z">
-        <seg>Popis OmegaT (2008)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133712Z">
+        <seg>Popis OmegaT (2008).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24829,8 +24829,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20191005T063320Z">
-        <seg>Párovací (alignovací) nástroj třetí strany pro vytváření souborů překladových pamětí ze starších textů a jejich překladů</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133610Z">
+        <seg>Párovací (alignovací) nástroj třetí strany pro vytváření souborů překladových pamětí ze starších textů a jejich překladů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31179,8 +31179,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josefmlnr" changedate="20130508T175345Z">
-        <seg>Integruje funkci strojového překladu Apertium do OmegaT</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133453Z">
+        <seg>Integruje funkci strojového překladu Apertium do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33780,8 +33780,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T060837Z">
-        <seg>Verze Toxic spustitelná pod Linuxem</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133512Z">
+        <seg>Verze Toxic spustitelná pod Linuxem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38095,8 +38095,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T061209Z">
-        <seg>ONline DIctionary LOokup TOol (Nástroj pro procházení slovníků online)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133546Z">
+        <seg>ONline DIctionary LOokup TOol (Nástroj pro procházení slovníků online).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40061,8 +40061,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josefmlnr" changedate="20130501T142633Z">
-        <seg>Online úložiště slovníků kontroly pravopisu, které lze využít v programu OmegaT</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133602Z">
+        <seg>Online úložiště slovníků kontroly pravopisu, které lze využít v programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44880,8 +44880,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T061233Z">
-        <seg>Vyžaduje Linux, w3m a tcl/tk (oba jsou obecně podporovány pod Linuxem)</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133554Z">
+        <seg>Vyžaduje Linux, w3m a tcl/tk (oba jsou obecně podporovány pod Linuxem).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64123,8 +64123,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Windows executable version of Toxic.</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20101116T060823Z">
-        <seg>Verze Toxic spustitelná pod Windows</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T133504Z">
+        <seg>Verze Toxic spustitelná pod Windows.</seg>
       </tuv>
     </tu>
     <tu>
