@@ -10647,8 +10647,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240217T192845Z" creationid="pavreh" creationdate="20240217T192845Z">
-        <seg>Přidat soubory do zdrojového adresáře</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T102727Z" creationid="pavreh" creationdate="20240217T192845Z">
+        <seg>Přidat soubory do zdrojového adresáře...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17547,8 +17547,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T163043Z" creationid="Josef" creationdate="20150928T163043Z">
-        <seg>Vytvořit nový záznam &amp;Glosáře</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T102749Z" creationid="Josef" creationdate="20150928T163043Z">
+        <seg>Vytvořit nový záznam &amp;Glosáře...</seg>
       </tuv>
     </tu>
     <tu>
