@@ -52233,8 +52233,8 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240301T103646Z" creationid="Josef" creationdate="20180310T063559Z">
-        <seg>URL musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T132431Z" creationid="Josef" creationdate="20180310T063559Z">
+        <seg>URL musí obsahovat  „{target}“, který bude nahrazen hledaným textem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52625,8 +52625,8 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240301T103722Z" creationid="Josef" creationdate="20180310T063609Z">
-        <seg>Příkaz musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T132412Z" creationid="Josef" creationdate="20180310T063609Z">
+        <seg>Příkaz musí obsahovat  „{target}“, který bude nahrazen hledaným textem.</seg>
       </tuv>
     </tu>
     <tu>
