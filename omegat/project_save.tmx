@@ -29734,8 +29734,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180318T145750Z" creationid="Josef" creationdate="20180318T145750Z">
-        <seg>Ke spuštění vyžaduje OmegaT ve vašem systému nainstalované prostředí Java Runtime Environment (JRE).</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T101014Z" creationid="Josef" creationdate="20180318T145750Z">
+        <seg>Aby se mohl OmegaT spustit, vyžaduje se ve vašem počítači nainstalované prostředí Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
