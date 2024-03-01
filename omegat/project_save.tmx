@@ -1600,8 +1600,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20120922T075033Z">
-        <seg>&amp;Otevřít skript</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103538Z">
+        <seg>&amp;Otevřít skript...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,8 +1792,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180309T184216Z" creationid="Josef" creationdate="20180309T184216Z">
-        <seg>&amp;Nahradit</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103547Z" creationid="Josef" creationdate="20180309T184216Z">
+        <seg>&amp;Nahradit...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26978,16 +26978,16 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T173039Z" creationid="Josef" creationdate="20150928T173009Z">
-        <seg>Pokud je tato volba vybrána, záznamy jsou řazeny abecedně</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103619Z" creationid="Josef" creationdate="20150928T173009Z">
+        <seg>Pokud je tato volba vybrána, záznamy jsou řazeny abecedně.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20150928T172947Z" creationid="Josef" creationdate="20150928T172918Z">
-        <seg>Pokud je volba vybrána, delší pojmy se v seznamu zobrazí na začátku</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103607Z" creationid="Josef" creationdate="20150928T172918Z">
+        <seg>Pokud je volba vybrána, delší pojmy se v seznamu zobrazí na začátku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47207,8 +47207,8 @@ Rozsah hledání se zaměřuje ve výchozím nastavení na projekt a lze nastavi
       <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062251Z" creationid="Josef" creationdate="20180310T062251Z">
-        <seg>Vybrat jaký typ problému se má kontrolovat</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103626Z" creationid="Josef" creationdate="20180310T062251Z">
+        <seg>Vybrat jaký typ problému se má kontrolovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50507,8 +50507,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tag:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20151130T172810Z" creationid="Josef" creationdate="20151130T172810Z">
-        <seg>Tag.</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103557Z" creationid="Josef" creationdate="20151130T172810Z">
+        <seg>Tag:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50915,8 +50915,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
-      <tuv lang="cs" changeid="josef" changedate="20121004T194618Z">
-        <seg>Proměnné šablony</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103420Z">
+        <seg>Proměnné šablony:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52233,8 +52233,8 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T063559Z" creationid="Josef" creationdate="20180310T063559Z">
-        <seg>URL musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103646Z" creationid="Josef" creationdate="20180310T063559Z">
+        <seg>URL musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52625,8 +52625,8 @@ Prosím pokuste se opravit chybu a znovu načtěte projekt.</seg>
       <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T063609Z" creationid="Josef" creationdate="20180310T063609Z">
-        <seg>Příkaz musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103722Z" creationid="Josef" creationdate="20180310T063609Z">
+        <seg>Příkaz musí obsahovat  "{target}" / "{cíl}", který bude nahrazen hledaným textem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60832,8 +60832,8 @@ Přesné vyhledávání odpovídá celému vyhledávanému řetězci.</seg>
       <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180317T101903Z" creationid="Josef" creationdate="20180317T101903Z">
-        <seg>Odkazy URL</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103525Z" creationid="Josef" creationdate="20180317T101903Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66263,8 +66263,8 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       <tuv lang="en">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="cs" changeid="Josef" changedate="20180310T062346Z" creationid="Josef" creationdate="20180310T062346Z">
-        <seg>Budete vyzváni k vložení tohoto hesla při každém spuštění OmegaT</seg>
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T103634Z" creationid="Josef" creationdate="20180310T062346Z">
+        <seg>Budete vyzváni k vložení tohoto hesla při každém spuštění OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
