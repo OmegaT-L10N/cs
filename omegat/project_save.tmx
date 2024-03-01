@@ -3272,11 +3272,12 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="cs" changeid="pavreh" changedate="20240220T060034Z" creationid="pavreh" creationdate="20240220T055716Z">
+      <tuv lang="cs" changeid="pavreh" changedate="20240301T102622Z" creationid="pavreh" creationdate="20240220T055716Z">
         <seg>- ověřte, že je jejich formát podporován aplikací OmegaT:
-jestliže jsou povolena nastavení místního filtru, použijte Projekt &gt; Vlastnosti... &gt; Místní filtry souborů...;
-jinak použijte Možnosti &gt; Obecné filtry souborů...;
-- otevřete je v jejich původní aplikaci a ověřte, že nejsou prázdné.</seg>
+	  jestliže jsou povolena nastavení místního filtru,
+	  použijte Projekt &gt; Vlastnosti... &gt; Místní filtry souborů...,
+	  jinak použijte Možnosti &gt; Obecné filtry souborů...;
+	- otevřete je v jejich původní aplikaci a ověřte, že nejsou prázdné.</seg>
       </tuv>
     </tu>
     <tu>
